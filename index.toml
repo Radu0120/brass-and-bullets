@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/DistantHorizons.toml"
-hash = "c9786580272a5e8f9593efcdd50a99467993d331cb388ba67f4a496a40039ee0"
+hash = "d8f7ddb9429427a81e26479e2339993159744d661be16cc44ebd3ade19d317f9"
 
 [[files]]
 file = "config/ftbquests/quests/chapter_groups.snbt"
