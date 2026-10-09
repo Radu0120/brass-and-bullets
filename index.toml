@@ -5,6 +5,10 @@ file = "config/DistantHorizons.toml"
 hash = "d8f7ddb9429427a81e26479e2339993159744d661be16cc44ebd3ade19d317f9"
 
 [[files]]
+file = "config/ftblibrary-client.snbt"
+hash = "d8a42f113ff636d56ee24b7247c087f704580a46a4566399ded0049fa83d794f"
+
+[[files]]
 file = "config/ftbquests/quests/chapter_groups.snbt"
 hash = "e57d8311aec9f524911ed1313cabf138bb7fa5a2d3ba985a00a2a267ff35ef78"
 
