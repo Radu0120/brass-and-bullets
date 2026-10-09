@@ -4,6 +4,14 @@
     "doggytalents:rice_grains",
     "doggytalents:uncooked_rice",
     "doggytalents:uncooked_rice_bowl",
-    "doggytalents:rice_mill"
+    "doggytalents:rice_mill",
+    "createdeco:andesite_bars",
+    "createdeco:andesite_door",
+    "createdeco:brass_bars",
+    "createdeco:brass_door",
+    "createdeco:copper_bars",
+    "createdeco:industrial_iron_window",
+    "createdeco:industrial_iron_window_pane",
+    "createdeco:zinc_sheet"
   ]
 }

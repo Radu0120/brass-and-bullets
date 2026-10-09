@@ -10,7 +10,51 @@ hash = "b07a7d659026de564aca82cf021ca8bd6c11ef463ae48f87f3ab9b4007c7aadf"
 
 [[files]]
 file = "config/openloader/packs/bb-dtn-farmers-delight/data/c/tags/item/hidden_from_recipe_viewers.json"
-hash = "327ac3de8bf8cfb222cbcfd382420c44eb47bc1edc8b55ba2a36ddfc3976ff12"
+hash = "f797b4310a0108bccc48231553ce54c8d734b8f874117b20537550cb532de70d"
+
+[[files]]
+file = "config/openloader/packs/bb-dtn-farmers-delight/data/createdeco/recipe/andesite_catwalk_stairs.json"
+hash = "fdc2f34b743fde6c087c3f011b60929088a88061ab7a053c4d50d88f5f30cc58"
+
+[[files]]
+file = "config/openloader/packs/bb-dtn-farmers-delight/data/createdeco/recipe/andesite_door.json"
+hash = "a738bbd6cddb3a33ddeea502a803f3bb512c17d06e7a90ccd284aa9a80788091"
+
+[[files]]
+file = "config/openloader/packs/bb-dtn-farmers-delight/data/createdeco/recipe/brass_catwalk_stairs.json"
+hash = "fa10e432a5ceda3a9225207d352983eddb970f2dcec79b627edfae3b18580e15"
+
+[[files]]
+file = "config/openloader/packs/bb-dtn-farmers-delight/data/createdeco/recipe/brass_door.json"
+hash = "a738bbd6cddb3a33ddeea502a803f3bb512c17d06e7a90ccd284aa9a80788091"
+
+[[files]]
+file = "config/openloader/packs/bb-dtn-farmers-delight/data/createdeco/recipe/copper_catwalk_stairs.json"
+hash = "e04a67f089c15941fd863424d4c1f22c56745ed1222ddc801683dfcadc095788"
+
+[[files]]
+file = "config/openloader/packs/bb-dtn-farmers-delight/data/createdeco/recipe/industrial_iron_window.json"
+hash = "a738bbd6cddb3a33ddeea502a803f3bb512c17d06e7a90ccd284aa9a80788091"
+
+[[files]]
+file = "config/openloader/packs/bb-dtn-farmers-delight/data/createdeco/recipe/industrial_iron_window_pane.json"
+hash = "a738bbd6cddb3a33ddeea502a803f3bb512c17d06e7a90ccd284aa9a80788091"
+
+[[files]]
+file = "config/openloader/packs/bb-dtn-farmers-delight/data/createdeco/recipe/locked_andesite_door.json"
+hash = "c209d5fafb5475fa906081359fa67d20418d3c225917ccbc3b4bcbf7316afbbd"
+
+[[files]]
+file = "config/openloader/packs/bb-dtn-farmers-delight/data/createdeco/recipe/locked_brass_door.json"
+hash = "4588a8b56f51171c84f04277e6b5378e36b514153f03b351dce53d1176e2dd94"
+
+[[files]]
+file = "config/openloader/packs/bb-dtn-farmers-delight/data/createdeco/recipe/pressing/zinc_sheet.json"
+hash = "a738bbd6cddb3a33ddeea502a803f3bb512c17d06e7a90ccd284aa9a80788091"
+
+[[files]]
+file = "config/openloader/packs/bb-dtn-farmers-delight/data/createdeco/recipe/zinc_sheet_metal.json"
+hash = "a738bbd6cddb3a33ddeea502a803f3bb512c17d06e7a90ccd284aa9a80788091"
 
 [[files]]
 file = "config/openloader/packs/bb-dtn-farmers-delight/data/doggytalents/loot_modifiers/rice_from_grass_modifier.json"
@@ -49,8 +93,68 @@ file = "config/openloader/packs/bb-dtn-farmers-delight/data/doggytalents/recipe/
 hash = "a738bbd6cddb3a33ddeea502a803f3bb512c17d06e7a90ccd284aa9a80788091"
 
 [[files]]
+file = "config/openloader/packs/bb-dtn-farmers-delight/data/minecraft/recipe/andesite_bars.json"
+hash = "a738bbd6cddb3a33ddeea502a803f3bb512c17d06e7a90ccd284aa9a80788091"
+
+[[files]]
+file = "config/openloader/packs/bb-dtn-farmers-delight/data/minecraft/recipe/andesite_bars_from_stonecutting.json"
+hash = "a738bbd6cddb3a33ddeea502a803f3bb512c17d06e7a90ccd284aa9a80788091"
+
+[[files]]
+file = "config/openloader/packs/bb-dtn-farmers-delight/data/minecraft/recipe/andesite_catwalk_forge.json"
+hash = "9e3209286d7e3302b30a4477bfccf41bbd7c7a13c3282d7e7951728e2a6a5baf"
+
+[[files]]
+file = "config/openloader/packs/bb-dtn-farmers-delight/data/minecraft/recipe/andesite_catwalk_railing_forge.json"
+hash = "f9e732c88ac52a3689793996955878e3b00f0fe69ebc9e81eb0a45571e2c23c3"
+
+[[files]]
+file = "config/openloader/packs/bb-dtn-farmers-delight/data/minecraft/recipe/brass_bars.json"
+hash = "a738bbd6cddb3a33ddeea502a803f3bb512c17d06e7a90ccd284aa9a80788091"
+
+[[files]]
+file = "config/openloader/packs/bb-dtn-farmers-delight/data/minecraft/recipe/brass_bars_from_stonecutting.json"
+hash = "a738bbd6cddb3a33ddeea502a803f3bb512c17d06e7a90ccd284aa9a80788091"
+
+[[files]]
+file = "config/openloader/packs/bb-dtn-farmers-delight/data/minecraft/recipe/brass_catwalk_forge.json"
+hash = "d59f30e6eb5f93103357732e1731a42587e95308de8d5773bfa436b47a23410d"
+
+[[files]]
+file = "config/openloader/packs/bb-dtn-farmers-delight/data/minecraft/recipe/brass_catwalk_railing_forge.json"
+hash = "1c66f8420197e2bba7bc3e9a2d8febbd3664ddd738344c8ea15642c26dab67c0"
+
+[[files]]
+file = "config/openloader/packs/bb-dtn-farmers-delight/data/minecraft/recipe/copper_bars_from_stonecutting.json"
+hash = "a738bbd6cddb3a33ddeea502a803f3bb512c17d06e7a90ccd284aa9a80788091"
+
+[[files]]
+file = "config/openloader/packs/bb-dtn-farmers-delight/data/minecraft/recipe/copper_catwalk_forge.json"
+hash = "58f7aeca193e431470931b7888bc0d602fef00424ddde4bb556c0640bdda95ff"
+
+[[files]]
+file = "config/openloader/packs/bb-dtn-farmers-delight/data/minecraft/recipe/copper_catwalk_railing_forge.json"
+hash = "1e4333fcd04de55c7b10db506cca0d77d54843f04083b155177d23b25e8c2510"
+
+[[files]]
 file = "config/openloader/packs/bb-dtn-farmers-delight/pack.mcmeta"
 hash = "f41ecca64d561264d1124bb09cae20f0bbb24cc23e3ed0e96990ffa8888d6124"
+
+[[files]]
+file = "config/openloader/packs/bb-renames/assets/create/lang/en_us.json"
+hash = "c9f56ace031dddf8bf9b674bad64a073b642395395a81317c17e4a754842de2c"
+
+[[files]]
+file = "config/openloader/packs/bb-renames/assets/createaddition/lang/en_us.json"
+hash = "f4b6391afd50ee34f060ec83dad693ae86fa04efbe1a3f71711babb35153edcc"
+
+[[files]]
+file = "config/openloader/packs/bb-renames/assets/doggytalents/lang/en_us.json"
+hash = "2d73dfed528dc3d46197929205ce88c051cf604d64cfcfc4cea9ae561890eccb"
+
+[[files]]
+file = "config/openloader/packs/bb-renames/pack.mcmeta"
+hash = "f86dd63da1c5cb0c8fa681bbcb5bf0fa22e1cbba9c84ed9f6d1dce8d18e6fb52"
 
 [[files]]
 file = "config/xaerohud.txt"
@@ -69,11 +173,6 @@ metafile = true
 [[files]]
 file = "mods/codxlib.pw.toml"
 hash = "10c5766cfee693bb3843ecd60334400b239b961c24fd4b9db60aceca272e3e17"
-metafile = true
-
-[[files]]
-file = "mods/copycats.pw.toml"
-hash = "a21d5d0e2e3c1b5662ca1dc907cf496bb9f2a94b368a3f291967e8ba29043eaa"
 metafile = true
 
 [[files]]
