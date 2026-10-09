@@ -1,6 +1,18 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/DistantHorizons.toml"
+hash = "7b594d203a23f01f054ef797af6a0afdc217a37b6a3afdf6c1dad207ece08a23"
+
+[[files]]
+file = "config/inventoryprofilesnext/inventoryprofiles.json"
+hash = "b07a7d659026de564aca82cf021ca8bd6c11ef463ae48f87f3ab9b4007c7aadf"
+
+[[files]]
+file = "config/xaerohud.txt"
+hash = "8d13c5f398016036aa4fdefb366ef3926d89f96ca104155bc9f6e5a7ec682ecd"
+
+[[files]]
 file = "mods/alexs-mobs-continued.pw.toml"
 hash = "6a83b750a2a0dd77c418019b2fd61e1abcc07cf3b28c3c919569b9e5c89a8eb7"
 metafile = true
@@ -78,6 +90,11 @@ metafile = true
 [[files]]
 file = "mods/distant-horizons.pw.toml"
 hash = "1ddca65a04a9abb38d1bf1424b7cc6d3234abb255373bad932662e9a39f890ed"
+metafile = true
+
+[[files]]
+file = "mods/distraction-free-recipes.pw.toml"
+hash = "559997348e6cf4020ca79d65cd05716b2d58ae6d138fae6b5681f358a90cb88d"
 metafile = true
 
 [[files]]
@@ -281,6 +298,11 @@ hash = "f083c3cdf6aadc3b033e20ba8ccc929d5e1b86a0be50b05dc638d7f76dab5024"
 metafile = true
 
 [[files]]
+file = "mods/txnilib.pw.toml"
+hash = "1394df1d39e588ffa86fce081fdb97f5ef9d4539cec2ef7ca1f1c75d30796aa0"
+metafile = true
+
+[[files]]
 file = "mods/what-are-they-up-to.pw.toml"
 hash = "61387d427f7c5bfd71df275f731384b70ae12f6b1e520ee9e232ae8c175d42bd"
 metafile = true
@@ -314,6 +336,10 @@ metafile = true
 file = "mods/yungs-better-mineshafts-neoforge.pw.toml"
 hash = "1c259e63d4a4a1f2b05eb7e68c8007f92274d2a012e951efdd8958c08985d315"
 metafile = true
+
+[[files]]
+file = "options.txt"
+hash = "4e3ea7e243370b01f11817496cae2b0faa037f2502dec6e1d0afcc3caa17e712"
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"

@@ -1,0 +1,3 @@
+guiScale:3
+narrator:0
+onboardAccessibility:false
