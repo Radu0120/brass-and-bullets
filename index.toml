@@ -9,6 +9,10 @@ file = "config/inventoryprofilesnext/inventoryprofiles.json"
 hash = "b07a7d659026de564aca82cf021ca8bd6c11ef463ae48f87f3ab9b4007c7aadf"
 
 [[files]]
+file = "config/openloader/packs/bb-dtn-farmers-delight/data/c/tags/item/hidden_from_recipe_viewers.json"
+hash = "327ac3de8bf8cfb222cbcfd382420c44eb47bc1edc8b55ba2a36ddfc3976ff12"
+
+[[files]]
 file = "config/openloader/packs/bb-dtn-farmers-delight/data/doggytalents/loot_modifiers/rice_from_grass_modifier.json"
 hash = "cf4d9d44839a42c4faa5c1e707775b8451fdeaf6bfd6c81a0c0c19c72005c12b"
 
