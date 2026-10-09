@@ -9,6 +9,46 @@ file = "config/inventoryprofilesnext/inventoryprofiles.json"
 hash = "b07a7d659026de564aca82cf021ca8bd6c11ef463ae48f87f3ab9b4007c7aadf"
 
 [[files]]
+file = "config/openloader/packs/bb-dtn-farmers-delight/data/doggytalents/loot_modifiers/rice_from_grass_modifier.json"
+hash = "cf4d9d44839a42c4faa5c1e707775b8451fdeaf6bfd6c81a0c0c19c72005c12b"
+
+[[files]]
+file = "config/openloader/packs/bb-dtn-farmers-delight/data/doggytalents/recipe/koji.json"
+hash = "e0e3dab34a9ad961cb599ae12b11876017c96815c5691ab77542166bf24630fc"
+
+[[files]]
+file = "config/openloader/packs/bb-dtn-farmers-delight/data/doggytalents/recipe/rice_bowl.json"
+hash = "ae42386bda71dde7dddc6e9fda24fb693f3b98caa685e4b376b74df9032d30d5"
+
+[[files]]
+file = "config/openloader/packs/bb-dtn-farmers-delight/data/doggytalents/recipe/rice_bowl_camping.json"
+hash = "a738bbd6cddb3a33ddeea502a803f3bb512c17d06e7a90ccd284aa9a80788091"
+
+[[files]]
+file = "config/openloader/packs/bb-dtn-farmers-delight/data/doggytalents/recipe/rice_bowl_smelting.json"
+hash = "a738bbd6cddb3a33ddeea502a803f3bb512c17d06e7a90ccd284aa9a80788091"
+
+[[files]]
+file = "config/openloader/packs/bb-dtn-farmers-delight/data/doggytalents/recipe/rice_bowl_smoking.json"
+hash = "a738bbd6cddb3a33ddeea502a803f3bb512c17d06e7a90ccd284aa9a80788091"
+
+[[files]]
+file = "config/openloader/packs/bb-dtn-farmers-delight/data/doggytalents/recipe/rice_grains.json"
+hash = "a738bbd6cddb3a33ddeea502a803f3bb512c17d06e7a90ccd284aa9a80788091"
+
+[[files]]
+file = "config/openloader/packs/bb-dtn-farmers-delight/data/doggytalents/recipe/rice_mill.json"
+hash = "a738bbd6cddb3a33ddeea502a803f3bb512c17d06e7a90ccd284aa9a80788091"
+
+[[files]]
+file = "config/openloader/packs/bb-dtn-farmers-delight/data/doggytalents/recipe/uncooked_rice_bowl.json"
+hash = "a738bbd6cddb3a33ddeea502a803f3bb512c17d06e7a90ccd284aa9a80788091"
+
+[[files]]
+file = "config/openloader/packs/bb-dtn-farmers-delight/pack.mcmeta"
+hash = "f41ecca64d561264d1124bb09cae20f0bbb24cc23e3ed0e96990ffa8888d6124"
+
+[[files]]
 file = "config/xaerohud.txt"
 hash = "8d13c5f398016036aa4fdefb366ef3926d89f96ca104155bc9f6e5a7ec682ecd"
 
@@ -230,6 +270,16 @@ metafile = true
 [[files]]
 file = "mods/mowzies-mobs.pw.toml"
 hash = "ef5e19ba6a664e7d2b3d54723e3d3f05c0d9e987d807ecb899c1c2ba1a509519"
+metafile = true
+
+[[files]]
+file = "mods/open-loader.pw.toml"
+hash = "a1d44e226b57ca9d8dc4129d1e9c4a3def96bf677c432f9b6d897085030e434f"
+metafile = true
+
+[[files]]
+file = "mods/prickle.pw.toml"
+hash = "eab2f56ff9135b3b7253ea5a73deae2f887e2876f5f0432936044a6e926937b4"
 metafile = true
 
 [[files]]

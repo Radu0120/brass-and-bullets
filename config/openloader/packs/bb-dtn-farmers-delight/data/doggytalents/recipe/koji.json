@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    { "item": "doggytalents:koji" },
+    { "tag": "c:crops/rice" },
+    { "item": "minecraft:sugar" }
+  ],
+  "result": { "count": 3, "id": "doggytalents:koji" }
+}

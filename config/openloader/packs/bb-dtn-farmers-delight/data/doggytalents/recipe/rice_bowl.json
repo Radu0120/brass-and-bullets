@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    { "item": "farmersdelight:cooked_rice" }
+  ],
+  "result": { "count": 1, "id": "doggytalents:rice_bowl" }
+}
