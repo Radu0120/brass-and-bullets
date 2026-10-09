@@ -6,7 +6,7 @@
 	icon: {
 		id: "alexsmobs:animal_dictionary"
 	}
-	id: "1F98A8D6820EA15E"
+	id: "74FA5050149F8DF5"
 	images: [ ]
 	order_index: 8
 	quest_links: [ ]
@@ -15,77 +15,57 @@
 			icon: {
 				id: "alexsmobs:animal_dictionary"
 			}
-			id: "0406215E1D11FD49"
+			id: "6F3D1876C9221407"
 			rewards: [{
 				id: "56331872C08123DE"
 				type: "xp_levels"
 				xp_levels: 2
 			}]
 			tasks: [{
-				id: "6DCF156CA478AD85"
+				id: "578BD9ECDF94053B"
 				item: { count: 1, id: "alexsmobs:animal_dictionary" }
 				type: "item"
 			}]
 			x: 0.0d
-			y: 0.0d
+			y: 25.125d
 		}
 		{
+			icon: {
+				id: "minecraft:jungle_sapling"
+			}
+			id: "3DC6D02DFCB5EF09"
+			rewards: [{
+				id: "2A2C26C40A73725A"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			tasks: [{
+				biome: "minecraft:jungle"
+				id: "4FF88CAB6BB0C64F"
+				type: "biome"
+			}]
+			x: 1.5d
+			y: 4.125d
+		}
+		{
+			dependencies: ["3DC6D02DFCB5EF09"]
 			icon: {
 				id: "alexsmobs:banana"
 			}
 			id: "293B0FD7A9EBEB5B"
 			rewards: [{
-				id: "2C93ED7C91B79C74"
+				id: "099A6988F0CEA3DD"
 				type: "xp_levels"
-				xp_levels: 1
+				xp_levels: 2
 			}]
 			tasks: [{
 				advancement: "alexsmobs:alexsmobs/banana"
 				criterion: ""
-				id: "1977DB5D2609AA48"
-				type: "advancement"
-			}]
-			x: 1.5d
-			y: -1.5d
-		}
-		{
-			icon: {
-				id: "alexsmobs:falconry_glove"
-			}
-			id: "25E7DC9CCD0C52A2"
-			rewards: [{
-				id: "395B3BA21A9523D9"
-				type: "xp_levels"
-				xp_levels: 2
-			}]
-			tasks: [{
-				advancement: "alexsmobs:alexsmobs/falconry_glove"
-				criterion: ""
-				id: "75C19F1F8482B1DB"
-				type: "advancement"
-			}]
-			x: 1.5d
-			y: 0.0d
-		}
-		{
-			dependencies: ["25E7DC9CCD0C52A2"]
-			icon: {
-				id: "alexsmobs:falconry_hood"
-			}
-			id: "3C668A53C87CDC91"
-			rewards: [{
-				id: "23222CE9700FEEAA"
-				type: "xp_levels"
-				xp_levels: 2
-			}]
-			tasks: [{
-				advancement: "alexsmobs:alexsmobs/tame_bald_eagle"
-				criterion: ""
-				id: "410A92F82C736038"
+				id: "74EA89DE3A8F31E5"
 				type: "advancement"
 			}]
 			x: 3.0d
-			y: 0.0d
+			y: 0.75d
 		}
 		{
 			dependencies: ["293B0FD7A9EBEB5B"]
@@ -96,7 +76,7 @@
 			rewards: [{
 				id: "6B0A09EE4E226312"
 				type: "xp_levels"
-				xp_levels: 2
+				xp_levels: 6
 			}]
 			tasks: [{
 				advancement: "alexsmobs:alexsmobs/tame_capuchin"
@@ -104,8 +84,8 @@
 				id: "3737F556F36BA752"
 				type: "advancement"
 			}]
-			x: 3.0d
-			y: -1.5d
+			x: 4.5d
+			y: 0.0d
 		}
 		{
 			dependencies: ["21A8555A58792546"]
@@ -114,29 +94,29 @@
 			}
 			id: "00999BD87090AE90"
 			rewards: [{
-				id: "5BE73DBE61DCDD1A"
+				id: "698909C90F33FD92"
 				type: "xp_levels"
-				xp_levels: 2
+				xp_levels: 6
 			}]
 			tasks: [{
 				advancement: "alexsmobs:alexsmobs/sopa_de_macaco"
 				criterion: ""
-				id: "2EFCF3BABF411A9E"
+				id: "26E40CF152FEDA79"
 				type: "advancement"
 			}]
-			x: 4.5d
-			y: -1.5d
+			x: 6.0d
+			y: 0.0d
 		}
 		{
 			dependencies: ["293B0FD7A9EBEB5B"]
 			icon: {
 				id: "alexsmobs:banana"
 			}
-			id: "4818B24D56A680C5"
+			id: "36324059C11E57BA"
 			rewards: [{
-				id: "77781F2D894DE367"
+				id: "005CFEB2F1F465BB"
 				type: "xp_levels"
-				xp_levels: 3
+				xp_levels: 9
 			}]
 			tasks: [{
 				advancement: "alexsmobs:alexsmobs/tame_gorilla"
@@ -145,17 +125,136 @@
 				type: "advancement"
 			}]
 			x: 4.5d
-			y: 0.0d
+			y: 1.5d
 		}
 		{
+			dependencies: ["3DC6D02DFCB5EF09"]
+			icon: {
+				id: "minecraft:cooked_chicken"
+			}
+			id: "2177A6E7DDF12F52"
+			rewards: [{
+				id: "3E032DB7F5F6D58D"
+				type: "xp_levels"
+				xp_levels: 9
+			}]
+			tasks: [{
+				advancement: "alexsmobs:alexsmobs/tigers_blessing"
+				criterion: ""
+				id: "5C3B56FFD71FC39A"
+				type: "advancement"
+			}]
+			x: 3.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["3DC6D02DFCB5EF09"]
+			icon: {
+				id: "alexsmobs:leafcutter_anthill"
+			}
+			id: "0EFC91CC7E80DDC0"
+			rewards: [{
+				id: "77F52B607C8CAAF6"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				advancement: "alexsmobs:alexsmobs/stomp_leafcutter_anthill"
+				criterion: ""
+				id: "17ECC448ACBA19BE"
+				type: "advancement"
+			}]
+			x: 3.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["3DC6D02DFCB5EF09"]
+			icon: {
+				id: "alexsmobs:hummingbird_feeder"
+			}
+			id: "486AE7793BC9EA04"
+			rewards: [{
+				id: "3CF07CF3564F77B0"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			tasks: [{
+				advancement: "alexsmobs:alexsmobs/hummingbird_feeder"
+				criterion: ""
+				id: "02AE99E24CE54914"
+				type: "advancement"
+			}]
+			x: 3.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["3DC6D02DFCB5EF09"]
+			icon: {
+				id: "alexsmobs:falconry_glove"
+			}
+			id: "25E7DC9CCD0C52A2"
+			rewards: [{
+				id: "7C020500BF9777A3"
+				type: "xp_levels"
+				xp_levels: 4
+			}]
+			tasks: [{
+				advancement: "alexsmobs:alexsmobs/falconry_glove"
+				criterion: ""
+				id: "54A071FCCD6B08D2"
+				type: "advancement"
+			}]
+			x: 3.0d
+			y: 7.5d
+		}
+		{
+			dependencies: ["25E7DC9CCD0C52A2"]
+			icon: {
+				id: "alexsmobs:falconry_hood"
+			}
+			id: "29DF43A94B1298D9"
+			rewards: [{
+				id: "23222CE9700FEEAA"
+				type: "xp_levels"
+				xp_levels: 8
+			}]
+			tasks: [{
+				advancement: "alexsmobs:alexsmobs/tame_bald_eagle"
+				criterion: ""
+				id: "397D07C07811CBD7"
+				type: "advancement"
+			}]
+			x: 4.5d
+			y: 7.5d
+		}
+		{
+			icon: {
+				id: "minecraft:acacia_sapling"
+			}
+			id: "19F420DA37861ED5"
+			rewards: [{
+				id: "1A54CD7CEDFFB8B5"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			tasks: [{
+				biome: "minecraft:savanna"
+				id: "7E7F3672256F398F"
+				type: "biome"
+			}]
+			x: 1.5d
+			y: 11.25d
+		}
+		{
+			dependencies: ["19F420DA37861ED5"]
 			icon: {
 				id: "alexsmobs:acacia_blossom"
 			}
 			id: "3179E6E9A5A4F7B2"
 			rewards: [{
-				id: "55EFDBB9BEA221E1"
+				id: "2113F32E4E850E09"
 				type: "xp_levels"
-				xp_levels: 3
+				xp_levels: 10
 			}]
 			tasks: [{
 				advancement: "alexsmobs:alexsmobs/tame_elephant"
@@ -163,8 +262,8 @@
 				id: "3B8764791A83E1A0"
 				type: "advancement"
 			}]
-			x: 1.5d
-			y: 1.5d
+			x: 3.0d
+			y: 9.0d
 		}
 		{
 			dependencies: ["3179E6E9A5A4F7B2"]
@@ -175,83 +274,67 @@
 			rewards: [{
 				id: "3924A471E57ACC24"
 				type: "xp_levels"
-				xp_levels: 4
+				xp_levels: 12
 			}]
 			tasks: [{
 				advancement: "alexsmobs:alexsmobs/tame_elephant_tusked"
 				criterion: ""
-				id: "65CDF14C5ECBF52B"
-				type: "advancement"
-			}]
-			x: 3.0d
-			y: 1.5d
-		}
-		{
-			icon: {
-				id: "minecraft:cooked_chicken"
-			}
-			id: "18ABBC3417EA5EB3"
-			rewards: [{
-				id: "674A1E11C7EAAF7E"
-				type: "xp_levels"
-				xp_levels: 3
-			}]
-			tasks: [{
-				advancement: "alexsmobs:alexsmobs/tigers_blessing"
-				criterion: ""
-				id: "5C3B56FFD71FC39A"
+				id: "7EC3EEF9D7CC04D4"
 				type: "advancement"
 			}]
 			x: 4.5d
-			y: 1.5d
+			y: 9.0d
 		}
 		{
+			dependencies: ["19F420DA37861ED5"]
 			icon: {
 				id: "alexsmobs:kangaroo_meat"
 			}
 			id: "5CB16FB9690C84C0"
 			rewards: [{
-				id: "230D1126EFC2D252"
+				id: "65DBF7BA0733EF80"
 				type: "xp_levels"
-				xp_levels: 2
+				xp_levels: 5
 			}]
 			tasks: [{
 				advancement: "alexsmobs:alexsmobs/kangaroo"
 				criterion: ""
-				id: "6D5E4A6C09852A3B"
+				id: "50D6F6D4B8F16F1D"
 				type: "advancement"
 			}]
-			x: 1.5d
-			y: 3.0d
+			x: 3.0d
+			y: 10.5d
 		}
 		{
+			dependencies: ["19F420DA37861ED5"]
 			icon: {
 				id: "alexsmobs:emu_egg"
 			}
-			id: "2FDDE3283B2193A8"
+			id: "5C7374A747664F9F"
 			rewards: [{
-				id: "15AD239F8E169677"
+				id: "54815C665D44DA9F"
 				type: "xp_levels"
-				xp_levels: 2
+				xp_levels: 5
 			}]
 			tasks: [{
 				advancement: "alexsmobs:alexsmobs/emu"
 				criterion: ""
-				id: "4B819F651DF82038"
+				id: "3EAEF20561C95177"
 				type: "advancement"
 			}]
 			x: 3.0d
-			y: 3.0d
+			y: 12.0d
 		}
 		{
+			dependencies: ["19F420DA37861ED5"]
 			icon: {
 				id: "minecraft:apple"
 			}
 			id: "7584D814CBA3061C"
 			rewards: [{
-				id: "6071014A24350533"
+				id: "1E96E36DD6BB83DD"
 				type: "xp_levels"
-				xp_levels: 2
+				xp_levels: 6
 			}]
 			tasks: [{
 				advancement: "alexsmobs:alexsmobs/maned_wolf_apple"
@@ -259,18 +342,37 @@
 				id: "0193D204D44C06AE"
 				type: "advancement"
 			}]
-			x: 4.5d
-			y: 3.0d
+			x: 3.0d
+			y: 13.5d
 		}
 		{
 			icon: {
+				id: "minecraft:cactus"
+			}
+			id: "7B79F631DAAAF203"
+			rewards: [{
+				id: "0461D185FC82C2A1"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			tasks: [{
+				biome: "minecraft:desert"
+				id: "7F16C26B7658CBBA"
+				type: "biome"
+			}]
+			x: 1.5d
+			y: 16.5d
+		}
+		{
+			dependencies: ["7B79F631DAAAF203"]
+			icon: {
 				id: "alexsmobs:rattlesnake_rattle"
 			}
-			id: "4CA6549EFAFB16FF"
+			id: "1017CE119BE3FABC"
 			rewards: [{
 				id: "65C9C3DE97068A74"
 				type: "xp_levels"
-				xp_levels: 2
+				xp_levels: 6
 			}]
 			tasks: [{
 				advancement: "alexsmobs:alexsmobs/rattlesnake"
@@ -278,8 +380,124 @@
 				id: "09E757A2F869DC88"
 				type: "advancement"
 			}]
-			x: 6.0d
-			y: 3.0d
+			x: 3.0d
+			y: 15.0d
+		}
+		{
+			dependencies: ["7B79F631DAAAF203"]
+			icon: {
+				id: "alexsmobs:rocky_shell"
+			}
+			id: "2BAA79F00DD37986"
+			rewards: [{
+				id: "68D055837EC138D7"
+				type: "xp_levels"
+				xp_levels: 8
+			}]
+			tasks: [{
+				advancement: "alexsmobs:alexsmobs/rocky_roller"
+				criterion: ""
+				id: "3FE3D4B2B230D095"
+				type: "advancement"
+			}]
+			x: 3.0d
+			y: 16.5d
+		}
+		{
+			dependencies: ["2BAA79F00DD37986"]
+			icon: {
+				id: "alexsmobs:rocky_chestplate"
+			}
+			id: "550CF3001E10E548"
+			rewards: [{
+				id: "7702D1DC2FEDE1B8"
+				type: "xp_levels"
+				xp_levels: 10
+			}]
+			tasks: [{
+				advancement: "alexsmobs:alexsmobs/rocky_chestplate"
+				criterion: ""
+				id: "3C975BEA1F0DA2F3"
+				type: "advancement"
+			}]
+			x: 4.5d
+			y: 16.5d
+		}
+		{
+			dependencies: ["7B79F631DAAAF203"]
+			icon: {
+				id: "alexsmobs:tarantula_hawk_wing"
+			}
+			id: "3B040A6D88E63329"
+			rewards: [{
+				id: "39219A64D7B456C9"
+				type: "xp_levels"
+				xp_levels: 10
+			}]
+			tasks: [{
+				advancement: "alexsmobs:alexsmobs/tame_tarantula_hawk"
+				criterion: ""
+				id: "09585BBF74727798"
+				type: "advancement"
+			}]
+			x: 3.0d
+			y: 18.0d
+		}
+		{
+			icon: {
+				id: "minecraft:lily_pad"
+			}
+			id: "208237AC5CC6DE79"
+			rewards: [{
+				id: "581E50A51E4B1D46"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			tasks: [{
+				biome: "minecraft:swamp"
+				id: "10AA0A28C804C292"
+				type: "biome"
+			}]
+			x: 1.5d
+			y: 20.25d
+		}
+		{
+			icon: {
+				id: "alexsmobs:crocodile_egg"
+			}
+			id: "1DE04B3E1D5E26FB"
+			rewards: [{
+				id: "2FE09AB6751B1E25"
+				type: "xp_levels"
+				xp_levels: 8
+			}]
+			tasks: [{
+				advancement: "alexsmobs:alexsmobs/crocodile"
+				criterion: ""
+				id: "3D2EF8BCE1BB81C8"
+				type: "advancement"
+			}]
+			x: 3.0d
+			y: 19.5d
+		}
+		{
+			icon: {
+				id: "alexsmobs:crocodile_chestplate"
+			}
+			id: "3088C953FB135410"
+			rewards: [{
+				id: "67DFCF999BE5D603"
+				type: "xp_levels"
+				xp_levels: 11
+			}]
+			tasks: [{
+				advancement: "alexsmobs:alexsmobs/crocodile_chestplate"
+				criterion: ""
+				id: "7966AC677493D2CF"
+				type: "advancement"
+			}]
+			x: 4.5d
+			y: 19.5d
 		}
 		{
 			icon: {
@@ -292,7 +510,7 @@
 			rewards: [{
 				id: "60CDDA7DAE027A28"
 				type: "xp_levels"
-				xp_levels: 2
+				xp_levels: 5
 			}]
 			tasks: [{
 				advancement: "alexsmobs:alexsmobs/skunk"
@@ -300,133 +518,36 @@
 				id: "1ED67BC5367A4024"
 				type: "advancement"
 			}]
-			x: 6.0d
-			y: 1.5d
+			x: 3.0d
+			y: 21.0d
 		}
 		{
 			icon: {
-				id: "alexsmobs:crocodile_egg"
+				id: "minecraft:heart_of_the_sea"
 			}
-			id: "0765CAB676CF92ED"
+			id: "1E719B33801777E8"
 			rewards: [{
-				id: "2FE09AB6751B1E25"
+				id: "1F956C622C581FC7"
 				type: "xp_levels"
-				xp_levels: 2
+				xp_levels: 4
 			}]
 			tasks: [{
-				advancement: "alexsmobs:alexsmobs/crocodile"
-				criterion: ""
-				id: "7576482CB2141C14"
-				type: "advancement"
-			}]
-			x: 7.5d
-			y: 3.0d
-		}
-		{
-			icon: {
-				id: "alexsmobs:crocodile_chestplate"
-			}
-			id: "3088C953FB135410"
-			rewards: [{
-				id: "67DFCF999BE5D603"
-				type: "xp_levels"
-				xp_levels: 3
-			}]
-			tasks: [{
-				advancement: "alexsmobs:alexsmobs/crocodile_chestplate"
-				criterion: ""
-				id: "7966AC677493D2CF"
-				type: "advancement"
-			}]
-			x: 9.0d
-			y: 3.0d
-		}
-		{
-			icon: {
-				id: "alexsmobs:rocky_shell"
-			}
-			id: "2BAA79F00DD37986"
-			rewards: [{
-				id: "1BA83708C0402A9F"
-				type: "xp_levels"
-				xp_levels: 2
-			}]
-			tasks: [{
-				advancement: "alexsmobs:alexsmobs/rocky_roller"
-				criterion: ""
-				id: "3FE3D4B2B230D095"
-				type: "advancement"
-			}]
-			x: 7.5d
-			y: 1.5d
-		}
-		{
-			dependencies: ["2BAA79F00DD37986"]
-			icon: {
-				id: "alexsmobs:rocky_chestplate"
-			}
-			id: "550CF3001E10E548"
-			rewards: [{
-				id: "7702D1DC2FEDE1B8"
-				type: "xp_levels"
-				xp_levels: 3
-			}]
-			tasks: [{
-				advancement: "alexsmobs:alexsmobs/rocky_chestplate"
-				criterion: ""
-				id: "7C85132A118BA08C"
-				type: "advancement"
-			}]
-			x: 9.0d
-			y: 1.5d
-		}
-		{
-			icon: {
-				id: "alexsmobs:hummingbird_feeder"
-			}
-			id: "13FD338E92A88B77"
-			rewards: [{
-				id: "3CF07CF3564F77B0"
-				type: "xp_levels"
-				xp_levels: 2
-			}]
-			tasks: [{
-				advancement: "alexsmobs:alexsmobs/hummingbird_feeder"
-				criterion: ""
-				id: "091E4D93B8A71A3D"
-				type: "advancement"
+				biome: "minecraft:ocean"
+				id: "21BE2711CFE74896"
+				type: "biome"
 			}]
 			x: 1.5d
-			y: 4.5d
-		}
-		{
-			icon: {
-				id: "alexsmobs:leafcutter_anthill"
-			}
-			id: "5166776A7A273AEE"
-			rewards: [{
-				id: "673EA04AC616887D"
-				type: "xp_levels"
-				xp_levels: 2
-			}]
-			tasks: [{
-				advancement: "alexsmobs:alexsmobs/stomp_leafcutter_anthill"
-				criterion: ""
-				id: "07B9EBFCFB599110"
-				type: "advancement"
-			}]
-			x: 3.0d
-			y: 4.5d
+			y: 23.25d
 		}
 		{
 			icon: {
 				id: "minecraft:water_bucket"
 			}
-			id: "58AA5D4868247A13"
+			id: "2033CEB109BB9257"
 			rewards: [{
-				id: "019B137F91D739CB"
+				id: "42259DF1C7ABA7B1"
 				type: "xp_levels"
-				xp_levels: 3
+				xp_levels: 10
 			}]
 			tasks: [{
 				advancement: "alexsmobs:alexsmobs/tame_mantis_shrimp"
@@ -434,8 +555,8 @@
 				id: "3E5B2E2782CBFCDC"
 				type: "advancement"
 			}]
-			x: 4.5d
-			y: 4.5d
+			x: 3.0d
+			y: 22.5d
 		}
 		{
 			icon: {
@@ -443,38 +564,56 @@
 			}
 			id: "2FE50E5BC4A777F8"
 			rewards: [{
-				id: "716E36619D74B0BD"
+				id: "0E59C80B3D8B7F06"
 				type: "xp_levels"
-				xp_levels: 4
+				xp_levels: 14
 			}]
 			tasks: [{
 				advancement: "alexsmobs:alexsmobs/save_cachalot_whale"
 				criterion: ""
-				id: "5EB68A0990AD9A5C"
+				id: "1ECDDF64061EE565"
 				type: "advancement"
 			}]
-			x: 6.0d
-			y: 4.5d
+			x: 3.0d
+			y: 24.0d
 		}
 		{
 			dependencies: ["2FE50E5BC4A777F8"]
 			icon: {
 				id: "minecraft:heart_of_the_sea"
 			}
-			id: "18B0240AC87846D5"
+			id: "0D4AC51908A1F531"
 			rewards: [{
 				id: "7EFCC88B576BE9E3"
 				type: "xp_levels"
-				xp_levels: 4
+				xp_levels: 16
 			}]
 			tasks: [{
 				advancement: "alexsmobs:alexsmobs/orcas_might"
 				criterion: ""
-				id: "2EECA93125A5C85B"
+				id: "11872EFF9396C560"
 				type: "advancement"
 			}]
-			x: 7.5d
-			y: 4.5d
+			x: 4.5d
+			y: 24.0d
+		}
+		{
+			icon: {
+				id: "minecraft:netherrack"
+			}
+			id: "32D6E1B073F62206"
+			rewards: [{
+				id: "7893800316D5E7D2"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				dimension: "minecraft:the_nether"
+				id: "19D1B69BC6BEAD95"
+				type: "dimension"
+			}]
+			x: 1.5d
+			y: 26.25d
 		}
 		{
 			icon: {
@@ -484,7 +623,7 @@
 			rewards: [{
 				id: "1D8665B96B8BF3F0"
 				type: "xp_levels"
-				xp_levels: 4
+				xp_levels: 16
 			}]
 			tasks: [{
 				advancement: "alexsmobs:alexsmobs/straddleboard"
@@ -492,57 +631,56 @@
 				id: "57272B66DD2BFC03"
 				type: "advancement"
 			}]
-			x: 9.0d
-			y: 4.5d
+			x: 3.0d
+			y: 25.5d
 		}
 		{
-			dependencies: ["5DF2307A14A35CBD"]
 			icon: {
 				id: "alexsmobs:warped_muscle"
 			}
 			id: "58303CE51346B948"
 			rewards: [{
-				id: "560C05DEEAA6FC84"
+				id: "1B3D7395DF522773"
 				type: "xp_levels"
-				xp_levels: 3
+				xp_levels: 10
 			}]
 			tasks: [{
 				advancement: "alexsmobs:alexsmobs/tame_warped_toad"
 				criterion: ""
-				id: "16C20E82A710AB35"
+				id: "1ECA9C128A23F364"
 				type: "advancement"
 			}]
-			x: 10.5d
-			y: 4.5d
+			x: 3.0d
+			y: 27.0d
 		}
 		{
 			icon: {
-				id: "alexsmobs:potted_flutter"
+				id: "minecraft:end_stone"
 			}
-			id: "4079F006ED9DF8CC"
+			id: "0717E4845D541305"
 			rewards: [{
-				id: "69A77D6B45AFBBAA"
+				id: "4173CBADD1736852"
 				type: "xp_levels"
-				xp_levels: 2
+				xp_levels: 8
 			}]
 			tasks: [{
-				advancement: "alexsmobs:alexsmobs/tame_flutter"
-				criterion: ""
-				id: "5984F46DA824F806"
-				type: "advancement"
+				dimension: "minecraft:the_end"
+				id: "416D27B25CF5F893"
+				type: "dimension"
 			}]
-			x: 10.5d
-			y: 3.0d
+			x: 1.5d
+			y: 30.0d
 		}
 		{
+			dependencies: ["0717E4845D541305"]
 			icon: {
 				id: "alexsmobs:cosmic_cod"
 			}
-			id: "5F5814C11A10FB3C"
+			id: "6DAEADFA50F30D84"
 			rewards: [{
-				id: "233970FA0AF67C09"
+				id: "0703CE13ED16DAA8"
 				type: "xp_levels"
-				xp_levels: 4
+				xp_levels: 14
 			}]
 			tasks: [{
 				advancement: "alexsmobs:alexsmobs/tame_cosmaw"
@@ -550,8 +688,8 @@
 				id: "7541DF554DA18ED7"
 				type: "advancement"
 			}]
-			x: 10.5d
-			y: 1.5d
+			x: 3.0d
+			y: 28.5d
 		}
 		{
 			icon: {
@@ -561,45 +699,47 @@
 			rewards: [{
 				id: "435F704761292FA1"
 				type: "xp_levels"
-				xp_levels: 4
+				xp_levels: 16
 			}]
 			tasks: [{
 				advancement: "alexsmobs:alexsmobs/farseer"
 				criterion: ""
-				id: "284A9C55D282DD52"
+				id: "5A57165963FF4B96"
 				type: "advancement"
 			}]
-			x: 12.0d
-			y: 1.5d
+			x: 4.5d
+			y: 28.5d
 		}
 		{
+			dependencies: ["0717E4845D541305"]
 			icon: {
-				id: "alexsmobs:tarantula_hawk_wing"
+				id: "alexsmobs:potted_flutter"
 			}
-			id: "44D7FD27030D529F"
+			id: "0C5097DF61460ECE"
 			rewards: [{
-				id: "294A1D488A58E656"
+				id: "69A77D6B45AFBBAA"
 				type: "xp_levels"
-				xp_levels: 3
+				xp_levels: 12
 			}]
 			tasks: [{
-				advancement: "alexsmobs:alexsmobs/tame_tarantula_hawk"
+				advancement: "alexsmobs:alexsmobs/tame_flutter"
 				criterion: ""
-				id: "24299F8A8A6D6FC6"
+				id: "03AB665C28A03A3D"
 				type: "advancement"
 			}]
-			x: 12.0d
-			y: 3.0d
+			x: 3.0d
+			y: 30.0d
 		}
 		{
+			dependencies: ["0717E4845D541305"]
 			icon: {
 				id: "alexsmobs:void_worm_eye"
 			}
-			id: "2DC6364FB22850F5"
+			id: "60E7E02E2B912E33"
 			rewards: [{
 				id: "5791E414D8A1814F"
 				type: "xp_levels"
-				xp_levels: 7
+				xp_levels: 20
 			}]
 			tasks: [{
 				advancement: "alexsmobs:alexsmobs/void_worm_summon"
@@ -607,37 +747,38 @@
 				id: "0040AE328C1A2E86"
 				type: "advancement"
 			}]
-			x: 12.0d
-			y: 0.0d
+			x: 3.0d
+			y: 31.5d
 		}
 		{
 			icon: {
 				id: "alexsmobs:void_worm_beak"
 			}
-			id: "43B37890324C4A3B"
+			id: "48719A1AA9A2B727"
 			rewards: [{
-				id: "59156612A78A53E5"
+				id: "069BAFDD3B1BA430"
 				type: "xp_levels"
-				xp_levels: 11
+				xp_levels: 28
 			}]
+			shape: "hexagon"
 			tasks: [{
 				advancement: "alexsmobs:alexsmobs/void_worm_kill"
 				criterion: ""
-				id: "48D55A00CEE45BD2"
+				id: "709B7B01A063BF35"
 				type: "advancement"
 			}]
-			x: 13.5d
-			y: 0.0d
+			x: 4.5d
+			y: 31.5d
 		}
 		{
 			icon: {
 				id: "alexsmobs:transmutation_table"
 			}
-			id: "6ECFD81921856DE2"
+			id: "580BB8445F0C63D3"
 			rewards: [{
-				id: "1A3CA30CE5964D37"
+				id: "7F5FF4544A5B1070"
 				type: "xp_levels"
-				xp_levels: 4
+				xp_levels: 15
 			}]
 			tasks: [{
 				advancement: "alexsmobs:alexsmobs/transmutation_table"
@@ -645,25 +786,42 @@
 				id: "40E31E2C058EE02D"
 				type: "advancement"
 			}]
-			x: 13.5d
-			y: 3.0d
+			x: 6.0d
+			y: 31.5d
 		}
 		{
 			icon: {
 				id: "clutterbestiary:capybara_spawn_egg"
 			}
-			id: "3E88B7FBD1FD0A29"
+			id: "279B62A50A32CFCB"
 			rewards: [{
-				id: "11EBC2C042D2A8CD"
+				id: "624D2B1368B33650"
 				type: "xp_levels"
-				xp_levels: 1
+				xp_levels: 2
 			}]
 			tasks: [{
 				id: "4F98037BBD30D6AB"
 				type: "checkmark"
 			}]
-			x: 0.0d
-			y: 7.5d
+			x: 1.5d
+			y: 46.125d
+		}
+		{
+			icon: {
+				id: "minecraft:grass_block"
+			}
+			id: "06C34A20A1738CA6"
+			rewards: [{
+				id: "43952C0871618058"
+				type: "xp_levels"
+				xp_levels: 2
+			}]
+			tasks: [{
+				id: "5BC1AED72E816607"
+				type: "checkmark"
+			}]
+			x: 3.0d
+			y: 37.5d
 		}
 		{
 			icon: {
@@ -671,16 +829,16 @@
 			}
 			id: "6ABBB7E5FBA5FB89"
 			rewards: [{
-				id: "578B43E59118C7E6"
+				id: "61331936C4671828"
 				type: "xp_levels"
-				xp_levels: 2
+				xp_levels: 6
 			}]
 			tasks: [{
-				id: "734083F11F84FA13"
+				id: "5F206ECD8EB6BD8F"
 				type: "checkmark"
 			}]
-			x: 1.5d
-			y: 6.0d
+			x: 4.5d
+			y: 33.0d
 		}
 		{
 			icon: {
@@ -690,32 +848,154 @@
 			rewards: [{
 				id: "657DF8BFA07465FC"
 				type: "xp_levels"
-				xp_levels: 2
+				xp_levels: 4
 			}]
 			tasks: [{
-				id: "0CC99ABCC30AD23B"
+				id: "12D934CBBFBAE243"
 				type: "checkmark"
 			}]
-			x: 1.5d
-			y: 7.5d
+			x: 4.5d
+			y: 34.5d
+		}
+		{
+			icon: {
+				id: "clutterbestiary:kiwi_bird_egg"
+			}
+			id: "74D289E5A20843AC"
+			rewards: [{
+				id: "07B243ABFE0C42C9"
+				type: "xp_levels"
+				xp_levels: 4
+			}]
+			tasks: [{
+				id: "4460342588701374"
+				item: { count: 1, id: "clutterbestiary:kiwi_bird_egg" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: 36.0d
+		}
+		{
+			icon: {
+				id: "clutterbestiary:emperor_penguin_egg"
+			}
+			id: "3FFCCF5F291FC7AF"
+			rewards: [{
+				id: "7D86ED9391438439"
+				type: "xp_levels"
+				xp_levels: 6
+			}]
+			tasks: [{
+				id: "08D576B71EE4F564"
+				item: { count: 1, id: "clutterbestiary:emperor_penguin_egg" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: 37.5d
+		}
+		{
+			icon: {
+				id: "minecraft:honey_bottle"
+			}
+			id: "7CADA1722C6536E9"
+			rewards: [{
+				id: "08DBFD0231676776"
+				type: "xp_levels"
+				xp_levels: 8
+			}]
+			tasks: [{
+				id: "24668F9BCD084690"
+				type: "checkmark"
+			}]
+			x: 4.5d
+			y: 39.0d
+		}
+		{
+			icon: {
+				id: "minecraft:bamboo"
+			}
+			id: "5463AE0A689696B4"
+			rewards: [{
+				id: "20BC71A8C5F89013"
+				type: "xp_levels"
+				xp_levels: 8
+			}]
+			tasks: [{
+				id: "373F2E4F27DFC349"
+				type: "checkmark"
+			}]
+			x: 4.5d
+			y: 40.5d
+		}
+		{
+			icon: {
+				id: "minecraft:spore_blossom"
+			}
+			id: "177C269D94EAEF12"
+			rewards: [{
+				id: "0665CA7072CD7517"
+				type: "xp_levels"
+				xp_levels: 8
+			}]
+			tasks: [{
+				id: "546C2EB65F04E574"
+				type: "checkmark"
+			}]
+			x: 4.5d
+			y: 42.0d
+		}
+		{
+			icon: {
+				id: "clutterbestiary:mossbloom_antlers"
+			}
+			id: "2D091F0BDA2D58C2"
+			rewards: [{
+				id: "2A7DF9BF606C4E81"
+				type: "xp_levels"
+				xp_levels: 7
+			}]
+			tasks: [{
+				id: "2B38A570C331E546"
+				item: { count: 1, id: "clutterbestiary:mossbloom_antlers" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: 42.0d
 		}
 		{
 			icon: {
 				id: "clutterbestiary:butterfly_in_a_bottle"
 			}
-			id: "7ABD1C64AE6025CA"
+			id: "191B7CD1C8B22143"
 			rewards: [{
 				id: "70C339F9F6C298A3"
 				type: "xp_levels"
-				xp_levels: 2
+				xp_levels: 4
 			}]
 			tasks: [{
-				id: "5A5784BE1E0D254C"
+				id: "1AECD65266DBD7CC"
 				item: { count: 1, id: "clutterbestiary:butterfly_in_a_bottle" }
 				type: "item"
 			}]
 			x: 3.0d
-			y: 6.0d
+			y: 44.25d
+		}
+		{
+			icon: {
+				id: "minecraft:apple"
+			}
+			id: "4BAC1482A67691FB"
+			rewards: [{
+				id: "3682E1D30B496C15"
+				type: "xp_levels"
+				xp_levels: 8
+			}]
+			tasks: [{
+				id: "3CC83F3F7B6E6B12"
+				type: "checkmark"
+			}]
+			x: 4.5d
+			y: 43.5d
 		}
 		{
 			icon: {
@@ -725,15 +1005,15 @@
 			rewards: [{
 				id: "13362AA5458D173B"
 				type: "xp_levels"
-				xp_levels: 2
+				xp_levels: 8
 			}]
 			tasks: [{
-				id: "6F05F50C596BEBAF"
+				id: "3FB91F2EDB51E03C"
 				item: { count: 1, id: "clutterbestiary:butterfly_elytra_smithing_template_shards" }
 				type: "item"
 			}]
 			x: 4.5d
-			y: 6.0d
+			y: 45.0d
 		}
 		{
 			dependencies: ["7552B96E831EF6DD"]
@@ -744,209 +1024,144 @@
 			rewards: [{
 				id: "6DC1BD9410FB4A4A"
 				type: "xp_levels"
-				xp_levels: 3
+				xp_levels: 12
 			}]
 			tasks: [{
-				id: "73246AE9C4E3D223"
+				id: "1A25798D331466B0"
 				item: { count: 1, id: "clutterbestiary:butterfly_elytra_smithing_template" }
 				type: "item"
 			}]
 			x: 6.0d
-			y: 6.0d
+			y: 45.0d
 		}
 		{
 			icon: {
-				id: "clutterbestiary:koi_bucket"
+				id: "minecraft:water_bucket"
 			}
-			id: "115995AAF4388322"
+			id: "5AEBE15A6A4B89DE"
 			rewards: [{
-				id: "452B64B9FF06F57C"
+				id: "702C0FD3F3A5621A"
 				type: "xp_levels"
 				xp_levels: 2
 			}]
 			tasks: [{
-				id: "350D57FC3CE77A7A"
+				id: "3A911F92133E4B2E"
+				type: "checkmark"
+			}]
+			x: 3.0d
+			y: 49.5d
+		}
+		{
+			dependencies: ["5AEBE15A6A4B89DE"]
+			icon: {
+				id: "clutterbestiary:koi_bucket"
+			}
+			id: "78DA119D84B5501C"
+			rewards: [{
+				id: "452B64B9FF06F57C"
+				type: "xp_levels"
+				xp_levels: 4
+			}]
+			tasks: [{
+				id: "33AD1D543F67F3D1"
 				item: { count: 1, id: "clutterbestiary:koi_bucket" }
 				type: "item"
 			}]
-			x: 3.0d
-			y: 7.5d
+			x: 4.5d
+			y: 46.5d
 		}
 		{
+			dependencies: ["5AEBE15A6A4B89DE"]
 			icon: {
 				id: "clutterbestiary:seahorse_bucket"
 			}
 			id: "0D63C113BA5A01C8"
 			rewards: [{
-				id: "1510803EC06F088C"
+				id: "75BB584CD1447EB4"
 				type: "xp_levels"
-				xp_levels: 2
+				xp_levels: 4
 			}]
 			tasks: [{
-				id: "6DBEE2124EC90665"
+				id: "43BF898B9AD51683"
 				item: { count: 1, id: "clutterbestiary:seahorse_bucket" }
 				type: "item"
 			}]
 			x: 4.5d
-			y: 7.5d
+			y: 48.0d
 		}
 		{
+			dependencies: ["5AEBE15A6A4B89DE"]
 			icon: {
 				id: "clutterbestiary:river_turtle_bucket"
 			}
 			id: "450C66CCF444D53D"
 			rewards: [{
-				id: "075814C1A6C53286"
+				id: "0D35E4957353A73A"
 				type: "xp_levels"
-				xp_levels: 2
+				xp_levels: 4
 			}]
 			tasks: [{
-				id: "76D7328290FBA397"
+				id: "74D73ADCB6762ACF"
 				item: { count: 1, id: "clutterbestiary:river_turtle_bucket" }
 				type: "item"
 			}]
-			x: 6.0d
-			y: 7.5d
+			x: 4.5d
+			y: 49.5d
 		}
 		{
+			dependencies: ["5AEBE15A6A4B89DE"]
 			icon: {
 				id: "clutterbestiary:jellyfish_bucket"
 			}
-			id: "7D634E2B24BC98A2"
+			id: "56BBDED85BFD0376"
 			rewards: [{
-				id: "6858B02B18A50F8D"
+				id: "3720EB2CFA471B20"
 				type: "xp_levels"
-				xp_levels: 2
+				xp_levels: 5
 			}]
 			tasks: [{
 				id: "4F53D586FCAE8ADC"
 				item: { count: 1, id: "clutterbestiary:jellyfish_bucket" }
 				type: "item"
 			}]
-			x: 7.5d
-			y: 7.5d
+			x: 4.5d
+			y: 51.0d
 		}
 		{
+			dependencies: ["5AEBE15A6A4B89DE"]
 			icon: {
-				id: "clutterbestiary:kiwi_bird_egg"
+				id: "clutterbestiary:chorus_echofin_bucket"
 			}
-			id: "74D289E5A20843AC"
+			id: "129F1D036432EC2A"
 			rewards: [{
-				id: "1CA4D5E48472F23A"
+				id: "35880F28D0E8C4BC"
 				type: "xp_levels"
-				xp_levels: 2
+				xp_levels: 10
 			}]
 			tasks: [{
-				id: "4460342588701374"
-				item: { count: 1, id: "clutterbestiary:kiwi_bird_egg" }
+				id: "28145280D49012EC"
+				item: { count: 1, id: "clutterbestiary:chorus_echofin_bucket" }
 				type: "item"
-			}]
-			x: 1.5d
-			y: 9.0d
-		}
-		{
-			icon: {
-				id: "clutterbestiary:emperor_penguin_egg"
-			}
-			id: "1CC17EF11BDEB35F"
-			rewards: [{
-				id: "2EA0B09861A9B728"
-				type: "xp_levels"
-				xp_levels: 2
-			}]
-			tasks: [{
-				id: "08D576B71EE4F564"
-				item: { count: 1, id: "clutterbestiary:emperor_penguin_egg" }
-				type: "item"
-			}]
-			x: 3.0d
-			y: 9.0d
-		}
-		{
-			icon: {
-				id: "minecraft:spore_blossom"
-			}
-			id: "0ED6980FD27E5819"
-			rewards: [{
-				id: "0665CA7072CD7517"
-				type: "xp_levels"
-				xp_levels: 2
-			}]
-			tasks: [{
-				id: "59FFB9FA9ED4A5E6"
-				type: "checkmark"
 			}]
 			x: 4.5d
-			y: 9.0d
+			y: 52.5d
 		}
 		{
 			icon: {
-				id: "clutterbestiary:mossbloom_antlers"
+				id: "minecraft:crimson_fungus"
 			}
-			id: "6ACA4B0987A81BED"
+			id: "7DA5F237B11E2A4B"
 			rewards: [{
-				id: "2A7DF9BF606C4E81"
+				id: "743BD54CB2411027"
 				type: "xp_levels"
-				xp_levels: 2
+				xp_levels: 5
 			}]
 			tasks: [{
-				id: "2B38A570C331E546"
-				item: { count: 1, id: "clutterbestiary:mossbloom_antlers" }
-				type: "item"
-			}]
-			x: 6.0d
-			y: 9.0d
-		}
-		{
-			icon: {
-				id: "minecraft:honey_bottle"
-			}
-			id: "0945D0283C3D6995"
-			rewards: [{
-				id: "08DBFD0231676776"
-				type: "xp_levels"
-				xp_levels: 2
-			}]
-			tasks: [{
-				id: "24668F9BCD084690"
-				type: "checkmark"
-			}]
-			x: 1.5d
-			y: 10.5d
-		}
-		{
-			icon: {
-				id: "minecraft:bamboo"
-			}
-			id: "5463AE0A689696B4"
-			rewards: [{
-				id: "20BC71A8C5F89013"
-				type: "xp_levels"
-				xp_levels: 2
-			}]
-			tasks: [{
-				id: "219E111521851624"
+				id: "454259631E63125B"
 				type: "checkmark"
 			}]
 			x: 3.0d
-			y: 10.5d
-		}
-		{
-			icon: {
-				id: "minecraft:apple"
-			}
-			id: "2E10BE61E0DE5003"
-			rewards: [{
-				id: "3682E1D30B496C15"
-				type: "xp_levels"
-				xp_levels: 2
-			}]
-			tasks: [{
-				id: "3CC83F3F7B6E6B12"
-				type: "checkmark"
-			}]
-			x: 4.5d
-			y: 10.5d
+			y: 54.75d
 		}
 		{
 			icon: {
@@ -956,49 +1171,31 @@
 			rewards: [{
 				id: "2D9E4A5743D3E1FB"
 				type: "xp_levels"
-				xp_levels: 2
+				xp_levels: 8
 			}]
 			tasks: [{
 				id: "57DA0BD6223A1FB8"
 				type: "checkmark"
 			}]
-			x: 6.0d
-			y: 10.5d
+			x: 4.5d
+			y: 54.0d
 		}
 		{
 			icon: {
 				id: "minecraft:fire_charge"
 			}
-			id: "222EA17DFEBC5A5A"
+			id: "56E43CA63B480710"
 			rewards: [{
 				id: "44EFA5835B4EBE7B"
 				type: "xp_levels"
-				xp_levels: 2
+				xp_levels: 8
 			}]
 			tasks: [{
 				id: "33871A2014168C82"
 				type: "checkmark"
 			}]
-			x: 7.5d
-			y: 10.5d
-		}
-		{
-			icon: {
-				id: "clutterbestiary:chorus_echofin_bucket"
-			}
-			id: "129F1D036432EC2A"
-			rewards: [{
-				id: "71A547F19CD6164F"
-				type: "xp_levels"
-				xp_levels: 2
-			}]
-			tasks: [{
-				id: "28145280D49012EC"
-				item: { count: 1, id: "clutterbestiary:chorus_echofin_bucket" }
-				type: "item"
-			}]
-			x: 9.0d
-			y: 10.5d
+			x: 4.5d
+			y: 55.5d
 		}
 	]
 }

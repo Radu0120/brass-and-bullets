@@ -6,7 +6,7 @@
 	icon: {
 		id: "scguns:musket"
 	}
-	id: "18D288138B8EE7F7"
+	id: "3B56970D6AC06022"
 	images: [ ]
 	order_index: 5
 	quest_links: [ ]
@@ -19,7 +19,7 @@
 			rewards: [{
 				id: "677AA402D0539723"
 				type: "xp_levels"
-				xp_levels: 2
+				xp_levels: 1
 			}]
 			tasks: [{
 				id: "567E5B208BFB1315"
@@ -27,49 +27,46 @@
 				type: "item"
 			}]
 			x: 0.0d
-			y: 0.0d
+			y: 5.94140625d
 		}
 		{
 			dependencies: ["42C35CD12E723741"]
 			icon: {
-				id: "scguns:gunpowder_dust"
+				id: "scguns:antique_blueprint"
 			}
-			id: "2BDFE33F1E14FA81"
+			id: "2DF84DC1A25A9873"
 			rewards: [{
-				id: "47E34A18D8785FBF"
+				id: "738E8303CEB2BB79"
 				type: "xp_levels"
 				xp_levels: 1
 			}]
 			tasks: [{
-				count: 8L
-				id: "4F25159D882A8CD6"
-				item: { count: 1, id: "scguns:gunpowder_dust" }
+				id: "5C58C4ABAB6E5E89"
+				item: { count: 1, id: "scguns:antique_blueprint" }
 				type: "item"
 			}]
 			x: 1.5d
-			y: -1.5d
+			y: 1.5d
 		}
 		{
 			icon: {
-				id: "scguns:standard_bullet"
+				id: "scguns:stone_gun_barrel"
 			}
-			id: "6B73647846873425"
+			id: "73FE3C298DD5276D"
 			rewards: [{
-				id: "10C0C854BC5E46DF"
+				id: "3DD985CE1CF0FF21"
 				type: "xp_levels"
-				xp_levels: 2
+				xp_levels: 1
 			}]
 			tasks: [{
-				count: 16L
-				id: "1AF31AF9F5576459"
-				item: { count: 1, id: "scguns:standard_bullet" }
+				id: "7F62DB4BC14D59B4"
+				item: { count: 1, id: "scguns:stone_gun_barrel" }
 				type: "item"
 			}]
 			x: 3.0d
-			y: -1.5d
+			y: 1.5d
 		}
 		{
-			dependencies: ["42C35CD12E723741"]
 			icon: {
 				id: "scguns:flintlock_pistol"
 			}
@@ -80,12 +77,12 @@
 				xp_levels: 2
 			}]
 			tasks: [{
-				id: "026F048077479918"
+				id: "42E1FE6D47024833"
 				item: { count: 1, id: "scguns:flintlock_pistol" }
 				type: "item"
 			}]
-			x: 1.5d
-			y: 0.0d
+			x: 4.5d
+			y: 1.5d
 		}
 		{
 			dependencies: ["59C75941A1FEB9B9"]
@@ -94,170 +91,20 @@
 			}
 			id: "5B679972E90D7148"
 			rewards: [{
-				id: "741383E022260D0D"
+				id: "040247282290CE3E"
 				type: "xp_levels"
-				xp_levels: 2
+				xp_levels: 3
 			}]
 			tasks: [{
-				id: "599EB5AEDEB54503"
+				id: "304DC498DE55172F"
 				item: { count: 1, id: "scguns:musket" }
 				type: "item"
 			}]
-			x: 3.0d
-			y: 0.0d
-		}
-		{
-			icon: {
-				id: "scguns:pistol_ammo_box"
-			}
-			id: "50705865B6339F5C"
-			rewards: [{
-				id: "7C7E3BF812F4AD12"
-				type: "xp_levels"
-				xp_levels: 2
-			}]
-			tasks: [{
-				id: "73AB5EA4D8592E0F"
-				item: { count: 1, id: "scguns:pistol_ammo_box" }
-				type: "item"
-			}]
-			x: 4.5d
-			y: -1.5d
+			x: 6.0d
+			y: 1.5d
 		}
 		{
 			dependencies: ["5B679972E90D7148"]
-			icon: {
-				id: "scguns:musket"
-			}
-			id: "6D97678C4739C605"
-			rewards: [{
-				id: "3108B84A17D95F6F"
-				type: "xp_levels"
-				xp_levels: 2
-			}]
-			tasks: [{
-				entity: "scguns:redcoat"
-				id: "0F3C37F6B87848D5"
-				type: "kill"
-				value: 3L
-			}]
-			x: 4.5d
-			y: 0.0d
-		}
-		{
-			dependencies: ["6D97678C4739C605"]
-			icon: {
-				id: "scguns:greaser_smg"
-			}
-			id: "01C2B13998805375"
-			rewards: [{
-				id: "28970B72461B0E68"
-				type: "xp_levels"
-				xp_levels: 3
-			}]
-			tasks: [{
-				id: "41AE0DF98CC192A7"
-				item: { count: 1, id: "scguns:greaser_smg" }
-				type: "item"
-			}]
-			x: 6.0d
-			y: 0.0d
-		}
-		{
-			dependencies: ["6D97678C4739C605"]
-			icon: {
-				id: "scguns:combat_shotgun"
-			}
-			id: "5E59B6F2970B3487"
-			rewards: [{
-				id: "52DCCBBEC019CE6E"
-				type: "xp_levels"
-				xp_levels: 3
-			}]
-			tasks: [{
-				id: "384131D7B545F8FE"
-				item: { count: 1, id: "scguns:combat_shotgun" }
-				type: "item"
-			}]
-			x: 6.0d
-			y: 1.5d
-		}
-		{
-			icon: {
-				id: "scguns:cog_knight_helmet"
-			}
-			id: "28671D309D5E8C60"
-			rewards: [{
-				id: "16EE88A613AD6B54"
-				type: "xp_levels"
-				xp_levels: 5
-			}]
-			tasks: [{
-				entity: "scguns:cog_knight"
-				id: "6580EE3B18DA5743"
-				type: "kill"
-				value: 1L
-			}]
-			x: 7.5d
-			y: -1.5d
-		}
-		{
-			icon: {
-				id: "scguns:cogloader"
-			}
-			id: "5AA09355ACA84B3E"
-			rewards: [{
-				id: "7B4FBE3972F04751"
-				type: "xp_levels"
-				xp_levels: 4
-			}]
-			tasks: [{
-				id: "569016886DA12FF3"
-				structure: "scguns:cog_chambers"
-				type: "structure"
-			}]
-			x: 9.0d
-			y: -1.5d
-		}
-		{
-			icon: {
-				id: "scguns:raygun"
-			}
-			id: "2F3A82CEE92B804E"
-			rewards: [{
-				id: "33B8DBEC489004F4"
-				type: "xp_levels"
-				xp_levels: 5
-			}]
-			tasks: [{
-				id: "02922C18EAC0A379"
-				structure: "scguns:osgood_lab"
-				type: "structure"
-			}]
-			x: 9.0d
-			y: 0.0d
-		}
-		{
-			dependencies: ["5E59B6F2970B3487"]
-			icon: {
-				id: "scguns:mk43_rifle"
-			}
-			id: "48F3ECC2BDB7E587"
-			rewards: [{
-				id: "243AD5390E453CF5"
-				type: "xp_levels"
-				xp_levels: 7
-			}]
-			tasks: [{
-				id: "59885B1D3CBEA07C"
-				item: { count: 1, id: "scguns:mk43_rifle" }
-				type: "item"
-			}]
-			x: 7.5d
-			y: 1.5d
-		}
-		{
-			dependencies: ["42C35CD12E723741"]
 			icon: {
 				id: "scguns:flare_pistol"
 			}
@@ -268,12 +115,12 @@
 				xp_levels: 2
 			}]
 			tasks: [{
-				id: "4854FBBC8A782DF4"
+				id: "1389831ECE46671D"
 				item: { count: 1, id: "scguns:flare_pistol" }
 				type: "item"
 			}]
-			x: 1.5d
-			y: 1.5d
+			x: 7.5d
+			y: 0.0d
 		}
 		{
 			dependencies: ["5B679972E90D7148"]
@@ -282,16 +129,16 @@
 			}
 			id: "32CFE52650DB299E"
 			rewards: [{
-				id: "69AAC6C5C0581C82"
+				id: "582686497BD9C942"
 				type: "xp_levels"
-				xp_levels: 2
+				xp_levels: 4
 			}]
 			tasks: [{
-				id: "6C22EC8081CF100C"
+				id: "64EABC6B9F8F7DF7"
 				item: { count: 1, id: "scguns:medium_scope" }
 				type: "item"
 			}]
-			x: 3.0d
+			x: 7.5d
 			y: 1.5d
 		}
 		{
@@ -299,153 +146,512 @@
 			icon: {
 				id: "scguns:repair_kit"
 			}
-			id: "5462C5620B0765B3"
+			id: "6380E817093235DB"
 			rewards: [{
-				id: "6BEA08AE0BFD46B6"
-				type: "xp_levels"
-				xp_levels: 2
-			}]
-			tasks: [{
-				id: "5C7CD0F8D7ED6B50"
-				item: { count: 1, id: "scguns:repair_kit" }
-				type: "item"
-			}]
-			x: 4.5d
-			y: 1.5d
-		}
-		{
-			icon: {
-				id: "scguns:anthralite_ingot"
-			}
-			id: "13C0F3C30F964ACF"
-			rewards: [{
-				id: "7D941B2CD24F57CD"
-				type: "xp_levels"
-				xp_levels: 2
-			}]
-			tasks: [{
-				count: 4L
-				id: "700928AC6B8908F7"
-				item: { count: 1, id: "scguns:anthralite_ingot" }
-				type: "item"
-			}]
-			x: 1.5d
-			y: -3.0d
-		}
-		{
-			icon: {
-				id: "scguns:diamond_steel_ingot"
-			}
-			id: "5448DC2C5E55BAC6"
-			rewards: [{
-				id: "59FD35D74F4A0AE2"
+				id: "7FD2674F7B24E31C"
 				type: "xp_levels"
 				xp_levels: 3
 			}]
 			tasks: [{
-				count: 4L
-				id: "0EAA8E0952F15D4F"
-				item: { count: 1, id: "scguns:diamond_steel_ingot" }
+				id: "6ECDCBDC433B2063"
+				item: { count: 1, id: "scguns:repair_kit" }
 				type: "item"
 			}]
-			x: 3.0d
-			y: -3.0d
+			x: 9.0d
+			y: 1.5d
 		}
 		{
+			dependencies: ["5B679972E90D7148"]
 			icon: {
-				id: "scguns:diamond_steel_chestplate"
+				id: "scguns:musket"
 			}
-			id: "2A2D8179AF22F2DA"
+			id: "6D97678C4739C605"
 			rewards: [{
-				id: "0B892EA1C764D49E"
+				id: "3108B84A17D95F6F"
 				type: "xp_levels"
 				xp_levels: 4
 			}]
 			tasks: [{
-				id: "5FFC072F7B1DA92B"
-				item: { count: 1, id: "scguns:diamond_steel_chestplate" }
-				type: "item"
-			}]
-			x: 4.5d
-			y: -3.0d
-		}
-		{
-			dependencies: ["2A2D8179AF22F2DA"]
-			icon: {
-				id: "scguns:exo_suit_chestplate"
-			}
-			id: "5F91D2BEA8B41967"
-			rewards: [{
-				id: "7863C9388BA8FE62"
-				type: "xp_levels"
-				xp_levels: 5
-			}]
-			tasks: [{
-				id: "44596E1E4C36F1BE"
-				item: { count: 1, id: "scguns:exo_suit_chestplate" }
-				type: "item"
-			}]
-			x: 6.0d
-			y: -3.0d
-		}
-		{
-			dependencies: ["5F91D2BEA8B41967"]
-			icon: {
-				id: "scguns:jetpack_module"
-			}
-			id: "200EBB315D6E07B1"
-			rewards: [{
-				id: "5E57DF68A2E294EC"
-				type: "xp_levels"
-				xp_levels: 6
-			}]
-			tasks: [{
-				id: "2D07DFA7DC8965C9"
-				item: { count: 1, id: "scguns:jetpack_module" }
-				type: "item"
+				entity: "scguns:redcoat"
+				id: "0F3C37F6B87848D5"
+				type: "kill"
+				value: 3L
 			}]
 			x: 7.5d
-			y: -3.0d
+			y: 3.0d
 		}
 		{
 			dependencies: ["6D97678C4739C605"]
 			icon: {
 				id: "scguns:hornlin_spawn_egg"
 			}
-			id: "27E37E3A13AD75F8"
+			id: "531F69D44BB0DD40"
 			rewards: [{
-				id: "0BD9E5ECD3B43FFF"
+				id: "25F6BBCCBBD06C0B"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				entity: "scguns:hornlin"
+				id: "66DB8999D57CF35D"
+				type: "kill"
+				value: 3L
+			}]
+			x: 9.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["42C35CD12E723741"]
+			icon: {
+				id: "scguns:gunpowder_dust"
+			}
+			id: "0619C11102E1195A"
+			rewards: [{
+				id: "111A4125B5516F1D"
+				type: "xp_levels"
+				xp_levels: 1
+			}]
+			tasks: [{
+				count: 8L
+				id: "4F25159D882A8CD6"
+				item: { count: 1, id: "scguns:gunpowder_dust" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 10.3828125d
+		}
+		{
+			icon: {
+				id: "scguns:mechanical_press"
+			}
+			id: "4FC2B3C3E3F6CAE0"
+			rewards: [{
+				id: "383401F11ECA2978"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			tasks: [{
+				id: "5057FA39A16714A0"
+				item: { count: 1, id: "scguns:mechanical_press" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 10.3828125d
+		}
+		{
+			dependencies: ["4FC2B3C3E3F6CAE0"]
+			icon: {
+				id: "scguns:standard_bullet"
+			}
+			id: "759ECF7C1F62903A"
+			rewards: [{
+				id: "10C0C854BC5E46DF"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			tasks: [{
+				count: 16L
+				id: "3AB0215CCA1EF7C3"
+				item: { count: 1, id: "scguns:standard_bullet" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: 4.5d
+		}
+		{
+			icon: {
+				id: "scguns:pistol_ammo_box"
+			}
+			id: "50705865B6339F5C"
+			rewards: [{
+				id: "7C7E3BF812F4AD12"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			tasks: [{
+				id: "73AB5EA4D8592E0F"
+				item: { count: 1, id: "scguns:pistol_ammo_box" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["4FC2B3C3E3F6CAE0"]
+			icon: {
+				id: "scguns:blank_mold"
+			}
+			id: "3B6CE215F853AFF4"
+			rewards: [{
+				id: "2819A61D8AF23758"
 				type: "xp_levels"
 				xp_levels: 2
 			}]
 			tasks: [{
-				entity: "scguns:hornlin"
-				id: "3D9334A9D6754B35"
-				type: "kill"
-				value: 3L
+				id: "76263C6469B15264"
+				item: { count: 1, id: "scguns:blank_mold" }
+				type: "item"
 			}]
-			x: 6.0d
-			y: -1.5d
+			x: 4.5d
+			y: 6.0d
 		}
 		{
-			dependencies: ["68F3112C93D990EF"]
 			icon: {
-				id: "scguns:dissident_spawn_egg"
+				id: "scguns:bullet_mold"
 			}
-			id: "43305670A7463815"
+			id: "5C9B58A78AD34D54"
 			rewards: [{
-				id: "3B3F1D4C7AA0FA65"
+				id: "7A2F5B4A93D06CE0"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			tasks: [{
+				id: "335802BCECD64E8E"
+				item: { count: 1, id: "scguns:bullet_mold" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["4FC2B3C3E3F6CAE0"]
+			icon: {
+				id: "scguns:gun_parts"
+			}
+			id: "74BBFEE16DAA870B"
+			rewards: [{
+				id: "3F49C62C64F0D165"
 				type: "xp_levels"
 				xp_levels: 4
 			}]
 			tasks: [{
-				entity: "scguns:dissident"
-				id: "15F4BD428B9498E4"
+				count: 4L
+				id: "050DC247C9B6EEA7"
+				item: { count: 1, id: "scguns:gun_parts" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: 7.5d
+		}
+		{
+			dependencies: ["74BBFEE16DAA870B"]
+			icon: {
+				id: "scguns:gun_barrel"
+			}
+			id: "58FC288B8BBC97B2"
+			rewards: [{
+				id: "5A37705B3BA8C70C"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "60721E1819775D84"
+				item: { count: 1, id: "scguns:gun_barrel" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: 7.5d
+		}
+		{
+			icon: {
+				id: "scguns:firing_unit"
+			}
+			id: "1EC1394663E9BB94"
+			rewards: [{
+				id: "2F4D61BB641F1C9E"
+				type: "xp_levels"
+				xp_levels: 6
+			}]
+			tasks: [{
+				id: "6F935E429D192774"
+				item: { count: 1, id: "scguns:firing_unit" }
+				type: "item"
+			}]
+			x: 7.5d
+			y: 7.5d
+		}
+		{
+			dependencies: ["4FC2B3C3E3F6CAE0"]
+			icon: {
+				id: "scguns:macerator"
+			}
+			id: "61D670D021BECD06"
+			rewards: [{
+				id: "52AFDD090C599960"
+				type: "xp_levels"
+				xp_levels: 4
+			}]
+			tasks: [{
+				id: "74E6AFB21B72299E"
+				item: { count: 1, id: "scguns:macerator" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: 16.265625d
+		}
+		{
+			dependencies: ["61D670D021BECD06"]
+			icon: {
+				id: "scguns:anthralite_ingot"
+			}
+			id: "4AFEBC7633458749"
+			rewards: [{
+				id: "7D941B2CD24F57CD"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				count: 4L
+				id: "10861D0D183ABFA9"
+				item: { count: 1, id: "scguns:anthralite_ingot" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: 14.53125d
+		}
+		{
+			icon: {
+				id: "scguns:treated_iron_ingot"
+			}
+			id: "02617BAF5153DEEB"
+			rewards: [{
+				id: "40F925DA8C40E215"
+				type: "xp_levels"
+				xp_levels: 6
+			}]
+			tasks: [{
+				count: 4L
+				id: "5FA77FC839D76E00"
+				item: { count: 1, id: "scguns:treated_iron_ingot" }
+				type: "item"
+			}]
+			x: 7.5d
+			y: 12.5625d
+		}
+		{
+			dependencies: ["61D670D021BECD06"]
+			icon: {
+				id: "scguns:lightning_battery"
+			}
+			id: "54F60DFA3617F5B6"
+			rewards: [{
+				id: "57712ACC624A55FD"
+				type: "xp_levels"
+				xp_levels: 6
+			}]
+			tasks: [{
+				id: "18B1A04C001ECB49"
+				item: { count: 1, id: "scguns:lightning_battery" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: 18.0d
+		}
+		{
+			icon: {
+				id: "scguns:powered_macerator"
+			}
+			id: "01A03C12C0E1664B"
+			rewards: [{
+				id: "3076009EC1CF2314"
+				type: "xp_levels"
+				xp_levels: 7
+			}]
+			tasks: [{
+				id: "2E9D0CC4B5CFD1A7"
+				item: { count: 1, id: "scguns:powered_macerator" }
+				type: "item"
+			}]
+			x: 7.5d
+			y: 18.0d
+		}
+		{
+			dependencies: [
+				"01A03C12C0E1664B"
+				"4FC2B3C3E3F6CAE0"
+			]
+			icon: {
+				id: "scguns:powered_mechanical_press"
+			}
+			id: "31D370F1131F2027"
+			rewards: [{
+				id: "20430C0B7FE834F3"
+				type: "xp_levels"
+				xp_levels: 8
+			}]
+			tasks: [{
+				id: "7D99E65C08A66D37"
+				item: { count: 1, id: "scguns:powered_mechanical_press" }
+				type: "item"
+			}]
+			x: 9.0d
+			y: 18.0d
+		}
+		{
+			dependencies: ["02617BAF5153DEEB"]
+			icon: {
+				id: "scguns:iron_blueprint"
+			}
+			id: "240F24379D9F35D1"
+			rewards: [{
+				id: "129F740636F86FBE"
+				type: "xp_levels"
+				xp_levels: 7
+			}]
+			shape: "hexagon"
+			tasks: [{
+				id: "5B78207B064773DC"
+				item: { count: 1, id: "scguns:iron_blueprint" }
+				type: "item"
+			}]
+			x: 9.0d
+			y: 12.5625d
+		}
+		{
+			dependencies: ["6D97678C4739C605"]
+			icon: {
+				id: "scguns:greaser_smg"
+			}
+			id: "53DA84D330B84F82"
+			rewards: [{
+				id: "28970B72461B0E68"
+				type: "xp_levels"
+				xp_levels: 8
+			}]
+			tasks: [{
+				id: "1CE51A396E37DA28"
+				item: { count: 1, id: "scguns:greaser_smg" }
+				type: "item"
+			}]
+			x: 10.5d
+			y: 10.125d
+		}
+		{
+			icon: {
+				id: "scguns:combat_shotgun"
+			}
+			id: "5E59B6F2970B3487"
+			rewards: [{
+				id: "3B0A714964A0DF71"
+				type: "xp_levels"
+				xp_levels: 8
+			}]
+			tasks: [{
+				id: "772F540EB2F5CE0B"
+				item: { count: 1, id: "scguns:combat_shotgun" }
+				type: "item"
+			}]
+			x: 10.5d
+			y: 13.5d
+		}
+		{
+			icon: {
+				id: "scguns:mk43_rifle"
+			}
+			id: "48F3ECC2BDB7E587"
+			rewards: [{
+				id: "1C23A75A4C97FE1C"
+				type: "xp_levels"
+				xp_levels: 10
+			}]
+			tasks: [{
+				id: "6A4DBF220659630E"
+				item: { count: 1, id: "scguns:mk43_rifle" }
+				type: "item"
+			}]
+			x: 10.5d
+			y: 15.0d
+		}
+		{
+			icon: {
+				id: "scguns:cog_knight_helmet"
+			}
+			id: "5E5EB99DF6B09F02"
+			rewards: [{
+				id: "16EE88A613AD6B54"
+				type: "xp_levels"
+				xp_levels: 9
+			}]
+			tasks: [{
+				entity: "scguns:cog_knight"
+				id: "79264B33A09487B1"
 				type: "kill"
 				value: 1L
 			}]
-			x: 9.0d
-			y: 3.0d
+			x: 12.0d
+			y: 9.0d
+		}
+		{
+			icon: {
+				id: "scguns:cogloader"
+			}
+			id: "55E8FB1BFCA4C9A1"
+			rewards: [{
+				id: "0310BEB7101212C7"
+				type: "xp_levels"
+				xp_levels: 9
+			}]
+			tasks: [{
+				id: "4487E3BF52D4C2B3"
+				structure: "scguns:cog_chambers"
+				type: "structure"
+			}]
+			x: 13.5d
+			y: 9.0d
+		}
+		{
+			icon: {
+				id: "scguns:asgharian_bricks"
+			}
+			id: "3FCB27B5C900B8AF"
+			rewards: [{
+				id: "77F58B528F8C2092"
+				type: "xp_levels"
+				xp_levels: 8
+			}]
+			tasks: [{
+				id: "4A7FB29664ECBA2A"
+				structure: "scguns:trench"
+				type: "structure"
+			}]
+			x: 15.0d
+			y: 9.0d
+		}
+		{
+			icon: {
+				id: "scguns:raygun"
+			}
+			id: "41B44A9044724A8E"
+			rewards: [{
+				id: "5342BC4CEE133106"
+				type: "xp_levels"
+				xp_levels: 12
+			}]
+			tasks: [{
+				id: "02922C18EAC0A379"
+				structure: "scguns:osgood_lab"
+				type: "structure"
+			}]
+			x: 12.0d
+			y: 11.25d
+		}
+		{
+			icon: {
+				id: "scguns:osgood_50"
+			}
+			id: "66772049CAAC8308"
+			rewards: [{
+				id: "0E0D6B9C389A6AB5"
+				type: "xp_levels"
+				xp_levels: 8
+			}]
+			tasks: [{
+				id: "0FBD3CB04B4FAEE3"
+				structure: "scguns:osgood_lab_outpost"
+				type: "structure"
+			}]
+			x: 13.5d
+			y: 10.5d
 		}
 		{
 			dependencies: ["48F3ECC2BDB7E587"]
@@ -456,87 +662,222 @@
 			rewards: [{
 				id: "53A4348654AF2765"
 				type: "xp_levels"
-				xp_levels: 4
+				xp_levels: 12
 			}]
 			tasks: [{
 				id: "0A0AAB8159A38C0B"
 				item: { count: 1, id: "scguns:auto_turret" }
 				type: "item"
 			}]
-			x: 9.0d
-			y: 1.5d
+			x: 12.0d
+			y: 15.0d
 		}
 		{
+			dependencies: ["68F3112C93D990EF"]
 			icon: {
-				id: "scguns:asgharian_bricks"
+				id: "scguns:dissident_spawn_egg"
 			}
-			id: "76021D88DED7A244"
+			id: "1AE45C06F0D2AC16"
 			rewards: [{
-				id: "0D9F0F619ED79D69"
+				id: "3B3F1D4C7AA0FA65"
 				type: "xp_levels"
-				xp_levels: 4
+				xp_levels: 14
 			}]
 			tasks: [{
-				id: "4A7FB29664ECBA2A"
-				structure: "scguns:trench"
-				type: "structure"
+				entity: "scguns:dissident"
+				id: "15F4BD428B9498E4"
+				type: "kill"
+				value: 1L
 			}]
-			x: 10.5d
-			y: -1.5d
+			x: 13.5d
+			y: 15.0d
 		}
 		{
 			icon: {
 				id: "scguns:asgharian_tiles"
 			}
-			id: "15F8144B05263D4D"
+			id: "5C42C6970B2EE3AA"
 			rewards: [{
-				id: "7EFE4E8766D001AD"
+				id: "379CC4F1507649A8"
 				type: "xp_levels"
-				xp_levels: 5
+				xp_levels: 14
 			}]
 			tasks: [{
 				id: "3F1C25899C60E2C2"
 				structure: "scguns:asgharian_citadel"
 				type: "structure"
 			}]
-			x: 10.5d
-			y: 0.0d
+			x: 13.5d
+			y: 12.0d
 		}
 		{
 			icon: {
-				id: "scguns:osgood_50"
+				id: "scguns:treated_brass_blueprint"
 			}
-			id: "354E04428DBFEFB0"
+			id: "71DCC4C10603D2D5"
 			rewards: [{
-				id: "0E0D6B9C389A6AB5"
+				id: "4DE803745B23E529"
 				type: "xp_levels"
-				xp_levels: 4
+				xp_levels: 12
 			}]
 			tasks: [{
-				id: "0FBD3CB04B4FAEE3"
-				structure: "scguns:osgood_lab_outpost"
-				type: "structure"
+				id: "0591DF3E8BC275FB"
+				item: { count: 1, id: "scguns:treated_brass_blueprint" }
+				type: "item"
 			}]
-			x: 10.5d
-			y: 1.5d
+			x: 15.0d
+			y: 12.0d
+		}
+		{
+			icon: {
+				id: "scguns:treated_brass_ingot"
+			}
+			id: "3E0307947586CF1C"
+			rewards: [{
+				id: "329C980DA16CBF7E"
+				type: "xp_levels"
+				xp_levels: 13
+			}]
+			tasks: [{
+				count: 4L
+				id: "163D229D4374C156"
+				item: { count: 1, id: "scguns:treated_brass_ingot" }
+				type: "item"
+			}]
+			x: 16.5d
+			y: 12.0d
 		}
 		{
 			icon: {
 				id: "scguns:gauss_rifle"
 			}
-			id: "7B541FF688E442E6"
+			id: "14371BD57C6F3EA8"
 			rewards: [{
 				id: "1BA9F072DC062E70"
 				type: "xp_levels"
-				xp_levels: 11
+				xp_levels: 22
 			}]
+			shape: "hexagon"
 			tasks: [{
 				id: "1881C01DDE355DFD"
 				item: { count: 1, id: "scguns:gauss_rifle" }
 				type: "item"
 			}]
+			x: 18.0d
+			y: 12.0d
+		}
+		{
+			dependencies: ["48F3ECC2BDB7E587"]
+			icon: {
+				id: "scguns:diamond_steel_blueprint"
+			}
+			id: "30240DA6A143DEFD"
+			rewards: [{
+				id: "3196B9CD504F40E0"
+				type: "xp_levels"
+				xp_levels: 12
+			}]
+			tasks: [{
+				id: "4A1A7921CCE7C060"
+				item: { count: 1, id: "scguns:diamond_steel_blueprint" }
+				type: "item"
+			}]
 			x: 12.0d
-			y: 0.0d
+			y: 16.5d
+		}
+		{
+			icon: {
+				id: "scguns:diamond_steel_ingot"
+			}
+			id: "0E72F941CE857A39"
+			rewards: [{
+				id: "59FD35D74F4A0AE2"
+				type: "xp_levels"
+				xp_levels: 13
+			}]
+			tasks: [{
+				count: 4L
+				id: "0EAA8E0952F15D4F"
+				item: { count: 1, id: "scguns:diamond_steel_ingot" }
+				type: "item"
+			}]
+			x: 13.5d
+			y: 16.5d
+		}
+		{
+			icon: {
+				id: "scguns:diamond_steel_chestplate"
+			}
+			id: "2A2D8179AF22F2DA"
+			rewards: [{
+				id: "1A64B024A27123A9"
+				type: "xp_levels"
+				xp_levels: 15
+			}]
+			tasks: [{
+				id: "1A6907E69AC9A44A"
+				item: { count: 1, id: "scguns:diamond_steel_chestplate" }
+				type: "item"
+			}]
+			x: 15.0d
+			y: 16.5d
+		}
+		{
+			dependencies: ["2A2D8179AF22F2DA"]
+			icon: {
+				id: "scguns:exo_suit_blueprint"
+			}
+			id: "374540ABE9CFD17B"
+			rewards: [{
+				id: "7306804135F35E08"
+				type: "xp_levels"
+				xp_levels: 15
+			}]
+			tasks: [{
+				id: "46A7BCBE810373E4"
+				item: { count: 1, id: "scguns:exo_suit_blueprint" }
+				type: "item"
+			}]
+			x: 16.5d
+			y: 16.5d
+		}
+		{
+			dependencies: ["374540ABE9CFD17B"]
+			icon: {
+				id: "scguns:exo_suit_chestplate"
+			}
+			id: "5F91D2BEA8B41967"
+			rewards: [{
+				id: "7863C9388BA8FE62"
+				type: "xp_levels"
+				xp_levels: 18
+			}]
+			tasks: [{
+				id: "30571CB923518E9E"
+				item: { count: 1, id: "scguns:exo_suit_chestplate" }
+				type: "item"
+			}]
+			x: 18.0d
+			y: 16.5d
+		}
+		{
+			dependencies: ["5F91D2BEA8B41967"]
+			icon: {
+				id: "scguns:jetpack_module"
+			}
+			id: "200EBB315D6E07B1"
+			rewards: [{
+				id: "5E57DF68A2E294EC"
+				type: "xp_levels"
+				xp_levels: 20
+			}]
+			tasks: [{
+				id: "6FEC7707C15D7FC1"
+				item: { count: 1, id: "scguns:jetpack_module" }
+				type: "item"
+			}]
+			x: 19.5d
+			y: 16.5d
 		}
 	]
 }
