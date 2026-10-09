@@ -10,18 +10,18 @@
 		"L_Ender's Cataclysm and Mowzie's Mobs"
 		"Bring friends, armour, and a plan"
 	]
-	chapter.12084DB64CDCDA8D.title: "&4Bosses & Beasts"
+	chapter.12084DB64CDCDA8D.title: "&4Bosses \\& Beasts"
 	chapter.1AC7061CA1910866.chapter_subtitle: ["Farmer's Delight and friends"]
-	chapter.1AC7061CA1910866.title: "&aFarming & Food"
+	chapter.1AC7061CA1910866.title: "&aFarming \\& Food"
 	chapter.35B12A34E27EA91F.chapter_subtitle: [
 		"Take to the sky"
 		"Contraptions that really move"
 	]
-	chapter.35B12A34E27EA91F.title: "&bAeronautics & Sable"
+	chapter.35B12A34E27EA91F.title: "&bAeronautics \\& Sable"
 	chapter.44D953F68CD66A06.chapter_subtitle: ["Electricity, connectors and kitchens"]
 	chapter.44D953F68CD66A06.title: "&eCreate Addons"
 	chapter.46B862BD16703034.chapter_subtitle: [
-		"A quick tour of Brass & Bullets"
+		"A quick tour of Brass \\& Bullets"
 		"Quests show what comes next - nothing is ever locked."
 	]
 	chapter.46B862BD16703034.title: "&6Getting Started"
@@ -65,7 +65,7 @@
 	quest.15F4D384811A3F65.quest_desc: ["Strange technology waits in the Osgood lab. Take a good weapon and do not go alone."]
 	quest.15F4D384811A3F65.title: "Osgood Lab"
 	quest.1694C0E29E50FC62.quest_desc: ["Crushing wheels double your ore. It is the single biggest upgrade to early game metal."]
-	quest.1694C0E29E50FC62.title: "Millstone & Crushing"
+	quest.1694C0E29E50FC62.title: "Millstone \\& Crushing"
 	quest.17128DE4517B2B44.quest_desc: ["&bJade&r shows what you are pointing at: block names, which tool is needed, crop growth, machine contents and the mod it came from."]
 	quest.17128DE4517B2B44.title: "What Am I Looking At?"
 	quest.1734698CAA13F427.quest_desc: ["A block that wants to float. Look at its recipe in JEI."]
@@ -92,7 +92,7 @@
 	quest.25AF30D3EF89856B.quest_desc: ["Fill an envelope with hot air from a burner and the balloon will rise."]
 	quest.25AF30D3EF89856B.title: "Hot Air Balloon"
 	quest.2616DAB1FC88E2D7.quest_desc: ["Kinetic power travels through shafts and cogs. Rotate them with the Wrench and watch the direction of spin."]
-	quest.2616DAB1FC88E2D7.title: "Shafts & Cogwheels"
+	quest.2616DAB1FC88E2D7.title: "Shafts \\& Cogwheels"
 	quest.272793C34A2906CB.quest_desc: ["Attach sails to a Windmill Bearing and build up. Higher up is better, and it needs no water."]
 	quest.272793C34A2906CB.title: "Windmill"
 	quest.28F6A2A4D17586A9.title: "Dog Bath"
@@ -127,7 +127,7 @@
 		"Hover an item and press &eR&r for how to make it, or &eU&r for what it is used in."
 		"Press &eO&r (or click the bookmark star) to bookmark recipes you want to keep."
 	]
-	quest.3C508F23063DA208.title: "Recipes & Uses"
+	quest.3C508F23063DA208.title: "Recipes \\& Uses"
 	quest.40B1DC15981CEDF4.title: "Ancient Stone"
 	quest.41AAC4233AD1F274.title: "Maledictus"
 	quest.41B44BB1CDC8AE3F.title: "Naga"
@@ -145,7 +145,7 @@
 	quest.488A63C6295FED20.title: "Dungeon Delver"
 	quest.48F3ECC2BDB7E587.quest_desc: ["A proper rifle, and a proper reason to build a bigger workshop."]
 	quest.48F3ECC2BDB7E587.title: "Mk43 Rifle"
-	quest.4B8DA19FD558CCA4.quest_desc: ["Create Crafts & Additions adds electricity: motors turn power into rotation and alternators do the opposite."]
+	quest.4B8DA19FD558CCA4.quest_desc: ["Create Crafts \\& Additions adds electricity: motors turn power into rotation and alternators do the opposite."]
 	quest.4B8DA19FD558CCA4.title: "Electric Motor"
 	quest.4C1DB57B77EB2CEC.quest_desc: ["Eat every dish. It is a long list - JEI helps."]
 	quest.4C1DB57B77EB2CEC.title: "Master Chef"
@@ -165,7 +165,7 @@
 		"A slicer cuts food on a belt, a sprinkler waters your fields."
 		"Meets Farmer's Delight halfway."
 	]
-	quest.528A39BD4D1A5749.title: "Slice & Dice"
+	quest.528A39BD4D1A5749.title: "Slice \\& Dice"
 	quest.52D55234CE56CBB0.quest_desc: ["Find the Cog Chambers."]
 	quest.52D55234CE56CBB0.title: "Cog Chambers"
 	quest.53C931ED70AF189E.quest_desc: [
@@ -174,7 +174,7 @@
 	]
 	quest.53C931ED70AF189E.title: "Control Chip"
 	quest.58E045C6EEF199C8.quest_desc: [
-		"&6Brass & Bullets&r is a Create-flavoured adventure: gears, airships, guns, farms and a few very angry bosses."
+		"&6Brass \\& Bullets&r is a Create-flavoured adventure: gears, airships, guns, farms and a few very angry bosses."
 		""
 		"This book is a suggestion, not a gate. Every quest is open from the start; the arrows only show a natural order."
 		"Quests give a little XP so there is always a reason to tick one off."
@@ -191,7 +191,7 @@
 	quest.5CF438E94A7609CD.title: "Down the Shaft"
 	quest.5D47F4EA8679DD26.title: "Alternator"
 	quest.5D763499129C817F.quest_desc: ["A basin under a mixer makes alloys and doughs. Heat the basin from below with a blaze burner for superheated recipes."]
-	quest.5D763499129C817F.title: "Basin & Mixer"
+	quest.5D763499129C817F.title: "Basin \\& Mixer"
 	quest.5DF23E0453576640.quest_desc: ["Andesite, plus iron nuggets or zinc. This is the first of Create's key materials."]
 	quest.5DF23E0453576640.title: "Andesite Alloy"
 	quest.5E4D2B4C3A773A0D.quest_desc: ["The Burning Arena in the Nether. Prepare for fire."]
@@ -233,7 +233,7 @@
 	quest.6FB8A227FE08908E.title: "Fried Rice"
 	quest.7209BCAE567F88AB.title: "Sprinkler"
 	quest.73312B06E3EF85EB.quest_desc: ["Automated mining and woodcutting. Aim the drill at stone and let it run."]
-	quest.73312B06E3EF85EB.title: "Drill & Saw"
+	quest.73312B06E3EF85EB.title: "Drill \\& Saw"
 	quest.7432A2FDB1E024A5.title: "Throttle"
 	quest.747DA2509BF4B713.quest_desc: ["Rice grows in shallow water. The Doggy Talents rice recipes in this pack use Farmer's Delight rice instead of their own, so only one rice exists."]
 	quest.747DA2509BF4B713.title: "Rice"

@@ -50,7 +50,7 @@ hash = "7d3cd3d4cc9045359490571dfada94da240ac01888aebf166e1187c61147bcf1"
 
 [[files]]
 file = "config/ftbquests/quests/lang/en_us.snbt"
-hash = "ee43ea571f0543fd9fa00070bfbc2b866b7ad5356f4a3ea3365d5d225884437f"
+hash = "f81709095e1488ffbd983a1b156a8ac7e00b4e55e31c896c52d6a19f6d40a57a"
 
 [[files]]
 file = "config/inventoryprofilesnext/inventoryprofiles.json"
