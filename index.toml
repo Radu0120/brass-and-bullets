@@ -289,11 +289,6 @@ hash = "1ddca65a04a9abb38d1bf1424b7cc6d3234abb255373bad932662e9a39f890ed"
 metafile = true
 
 [[files]]
-file = "mods/distraction-free-recipes.pw.toml"
-hash = "559997348e6cf4020ca79d65cd05716b2d58ae6d138fae6b5681f358a90cb88d"
-metafile = true
-
-[[files]]
 file = "mods/doggy-talents-next.pw.toml"
 hash = "ada11fbff7b0e6535b85ded781c809cb4e48a89290ee503fb627b1af8fba369b"
 metafile = true
