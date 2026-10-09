@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/DistantHorizons.toml"
-hash = "7b594d203a23f01f054ef797af6a0afdc217a37b6a3afdf6c1dad207ece08a23"
+hash = "c9786580272a5e8f9593efcdd50a99467993d331cb388ba67f4a496a40039ee0"
 
 [[files]]
 file = "config/ftbquests/quests/chapter_groups.snbt"
@@ -189,6 +189,11 @@ metafile = true
 [[files]]
 file = "mods/choicetheorems-overhauled-village.pw.toml"
 hash = "000217304bbb5971cb9dde9081fcb5ea92cc7edcae83321effdcd92b36e2f490"
+metafile = true
+
+[[files]]
+file = "mods/chunky.pw.toml"
+hash = "68cc51e721e993a8b7a2cbaf45369933b22b07a9c82327ab14757ee10684aa81"
 metafile = true
 
 [[files]]
@@ -454,6 +459,11 @@ metafile = true
 [[files]]
 file = "mods/sophisticated-storage.pw.toml"
 hash = "4b45eb6bb8dc80ae185b8077aedc91967ac77368720f3835e96edc14167265f3"
+metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
+hash = "6d9eaf43c14c66465e87bf03cc5cb5ecef57b3f2e8063c52f6332d33689d30be"
 metafile = true
 
 [[files]]

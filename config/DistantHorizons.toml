@@ -1,6 +1,23 @@
 _version = 4
 
+[server]
+	realTimeUpdateDistanceRadiusInChunks = 128
+	maxSyncOnLoadRequestDistance = 2048
+	maxGenerationRequestDistance = 2048
+	generationRequestRateLimit = 10
+	playerBandwidthLimit = 2000
+
+	[common.multiThreading]
+		numberOfThreads = 3
+		threadRunTimeRatio = "0.5"
+
+	[common.worldGenerator]
+		chunkGeneratorMode = "FEATURES"
+		generatorPlan = "SURFACE_ONLY"
+		pauseIfMovingQuickly = false
+		generationMaxChunkRadius = 750
+
 [client]
 	[client.advanced.graphics]
 		[client.advanced.graphics.quality]
-		lodChunkRenderDistanceRadius = 128
+			lodChunkRenderDistanceRadius = 128
