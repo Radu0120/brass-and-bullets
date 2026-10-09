@@ -15,14 +15,14 @@
 			icon: {
 				id: "minecraft:writable_book"
 			}
-			id: "58E045C6EEF199C8"
+			id: "440527095051CC61"
 			rewards: [{
-				id: "2FC7AAB6A91F6EBF"
-				type: "xp"
-				xp: 10
+				id: "0B22F92851A7E2CD"
+				type: "xp_levels"
+				xp_levels: 1
 			}]
 			tasks: [{
-				id: "1EC831DBB133BB95"
+				id: "344B8ECD28A0C72F"
 				type: "checkmark"
 			}]
 			x: 0.0d
@@ -34,9 +34,9 @@
 			}
 			id: "3C508F23063DA208"
 			rewards: [{
-				id: "0F19ADECB92B29E0"
-				type: "xp"
-				xp: 10
+				id: "67E866427B92E9C1"
+				type: "xp_levels"
+				xp_levels: 1
 			}]
 			tasks: [{
 				id: "0CD4992FB46A8D74"
@@ -50,11 +50,11 @@
 			icon: {
 				id: "minecraft:comparator"
 			}
-			id: "42134925E9E9FA59"
+			id: "5A592603C6D1AA78"
 			rewards: [{
-				id: "38ADE2292E38DAD8"
-				type: "xp"
-				xp: 10
+				id: "380FDB70306CB07D"
+				type: "xp_levels"
+				xp_levels: 1
 			}]
 			tasks: [{
 				id: "6020EEFD4B189EC3"
@@ -67,14 +67,14 @@
 			icon: {
 				id: "minecraft:filled_map"
 			}
-			id: "4F768452E684F831"
+			id: "55273D866C1A734E"
 			rewards: [{
-				id: "4D3036A2B99B5785"
-				type: "xp"
-				xp: 10
+				id: "30FFB9379EB21F50"
+				type: "xp_levels"
+				xp_levels: 1
 			}]
 			tasks: [{
-				id: "363BDC2134C2F90B"
+				id: "60E218708DC9B050"
 				type: "checkmark"
 			}]
 			x: 0.0d
@@ -86,12 +86,12 @@
 			}
 			id: "17128DE4517B2B44"
 			rewards: [{
-				id: "008F4872E644E0BD"
-				type: "xp"
-				xp: 10
+				id: "0FABD69FAC774A9E"
+				type: "xp_levels"
+				xp_levels: 1
 			}]
 			tasks: [{
-				id: "78B28DDBF093ABE1"
+				id: "7C22CA07F9F7AB51"
 				type: "checkmark"
 			}]
 			x: 1.5d
@@ -102,11 +102,11 @@
 			icon: {
 				id: "explorerscompass:explorerscompass"
 			}
-			id: "4C70ADDB6CFA21E3"
+			id: "7D99700A6A86D170"
 			rewards: [{
-				id: "68AA71907EA18496"
-				type: "xp"
-				xp: 10
+				id: "7AAF2EF7C58053C5"
+				type: "xp_levels"
+				xp_levels: 1
 			}]
 			tasks: [{
 				id: "73EB1BEFC9C0746F"
@@ -121,12 +121,12 @@
 			}
 			id: "6BB14B21200B4A7E"
 			rewards: [{
-				id: "215BD8B4E3F12402"
-				type: "xp"
-				xp: 15
+				id: "7B5D1EAA47B431B5"
+				type: "xp_levels"
+				xp_levels: 2
 			}]
 			tasks: [{
-				id: "3B1082139BBAFA96"
+				id: "5C5292F20FF761C8"
 				type: "checkmark"
 			}]
 			x: 0.0d
@@ -137,14 +137,14 @@
 			icon: {
 				id: "sophisticatedbackpacks:backpack"
 			}
-			id: "62AA6935E5413664"
+			id: "1FB912C9780C50B3"
 			rewards: [{
-				id: "310E088FE5D93646"
-				type: "xp"
-				xp: 15
+				id: "338D721E6401DFFA"
+				type: "xp_levels"
+				xp_levels: 2
 			}]
 			tasks: [{
-				id: "1113F607AA0BEB6B"
+				id: "671F154C92ADF496"
 				item: { count: 1, id: "sophisticatedbackpacks:backpack" }
 				type: "item"
 			}]
@@ -157,17 +157,174 @@
 			}
 			id: "077FBB5CEA5F59BA"
 			rewards: [{
-				id: "45F79F93AD6FB479"
-				type: "xp"
-				xp: 20
+				id: "36506B161FAC24C0"
+				type: "xp_levels"
+				xp_levels: 2
 			}]
 			tasks: [{
 				advancement: "minecraft:story/mine_stone"
 				criterion: ""
-				id: "0B7DA3D0A3952743"
+				id: "3AEF3AF87319EC3B"
 				type: "advancement"
 			}]
 			x: 3.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["077FBB5CEA5F59BA"]
+			icon: {
+				id: "minecraft:white_bed"
+			}
+			id: "22BBA5F264D95A20"
+			rewards: [{
+				id: "37D41032C52DD533"
+				type: "xp_levels"
+				xp_levels: 1
+			}]
+			tasks: [{
+				advancement: "minecraft:adventure/sleep_in_bed"
+				criterion: ""
+				id: "391E9C97A0B030C9"
+				type: "advancement"
+			}]
+			x: 3.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["6BB14B21200B4A7E"]
+			icon: {
+				id: "minecraft:emerald"
+			}
+			id: "3B5631027967B44A"
+			rewards: [{
+				id: "60E0BCC724200AA0"
+				type: "xp_levels"
+				xp_levels: 2
+			}]
+			tasks: [{
+				advancement: "minecraft:adventure/trade"
+				criterion: ""
+				id: "6F4544C2FCC8BE07"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["077FBB5CEA5F59BA"]
+			icon: {
+				id: "minecraft:stone_pickaxe"
+			}
+			id: "47ABD9F783922B54"
+			rewards: [{
+				id: "4E286E8F6D6704E8"
+				type: "xp_levels"
+				xp_levels: 1
+			}]
+			tasks: [{
+				advancement: "minecraft:story/upgrade_tools"
+				criterion: ""
+				id: "143BB4FC3E3702C3"
+				type: "advancement"
+			}]
+			x: 4.5d
+			y: 3.0d
+		}
+		{
+			icon: {
+				id: "minecraft:iron_ingot"
+			}
+			id: "6342668FB6B3E4F0"
+			rewards: [{
+				id: "4DFD5FE72D60B388"
+				type: "xp_levels"
+				xp_levels: 2
+			}]
+			tasks: [{
+				advancement: "minecraft:story/smelt_iron"
+				criterion: ""
+				id: "2709A7E06DAB917D"
+				type: "advancement"
+			}]
+			x: 6.0d
+			y: 3.0d
+		}
+		{
+			icon: {
+				id: "minecraft:iron_pickaxe"
+			}
+			id: "46E81D79EEA1024A"
+			rewards: [{
+				id: "1E129C39D91432ED"
+				type: "xp_levels"
+				xp_levels: 2
+			}]
+			tasks: [{
+				advancement: "minecraft:story/iron_tools"
+				criterion: ""
+				id: "38DB053E35D673FB"
+				type: "advancement"
+			}]
+			x: 7.5d
+			y: 3.0d
+		}
+		{
+			icon: {
+				id: "minecraft:iron_chestplate"
+			}
+			id: "0074D6ADDAC6E802"
+			rewards: [{
+				id: "17D1366D6423BD32"
+				type: "xp_levels"
+				xp_levels: 2
+			}]
+			tasks: [{
+				advancement: "minecraft:story/obtain_armor"
+				criterion: ""
+				id: "03602256D4BAC287"
+				type: "advancement"
+			}]
+			x: 6.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["46E81D79EEA1024A"]
+			icon: {
+				id: "minecraft:enchanting_table"
+			}
+			id: "0BEA36FE760EE8E5"
+			rewards: [{
+				id: "0F1125BFEE005D24"
+				type: "xp_levels"
+				xp_levels: 2
+			}]
+			tasks: [{
+				advancement: "minecraft:story/enchant_item"
+				criterion: ""
+				id: "59278F9474C5B25B"
+				type: "advancement"
+			}]
+			x: 7.5d
+			y: 4.5d
+		}
+		{
+			dependencies: ["46E81D79EEA1024A"]
+			icon: {
+				id: "minecraft:diamond"
+			}
+			id: "0D18C49E00F96704"
+			rewards: [{
+				id: "07F3F7F117D0473C"
+				type: "xp_levels"
+				xp_levels: 2
+			}]
+			tasks: [{
+				advancement: "minecraft:story/mine_diamond"
+				criterion: ""
+				id: "5EABB8E0768899CD"
+				type: "advancement"
+			}]
+			x: 9.0d
 			y: 3.0d
 		}
 	]

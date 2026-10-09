@@ -1,6 +1,0 @@
-{
-  "type": "doggytalents:rice_from_grass",
-  "conditions": [
-    { "condition": "minecraft:random_chance", "chance": 0.0 }
-  ]
-}
