@@ -5,6 +5,54 @@ file = "config/DistantHorizons.toml"
 hash = "7b594d203a23f01f054ef797af6a0afdc217a37b6a3afdf6c1dad207ece08a23"
 
 [[files]]
+file = "config/ftbquests/quests/chapter_groups.snbt"
+hash = "e57d8311aec9f524911ed1313cabf138bb7fa5a2d3ba985a00a2a267ff35ef78"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/addons.snbt"
+hash = "fec7b6854244ad29a5d759695d2902a3e4ad3aa57ec1e2901e9aae4309fa7df0"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/aeronautics.snbt"
+hash = "69f4defcdb4ab55f986f818fb09bd295ad0a12d4a7b05f69b4434cf36d3fa767"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/bosses.snbt"
+hash = "c62715042ef12f1282f9529c90171761808f3d2a1ffa94d1fb1bde580979ba27"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/create.snbt"
+hash = "93f368eefc36157a222394ac67811ff346ef13674b380227c22a9681327cf6c1"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/dogs.snbt"
+hash = "e77fc6d01ba310a1fe9c17153d0bd7e7313a2fb6b45fc2758a946690d9c1d38b"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/exploration.snbt"
+hash = "98c71078029f26fea5e2c312872600ca17c2be84de14ca28f2cf9fa75fd271d3"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/farming.snbt"
+hash = "04d2989984390c527a149a4b7929327d0b6fa4f812d532d53bc4c61ae78c01f7"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/getting_started.snbt"
+hash = "8032114367c5ed0e42fe1ca90c3439a1e4e7f6271225e42e82eef6ad6a6421ea"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/guns.snbt"
+hash = "b405e9f634c65fa85b0b14e1e61136338899969a4b9b629d05fc67a2b501df51"
+
+[[files]]
+file = "config/ftbquests/quests/data.snbt"
+hash = "7d3cd3d4cc9045359490571dfada94da240ac01888aebf166e1187c61147bcf1"
+
+[[files]]
+file = "config/ftbquests/quests/lang/en_us.snbt"
+hash = "ee43ea571f0543fd9fa00070bfbc2b866b7ad5356f4a3ea3365d5d225884437f"
+
+[[files]]
 file = "config/inventoryprofilesnext/inventoryprofiles.json"
 hash = "b07a7d659026de564aca82cf021ca8bd6c11ef463ae48f87f3ab9b4007c7aadf"
 
@@ -166,6 +214,11 @@ hash = "6a83b750a2a0dd77c418019b2fd61e1abcc07cf3b28c3c919569b9e5c89a8eb7"
 metafile = true
 
 [[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "657a01a86bbf8617e4726c77df08f708e43a3db12db74b837eebd8eb1d93faae"
+metafile = true
+
+[[files]]
 file = "mods/choicetheorems-overhauled-village.pw.toml"
 hash = "000217304bbb5971cb9dde9081fcb5ea92cc7edcae83321effdcd92b36e2f490"
 metafile = true
@@ -283,6 +336,21 @@ metafile = true
 [[files]]
 file = "mods/framework.pw.toml"
 hash = "dd0153bc05a3ffc8592dfaf35b4e8014127e6e1b352d7c18462d49a1ed7a5035"
+metafile = true
+
+[[files]]
+file = "mods/ftb-library-forge.pw.toml"
+hash = "19d86081a1c7654a91f437d85ea34af4e3f2b899c8e0e50d48a04ca97babf7b4"
+metafile = true
+
+[[files]]
+file = "mods/ftb-quests-forge.pw.toml"
+hash = "93330f6ec85532067df176c6baee0e0f6d685c78088b1a2217726f6421899148"
+metafile = true
+
+[[files]]
+file = "mods/ftb-teams-forge.pw.toml"
+hash = "c21c2308684a75cda7dd9d557d129c9f89f49be527da3d5aa675fff444c11f5e"
 metafile = true
 
 [[files]]

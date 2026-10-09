@@ -1,0 +1,268 @@
+{
+	chapter.02A69F832E263725.chapter_subtitle: [
+		"Doggy Talents Next"
+		"Tame, train, dress, repeat"
+	]
+	chapter.02A69F832E263725.title: "&dDogs"
+	chapter.0AAF917E8CC74A9B.chapter_subtitle: ["Powder, brass and a lot of gunsmithing"]
+	chapter.0AAF917E8CC74A9B.title: "&cScorched Guns"
+	chapter.12084DB64CDCDA8D.chapter_subtitle: [
+		"L_Ender's Cataclysm and Mowzie's Mobs"
+		"Bring friends, armour, and a plan"
+	]
+	chapter.12084DB64CDCDA8D.title: "&4Bosses & Beasts"
+	chapter.1AC7061CA1910866.chapter_subtitle: ["Farmer's Delight and friends"]
+	chapter.1AC7061CA1910866.title: "&aFarming & Food"
+	chapter.35B12A34E27EA91F.chapter_subtitle: [
+		"Take to the sky"
+		"Contraptions that really move"
+	]
+	chapter.35B12A34E27EA91F.title: "&bAeronautics & Sable"
+	chapter.44D953F68CD66A06.chapter_subtitle: ["Electricity, connectors and kitchens"]
+	chapter.44D953F68CD66A06.title: "&eCreate Addons"
+	chapter.46B862BD16703034.chapter_subtitle: [
+		"A quick tour of Brass & Bullets"
+		"Quests show what comes next - nothing is ever locked."
+	]
+	chapter.46B862BD16703034.title: "&6Getting Started"
+	chapter.5A015A7989D62A25.chapter_subtitle: [
+		"Dungeons, villages and ruins"
+		"Use the Explorer's Compass."
+	]
+	chapter.5A015A7989D62A25.title: "&2Exploration"
+	chapter.76EA0BEBB3C22822.chapter_subtitle: [
+		"Gears, belts, brass and trains"
+		"The backbone of the pack."
+	]
+	chapter.76EA0BEBB3C22822.title: "&6Create"
+	quest.008603E7AC0820AD.quest_desc: ["A propeller on a bearing pushes air - and your ship."]
+	quest.008603E7AC0820AD.title: "Propellers"
+	quest.00F40D2F7B6CA55C.title: "Black Powder"
+	quest.01059F6D6F568104.quest_desc: ["Lay track, build a train bogey, and name a station. Trains are slow to set up and very satisfying."]
+	quest.01059F6D6F568104.title: "All Aboard"
+	quest.023430ADEBFD4849.quest_desc: ["Put a fan behind lava, fire, water or smoke and items passing through get smelted, washed, haunted or smoked."]
+	quest.023430ADEBFD4849.title: "Encased Fan"
+	quest.048817015393828C.quest_desc: ["Critter Armory gives your dog real armour - and your cat, pig, cow and sheep too."]
+	quest.048817015393828C.title: "Doggy Armour"
+	quest.0488D8838BCDDA07.quest_desc: ["Take fire resistance, a stack of blocks and a way home."]
+	quest.0488D8838BCDDA07.title: "Into the Fire"
+	quest.0725B72F4B37EFF7.quest_desc: ["The hardest part to make by hand: it needs a sequenced assembly. Look it up in JEI and automate it."]
+	quest.0725B72F4B37EFF7.title: "Precision Mechanism"
+	quest.077FBB5CEA5F59BA.quest_desc: ["Stone tools first, shelter second. The overworld here has more mobs and more dungeons than vanilla, so do not wander far unarmed."]
+	quest.077FBB5CEA5F59BA.title: "Survive the Night"
+	quest.07BB86DAD1EAFD9B.quest_desc: ["A machine of war from the Ancient Factory."]
+	quest.07BB86DAD1EAFD9B.title: "The Harbinger"
+	quest.094CE6EDDC0007C7.quest_desc: ["Large dishes are placed on the ground and shared. Perfect for a base."]
+	quest.094CE6EDDC0007C7.title: "Feast"
+	quest.0C95E7D77FCCAD80.quest_desc: ["Tomatoes, onions, cabbage and rice. The advancement asks for them all."]
+	quest.0C95E7D77FCCAD80.title: "Kitchen Garden"
+	quest.0F16F7A61362E895.quest_desc: ["A knife is the key tool: it cuts food, and collects straw and some drops. Needs only flint and a stick."]
+	quest.0F16F7A61362E895.title: "A Sharp Start"
+	quest.102CB57DFE2AA79D.title: "Scylla"
+	quest.13F849F4E91737AD.quest_desc: ["Use with the track network from the Create chapter: pick a station and the navigator plans your journey."]
+	quest.13F849F4E91737AD.title: "Railways Navigator"
+	quest.146D58BCFEC10696.title: "Capacitor"
+	quest.15F4D384811A3F65.quest_desc: ["Strange technology waits in the Osgood lab. Take a good weapon and do not go alone."]
+	quest.15F4D384811A3F65.title: "Osgood Lab"
+	quest.1694C0E29E50FC62.quest_desc: ["Crushing wheels double your ore. It is the single biggest upgrade to early game metal."]
+	quest.1694C0E29E50FC62.title: "Millstone & Crushing"
+	quest.17128DE4517B2B44.quest_desc: ["&bJade&r shows what you are pointing at: block names, which tool is needed, crop growth, machine contents and the mod it came from."]
+	quest.17128DE4517B2B44.title: "What Am I Looking At?"
+	quest.1734698CAA13F427.quest_desc: ["A block that wants to float. Look at its recipe in JEI."]
+	quest.1734698CAA13F427.title: "Levitite"
+	quest.1768E288B9370442.quest_desc: ["Link two connectors to carry electricity over a distance."]
+	quest.1768E288B9370442.title: "Connect it Up"
+	quest.179F2A8D0A74E5AA.quest_desc: ["Turns ingots into rods and wires."]
+	quest.179F2A8D0A74E5AA.title: "Rolling Mill"
+	quest.1DBC34C4CA39C0AE.quest_desc: ["A giant of the snowy lands. The rewards are worth a sore head."]
+	quest.1DBC34C4CA39C0AE.title: "Frostmaw"
+	quest.1E1954D17E309A3E.quest_desc: ["This pack replaces the original rice recipe: it now uses Farmer's Delight cooked rice."]
+	quest.1E1954D17E309A3E.title: "Rice Bowl"
+	quest.1E23A31C42FBC8A0.quest_desc: ["Rises from the sunken city. Do not fight it on a boat."]
+	quest.1E23A31C42FBC8A0.title: "The Leviathan"
+	quest.200952D47759CB0A.quest_desc: ["Villages are a good place for beds, bread and trades."]
+	quest.200952D47759CB0A.title: "Anyone Home?"
+	quest.23D7FFD5012513B5.quest_desc: ["Glue holds a build together when you assemble it."]
+	quest.23D7FFD5012513B5.title: "Honey Glue"
+	quest.251C4E4C3455B31D.quest_desc: [
+		"Casings are the shells of most Create machines."
+		"Brass casing unlocks the next tier of automation."
+	]
+	quest.251C4E4C3455B31D.title: "Casings"
+	quest.25AF30D3EF89856B.quest_desc: ["Fill an envelope with hot air from a burner and the balloon will rise."]
+	quest.25AF30D3EF89856B.title: "Hot Air Balloon"
+	quest.2616DAB1FC88E2D7.quest_desc: ["Kinetic power travels through shafts and cogs. Rotate them with the Wrench and watch the direction of spin."]
+	quest.2616DAB1FC88E2D7.title: "Shafts & Cogwheels"
+	quest.272793C34A2906CB.quest_desc: ["Attach sails to a Windmill Bearing and build up. Higher up is better, and it needs no water."]
+	quest.272793C34A2906CB.title: "Windmill"
+	quest.28F6A2A4D17586A9.title: "Dog Bath"
+	quest.293E63F7E74742B7.quest_desc: [
+		"Packagers, Frogports and a Stock Ticker turn a base into a shopping network."
+		"This is the endgame of Create logistics."
+	]
+	quest.293E63F7E74742B7.title: "Package Logistics"
+	quest.2AEEE2660AF5634C.title: "First Rounds"
+	quest.2B5BFFF62C24E7BC.quest_desc: ["Copper and zinc, mixed with heat. Brass is the mid-game material: most of this pack's gear wants it."]
+	quest.2B5BFFF62C24E7BC.title: "Brass"
+	quest.2B760C529E691F55.quest_desc: ["Place it over a heat source such as a stove or campfire."]
+	quest.2B760C529E691F55.title: "Cooking Pot"
+	quest.2B7FA0364450CB22.title: "The End"
+	quest.2C0D4D8F3033C692.quest_desc: ["Boiler + steam engines make serious, steady power. Check the fuel and water tips in the boiler's Jade overlay."]
+	quest.2C0D4D8F3033C692.title: "Steam Engine"
+	quest.2D6D91BC7CFB2C28.quest_desc: ["Keeps a ship upright. Needed for serious airships."]
+	quest.2D6D91BC7CFB2C28.title: "Gyroscopic Mechanism"
+	quest.2FAEE98999C49526.quest_desc: ["A grid of these crafts any recipe, hands free."]
+	quest.2FAEE98999C49526.title: "Mechanical Crafter"
+	quest.32953515D9259E19.quest_desc: ["These clockwork guards defend the Cog Chambers. Bring something stronger than a musket."]
+	quest.32953515D9259E19.title: "Cog Knight"
+	quest.330970289E4E0864.quest_desc: ["Place it next to flowing water for free rotation. Your first real power source."]
+	quest.330970289E4E0864.title: "Water Wheel"
+	quest.34968F283D65E210.quest_desc: ["Keep two trains from meeting nose to nose."]
+	quest.34968F283D65E210.title: "Signals"
+	quest.35E3196556E7D965.title: "Andesite Propeller"
+	quest.3A47233E2835BCB1.quest_desc: ["Rich Soil never loses its moisture and lets crops grow faster. Compost it from organic compost."]
+	quest.3A47233E2835BCB1.title: "Rich Soil"
+	quest.3C508F23063DA208.quest_desc: [
+		"&bJEI&r is your recipe book. Items only show up when you type in the search box."
+		"Hover an item and press &eR&r for how to make it, or &eU&r for what it is used in."
+		"Press &eO&r (or click the bookmark star) to bookmark recipes you want to keep."
+	]
+	quest.3C508F23063DA208.title: "Recipes & Uses"
+	quest.40B1DC15981CEDF4.title: "Ancient Stone"
+	quest.41AAC4233AD1F274.title: "Maledictus"
+	quest.41B44BB1CDC8AE3F.title: "Naga"
+	quest.42134925E9E9FA59.quest_desc: ["Open &eOptions > Controls&r and use the search box. This pack adds a handful of keys for the minimap, skills book, backpacks and more."]
+	quest.42134925E9E9FA59.title: "Check Your Controls"
+	quest.4228F233E9897D07.quest_desc: ["You are not a pilot without goggles."]
+	quest.4228F233E9897D07.title: "Aviator"
+	quest.42C35CD12E723741.quest_desc: ["Scorched Guns are made at the Gun Bench. You will need blueprints, so keep an eye on the loot in every structure."]
+	quest.42C35CD12E723741.title: "Gun Bench"
+	quest.45840FCE3ECA6746.quest_desc: ["Dogs learn talents as they get older and as you give them treats."]
+	quest.45840FCE3ECA6746.title: "Training Day"
+	quest.48503F06FDA262CF.quest_desc: ["Assembles blocks into a free-moving \"ship\". Build it, press the button and the whole thing is a physics object."]
+	quest.48503F06FDA262CF.title: "Physics Assembler"
+	quest.488A63C6295FED20.quest_desc: ["Better Dungeons makes dungeons bigger and better stocked."]
+	quest.488A63C6295FED20.title: "Dungeon Delver"
+	quest.48F3ECC2BDB7E587.quest_desc: ["A proper rifle, and a proper reason to build a bigger workshop."]
+	quest.48F3ECC2BDB7E587.title: "Mk43 Rifle"
+	quest.4B8DA19FD558CCA4.quest_desc: ["Create Crafts & Additions adds electricity: motors turn power into rotation and alternators do the opposite."]
+	quest.4B8DA19FD558CCA4.title: "Electric Motor"
+	quest.4C1DB57B77EB2CEC.quest_desc: ["Eat every dish. It is a long list - JEI helps."]
+	quest.4C1DB57B77EB2CEC.title: "Master Chef"
+	quest.4C70ADDB6CFA21E3.quest_desc: [
+		"The &6Explorer's Compass&r points you towards structures such as villages, temples and the many dungeons this pack adds."
+		"Check its recipe in JEI, then use it to find your next adventure."
+	]
+	quest.4C70ADDB6CFA21E3.title: "Explorer's Compass"
+	quest.4F768452E684F831.quest_desc: [
+		"Xaero's Minimap sits in the top right and Xaero's World Map shows everywhere you have been."
+		"Set waypoints before you wander off - the nether and the sky both make it very easy to get lost."
+	]
+	quest.4F768452E684F831.title: "Find Your Way"
+	quest.50705865B6339F5C.quest_desc: ["Keep your ammo in one place so you can find it in a firefight."]
+	quest.50705865B6339F5C.title: "Ammo Box"
+	quest.528A39BD4D1A5749.quest_desc: [
+		"A slicer cuts food on a belt, a sprinkler waters your fields."
+		"Meets Farmer's Delight halfway."
+	]
+	quest.528A39BD4D1A5749.title: "Slice & Dice"
+	quest.52D55234CE56CBB0.quest_desc: ["Find the Cog Chambers."]
+	quest.52D55234CE56CBB0.title: "Cog Chambers"
+	quest.53C931ED70AF189E.quest_desc: [
+		"Create: Connected adds quality-of-life parts like the Brass Gearbox and Kinetic Battery."
+		"Chips are used for the more clever ones."
+	]
+	quest.53C931ED70AF189E.title: "Control Chip"
+	quest.58E045C6EEF199C8.quest_desc: [
+		"&6Brass & Bullets&r is a Create-flavoured adventure: gears, airships, guns, farms and a few very angry bosses."
+		""
+		"This book is a suggestion, not a gate. Every quest is open from the start; the arrows only show a natural order."
+		"Quests give a little XP so there is always a reason to tick one off."
+	]
+	quest.58E045C6EEF199C8.title: "Welcome"
+	quest.597FEC7B42B47918.title: "Stove"
+	quest.59C75941A1FEB9B9.quest_desc: ["Slow to reload, but it fires. Your first gun."]
+	quest.59C75941A1FEB9B9.title: "Flintlock"
+	quest.5AAAE7EC104E31F6.quest_desc: ["Create Deco adds catwalks, windows, bars and more. For when the factory should look good too."]
+	quest.5AAAE7EC104E31F6.title: "Deco"
+	quest.5B679972E90D7148.title: "Musket"
+	quest.5BF1C6399730FE3B.title: "Skillet"
+	quest.5C8C9C9A4A359CEF.title: "Navigation Table"
+	quest.5CF438E94A7609CD.title: "Down the Shaft"
+	quest.5D47F4EA8679DD26.title: "Alternator"
+	quest.5D763499129C817F.quest_desc: ["A basin under a mixer makes alloys and doughs. Heat the basin from below with a blaze burner for superheated recipes."]
+	quest.5D763499129C817F.title: "Basin & Mixer"
+	quest.5DF23E0453576640.quest_desc: ["Andesite, plus iron nuggets or zinc. This is the first of Create's key materials."]
+	quest.5DF23E0453576640.title: "Andesite Alloy"
+	quest.5E4D2B4C3A773A0D.quest_desc: ["The Burning Arena in the Nether. Prepare for fire."]
+	quest.5E4D2B4C3A773A0D.title: "Ignis"
+	quest.5E59B6F2970B3487.title: "Combat Shotgun"
+	quest.60913E19C634182C.quest_desc: ["Where you stand to steer. Pair it with the Throttle Lever."]
+	quest.60913E19C634182C.title: "Steering Wheel"
+	quest.62AA6935E5413664.quest_desc: [
+		"A &6Sophisticated Backpack&r is more than extra slots: upgrade slots add magnets, auto-feeding, restocking and more."
+		"Pair it with Sophisticated Storage chests and barrels for a tidy base."
+	]
+	quest.62AA6935E5413664.title: "Carry More"
+	quest.63589CBF55102EB4.quest_desc: ["Throw an ender eye and follow it."]
+	quest.63589CBF55102EB4.title: "Stronghold"
+	quest.65B87A9A5B30585B.title: "Bastion"
+	quest.6854A2DEC77B3EBA.title: "Netherite Monstrosity"
+	quest.68E395BA4D950EB5.title: "Ender Guardian"
+	quest.69116DA2C6B3D852.title: "Cutting Board"
+	quest.6A708C8FE452C339.quest_desc: ["Every Cataclysm boss, done."]
+	quest.6A708C8FE452C339.title: "Slayer of Giants"
+	quest.6B2889B1C8EA88C7.title: "Greaser SMG"
+	quest.6BA82933E1359447.quest_desc: [
+		"Put an item on a belt or depot under the press to make sheets."
+		"Pressed iron, copper and gold sheets feed almost everything that follows."
+	]
+	quest.6BA82933E1359447.title: "Mechanical Press"
+	quest.6BB14B21200B4A7E.quest_desc: [
+		"&bImprovable Skills&r lets you spend experience on permanent upgrades such as mining speed, health or fall protection."
+		"Look up the Skills Book in JEI. Quest rewards pay in XP, so every quest here nudges you towards your next skill."
+	]
+	quest.6BB14B21200B4A7E.title: "Book of Skills"
+	quest.6D97678C4739C605.quest_desc: ["Redcoats patrol the world. Take a few down - carefully."]
+	quest.6D97678C4739C605.title: "Hold the Line"
+	quest.6E9B1D9221AA6D28.title: "End City"
+	quest.6EF8AADCDB5DB761.quest_desc: ["Moves items between any two inventories. Link it to inputs and outputs with the Wrench."]
+	quest.6EF8AADCDB5DB761.title: "Mechanical Arm"
+	quest.6FB6BE55107A4B96.quest_desc: ["Tame a wolf with bones, or call a dog from scratch. It will follow you, fight for you, and be a very good pet."]
+	quest.6FB6BE55107A4B96.title: "A Dog's Best Friend"
+	quest.6FB8A227FE08908E.title: "Fried Rice"
+	quest.7209BCAE567F88AB.title: "Sprinkler"
+	quest.73312B06E3EF85EB.quest_desc: ["Automated mining and woodcutting. Aim the drill at stone and let it run."]
+	quest.73312B06E3EF85EB.title: "Drill & Saw"
+	quest.7432A2FDB1E024A5.title: "Throttle"
+	quest.747DA2509BF4B713.quest_desc: ["Rice grows in shallow water. The Doggy Talents rice recipes in this pack use Farmer's Delight rice instead of their own, so only one rice exists."]
+	quest.747DA2509BF4B713.title: "Rice"
+	quest.74995EEE01C4186C.quest_desc: [
+		"The &6Wrench&r rotates and dismantles Create parts. The &6Engineer's Goggles&r show stress and speed."
+		"Both are in JEI; neither costs much."
+	]
+	quest.74995EEE01C4186C.title: "Tools of the Trade"
+	quest.752CE7E2EFF72141.quest_desc: ["Not everything flies. Tires and wheel mounts give you a land vehicle from the same assembler."]
+	quest.752CE7E2EFF72141.title: "On the Ground"
+	quest.775CEAA4D023A2CD.quest_desc: ["A fake player on a stick: it uses, places and applies items. Feed it a belt and you have a sequenced assembly line."]
+	quest.775CEAA4D023A2CD.title: "Deployer"
+	quest.78B9B7E5C05B63E5.title: "Dog Bed"
+	quest.7A95AE833E954441.quest_desc: ["A Farmer's Delight recipe the dogs approve of."]
+	quest.7A95AE833E954441.title: "Dog Food"
+	quest.7AE7F2DA6149F569.title: "Tesla Coil"
+	quest.7C5E21A17A030622.quest_desc: ["Do not make noise. Do not bring a torch. Bring a lot of food."]
+	quest.7C5E21A17A030622.title: "Ancient City"
+	quest.7EDF91F56CD914EF.title: "Nether Fortress"
+	quest.7EEFCB7C2EC7EB8C.title: "Ancient Remnant"
+	quest.7F6EDAEF9EC5D685.quest_desc: ["The sun chief of the Umvuthana. Treat him with respect."]
+	quest.7F6EDAEF9EC5D685.title: "Barako"
+	quest.7F9032DFD442CAEE.quest_desc: ["Guards the Wrought Chamber. Learn his patterns and dodge."]
+	quest.7F9032DFD442CAEE.title: "Ferrous Wroughtnaut"
+	task.0CD4992FB46A8D74.title: "Open JEI"
+	task.1EC831DBB133BB95.title: "Read me"
+	task.363BDC2134C2F90B.title: "Open the world map"
+	task.3B1082139BBAFA96.title: "Open your skills"
+	task.6020EEFD4B189EC3.title: "Look at the controls"
+	task.73EB1BEFC9C0746F.title: "Learn about the compass"
+	task.78B28DDBF093ABE1.title: "Hover over a block"
+}

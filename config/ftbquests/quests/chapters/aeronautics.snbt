@@ -1,0 +1,272 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "aeronautics"
+	group: ""
+	icon: {
+		id: "aeronautics:propeller_bearing"
+	}
+	id: "35B12A34E27EA91F"
+	images: [ ]
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			icon: {
+				id: "simulated:physics_assembler"
+			}
+			id: "48503F06FDA262CF"
+			rewards: [{
+				id: "331B931A67E708EB"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [{
+				id: "2242F78EBA204AB0"
+				item: { count: 1, id: "simulated:physics_assembler" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["48503F06FDA262CF"]
+			icon: {
+				id: "simulated:honey_glue"
+			}
+			id: "23D7FFD5012513B5"
+			rewards: [{
+				id: "5EA66423220FC6FD"
+				type: "xp"
+				xp: 15
+			}]
+			tasks: [{
+				id: "30DA57C5C3C3F42D"
+				item: { count: 1, id: "simulated:honey_glue" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["48503F06FDA262CF"]
+			icon: {
+				id: "simulated:steering_wheel"
+			}
+			id: "60913E19C634182C"
+			rewards: [{
+				id: "60BB82294A012452"
+				type: "xp"
+				xp: 20
+			}]
+			tasks: [{
+				id: "4C60001E4F7B4E08"
+				item: { count: 1, id: "simulated:steering_wheel" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["48503F06FDA262CF"]
+			icon: {
+				id: "simulated:throttle_lever"
+			}
+			id: "7432A2FDB1E024A5"
+			rewards: [{
+				id: "3A5E7AB2A6BC4D7E"
+				type: "xp"
+				xp: 20
+			}]
+			tasks: [{
+				id: "50F13CC2AA164A3F"
+				item: { count: 1, id: "simulated:throttle_lever" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 1.5d
+		}
+		{
+			icon: {
+				id: "aeronautics:wooden_propeller"
+			}
+			id: "008603E7AC0820AD"
+			rewards: [{
+				id: "5B0A7EA51EA2D7DE"
+				type: "xp"
+				xp: 30
+			}]
+			tasks: [
+				{
+					id: "550DB7257C680909"
+					item: { count: 1, id: "aeronautics:wooden_propeller" }
+					type: "item"
+				}
+				{
+					id: "31F10F164E4D34C2"
+					item: { count: 1, id: "aeronautics:propeller_bearing" }
+					type: "item"
+				}
+			]
+			x: 3.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["48503F06FDA262CF"]
+			icon: {
+				id: "aeronautics:levitite"
+			}
+			id: "1734698CAA13F427"
+			rewards: [{
+				id: "51A88BC819B678F3"
+				type: "xp"
+				xp: 40
+			}]
+			tasks: [{
+				id: "1AFCF28EE02A642C"
+				item: { count: 1, id: "aeronautics:levitite" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: -1.5d
+		}
+		{
+			icon: {
+				id: "aeronautics:adjustable_burner"
+			}
+			id: "25AF30D3EF89856B"
+			rewards: [{
+				id: "6FA8D4C15081600F"
+				type: "xp"
+				xp: 40
+			}]
+			tasks: [
+				{
+					id: "7CE2B4D0C6D75414"
+					item: { count: 1, id: "aeronautics:adjustable_burner" }
+					type: "item"
+				}
+				{
+					count: 8L
+					id: "0C9005B77EC10A8C"
+					item: { count: 1, id: "aeronautics:white_envelope" }
+					type: "item"
+				}
+			]
+			x: 4.5d
+			y: 1.5d
+		}
+		{
+			icon: {
+				id: "aeronautics:andesite_propeller"
+			}
+			id: "35E3196556E7D965"
+			rewards: [{
+				id: "74CB38C7CE3DDDAC"
+				type: "xp"
+				xp: 30
+			}]
+			tasks: [{
+				id: "66CDF9E040399D0F"
+				item: { count: 1, id: "aeronautics:andesite_propeller" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["35E3196556E7D965"]
+			icon: {
+				id: "aeronautics:aviators_goggles"
+			}
+			id: "4228F233E9897D07"
+			rewards: [{
+				id: "48BB878D94FBC1A2"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [{
+				id: "031F81F93D9F158D"
+				item: { count: 1, id: "aeronautics:aviators_goggles" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: 0.0d
+		}
+		{
+			icon: {
+				id: "simulated:navigation_table"
+			}
+			id: "5C8C9C9A4A359CEF"
+			rewards: [{
+				id: "7E63D1C043A7AE80"
+				type: "xp"
+				xp: 30
+			}]
+			tasks: [{
+				id: "1EBF5823542E4970"
+				item: { count: 1, id: "simulated:navigation_table" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["48503F06FDA262CF"]
+			icon: {
+				id: "offroad:tire"
+			}
+			id: "752CE7E2EFF72141"
+			rewards: [{
+				id: "243555CF06592ED1"
+				type: "xp"
+				xp: 30
+			}]
+			tasks: [
+				{
+					count: 4L
+					id: "07B60EBCE876A915"
+					item: { count: 1, id: "offroad:tire" }
+					type: "item"
+				}
+				{
+					count: 2L
+					id: "735457744AE510B9"
+					item: { count: 1, id: "offroad:wheel_mount" }
+					type: "item"
+				}
+			]
+			x: 6.0d
+			y: 1.5d
+		}
+		{
+			dependencies: [
+				"4228F233E9897D07"
+				"5C8C9C9A4A359CEF"
+			]
+			icon: {
+				id: "simulated:gyroscopic_mechanism"
+			}
+			id: "2D6D91BC7CFB2C28"
+			rewards: [
+				{
+					id: "4DE0C02E135BCCCA"
+					type: "xp"
+					xp: 50
+				}
+				{
+					id: "6D87752F68597F4E"
+					type: "xp_levels"
+					xp_levels: 2
+				}
+			]
+			tasks: [{
+				id: "2DF339F5ACD8EB64"
+				item: { count: 1, id: "simulated:gyroscopic_mechanism" }
+				type: "item"
+			}]
+			x: 7.5d
+			y: 0.0d
+		}
+	]
+}

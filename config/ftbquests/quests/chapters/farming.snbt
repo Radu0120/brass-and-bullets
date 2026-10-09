@@ -1,0 +1,235 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "farming"
+	group: ""
+	icon: {
+		id: "farmersdelight:cooking_pot"
+	}
+	id: "1AC7061CA1910866"
+	images: [ ]
+	order_index: 5
+	quest_links: [ ]
+	quests: [
+		{
+			icon: {
+				id: "farmersdelight:flint_knife"
+			}
+			id: "0F16F7A61362E895"
+			rewards: [{
+				id: "0125F631B59C6B31"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "41B86BBFC091A8EA"
+				item: { count: 1, id: "farmersdelight:flint_knife" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["0F16F7A61362E895"]
+			icon: {
+				id: "farmersdelight:cutting_board"
+			}
+			id: "69116DA2C6B3D852"
+			rewards: [{
+				id: "4410E4360717CF7B"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "4857F9F6FEFBA422"
+				item: { count: 1, id: "farmersdelight:cutting_board" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["69116DA2C6B3D852"]
+			icon: {
+				id: "farmersdelight:cooking_pot"
+			}
+			id: "2B760C529E691F55"
+			rewards: [{
+				id: "081274F50FE1A951"
+				type: "xp"
+				xp: 15
+			}]
+			tasks: [{
+				id: "52B5333E898ED7B2"
+				item: { count: 1, id: "farmersdelight:cooking_pot" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 0.0d
+		}
+		{
+			icon: {
+				id: "farmersdelight:stove"
+			}
+			id: "597FEC7B42B47918"
+			rewards: [{
+				id: "778CC9A1E48CE52B"
+				type: "xp"
+				xp: 15
+			}]
+			tasks: [{
+				id: "706A900108C51291"
+				item: { count: 1, id: "farmersdelight:stove" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: -1.5d
+		}
+		{
+			icon: {
+				id: "farmersdelight:skillet"
+			}
+			id: "5BF1C6399730FE3B"
+			rewards: [{
+				id: "202A69DBAD8DB8C0"
+				type: "xp"
+				xp: 15
+			}]
+			tasks: [{
+				id: "6E16AF4FB49C344B"
+				item: { count: 1, id: "farmersdelight:skillet" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["0F16F7A61362E895"]
+			icon: {
+				id: "farmersdelight:rice"
+			}
+			id: "747DA2509BF4B713"
+			rewards: [{
+				id: "77FCEF33DB8186E3"
+				type: "xp"
+				xp: 15
+			}]
+			tasks: [{
+				count: 8L
+				id: "02D0809CC9239C94"
+				item: { count: 1, id: "farmersdelight:rice" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 1.5d
+		}
+		{
+			icon: {
+				id: "farmersdelight:fried_rice"
+			}
+			id: "6FB8A227FE08908E"
+			rewards: [{
+				id: "5B78A9516FA843A7"
+				type: "xp"
+				xp: 20
+			}]
+			tasks: [{
+				id: "22B63551103428C9"
+				item: { count: 1, id: "farmersdelight:fried_rice" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["0F16F7A61362E895"]
+			icon: {
+				id: "farmersdelight:tomato_seeds"
+			}
+			id: "0C95E7D77FCCAD80"
+			rewards: [{
+				id: "7F1492186FAE2962"
+				type: "xp"
+				xp: 30
+			}]
+			tasks: [{
+				advancement: "farmersdelight:main/plant_all_crops"
+				criterion: ""
+				id: "024DD4FC92801177"
+				type: "advancement"
+			}]
+			x: 1.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["0C95E7D77FCCAD80"]
+			icon: {
+				id: "farmersdelight:rich_soil"
+			}
+			id: "3A47233E2835BCB1"
+			rewards: [{
+				id: "525D2F8D0176A457"
+				type: "xp"
+				xp: 20
+			}]
+			tasks: [{
+				count: 4L
+				id: "23F0AF012145D063"
+				item: { count: 1, id: "farmersdelight:rich_soil" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 3.0d
+		}
+		{
+			dependencies: [
+				"597FEC7B42B47918"
+				"5BF1C6399730FE3B"
+			]
+			icon: {
+				id: "farmersdelight:roast_chicken_block"
+			}
+			id: "094CE6EDDC0007C7"
+			rewards: [{
+				id: "01B075AC48D1F10A"
+				type: "xp"
+				xp: 30
+			}]
+			tasks: [{
+				advancement: "farmersdelight:main/place_feast"
+				criterion: ""
+				id: "0C60BDC478C6CF5B"
+				type: "advancement"
+			}]
+			x: 6.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["094CE6EDDC0007C7"]
+			icon: {
+				id: "farmersdelight:hamburger"
+			}
+			id: "4C1DB57B77EB2CEC"
+			rewards: [
+				{
+					id: "20790B7CFDD940EB"
+					type: "xp"
+					xp: 50
+				}
+				{
+					id: "729E3963C38C552A"
+					type: "xp_levels"
+					xp_levels: 2
+				}
+			]
+			tasks: [{
+				advancement: "farmersdelight:main/master_chef"
+				criterion: ""
+				id: "4566EF1C3D95DC32"
+				type: "advancement"
+			}]
+			x: 7.5d
+			y: 0.0d
+		}
+	]
+}

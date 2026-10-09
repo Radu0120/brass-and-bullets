@@ -1,0 +1,220 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "addons"
+	group: ""
+	icon: {
+		id: "createaddition:electric_motor"
+	}
+	id: "44D953F68CD66A06"
+	images: [ ]
+	order_index: 3
+	quest_links: [ ]
+	quests: [
+		{
+			icon: {
+				id: "createaddition:electric_motor"
+			}
+			id: "4B8DA19FD558CCA4"
+			rewards: [{
+				id: "7294AF9192DABF43"
+				type: "xp"
+				xp: 20
+			}]
+			tasks: [{
+				id: "156386AF8F4F242B"
+				item: { count: 1, id: "createaddition:electric_motor" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["4B8DA19FD558CCA4"]
+			icon: {
+				id: "createaddition:alternator"
+			}
+			id: "5D47F4EA8679DD26"
+			rewards: [{
+				id: "386495A4A127A7BE"
+				type: "xp"
+				xp: 20
+			}]
+			tasks: [{
+				id: "7B6C95FC81E57F67"
+				item: { count: 1, id: "createaddition:alternator" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["5D47F4EA8679DD26"]
+			icon: {
+				id: "createaddition:capacitor"
+			}
+			id: "146D58BCFEC10696"
+			rewards: [{
+				id: "038E1388F26B213A"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [{
+				id: "24A4A36FED34E542"
+				item: { count: 1, id: "createaddition:capacitor" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["4B8DA19FD558CCA4"]
+			icon: {
+				id: "createaddition:rolling_mill"
+			}
+			id: "179F2A8D0A74E5AA"
+			rewards: [{
+				id: "78C83190F64419A7"
+				type: "xp"
+				xp: 20
+			}]
+			tasks: [{
+				id: "2ED1A679AB946CD0"
+				item: { count: 1, id: "createaddition:rolling_mill" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["179F2A8D0A74E5AA"]
+			icon: {
+				id: "createaddition:connector"
+			}
+			id: "1768E288B9370442"
+			rewards: [{
+				id: "29E11A6BFEF56705"
+				type: "xp"
+				xp: 20
+			}]
+			tasks: [{
+				count: 2L
+				id: "4342CC4E78B29431"
+				item: { count: 1, id: "createaddition:connector" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 1.5d
+		}
+		{
+			icon: {
+				id: "createaddition:tesla_coil"
+			}
+			id: "7AE7F2DA6149F569"
+			rewards: [{
+				id: "1309BEC9E6311735"
+				type: "xp"
+				xp: 40
+			}]
+			tasks: [{
+				id: "1B48640CD37EACF0"
+				item: { count: 1, id: "createaddition:tesla_coil" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: 0.0d
+		}
+		{
+			icon: {
+				id: "create_connected:control_chip"
+			}
+			id: "53C931ED70AF189E"
+			rewards: [{
+				id: "435FF1D885BF9B2A"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [{
+				id: "3AD526A094B2EF82"
+				item: { count: 1, id: "create_connected:control_chip" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 3.0d
+		}
+		{
+			icon: {
+				id: "sliceanddice:slicer"
+			}
+			id: "528A39BD4D1A5749"
+			rewards: [{
+				id: "7B2C082BD2FB3CE4"
+				type: "xp"
+				xp: 20
+			}]
+			tasks: [{
+				id: "29197DCB35A5B9D5"
+				item: { count: 1, id: "sliceanddice:slicer" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["528A39BD4D1A5749"]
+			icon: {
+				id: "sliceanddice:sprinkler"
+			}
+			id: "7209BCAE567F88AB"
+			rewards: [{
+				id: "4566CDD0C65CDD4D"
+				type: "xp"
+				xp: 20
+			}]
+			tasks: [{
+				id: "00673DEB9EDA413D"
+				item: { count: 1, id: "sliceanddice:sprinkler" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 3.0d
+		}
+		{
+			icon: {
+				id: "createrailwaysnavigator:navigator"
+			}
+			id: "13F849F4E91737AD"
+			rewards: [{
+				id: "43FDFF59FB9C6574"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [{
+				id: "2DA7A7BB9B936F0B"
+				item: { count: 1, id: "createrailwaysnavigator:navigator" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: 3.0d
+		}
+		{
+			icon: {
+				id: "createdeco:andesite_catwalk"
+			}
+			id: "5AAAE7EC104E31F6"
+			rewards: [{
+				id: "734F1C2081614BA9"
+				type: "xp"
+				xp: 15
+			}]
+			tasks: [{
+				count: 8L
+				id: "324628607A247D16"
+				item: { count: 1, id: "createdeco:andesite_catwalk" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 4.5d
+		}
+	]
+}

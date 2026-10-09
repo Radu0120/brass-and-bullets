@@ -1,0 +1,238 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "exploration"
+	group: ""
+	icon: {
+		id: "minecraft:compass"
+	}
+	id: "5A015A7989D62A25"
+	images: [ ]
+	order_index: 7
+	quest_links: [ ]
+	quests: [
+		{
+			icon: {
+				id: "minecraft:emerald"
+			}
+			id: "200952D47759CB0A"
+			rewards: [{
+				id: "30C41A4770DC02A3"
+				type: "xp"
+				xp: 15
+			}]
+			tasks: [{
+				id: "3BC9045F5B61F7DD"
+				structure: "minecraft:village_plains"
+				type: "structure"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			icon: {
+				id: "minecraft:rail"
+			}
+			id: "5CF438E94A7609CD"
+			rewards: [{
+				id: "4581428A6C688286"
+				type: "xp"
+				xp: 15
+			}]
+			tasks: [{
+				id: "5893B12E5DBE05FD"
+				structure: "minecraft:mineshaft"
+				type: "structure"
+			}]
+			x: 1.5d
+			y: -1.5d
+		}
+		{
+			icon: {
+				id: "minecraft:spawner"
+			}
+			id: "488A63C6295FED20"
+			rewards: [{
+				id: "1D76F8A5CAA8D803"
+				type: "xp"
+				xp: 20
+			}]
+			tasks: [{
+				id: "7A7F7EDA8C6620D4"
+				structure: "betterdungeons:small_dungeon"
+				type: "structure"
+			}]
+			x: 1.5d
+			y: 0.0d
+		}
+		{
+			icon: {
+				id: "minecraft:sandstone"
+			}
+			id: "40B1DC15981CEDF4"
+			rewards: [{
+				id: "24FA16FD975F3F1C"
+				type: "xp"
+				xp: 20
+			}]
+			tasks: [{
+				id: "7A180FF8CC04197B"
+				structure: "minecraft:desert_pyramid"
+				type: "structure"
+			}]
+			x: 1.5d
+			y: 1.5d
+		}
+		{
+			icon: {
+				id: "minecraft:obsidian"
+			}
+			id: "0488D8838BCDDA07"
+			rewards: [{
+				id: "5773EAF038307533"
+				type: "xp"
+				xp: 40
+			}]
+			tasks: [{
+				dimension: "minecraft:the_nether"
+				id: "1842319DA859E528"
+				type: "dimension"
+			}]
+			x: 3.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["0488D8838BCDDA07"]
+			icon: {
+				id: "minecraft:nether_bricks"
+			}
+			id: "7EDF91F56CD914EF"
+			rewards: [{
+				id: "6CFC867318B50FCC"
+				type: "xp"
+				xp: 40
+			}]
+			tasks: [{
+				id: "22F6B4C71248AD87"
+				structure: "minecraft:fortress"
+				type: "structure"
+			}]
+			x: 4.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["0488D8838BCDDA07"]
+			icon: {
+				id: "minecraft:gilded_blackstone"
+			}
+			id: "65B87A9A5B30585B"
+			rewards: [{
+				id: "68FC0DE70231E018"
+				type: "xp"
+				xp: 40
+			}]
+			tasks: [{
+				id: "7C842F3D22E4BD06"
+				structure: "minecraft:bastion_remnant"
+				type: "structure"
+			}]
+			x: 4.5d
+			y: 0.0d
+		}
+		{
+			icon: {
+				id: "minecraft:sculk_shrieker"
+			}
+			id: "7C5E21A17A030622"
+			rewards: [
+				{
+					id: "36B5317D56CCFD23"
+					type: "xp"
+					xp: 50
+				}
+				{
+					id: "099C0BE047A39C42"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
+			tasks: [{
+				id: "3C7D3517042A9517"
+				structure: "minecraft:ancient_city"
+				type: "structure"
+			}]
+			x: 3.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["7C5E21A17A030622"]
+			icon: {
+				id: "minecraft:ender_eye"
+			}
+			id: "63589CBF55102EB4"
+			rewards: [{
+				id: "7EB58009A73DE826"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "21751ACEF3F94C38"
+				structure: "minecraft:stronghold"
+				type: "structure"
+			}]
+			x: 6.0d
+			y: 0.0d
+		}
+		{
+			icon: {
+				id: "minecraft:end_portal_frame"
+			}
+			id: "2B7FA0364450CB22"
+			rewards: [
+				{
+					id: "0A0BC0B8D30FB95A"
+					type: "xp"
+					xp: 60
+				}
+				{
+					id: "6EA4C2C5C09BE071"
+					type: "xp_levels"
+					xp_levels: 2
+				}
+			]
+			tasks: [{
+				dimension: "minecraft:the_end"
+				id: "10B7A9154FDCFE94"
+				type: "dimension"
+			}]
+			x: 7.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["2B7FA0364450CB22"]
+			icon: {
+				id: "minecraft:purpur_block"
+			}
+			id: "6E9B1D9221AA6D28"
+			rewards: [
+				{
+					id: "12C8D1C6C8D36B5E"
+					type: "xp"
+					xp: 60
+				}
+				{
+					id: "50A546EB004FA5C6"
+					type: "xp_levels"
+					xp_levels: 2
+				}
+			]
+			tasks: [{
+				id: "0A6D8E1B6B549509"
+				structure: "minecraft:end_city"
+				type: "structure"
+			}]
+			x: 9.0d
+			y: 0.0d
+		}
+	]
+}
