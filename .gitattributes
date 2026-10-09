@@ -1,0 +1,2 @@
+# packwiz hashes the exact bytes of every .toml: never let git rewrite line endings
+*.toml text eol=lf
