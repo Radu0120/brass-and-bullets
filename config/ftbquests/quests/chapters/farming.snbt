@@ -17,7 +17,7 @@
 			}
 			id: "0F16F7A61362E895"
 			rewards: [{
-				id: "5A37C4EB10928A10"
+				id: "62F4E4C21F1AE6F3"
 				type: "xp_levels"
 				xp_levels: 1
 			}]
@@ -36,12 +36,12 @@
 			}
 			id: "69116DA2C6B3D852"
 			rewards: [{
-				id: "5ABC3176F06680D6"
+				id: "1864F4A3027190A0"
 				type: "xp_levels"
 				xp_levels: 1
 			}]
 			tasks: [{
-				id: "7B0EFC8299A49EEC"
+				id: "6E90932CDFD9ACC8"
 				item: { count: 1, id: "farmersdelight:cutting_board" }
 				type: "item"
 			}]
@@ -53,14 +53,14 @@
 			icon: {
 				id: "farmersdelight:cooking_pot"
 			}
-			id: "476F9272ABF74D6B"
+			id: "612A685BBF3DE5F4"
 			rewards: [{
-				id: "15860345F0E4EE96"
+				id: "51430FEB46C4C140"
 				type: "xp_levels"
 				xp_levels: 2
 			}]
 			tasks: [{
-				id: "1F90FD1C01864170"
+				id: "538165F7B8CB7F7F"
 				item: { count: 1, id: "farmersdelight:cooking_pot" }
 				type: "item"
 			}]
@@ -108,7 +108,7 @@
 			icon: {
 				id: "farmersdelight:rice"
 			}
-			id: "4CDE8E67E9A60D19"
+			id: "65BBEA17596479DD"
 			rewards: [{
 				id: "0E6A44E4737ED788"
 				type: "xp_levels"
@@ -116,7 +116,7 @@
 			}]
 			tasks: [{
 				count: 8L
-				id: "2FDBC3FD65D620C8"
+				id: "60AE3AC84771E5F4"
 				item: { count: 1, id: "farmersdelight:rice" }
 				type: "item"
 			}]
@@ -129,7 +129,7 @@
 			}
 			id: "6FB8A227FE08908E"
 			rewards: [{
-				id: "4C591DE345DF9B8E"
+				id: "0612F4C4D3185D3B"
 				type: "xp_levels"
 				xp_levels: 2
 			}]
@@ -168,13 +168,13 @@
 			}
 			id: "3A47233E2835BCB1"
 			rewards: [{
-				id: "14661F3097E75D17"
+				id: "784DE5836480D14E"
 				type: "xp_levels"
 				xp_levels: 2
 			}]
 			tasks: [{
 				count: 4L
-				id: "5DD77426FFD0A11B"
+				id: "75C0669D0D366C53"
 				item: { count: 1, id: "farmersdelight:rich_soil" }
 				type: "item"
 			}]
@@ -198,7 +198,7 @@
 			tasks: [{
 				advancement: "farmersdelight:main/place_feast"
 				criterion: ""
-				id: "72F8F8A3C76DE3BD"
+				id: "545DBD3E20A97B22"
 				type: "advancement"
 			}]
 			x: 6.0d
@@ -231,7 +231,7 @@
 			}
 			id: "2B4F46BCC0C58493"
 			rewards: [{
-				id: "6F3C0DBE76FB9B18"
+				id: "7B2FA20A3FA7F023"
 				type: "xp_levels"
 				xp_levels: 1
 			}]
@@ -251,14 +251,14 @@
 			}
 			id: "7EC198492A10A46F"
 			rewards: [{
-				id: "3CA4EA80D845A4BD"
+				id: "2711BA60D02F8916"
 				type: "xp_levels"
 				xp_levels: 1
 			}]
 			tasks: [{
 				advancement: "farmersdelight:main/place_campfire"
 				criterion: ""
-				id: "7F2DDCD40EB81BBC"
+				id: "2D45FD015FD46A46"
 				type: "advancement"
 			}]
 			x: 1.5d
@@ -287,7 +287,7 @@
 			icon: {
 				id: "farmersdelight:ham"
 			}
-			id: "0B7201AE3E7F58AE"
+			id: "7484C0DD7FF33F47"
 			rewards: [{
 				id: "1811D9FEBB27E8C6"
 				type: "xp_levels"
@@ -296,7 +296,7 @@
 			tasks: [{
 				advancement: "farmersdelight:main/get_ham"
 				criterion: ""
-				id: "57832CBDF3B23A4C"
+				id: "74F02D00C5596629"
 				type: "advancement"
 			}]
 			x: 6.0d
@@ -328,14 +328,14 @@
 			}
 			id: "38A452183B56E9F1"
 			rewards: [{
-				id: "1AB09FED0E842976"
+				id: "1FB6C3B9B5579795"
 				type: "xp_levels"
 				xp_levels: 2
 			}]
 			tasks: [{
 				advancement: "farmersdelight:main/harvest_ropelogged_tomato"
 				criterion: ""
-				id: "33488DE03E00A5B4"
+				id: "3E2407580380FD95"
 				type: "advancement"
 			}]
 			x: 4.5d
@@ -355,7 +355,7 @@
 			tasks: [{
 				advancement: "farmersdelight:main/hit_raider_with_rotten_tomato"
 				criterion: ""
-				id: "560549813FA2FC90"
+				id: "70700CB5D26F2DFF"
 				type: "advancement"
 			}]
 			x: 6.0d
@@ -368,7 +368,7 @@
 			}
 			id: "6FD7238A4E58CCAC"
 			rewards: [{
-				id: "234B2EE2510714B8"
+				id: "0736D98D629B8859"
 				type: "xp_levels"
 				xp_levels: 2
 			}]
@@ -395,7 +395,7 @@
 			tasks: [{
 				advancement: "farmersdelight:main/get_mushroom_colony"
 				criterion: ""
-				id: "3EEDC5135026B465"
+				id: "096F54E5A5CA016E"
 				type: "advancement"
 			}]
 			x: 6.0d
@@ -445,7 +445,7 @@
 			icon: {
 				id: "farmersdelight:bamboo_basket"
 			}
-			id: "6EA95F9E699C9DE4"
+			id: "67AEED21FEB2128F"
 			rewards: [{
 				id: "3CFC7DAB5B7F3053"
 				type: "xp_levels"

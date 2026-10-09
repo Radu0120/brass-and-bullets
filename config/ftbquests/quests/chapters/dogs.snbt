@@ -6,7 +6,7 @@
 	icon: {
 		id: "minecraft:bone"
 	}
-	id: "4DF588DFDA0117E6"
+	id: "727B3784D36E0656"
 	images: [ ]
 	order_index: 7
 	quest_links: [ ]
@@ -24,7 +24,7 @@
 			tasks: [{
 				advancement: "minecraft:husbandry/tame_an_animal"
 				criterion: ""
-				id: "605361776BA40717"
+				id: "5EF4857F517A2C42"
 				type: "advancement"
 			}]
 			x: 0.0d
@@ -37,7 +37,7 @@
 			}
 			id: "204861D8AD0496C1"
 			rewards: [{
-				id: "32E4D70DC6A77DB3"
+				id: "25B302F323CFF8AF"
 				type: "xp_levels"
 				xp_levels: 1
 			}]
@@ -80,16 +80,16 @@
 			icon: {
 				id: "minecraft:armadillo_scute"
 			}
-			id: "482D7CB0F179FD43"
+			id: "12BD84E6E3D1494F"
 			rewards: [{
-				id: "4824A56E5C2FCD6F"
+				id: "61313E91366A1F43"
 				type: "xp_levels"
 				xp_levels: 2
 			}]
 			tasks: [{
 				advancement: "minecraft:husbandry/repair_wolf_armor"
 				criterion: ""
-				id: "7F687FDA520E5173"
+				id: "0B6641635BFCFF39"
 				type: "advancement"
 			}]
 			x: 3.0d
@@ -102,7 +102,7 @@
 			}
 			id: "49080A681E4F5D09"
 			rewards: [{
-				id: "09166293FB36B7FA"
+				id: "1E9F600DB79ADD1B"
 				type: "xp_levels"
 				xp_levels: 4
 			}]
@@ -122,7 +122,7 @@
 			}
 			id: "4C5CED5CFEB229CB"
 			rewards: [{
-				id: "36AD86A8B65F7A18"
+				id: "3AC16C1693324DEB"
 				type: "xp_levels"
 				xp_levels: 2
 			}]
@@ -138,7 +138,7 @@
 			icon: {
 				id: "minecraft:cod"
 			}
-			id: "331E7AB54538B188"
+			id: "16C1B9721E8BE993"
 			rewards: [{
 				id: "76F44D639F945EAA"
 				type: "xp_levels"
@@ -147,7 +147,7 @@
 			tasks: [{
 				advancement: "minecraft:husbandry/complete_catalogue"
 				criterion: ""
-				id: "59FCE04A6AB25405"
+				id: "0266350D75089480"
 				type: "advancement"
 			}]
 			x: 0.0d
@@ -164,7 +164,7 @@
 				xp_levels: 2
 			}]
 			tasks: [{
-				id: "25A830870C59B7A4"
+				id: "757A919680377CB5"
 				item: { count: 1, id: "critterarmory:iron_cat_armor" }
 				type: "item"
 			}]
@@ -176,7 +176,7 @@
 			icon: {
 				id: "critterarmory:diamond_wolf_armor"
 			}
-			id: "3B230D934673DD23"
+			id: "799E1076FF1C47A9"
 			rewards: [{
 				id: "482992E97685D93F"
 				type: "xp_levels"
@@ -195,14 +195,14 @@
 			icon: {
 				id: "critterarmory:vitality_feed"
 			}
-			id: "27D8F7586E6A3ADC"
+			id: "629EC3F1EE7795DC"
 			rewards: [{
 				id: "19EEE3A95E04ED2D"
 				type: "xp_levels"
 				xp_levels: 2
 			}]
 			tasks: [{
-				id: "3940FC794F9C1C94"
+				id: "680F601DF6F9FCAD"
 				item: { count: 1, id: "critterarmory:vitality_feed" }
 				type: "item"
 			}]

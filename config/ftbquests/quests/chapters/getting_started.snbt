@@ -15,14 +15,14 @@
 			icon: {
 				id: "minecraft:writable_book"
 			}
-			id: "440527095051CC61"
+			id: "0D72C10673587139"
 			rewards: [{
-				id: "0B22F92851A7E2CD"
+				id: "1C8FD38A9BC833CD"
 				type: "xp_levels"
 				xp_levels: 1
 			}]
 			tasks: [{
-				id: "344B8ECD28A0C72F"
+				id: "31B0BC438A27E9E2"
 				type: "checkmark"
 			}]
 			x: 0.0d
@@ -34,7 +34,7 @@
 			}
 			id: "3C508F23063DA208"
 			rewards: [{
-				id: "67E866427B92E9C1"
+				id: "594F1A56DA0642B8"
 				type: "xp_levels"
 				xp_levels: 1
 			}]
@@ -50,9 +50,9 @@
 			icon: {
 				id: "minecraft:comparator"
 			}
-			id: "5A592603C6D1AA78"
+			id: "10FF7A29BCA74B87"
 			rewards: [{
-				id: "380FDB70306CB07D"
+				id: "460D3F0C50D23F72"
 				type: "xp_levels"
 				xp_levels: 1
 			}]
@@ -67,14 +67,14 @@
 			icon: {
 				id: "minecraft:filled_map"
 			}
-			id: "55273D866C1A734E"
+			id: "4C9FC72C875A1E04"
 			rewards: [{
 				id: "30FFB9379EB21F50"
 				type: "xp_levels"
 				xp_levels: 1
 			}]
 			tasks: [{
-				id: "60E218708DC9B050"
+				id: "53565CBA06823796"
 				type: "checkmark"
 			}]
 			x: 0.0d
@@ -91,7 +91,7 @@
 				xp_levels: 1
 			}]
 			tasks: [{
-				id: "7C22CA07F9F7AB51"
+				id: "3EC164A8DC944CDF"
 				type: "checkmark"
 			}]
 			x: 1.5d
@@ -102,9 +102,9 @@
 			icon: {
 				id: "explorerscompass:explorerscompass"
 			}
-			id: "7D99700A6A86D170"
+			id: "65AE231DABF41F48"
 			rewards: [{
-				id: "7AAF2EF7C58053C5"
+				id: "2F49854ED40F7713"
 				type: "xp_levels"
 				xp_levels: 1
 			}]
@@ -121,12 +121,12 @@
 			}
 			id: "6BB14B21200B4A7E"
 			rewards: [{
-				id: "7B5D1EAA47B431B5"
+				id: "2406023A78C19016"
 				type: "xp_levels"
 				xp_levels: 2
 			}]
 			tasks: [{
-				id: "5C5292F20FF761C8"
+				id: "52BF7C2CC04AB1F9"
 				type: "checkmark"
 			}]
 			x: 0.0d
@@ -137,14 +137,14 @@
 			icon: {
 				id: "sophisticatedbackpacks:backpack"
 			}
-			id: "1FB912C9780C50B3"
+			id: "0FB9D4F9EB60DB1C"
 			rewards: [{
-				id: "338D721E6401DFFA"
+				id: "1FD5C2356E1AF948"
 				type: "xp_levels"
 				xp_levels: 2
 			}]
 			tasks: [{
-				id: "671F154C92ADF496"
+				id: "11188A407479C276"
 				item: { count: 1, id: "sophisticatedbackpacks:backpack" }
 				type: "item"
 			}]
@@ -164,7 +164,7 @@
 			tasks: [{
 				advancement: "minecraft:story/mine_stone"
 				criterion: ""
-				id: "3AEF3AF87319EC3B"
+				id: "1B0EB5FD6604262A"
 				type: "advancement"
 			}]
 			x: 3.0d
@@ -175,7 +175,7 @@
 			icon: {
 				id: "minecraft:white_bed"
 			}
-			id: "22BBA5F264D95A20"
+			id: "246F23DC3085BBFE"
 			rewards: [{
 				id: "37D41032C52DD533"
 				type: "xp_levels"
@@ -184,7 +184,7 @@
 			tasks: [{
 				advancement: "minecraft:adventure/sleep_in_bed"
 				criterion: ""
-				id: "391E9C97A0B030C9"
+				id: "7233497E6DE62058"
 				type: "advancement"
 			}]
 			x: 3.0d
@@ -215,16 +215,16 @@
 			icon: {
 				id: "minecraft:stone_pickaxe"
 			}
-			id: "47ABD9F783922B54"
+			id: "5117380F9549D352"
 			rewards: [{
-				id: "4E286E8F6D6704E8"
+				id: "57977FB4981B6E53"
 				type: "xp_levels"
 				xp_levels: 1
 			}]
 			tasks: [{
 				advancement: "minecraft:story/upgrade_tools"
 				criterion: ""
-				id: "143BB4FC3E3702C3"
+				id: "57DC09B829E1C162"
 				type: "advancement"
 			}]
 			x: 4.5d
@@ -234,9 +234,9 @@
 			icon: {
 				id: "minecraft:iron_ingot"
 			}
-			id: "6342668FB6B3E4F0"
+			id: "13277AE6F17604A0"
 			rewards: [{
-				id: "4DFD5FE72D60B388"
+				id: "0A372F33DE644BC1"
 				type: "xp_levels"
 				xp_levels: 2
 			}]
@@ -255,14 +255,14 @@
 			}
 			id: "46E81D79EEA1024A"
 			rewards: [{
-				id: "1E129C39D91432ED"
+				id: "1C7BB28E8CD92468"
 				type: "xp_levels"
 				xp_levels: 2
 			}]
 			tasks: [{
 				advancement: "minecraft:story/iron_tools"
 				criterion: ""
-				id: "38DB053E35D673FB"
+				id: "58407CCB7B347F0A"
 				type: "advancement"
 			}]
 			x: 7.5d
@@ -272,7 +272,7 @@
 			icon: {
 				id: "minecraft:iron_chestplate"
 			}
-			id: "0074D6ADDAC6E802"
+			id: "4ABE3724E6D54298"
 			rewards: [{
 				id: "17D1366D6423BD32"
 				type: "xp_levels"
@@ -292,9 +292,9 @@
 			icon: {
 				id: "minecraft:enchanting_table"
 			}
-			id: "0BEA36FE760EE8E5"
+			id: "681B20AEA701771C"
 			rewards: [{
-				id: "0F1125BFEE005D24"
+				id: "31C4381855117E58"
 				type: "xp_levels"
 				xp_levels: 2
 			}]

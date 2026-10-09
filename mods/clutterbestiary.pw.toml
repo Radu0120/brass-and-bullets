@@ -1,0 +1,13 @@
+name = "Clutter: Bestiary"
+filename = "clutterbestiary-1.2.0-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/FkbDiLgR/versions/xMy9dNMt/clutterbestiary-1.2.0-neoforge-1.21.1.jar"
+hash-format = "sha512"
+hash = "398028986b93f9fc168082fc941895fa8c13639d5766f30c4dbc4c2ba7a6777023cad9bd28924e36abd62d970e9e691fce26075d757a6cb6b249accb0ebf2a7f"
+
+[update]
+[update.modrinth]
+mod-id = "FkbDiLgR"
+version = "xMy9dNMt"
