@@ -14,47 +14,47 @@ hash = "e57d8311aec9f524911ed1313cabf138bb7fa5a2d3ba985a00a2a267ff35ef78"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/addons.snbt"
-hash = "82b5aeb4dbbbaf50cfd1461b0901dac9004d3af661953055bdc0497272480de2"
+hash = "c847f8d11f360182e56ebf9a7ebf77ddc7e631cdceeefe0f4bd06d886355f309"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/aeronautics.snbt"
-hash = "089220217153dbb296cdc604e98ba55041e52f1da85f41c06ece0e526e6a5498"
+hash = "43840ee0f450be28206501ad2ee1004197dd86456f2ba94e9bac8f3443dc372d"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/bosses.snbt"
-hash = "a5888c9589231025ef11e2d9ea1a23882f387410b33b7f91a35422205e023004"
+hash = "06f638228beca331a527e6de7eaaadb59a13bedbdafcb4a1da255e2a5945121b"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/create.snbt"
-hash = "b374b6e17108149adc4bb274fbdd87cfddae3651c1482edc9585469828c7e694"
+hash = "4cc5c594dfc2b5ab5f997d4c313f609a22551aedfdff3600102c26f8d5e1e4a8"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/dogs.snbt"
-hash = "d0781bdb86741c4a13f1a5da444f553a128b1aa59528fb7d9d5d5fcd46ab1167"
+hash = "4e1b6349a9dc09c3d9470e6e62d1b52b42cda6168e4cb35d54d1a5e3f6b48aa9"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/exploration.snbt"
-hash = "a372e68b7ffc6542144d3adb2d9e1925ef3ba5e8b6d35d67f3847c6a32061a6f"
+hash = "b529ba0a2cac559929339676df1c4c610eeda5154036409347427124458b90c0"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/farming.snbt"
-hash = "f14894122a538fd0acb90a97efcc4f4dd5c779cd47aa074c68076e6de468898f"
+hash = "a9402b76debc02613ca127b78601ae44039242f30361f40a676a40405c1e1a99"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/getting_started.snbt"
-hash = "adc28137e6e9bdb659a5a6942387bbc81c3ab02c7c881a0c8a2c3f2d0fb00550"
+hash = "36c343b4b33046326851180fa9bb3db2aa4eb5d69da22b14e742ba7c64ef2d49"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/guns.snbt"
-hash = "b145962757ff0188d1d04a09ee1531635c0bbd9292d3396b394271cf49f9675e"
+hash = "ddae95ebed5c67356a451f7f04e3244bc5a751df3cb5840112bcb52ae18fa38c"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/storage.snbt"
-hash = "7a297d04444305eb8ddc60027f5b806cf59285e97c8b5e88791c8015922f9565"
+hash = "831550163123e2eb9eb10801f122076369f00727a6e5dac80841baefb9b25968"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/wildlife.snbt"
-hash = "644c51e46afcbe0889b79fe171a0adf4bc2a2fe30fc821330c63d4cd26e949fa"
+hash = "82aeab8e7b9e8a7df046dfe1ebef55c05e9ad0bfa01df7505541c75db50266ae"
 
 [[files]]
 file = "config/ftbquests/quests/data.snbt"
@@ -62,7 +62,7 @@ hash = "7d3cd3d4cc9045359490571dfada94da240ac01888aebf166e1187c61147bcf1"
 
 [[files]]
 file = "config/ftbquests/quests/lang/en_us.snbt"
-hash = "3e1ec1a65fccaa33b3c8c5cdf55bf174967d97013b73a48e423ab5e22296c9e8"
+hash = "c59a1aa47d7e31c168e24543cb0a09d918cbc8f314fa90a52b683865e5b333ea"
 
 [[files]]
 file = "config/inventoryprofilesnext/inventoryprofiles.json"
@@ -71,10 +71,6 @@ hash = "65374899c916b5af174275d96cd26414b6c26435dee0aebd07cb00412e0b582d"
 [[files]]
 file = "config/openloader/packs/bb-renames/assets/create/lang/en_us.json"
 hash = "c9f56ace031dddf8bf9b674bad64a073b642395395a81317c17e4a754842de2c"
-
-[[files]]
-file = "config/openloader/packs/bb-renames/assets/createaddition/lang/en_us.json"
-hash = "f4b6391afd50ee34f060ec83dad693ae86fa04efbe1a3f71711babb35153edcc"
 
 [[files]]
 file = "config/openloader/packs/bb-renames/pack.mcmeta"
@@ -248,11 +244,6 @@ metafile = true
 [[files]]
 file = "mods/create.pw.toml"
 hash = "4b0ca63279620ec9ba4c63820a9d4f9ceea9b717227137ea19e5c420c820f858"
-metafile = true
-
-[[files]]
-file = "mods/createaddition.pw.toml"
-hash = "8913bb244d45ff085d444bd9c0ea236ffb3414a608554766140a208ac973a5a6"
 metafile = true
 
 [[files]]

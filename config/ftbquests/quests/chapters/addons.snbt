@@ -4,7 +4,7 @@
 	filename: "addons"
 	group: ""
 	icon: {
-		id: "createaddition:electric_motor"
+		id: "create_connected:brass_gearbox"
 	}
 	id: "44D953F68CD66A06"
 	images: [ ]
@@ -13,133 +13,20 @@
 	quests: [
 		{
 			icon: {
-				id: "createaddition:electric_motor"
+				id: "create_connected:brass_gearbox"
 			}
-			id: "4B9C5089FCEEABE7"
+			id: "6BB51866FE308346"
 			rewards: [{
 				id: "5B59A2E9A3163B30"
 				type: "xp_levels"
-				xp_levels: 2
+				xp_levels: 1
 			}]
 			tasks: [{
-				id: "0673616D3846ECC5"
+				id: "2FC0EC1DD83670B1"
 				type: "checkmark"
 			}]
 			x: 0.0d
-			y: 6.5625d
-		}
-		{
-			icon: {
-				id: "createaddition:electric_motor"
-			}
-			id: "4B8DA19FD558CCA4"
-			rewards: [{
-				id: "6CB1165A9FBA7CAA"
-				type: "xp_levels"
-				xp_levels: 3
-			}]
-			tasks: [{
-				id: "2024E987194467B4"
-				item: { count: 1, id: "createaddition:electric_motor" }
-				type: "item"
-			}]
-			x: 1.5d
-			y: 2.625d
-		}
-		{
-			dependencies: ["4B8DA19FD558CCA4"]
-			icon: {
-				id: "createaddition:alternator"
-			}
-			id: "5D47F4EA8679DD26"
-			rewards: [{
-				id: "62740F8B52739884"
-				type: "xp_levels"
-				xp_levels: 3
-			}]
-			tasks: [{
-				id: "156138E571098299"
-				item: { count: 1, id: "createaddition:alternator" }
-				type: "item"
-			}]
-			x: 3.0d
-			y: 0.75d
-		}
-		{
-			dependencies: ["5D47F4EA8679DD26"]
-			icon: {
-				id: "createaddition:capacitor"
-			}
-			id: "29021257A14BC5A7"
-			rewards: [{
-				id: "4497A54692F1D3EF"
-				type: "xp_levels"
-				xp_levels: 3
-			}]
-			tasks: [{
-				id: "66970D0D8DC3CBEA"
-				item: { count: 1, id: "createaddition:capacitor" }
-				type: "item"
-			}]
-			x: 4.5d
-			y: 0.75d
-		}
-		{
-			dependencies: ["4B8DA19FD558CCA4"]
-			icon: {
-				id: "createaddition:rolling_mill"
-			}
-			id: "179F2A8D0A74E5AA"
-			rewards: [{
-				id: "4894A0B7BA6A27C0"
-				type: "xp_levels"
-				xp_levels: 3
-			}]
-			tasks: [{
-				id: "598AEC6E30BEAD77"
-				item: { count: 1, id: "createaddition:rolling_mill" }
-				type: "item"
-			}]
-			x: 3.0d
-			y: 3.0d
-		}
-		{
-			dependencies: ["179F2A8D0A74E5AA"]
-			icon: {
-				id: "createaddition:connector"
-			}
-			id: "44962C3629D27E0D"
-			rewards: [{
-				id: "2CA955BE8BDEE1C3"
-				type: "xp_levels"
-				xp_levels: 3
-			}]
-			tasks: [{
-				count: 2L
-				id: "4342CC4E78B29431"
-				item: { count: 1, id: "createaddition:connector" }
-				type: "item"
-			}]
-			x: 4.5d
-			y: 3.0d
-		}
-		{
-			icon: {
-				id: "createaddition:tesla_coil"
-			}
-			id: "7AE7F2DA6149F569"
-			rewards: [{
-				id: "7D4702D9EA27C0CF"
-				type: "xp_levels"
-				xp_levels: 6
-			}]
-			tasks: [{
-				id: "1B48640CD37EACF0"
-				item: { count: 1, id: "createaddition:tesla_coil" }
-				type: "item"
-			}]
-			x: 6.0d
-			y: 0.0d
+			y: 4.199999999999999d
 		}
 		{
 			icon: {
@@ -147,7 +34,7 @@
 			}
 			id: "53C931ED70AF189E"
 			rewards: [{
-				id: "4EDC0ED825073FB6"
+				id: "5E1EED6316AB6308"
 				type: "xp_levels"
 				xp_levels: 3
 			}]
@@ -156,8 +43,8 @@
 				item: { count: 1, id: "create_connected:control_chip" }
 				type: "item"
 			}]
-			x: 1.5d
-			y: 6.0d
+			x: 2.8d
+			y: 1.4d
 		}
 		{
 			icon: {
@@ -165,17 +52,17 @@
 			}
 			id: "528A39BD4D1A5749"
 			rewards: [{
-				id: "6E9313B5260C962B"
+				id: "4A6D4B6D49F1C9E3"
 				type: "xp_levels"
 				xp_levels: 3
 			}]
 			tasks: [{
-				id: "5D7924157BC32BBB"
+				id: "64A0E7B779FFC458"
 				item: { count: 1, id: "sliceanddice:slicer" }
 				type: "item"
 			}]
-			x: 1.5d
-			y: 7.5d
+			x: 2.0999999999999996d
+			y: 5.6d
 		}
 		{
 			dependencies: ["528A39BD4D1A5749"]
@@ -186,43 +73,43 @@
 			rewards: [{
 				id: "2F8A0F05D9CBC88E"
 				type: "xp_levels"
-				xp_levels: 3
+				xp_levels: 2
 			}]
 			tasks: [{
 				id: "00673DEB9EDA413D"
 				item: { count: 1, id: "sliceanddice:sprinkler" }
 				type: "item"
 			}]
-			x: 3.0d
-			y: 7.5d
+			x: 3.5d
+			y: 5.6d
 		}
 		{
 			icon: {
 				id: "createrailwaysnavigator:navigator"
 			}
-			id: "1BA1A6A97987E9BF"
+			id: "1A0067E7EC6BBDD8"
 			rewards: [{
-				id: "56C680971D91A5BE"
+				id: "27EFFB52620DE762"
 				type: "xp_levels"
-				xp_levels: 3
+				xp_levels: 4
 			}]
 			tasks: [{
-				id: "0D534DEE2540051F"
+				id: "2DAC4A3B7E56D6C4"
 				item: { count: 1, id: "createrailwaysnavigator:navigator" }
 				type: "item"
 			}]
-			x: 1.5d
-			y: 9.0d
+			x: 1.4d
+			y: 1.4d
 		}
 		{
 			icon: {
 				id: "createdeco:andesite_catwalk"
 			}
-			id: "4FA003FE8973197C"
+			id: "59D58DEFBA07618B"
 			rewards: [{
-				id: "565276DB92A93BC9"
+				id: "787694A789DA8D28"
 				type: "xp_levels"
-				xp_levels: 2
+				xp_levels: 1
 			}]
 			tasks: [{
 				count: 8L
@@ -230,121 +117,27 @@
 				item: { count: 1, id: "createdeco:andesite_catwalk" }
 				type: "item"
 			}]
-			x: 1.5d
-			y: 10.5d
+			x: 2.8d
+			y: 2.8d
 		}
 		{
-			dependencies: ["4B8DA19FD558CCA4"]
-			icon: {
-				id: "createaddition:servo_motor"
-			}
-			id: "1460CA84050461ED"
-			rewards: [{
-				id: "2811622158A90108"
-				type: "xp_levels"
-				xp_levels: 3
-			}]
-			tasks: [{
-				id: "3EC707D8E7378D28"
-				item: { count: 1, id: "createaddition:servo_motor" }
-				type: "item"
-			}]
-			x: 3.0d
-			y: 4.5d
-		}
-		{
-			icon: {
-				id: "createaddition:modular_accumulator"
-			}
-			id: "429DD60AF8EA55D6"
-			rewards: [{
-				id: "530CC57C6314779D"
-				type: "xp_levels"
-				xp_levels: 4
-			}]
-			tasks: [{
-				id: "6805BD072B7B9F87"
-				item: { count: 1, id: "createaddition:modular_accumulator" }
-				type: "item"
-			}]
-			x: 6.0d
-			y: 1.5d
-		}
-		{
-			dependencies: ["429DD60AF8EA55D6"]
-			icon: {
-				id: "createaddition:portable_energy_interface"
-			}
-			id: "0E4B0F6A67E28B79"
-			rewards: [{
-				id: "567BDED452AEC63A"
-				type: "xp_levels"
-				xp_levels: 4
-			}]
-			tasks: [{
-				id: "302CF13D5E72B3FA"
-				item: { count: 1, id: "createaddition:portable_energy_interface" }
-				type: "item"
-			}]
-			x: 7.5d
-			y: 1.5d
-		}
-		{
-			dependencies: ["7AE7F2DA6149F569"]
-			icon: {
-				id: "createaddition:biomass_pellet"
-			}
-			id: "12B55B25685FDC3C"
-			rewards: [{
-				id: "756EEABA4AFA6CF3"
-				type: "xp_levels"
-				xp_levels: 3
-			}]
-			tasks: [{
-				count: 8L
-				id: "2136D4DF13251448"
-				item: { count: 1, id: "createaddition:biomass_pellet" }
-				type: "item"
-			}]
-			x: 7.5d
-			y: 0.0d
-		}
-		{
-			icon: {
-				id: "createaddition:bioethanol_bucket"
-			}
-			id: "6E8470482FD861EB"
-			rewards: [{
-				id: "0F31651E38E72A00"
-				type: "xp_levels"
-				xp_levels: 4
-			}]
-			tasks: [{
-				id: "368B3D4A05873ED5"
-				item: { count: 1, id: "createaddition:bioethanol_bucket" }
-				type: "item"
-			}]
-			x: 9.0d
-			y: 0.0d
-		}
-		{
-			dependencies: ["53C931ED70AF189E"]
+			dependencies: ["2616DAB1FC88E2D7"]
 			icon: {
 				id: "create_connected:brass_gearbox"
 			}
-			id: "5646EBEBB1A3F687"
+			id: "298FBE11AF40215A"
 			rewards: [{
 				id: "3CC8AAE4960E221F"
 				type: "xp_levels"
-				xp_levels: 3
+				xp_levels: 2
 			}]
 			tasks: [{
 				id: "71A1A153D9A08C9C"
 				item: { count: 1, id: "create_connected:brass_gearbox" }
 				type: "item"
 			}]
-			x: 3.0d
-			y: 6.0d
+			x: 1.4d
+			y: 7.0d
 		}
 		{
 			icon: {
@@ -354,15 +147,15 @@
 			rewards: [{
 				id: "667B23A9232496B7"
 				type: "xp_levels"
-				xp_levels: 3
+				xp_levels: 2
 			}]
 			tasks: [{
-				id: "2BB2F3037F6417DE"
+				id: "3F726573C6BAB99B"
 				item: { count: 1, id: "create_connected:overstress_clutch" }
 				type: "item"
 			}]
-			x: 4.5d
-			y: 6.0d
+			x: 2.8d
+			y: 7.0d
 		}
 		{
 			dependencies: ["4D5246EB56272BB0"]
@@ -373,36 +166,37 @@
 			rewards: [{
 				id: "3C8A8A6F9790D63F"
 				type: "xp_levels"
-				xp_levels: 5
+				xp_levels: 4
 			}]
 			tasks: [{
 				id: "5AD5DD1D298EE5F9"
 				item: { count: 1, id: "create_connected:kinetic_battery" }
 				type: "item"
 			}]
-			x: 6.0d
-			y: 6.0d
+			x: 4.199999999999999d
+			y: 7.0d
 		}
 		{
-			dependencies: ["354CFA9492C9B1EE"]
+			dependencies: ["53C931ED70AF189E"]
 			icon: {
 				id: "create_connected:sequenced_pulse_generator"
 			}
 			id: "1D1259D3FEFDB873"
 			rewards: [{
-				id: "335AB8D993FC3398"
+				id: "3E66BF08B2B90E90"
 				type: "xp_levels"
-				xp_levels: 4
+				xp_levels: 3
 			}]
 			tasks: [{
 				id: "0EB00F22671DCF6D"
 				item: { count: 1, id: "create_connected:sequenced_pulse_generator" }
 				type: "item"
 			}]
-			x: 7.5d
-			y: 6.0d
+			x: 4.199999999999999d
+			y: 0.0d
 		}
 		{
+			dependencies: ["53C931ED70AF189E"]
 			icon: {
 				id: "create_connected:copycat_block"
 			}
@@ -421,49 +215,50 @@
 				}
 				{
 					count: 4L
-					id: "2E0B636C4C43C75D"
+					id: "74A21049E6B3EE25"
 					item: { count: 1, id: "create_connected:copycat_stairs" }
 					type: "item"
 				}
 			]
-			x: 3.0d
-			y: 10.5d
+			x: 4.199999999999999d
+			y: 1.4d
 		}
 		{
+			dependencies: ["53C931ED70AF189E"]
 			icon: {
 				id: "create_connected:fan_freezing_catalyst"
 			}
-			id: "02C58E68BC624B66"
+			id: "6AE892E178FCD399"
 			rewards: [{
 				id: "5E3042C10EC5B75D"
 				type: "xp_levels"
 				xp_levels: 3
 			}]
 			tasks: [{
-				id: "33EEEA1379B4F7F6"
+				id: "24358A5CE1A90712"
 				item: { count: 1, id: "create_connected:fan_freezing_catalyst" }
 				type: "item"
 			}]
-			x: 3.0d
-			y: 9.0d
+			x: 4.199999999999999d
+			y: 2.8d
 		}
 		{
 			icon: {
 				id: "create_dragons_plus:dragon_breath_bucket"
 			}
-			id: "2284D864193E14C6"
+			id: "11E92E195672ABF2"
 			rewards: [{
 				id: "4A868F0B53E44E81"
 				type: "xp_levels"
-				xp_levels: 4
+				xp_levels: 6
 			}]
 			tasks: [{
-				id: "3946AC31A6F3415D"
+				id: "467EFF20AF608065"
 				item: { count: 1, id: "create_dragons_plus:dragon_breath_bucket" }
 				type: "item"
 			}]
-			x: 4.5d
-			y: 9.0d
+			x: 2.0999999999999996d
+			y: 4.199999999999999d
 		}
 		{
 			icon: {
@@ -471,17 +266,17 @@
 			}
 			id: "14C5A010F1A0E949"
 			rewards: [{
-				id: "2EE807E2D5CD7AA5"
+				id: "135BCA3231E9B3E9"
 				type: "xp_levels"
-				xp_levels: 5
+				xp_levels: 3
 			}]
 			tasks: [{
-				id: "1C2E7D0D8E4C09E1"
+				id: "27D8CE9FC557F48C"
 				item: { count: 1, id: "create_connected:fan_ending_catalyst_dragons_breath" }
 				type: "item"
 			}]
-			x: 6.0d
-			y: 9.0d
+			x: 3.5d
+			y: 4.199999999999999d
 		}
 	]
 }

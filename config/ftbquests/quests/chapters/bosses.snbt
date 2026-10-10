@@ -6,7 +6,7 @@
 	icon: {
 		id: "minecraft:dragon_head"
 	}
-	id: "08C690E81AEBBDA6"
+	id: "14921B4A6D14BD31"
 	images: [ ]
 	order_index: 10
 	quest_links: [ ]
@@ -27,14 +27,14 @@
 				type: "item"
 			}]
 			x: 0.0d
-			y: 11.8125d
+			y: 7.0d
 		}
 		{
 			dependencies: ["44BD5BCCC34D6446"]
 			icon: {
 				id: "minecraft:prismarine_shard"
 			}
-			id: "42F5ADFA43005F22"
+			id: "6D754A3B1529454D"
 			rewards: [{
 				id: "631C3D2BC86DACC2"
 				type: "xp_levels"
@@ -46,8 +46,8 @@
 				type: "kill"
 				value: 1L
 			}]
-			x: 1.5d
-			y: 0.0d
+			x: 2.8d
+			y: 7.0d
 		}
 		{
 			dependencies: ["44BD5BCCC34D6446"]
@@ -58,7 +58,7 @@
 			rewards: [{
 				id: "7E24116345567A64"
 				type: "xp_levels"
-				xp_levels: 12
+				xp_levels: 6
 			}]
 			tasks: [{
 				advancement: "minecraft:nether/summon_wither"
@@ -66,8 +66,8 @@
 				id: "7234067F54D47649"
 				type: "advancement"
 			}]
-			x: 1.5d
-			y: 1.5d
+			x: 1.4d
+			y: 4.8999999999999995d
 		}
 		{
 			dependencies: ["4DE771DE0262593A"]
@@ -76,7 +76,7 @@
 			}
 			id: "524BF7324A5EAC9C"
 			rewards: [{
-				id: "1E67F4C88BD1A86C"
+				id: "173DFEF2FA19D388"
 				type: "xp_levels"
 				xp_levels: 18
 			}]
@@ -86,19 +86,19 @@
 				type: "kill"
 				value: 1L
 			}]
-			x: 3.0d
-			y: 1.5d
+			x: 2.8d
+			y: 3.5d
 		}
 		{
 			dependencies: ["524BF7324A5EAC9C"]
 			icon: {
 				id: "minecraft:beacon"
 			}
-			id: "5FF50C709B99975A"
+			id: "115853053B0BC19A"
 			rewards: [{
 				id: "5E62F46A83BE545C"
 				type: "xp_levels"
-				xp_levels: 16
+				xp_levels: 8
 			}]
 			tasks: [{
 				advancement: "minecraft:nether/create_beacon"
@@ -106,8 +106,8 @@
 				id: "6A7A27B69FFEE8E4"
 				type: "advancement"
 			}]
-			x: 4.5d
-			y: 1.5d
+			x: 4.199999999999999d
+			y: 2.8d
 		}
 		{
 			dependencies: ["44BD5BCCC34D6446"]
@@ -116,9 +116,9 @@
 			}
 			id: "02217FC289C006A8"
 			rewards: [{
-				id: "04F24F08278D5026"
+				id: "3A1ADFED0CD1B12D"
 				type: "xp_levels"
-				xp_levels: 22
+				xp_levels: 18
 			}]
 			tasks: [{
 				entity: "minecraft:warden"
@@ -126,8 +126,8 @@
 				type: "kill"
 				value: 1L
 			}]
-			x: 1.5d
-			y: 3.0d
+			x: 2.0999999999999996d
+			y: 9.1d
 		}
 		{
 			dependencies: ["44BD5BCCC34D6446"]
@@ -142,12 +142,12 @@
 			}]
 			tasks: [{
 				entity: "minecraft:ender_dragon"
-				id: "5210494B656197B1"
+				id: "6C17D50258AD8B62"
 				type: "kill"
 				value: 1L
 			}]
-			x: 1.5d
-			y: 4.5d
+			x: 4.199999999999999d
+			y: 5.6d
 		}
 		{
 			dependencies: ["285F81CFFC4BABBF"]
@@ -158,15 +158,15 @@
 			rewards: [{
 				id: "69161CBE10193BAE"
 				type: "xp_levels"
-				xp_levels: 8
+				xp_levels: 4
 			}]
 			tasks: [{
-				id: "3BBA0D54782CDE12"
+				id: "7FFA856ED43F02FA"
 				item: { count: 1, id: "minecraft:dragon_egg" }
 				type: "item"
 			}]
-			x: 3.0d
-			y: 4.5d
+			x: 5.6d
+			y: 5.6d
 		}
 		{
 			dependencies: ["44BD5BCCC34D6446"]
@@ -185,8 +185,8 @@
 				id: "6EB59BB29FD2CC5B"
 				type: "advancement"
 			}]
-			x: 1.5d
-			y: 9.75d
+			x: 5.6d
+			y: 3.5d
 		}
 		{
 			dependencies: ["18F5772D5FB7B2D5"]
@@ -195,7 +195,7 @@
 			}
 			id: "41B44BB1CDC8AE3F"
 			rewards: [{
-				id: "717D394FEC40DC23"
+				id: "27EE5A3D5762F885"
 				type: "xp_levels"
 				xp_levels: 10
 			}]
@@ -205,8 +205,8 @@
 				type: "kill"
 				value: 1L
 			}]
-			x: 3.0d
-			y: 6.0d
+			x: 7.699999999999999d
+			y: 1.4d
 		}
 		{
 			dependencies: ["18F5772D5FB7B2D5"]
@@ -222,11 +222,11 @@
 			tasks: [{
 				advancement: "mowziesmobs:kill_grottol"
 				criterion: ""
-				id: "6AE1E6634CEC2C61"
+				id: "31E647549A11D060"
 				type: "advancement"
 			}]
-			x: 3.0d
-			y: 7.5d
+			x: 7.0d
+			y: 6.3d
 		}
 		{
 			dependencies: ["18F5772D5FB7B2D5"]
@@ -244,17 +244,17 @@
 				structure: "mowziesmobs:wrought_chamber"
 				type: "structure"
 			}]
-			x: 3.0d
-			y: 9.0d
+			x: 9.1d
+			y: 2.0999999999999996d
 		}
 		{
 			dependencies: ["76E4D391B428F74A"]
 			icon: {
 				id: "mowziesmobs:wrought_axe"
 			}
-			id: "188B1CA19BD10E6D"
+			id: "2B29279FD0A8DEF7"
 			rewards: [{
-				id: "03F735EAB03692EC"
+				id: "1718B1FF8B7E7889"
 				type: "xp_levels"
 				xp_levels: 14
 			}]
@@ -264,15 +264,15 @@
 				type: "kill"
 				value: 1L
 			}]
-			x: 4.5d
-			y: 9.0d
+			x: 10.5d
+			y: 2.0999999999999996d
 		}
 		{
 			dependencies: ["18F5772D5FB7B2D5"]
 			icon: {
 				id: "mowziesmobs:umvuthana_mask_faith"
 			}
-			id: "085F0A1EA5551C66"
+			id: "4762457B9F5C7B1F"
 			rewards: [{
 				id: "4EBA4C6B4C861B99"
 				type: "xp_levels"
@@ -283,14 +283,14 @@
 				structure: "mowziesmobs:umvuthana_grove"
 				type: "structure"
 			}]
-			x: 3.0d
-			y: 10.5d
+			x: 7.699999999999999d
+			y: 4.8999999999999995d
 		}
 		{
 			icon: {
 				id: "mowziesmobs:sol_visage"
 			}
-			id: "7F8A003F36EF2631"
+			id: "7B386C7A5FB33657"
 			rewards: [{
 				id: "50D81EF56E4DA2C5"
 				type: "xp_levels"
@@ -302,17 +302,17 @@
 				type: "kill"
 				value: 1L
 			}]
-			x: 4.5d
-			y: 10.5d
+			x: 9.1d
+			y: 4.8999999999999995d
 		}
 		{
 			dependencies: ["18F5772D5FB7B2D5"]
 			icon: {
 				id: "minecraft:snow_block"
 			}
-			id: "54499811A3893B13"
+			id: "2C6F93EDAE23C3D4"
 			rewards: [{
-				id: "576FB02F4FB46CBB"
+				id: "76B8F8DDC33985A5"
 				type: "xp_levels"
 				xp_levels: 8
 			}]
@@ -321,8 +321,8 @@
 				structure: "mowziesmobs:frostmaw_spawn"
 				type: "structure"
 			}]
-			x: 3.0d
-			y: 12.0d
+			x: 7.0d
+			y: 0.0d
 		}
 		{
 			icon: {
@@ -330,7 +330,7 @@
 			}
 			id: "1DBC34C4CA39C0AE"
 			rewards: [{
-				id: "6FAA6D10A7D8269E"
+				id: "072E1A750F7B9CB5"
 				type: "xp_levels"
 				xp_levels: 16
 			}]
@@ -340,15 +340,15 @@
 				type: "kill"
 				value: 1L
 			}]
-			x: 4.5d
-			y: 12.0d
+			x: 8.399999999999999d
+			y: 0.0d
 		}
 		{
 			dependencies: ["18F5772D5FB7B2D5"]
 			icon: {
 				id: "mowziesmobs:sculptor_staff"
 			}
-			id: "69F754E6F46A749F"
+			id: "71F5B90A54FEB790"
 			rewards: [{
 				id: "475BD9EFD2100730"
 				type: "xp_levels"
@@ -357,11 +357,11 @@
 			tasks: [{
 				advancement: "mowziesmobs:sculptor_challenge"
 				criterion: ""
-				id: "102D7201F2AF4378"
+				id: "70A5DC6F5984D2BC"
 				type: "advancement"
 			}]
-			x: 3.0d
-			y: 13.5d
+			x: 8.399999999999999d
+			y: 3.5d
 		}
 		{
 			dependencies: ["44BD5BCCC34D6446"]
@@ -378,8 +378,8 @@
 				id: "20C61B1E3E1B3C61"
 				type: "checkmark"
 			}]
-			x: 1.5d
-			y: 23.625d
+			x: 10.5d
+			y: 11.2d
 		}
 		{
 			dependencies: ["4D316F2092C0640C"]
@@ -388,7 +388,7 @@
 			}
 			id: "3942A54C058625F7"
 			rewards: [{
-				id: "53659404263799C7"
+				id: "1837A9249CD6B53D"
 				type: "xp_levels"
 				xp_levels: 6
 			}]
@@ -398,52 +398,52 @@
 				id: "01055070640BCEE3"
 				type: "advancement"
 			}]
-			x: 3.0d
-			y: 15.75d
+			x: 11.899999999999999d
+			y: 7.699999999999999d
 		}
 		{
 			dependencies: ["3942A54C058625F7"]
 			icon: {
 				id: "cataclysm:ignitium_ingot"
 			}
-			id: "5C25243F2BE68818"
+			id: "36095B89D5E9F860"
 			rewards: [{
-				id: "2AF5EE0832621229"
+				id: "3A5561E8E3F9A0C3"
 				type: "xp_levels"
 				xp_levels: 20
 			}]
 			tasks: [{
 				entity: "cataclysm:ignis"
-				id: "0436F2C31AA4024D"
+				id: "06631B8751DC9C60"
 				type: "kill"
 				value: 1L
 			}]
-			x: 4.5d
-			y: 15.75d
+			x: 14.0d
+			y: 7.0d
 		}
 		{
 			icon: {
 				id: "cataclysm:ignitium_chestplate"
 			}
-			id: "5D24F2A5ABBBF3F5"
+			id: "6DEEFD55A7102F8D"
 			rewards: [{
-				id: "03E160A526237F72"
+				id: "75C083716976D152"
 				type: "xp_levels"
-				xp_levels: 14
+				xp_levels: 8
 			}]
 			tasks: [{
-				id: "57F69666C2AE6A1A"
+				id: "63BCE74E1FDE24F5"
 				item: { count: 1, id: "cataclysm:ignitium_chestplate" }
 				type: "item"
 			}]
-			x: 6.0d
-			y: 15.0d
+			x: 15.399999999999999d
+			y: 5.6d
 		}
 		{
 			icon: {
 				id: "minecraft:blaze_powder"
 			}
-			id: "45D0A290528B5BEE"
+			id: "4C1DBB219799B1F8"
 			rewards: [{
 				id: "383381AEEB6C5A63"
 				type: "xp_levels"
@@ -455,15 +455,15 @@
 				id: "6ED37D5726F68751"
 				type: "advancement"
 			}]
-			x: 6.0d
-			y: 16.5d
+			x: 15.399999999999999d
+			y: 7.0d
 		}
 		{
 			dependencies: ["4D316F2092C0640C"]
 			icon: {
 				id: "cataclysm:black_steel_block"
 			}
-			id: "27F68A057E309B9A"
+			id: "5DB497D4D5CF8DF6"
 			rewards: [{
 				id: "4095BB90A83D2882"
 				type: "xp_levels"
@@ -472,17 +472,17 @@
 			tasks: [{
 				advancement: "cataclysm:find_ancient_factory"
 				criterion: ""
-				id: "04C7E7365CA4E3E0"
+				id: "427B98B3BB4251FF"
 				type: "advancement"
 			}]
-			x: 3.0d
-			y: 18.75d
+			x: 13.299999999999999d
+			y: 8.399999999999999d
 		}
 		{
 			icon: {
 				id: "cataclysm:black_steel_ingot"
 			}
-			id: "7464DE7A90BCB065"
+			id: "7827DA93F99CE935"
 			rewards: [{
 				id: "7918575914D13CFE"
 				type: "xp_levels"
@@ -490,12 +490,12 @@
 			}]
 			tasks: [{
 				entity: "cataclysm:the_harbinger"
-				id: "74C2EB935646BE49"
+				id: "422521092F4F5B36"
 				type: "kill"
 				value: 1L
 			}]
-			x: 4.5d
-			y: 18.75d
+			x: 16.099999999999998d
+			y: 8.399999999999999d
 		}
 		{
 			icon: {
@@ -505,22 +505,22 @@
 			rewards: [{
 				id: "385BB4E0CAB000D4"
 				type: "xp_levels"
-				xp_levels: 14
+				xp_levels: 8
 			}]
 			tasks: [{
 				id: "649DA9454D712DCB"
 				item: { count: 1, id: "cataclysm:black_steel_sword" }
 				type: "item"
 			}]
-			x: 6.0d
-			y: 18.0d
+			x: 17.5d
+			y: 7.699999999999999d
 		}
 		{
 			dependencies: ["4D316F2092C0640C"]
 			icon: {
 				id: "minecraft:soul_lantern"
 			}
-			id: "78946DC30FB1CAE6"
+			id: "1FB8C897820EA793"
 			rewards: [{
 				id: "1BD3139B4B406096"
 				type: "xp_levels"
@@ -529,19 +529,19 @@
 			tasks: [{
 				advancement: "cataclysm:find_soul_black_smith"
 				criterion: ""
-				id: "626ABBAC76F82658"
+				id: "6D76CA384AEC013E"
 				type: "advancement"
 			}]
-			x: 3.0d
-			y: 21.75d
+			x: 13.299999999999999d
+			y: 9.799999999999999d
 		}
 		{
 			icon: {
 				id: "minecraft:netherite_scrap"
 			}
-			id: "0B6294FA990C2026"
+			id: "4ED8A4C05FC879A6"
 			rewards: [{
-				id: "4A83B18A631F3C6F"
+				id: "3F30B8E2E718AF04"
 				type: "xp_levels"
 				xp_levels: 22
 			}]
@@ -551,8 +551,8 @@
 				type: "kill"
 				value: 1L
 			}]
-			x: 4.5d
-			y: 21.75d
+			x: 14.7d
+			y: 10.5d
 		}
 		{
 			icon: {
@@ -562,35 +562,35 @@
 			rewards: [{
 				id: "3F1B19BE2E128555"
 				type: "xp_levels"
-				xp_levels: 14
+				xp_levels: 8
 			}]
 			tasks: [{
 				id: "79282812CBBDACD1"
 				item: { count: 1, id: "cataclysm:monstrous_helm" }
 				type: "item"
 			}]
-			x: 6.0d
-			y: 21.0d
+			x: 20.299999999999997d
+			y: 12.6d
 		}
 		{
 			dependencies: ["4D316F2092C0640C"]
 			icon: {
 				id: "cataclysm:void_stone"
 			}
-			id: "09F6311ED6565844"
+			id: "5D885FBDBD34C3FE"
 			rewards: [{
-				id: "7B8967C67E7CCEC8"
+				id: "5762069ED18B87FD"
 				type: "xp_levels"
 				xp_levels: 8
 			}]
 			tasks: [{
 				advancement: "cataclysm:find_ruined_citadel"
 				criterion: ""
-				id: "53D5D9282A4BD3DB"
+				id: "4B84F2683B83C797"
 				type: "advancement"
 			}]
-			x: 3.0d
-			y: 24.75d
+			x: 11.899999999999999d
+			y: 14.7d
 		}
 		{
 			icon: {
@@ -598,7 +598,7 @@
 			}
 			id: "68E395BA4D950EB5"
 			rewards: [{
-				id: "4707AD3B4206E374"
+				id: "1CD19122540FCBB7"
 				type: "xp_levels"
 				xp_levels: 22
 			}]
@@ -608,15 +608,15 @@
 				type: "kill"
 				value: 1L
 			}]
-			x: 4.5d
-			y: 24.75d
+			x: 13.299999999999999d
+			y: 16.099999999999998d
 		}
 		{
 			dependencies: ["68E395BA4D950EB5"]
 			icon: {
 				id: "minecraft:end_stone"
 			}
-			id: "125512D73645199A"
+			id: "3A1291E5CFF4C144"
 			rewards: [{
 				id: "22980799CA38AD61"
 				type: "xp_levels"
@@ -625,31 +625,31 @@
 			tasks: [{
 				advancement: "cataclysm:kill_ender_golem"
 				criterion: ""
-				id: "5D5179E6CC526163"
+				id: "2C4F7F9AD14533DE"
 				type: "advancement"
 			}]
-			x: 6.0d
-			y: 24.0d
+			x: 14.7d
+			y: 16.799999999999997d
 		}
 		{
 			dependencies: ["4D316F2092C0640C"]
 			icon: {
 				id: "cataclysm:azure_seastone"
 			}
-			id: "59C46BB8BE875FF8"
+			id: "68BB1996589322DB"
 			rewards: [{
-				id: "08E2AF3DEC4EBF1F"
+				id: "0F2E14D3A6845AF3"
 				type: "xp_levels"
 				xp_levels: 10
 			}]
 			tasks: [{
 				advancement: "cataclysm:find_sunken_city"
 				criterion: ""
-				id: "1CCEA8DAE342B489"
+				id: "12157C369477349D"
 				type: "advancement"
 			}]
-			x: 3.0d
-			y: 27.0d
+			x: 13.299999999999999d
+			y: 11.2d
 		}
 		{
 			dependencies: ["4D316F2092C0640C"]
@@ -658,7 +658,7 @@
 			}
 			id: "244E852D0D987685"
 			rewards: [{
-				id: "0A107A3E294CC0F5"
+				id: "1282D0CE6CFABBC5"
 				type: "xp_levels"
 				xp_levels: 10
 			}]
@@ -668,17 +668,17 @@
 				id: "2EE295F84E0EF25A"
 				type: "advancement"
 			}]
-			x: 3.0d
-			y: 28.5d
+			x: 13.299999999999999d
+			y: 14.7d
 		}
 		{
 			dependencies: ["4D316F2092C0640C"]
 			icon: {
 				id: "minecraft:prismarine"
 			}
-			id: "0DB5F3058BD5C5C1"
+			id: "27C439F0D914C938"
 			rewards: [{
-				id: "2D355CFA326692DD"
+				id: "52E915CD25890393"
 				type: "xp_levels"
 				xp_levels: 10
 			}]
@@ -688,8 +688,8 @@
 				id: "3556D7F509B0815D"
 				type: "advancement"
 			}]
-			x: 3.0d
-			y: 30.0d
+			x: 13.299999999999999d
+			y: 13.299999999999999d
 		}
 		{
 			dependencies: ["4D316F2092C0640C"]
@@ -708,8 +708,8 @@
 				id: "702E325B9A2F95AB"
 				type: "advancement"
 			}]
-			x: 3.0d
-			y: 31.5d
+			x: 16.099999999999998d
+			y: 13.299999999999999d
 		}
 		{
 			icon: {
@@ -717,46 +717,46 @@
 			}
 			id: "1E23A31C42FBC8A0"
 			rewards: [{
-				id: "737A5F2771A2716D"
+				id: "064DE13F620C36B0"
 				type: "xp_levels"
 				xp_levels: 26
 			}]
 			tasks: [{
 				entity: "cataclysm:the_leviathan"
-				id: "509F02B00112B7AA"
+				id: "64664DDEAD48644F"
 				type: "kill"
 				value: 1L
 			}]
-			x: 6.0d
-			y: 27.0d
+			x: 17.5d
+			y: 12.6d
 		}
 		{
 			icon: {
 				id: "cataclysm:curved_azure_seastone_scylla_1"
 			}
-			id: "2071A4D417B9CA5C"
+			id: "29011D51122365C6"
 			rewards: [{
-				id: "73E691607093B833"
+				id: "57BE56B9BC17884E"
 				type: "xp_levels"
 				xp_levels: 26
 			}]
 			tasks: [{
 				entity: "cataclysm:scylla"
-				id: "3AAAAB55DFA8A730"
+				id: "64992E4F3F26AE7E"
 				type: "kill"
 				value: 1L
 			}]
-			x: 6.0d
-			y: 19.5d
+			x: 17.5d
+			y: 9.1d
 		}
 		{
 			dependencies: ["475C73D2E607BA2C"]
 			icon: {
 				id: "cataclysm:cursed_eye"
 			}
-			id: "794CF5222D4D5EF6"
+			id: "3CA8F3CD600D6DE2"
 			rewards: [{
-				id: "4FAF53085614CFB3"
+				id: "34BE1F7D7D0BAD81"
 				type: "xp_levels"
 				xp_levels: 26
 			}]
@@ -766,8 +766,8 @@
 				type: "kill"
 				value: 1L
 			}]
-			x: 6.0d
-			y: 22.5d
+			x: 17.5d
+			y: 10.5d
 		}
 		{
 			dependencies: [
@@ -785,12 +785,12 @@
 			}]
 			tasks: [{
 				entity: "cataclysm:ancient_remnant"
-				id: "5A954CCB2298F3E1"
+				id: "6DC62660DCABFCD3"
 				type: "kill"
 				value: 1L
 			}]
-			x: 6.0d
-			y: 25.5d
+			x: 16.799999999999997d
+			y: 15.399999999999999d
 		}
 		{
 			dependencies: [
@@ -810,11 +810,54 @@
 			tasks: [{
 				advancement: "cataclysm:kill_all_bosses"
 				criterion: ""
-				id: "15BC025F7428561A"
+				id: "6C21ED5A2ECEBAF6"
 				type: "advancement"
 			}]
-			x: 7.5d
-			y: 27.0d
+			x: 19.599999999999998d
+			y: 11.2d
+		}
+		{
+			dependencies: [
+				"44BD5BCCC34D6446"
+				"2B7FA0364450CB22"
+			]
+			icon: {
+				id: "alexsmobs:void_worm_eye"
+			}
+			id: "5571DD73CF710F5C"
+			rewards: [{
+				id: "777567961E87EE82"
+				type: "xp_levels"
+				xp_levels: 10
+			}]
+			tasks: [{
+				advancement: "alexsmobs:alexsmobs/void_worm_summon"
+				criterion: ""
+				id: "47A03B110C8BB0D1"
+				type: "advancement"
+			}]
+			x: 1.4d
+			y: 10.5d
+		}
+		{
+			icon: {
+				id: "alexsmobs:void_worm_beak"
+			}
+			id: "67574C3321284B9D"
+			rewards: [{
+				id: "64173A63E21B2D11"
+				type: "xp_levels"
+				xp_levels: 20
+			}]
+			shape: "hexagon"
+			tasks: [{
+				advancement: "alexsmobs:alexsmobs/void_worm_kill"
+				criterion: ""
+				id: "666ABA75745F2592"
+				type: "advancement"
+			}]
+			x: 2.8d
+			y: 10.5d
 		}
 	]
 }

@@ -46,25 +46,40 @@ Rules learned the hard way:
 - Scorched Guns must be the "Neoforged 1.5" build (the 0.5.4 port crashes on dedicated servers).
 - Test a change on the scratch server `E:\Scratch\brass-and-bullets\server` (boots in about 10 s) and not on the
   box while friends may be playing: the box has about 3 GB RAM free next to a running server.
-- Cosmetic log noise to ignore: some scguns/createaddition recipes, createdeco placard, create_connected
+- Cosmetic log noise to ignore: some scguns recipes, createdeco placard, create_connected
   dye-depot loot tables ("Unknown registry key"), Sable tag for copycats catwalk.
 
 ## Quest book (FTB Quests)
 
-406 quests in 11 chapters, one dependency tree per chapter, rewards 1-30 XP levels by difficulty, progression
+411 quests in 11 chapters, one dependency tree per chapter, rewards 1-30 XP levels by difficulty, progression
 flexible (nothing locked). Quests are server-authoritative: a changed quest file needs a pack bump and the
 update procedure from NOTES.md.
 
-The generator is **outside the repo**: `E:\Scratch\brass-and-bullets\quests\gen.py` plus
-`chapters_py/{create,farming,guns,pets,wildlife,bosses,patches}.py` (Scratch is disposable: if it is gone, the
-committed SNBT is the only copy).
+The generator is **outside the repo**: `E:/Scratch/brass-and-bullets/quests/gen.py` plus
+`chapters_py/{create,farming,guns,pets,wildlife,bosses}.py` and the post-processing files
+`patches, functional, links, reduce, rewards` (Scratch is disposable: if it is gone, the committed SNBT is the
+only copy).
 
-- Run: `python -I -X utf8 gen.py <outdir>`. Expect `quests: 406 chapters: 11` and `unknown ids: 0`.
-- `Ch.q(key, title, icon, tasks, deps=(), lv=..., desc=(), sub='', shape='')`. `lv` is XP levels 1..30
-  (asserted). `pos` is ignored: the layout is automatic (x = dependency depth, first dep is the tree parent).
+- Run: `python -I -X utf8 gen.py <outdir>`. Expect `quests: 411 chapters: 11` and `unknown ids: 0`.
+- `Ch.q(key, title, icon, tasks, deps=(), xp=, lv=, desc=(), sub='', shape='')`. `lv` is XP levels 1..30
+  (asserted). The first dep is the layout parent; cross-chapter deps are `(chapter, key)` tuples (real FTB
+  dependencies, not drawn).
+- Post-processing, in order: `patches.py` (one-off fixes), `functional.py` (`_set(ch, key, deps)` overrides so a
+  link means "is a functional ingredient / teaches something new"), `links.py` (extra component links),
+  `reduce.py` (transitive reduction) and `rewards.py` (`_R`: levels by the effort of that step, not by depth).
+  Ubiquitous materials (cobble, planks, iron) are not linked. Guns and Storage are straight tier chains.
+- **Layouts are pre-computed**: `layouts/<chapter>.json` ({key: [col,row]}, pos = cell * 1.4). When quests or
+  deps change, re-run `python -I -X utf8 opt_chapter.py <chapter> [iters] [seed]` (writes
+  `layouts/<ch>.seed<N>.json`; copy the best to `layouts/<ch>.json`); `gen.py` asserts the key sets match.
+  `preview_html.py` writes `prev/index.html` for a look at every tab.
 - Task helpers: `I(item,n)`, `CHECK(title)`, `KILL(ent,n)`, `ADV(adv,crit)`, `STRUCT`, `DIM`, `BIOME`.
 - `& ` in text is auto-escaped (FTB Quests rejects a bare `&` followed by a space).
 - Kill tasks must always emit `value` (a missing value is 0 = instantly complete).
+- Content decisions: Create Crafts & Additions was removed (0.1.14). Scorched Guns follows the real recipes
+  (macerator -> treated iron -> bench -> blueprint -> gun; anthralite is a plain ore; bullets gate the
+  flintlock). Exploration is the Explorer's Compass -> biome quests -> the structures that generate in that
+  biome; Nether, Fortress, Stronghold and End are the gates. Farming groups the plantable crops into five
+  quests that each track part of `farmersdelight:main/plant_all_crops`. Pets armour hangs off taming.
 - Deploy a new book: in the scratch server's `config/ftbquests/quests` delete `chapters`, `lang`, `data.snbt`,
   run `gen.py` into it, boot the server once and `stop` (the mod migrates titles into `lang/en_us.snbt`), grep
   the log for `invalid item`, copy the dir into this repo, strip CR (`sed -i 's/\r$//'`), then
