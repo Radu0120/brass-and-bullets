@@ -2,6 +2,7 @@
 
 packwiz can't write minecraft.recommendedRam. Prism and the CurseForge app set the
 instance's max memory from it on a fresh import (Prism clamps it to 90% of system RAM).
+Also adds icon.png (repo root, not in the pack index) as the Prism instance icon.
 Usage: python export.py   ->  dist/<name>.zip
 No version in the filename: Prism names a local import after the zip file, and the version
 is already in the manifest (Prism shows it as the pack version).
@@ -30,5 +31,7 @@ with zipfile.ZipFile(raw) as zin, zipfile.ZipFile(out, "w", zipfile.ZIP_DEFLATED
             m["minecraft"]["recommendedRam"] = RAM_MIB
             data = json.dumps(m, indent=2).encode()
         zout.writestr(item, data)
+    # Prism picks up icon.png at the zip root as the instance icon on a fresh import
+    zout.write(os.path.join(root, "icon.png"), "icon.png")
 os.remove(raw)
 print(out)
