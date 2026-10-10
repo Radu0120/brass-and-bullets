@@ -78,7 +78,9 @@ only copy).
 - Content decisions: Create Crafts & Additions was removed (0.1.14). Scorched Guns follows the real recipes
   (macerator -> treated iron -> bench -> blueprint -> gun; anthralite is a plain ore; bullets gate the
   flintlock). Exploration is the Explorer's Compass -> biome quests -> the structures that generate in that
-  biome; Nether, Fortress, Stronghold and End are the gates. Farming groups the plantable crops into five
+  biome; Nether, Fortress, Stronghold and End are the gates. Structure/biome ties were verified against the jar data in 0.1.15 (the dungeons, outposts and
+  trail ruins generate in many biomes, so the tied biome is a good start, not the only place). Yung's config
+  disables vanilla mineshafts, so that task uses the structure tag `#bettermineshafts:better_mineshafts`. Farming groups the plantable crops into five
   quests that each track part of `farmersdelight:main/plant_all_crops`. Pets armour hangs off taming.
 - Deploy a new book: in the scratch server's `config/ftbquests/quests` delete `chapters`, `lang`, `data.snbt`,
   run `gen.py` into it, boot the server once and `stop` (the mod migrates titles into `lang/en_us.snbt`), grep
