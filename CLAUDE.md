@@ -15,7 +15,7 @@ pack history live in the dotfiles repo: `E:\Documents\debian_server_dotfiles\doc
   `bb-tweaks` data pack and `bb-renames` client lang pack).
 - `config/ftbquests/quests/`: the quest book. **Generated** (see below), do not hand-edit.
 - `shaderpacks/`, `options.txt`: client defaults.
-- `icon.png`: Prism instance icon (generated locally with Quartermaster/Qwen, transparent 512 px). `export.py` puts it at the zip root; Prism uses it on a fresh import. It is in `.packwizignore`.
+- `icon.png`: Prism instance icon (generated locally with Quartermaster/Krea 2 Turbo, keyed out of a magenta background, transparent 512 px). `export.py` puts it at the zip root; Prism uses it on a fresh import. It is in `.packwizignore`.
 - `export.py`: builds the client zip. `dist/` and `*.zip` are gitignored.
 - `.gitattributes` forces LF on `*.toml`, `options.txt` and `config/**`: packwiz hashes exact bytes, so CRLF
   breaks the index. `.packwizignore` keeps repo-only files (this file, `export.py`, `dist/`) out of the pack.
