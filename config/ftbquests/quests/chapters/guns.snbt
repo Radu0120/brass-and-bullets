@@ -6,7 +6,7 @@
 	icon: {
 		id: "scguns:musket"
 	}
-	id: "63AC088144256FC8"
+	id: "2B2229074986B056"
 	images: [ ]
 	order_index: 5
 	quest_links: [ ]
@@ -17,7 +17,7 @@
 			}
 			id: "61D670D021BECD06"
 			rewards: [{
-				id: "47DF9415CE1A2071"
+				id: "4EBB8C12354BB733"
 				type: "xp_levels"
 				xp_levels: 1
 			}]
@@ -36,13 +36,13 @@
 			}
 			id: "02617BAF5153DEEB"
 			rewards: [{
-				id: "4CFB4D8CBA214AAD"
+				id: "2398EFA4729A33EC"
 				type: "xp_levels"
 				xp_levels: 4
 			}]
 			tasks: [{
 				count: 4L
-				id: "6B4E29EB4FE9598A"
+				id: "6D6E078753843637"
 				item: { count: 1, id: "scguns:treated_iron_ingot" }
 				type: "item"
 			}]
@@ -73,14 +73,14 @@
 			icon: {
 				id: "scguns:antique_blueprint"
 			}
-			id: "53D8B185C4B283E9"
+			id: "2C51BCE085159A50"
 			rewards: [{
-				id: "1FF9FE5BB22A400A"
+				id: "0184044715A5E96D"
 				type: "xp_levels"
 				xp_levels: 1
 			}]
 			tasks: [{
-				id: "5BD46D283AE043DB"
+				id: "29A88E75B9839DF9"
 				item: { count: 1, id: "scguns:antique_blueprint" }
 				type: "item"
 			}]
@@ -91,9 +91,9 @@
 			icon: {
 				id: "scguns:stone_gun_barrel"
 			}
-			id: "2DF8D720495C387B"
+			id: "4AEB452269C3EEA5"
 			rewards: [{
-				id: "21A0A6B5DF8227CB"
+				id: "18098A2BBA802ED8"
 				type: "xp_levels"
 				xp_levels: 1
 			}]
@@ -116,7 +116,7 @@
 				xp_levels: 2
 			}]
 			tasks: [{
-				id: "6E3205F0C073A9F5"
+				id: "6B24F442565640F1"
 				item: { count: 1, id: "scguns:flintlock_pistol" }
 				type: "item"
 			}]
@@ -130,12 +130,12 @@
 			}
 			id: "5B679972E90D7148"
 			rewards: [{
-				id: "4AFCDEB2419AC28B"
+				id: "780CA4BFC894CCDC"
 				type: "xp_levels"
 				xp_levels: 3
 			}]
 			tasks: [{
-				id: "2B71269D12846164"
+				id: "0EA6C671B0E09D21"
 				item: { count: 1, id: "scguns:musket" }
 				type: "item"
 			}]
@@ -153,7 +153,7 @@
 				xp_levels: 3
 			}]
 			tasks: [{
-				id: "48CE6C63205EBE25"
+				id: "58B58753E5E14EEE"
 				item: { count: 1, id: "scguns:flare_pistol" }
 				type: "item"
 			}]
@@ -166,12 +166,12 @@
 			}
 			id: "32CFE52650DB299E"
 			rewards: [{
-				id: "6C5648CA621022BD"
+				id: "34B80597C3568990"
 				type: "xp_levels"
 				xp_levels: 3
 			}]
 			tasks: [{
-				id: "59E87678E0264423"
+				id: "3D1B8AAC96C120E6"
 				item: { count: 1, id: "scguns:medium_scope" }
 				type: "item"
 			}]
@@ -183,14 +183,14 @@
 			icon: {
 				id: "scguns:repair_kit"
 			}
-			id: "287BB43648F73AD7"
+			id: "1CB765ABA1D9049D"
 			rewards: [{
-				id: "729ACFCBD26C26CF"
+				id: "22F80390EE3E7077"
 				type: "xp_levels"
 				xp_levels: 2
 			}]
 			tasks: [{
-				id: "502130F7F3C4A0F6"
+				id: "751DF9E4CF41CF10"
 				item: { count: 1, id: "scguns:repair_kit" }
 				type: "item"
 			}]
@@ -222,15 +222,15 @@
 			icon: {
 				id: "scguns:hornlin_spawn_egg"
 			}
-			id: "4C1D7A7988455490"
+			id: "474D49FEF192AEFF"
 			rewards: [{
-				id: "0520CE8A709E3DBC"
+				id: "39F7CA6DDA98AFCF"
 				type: "xp_levels"
 				xp_levels: 5
 			}]
 			tasks: [{
 				entity: "scguns:hornlin"
-				id: "02DBA93F4DFC212A"
+				id: "406FC943C046AEE2"
 				type: "kill"
 				value: 3L
 			}]
@@ -242,9 +242,9 @@
 			icon: {
 				id: "scguns:gunpowder_dust"
 			}
-			id: "6467D159AAB9F051"
+			id: "1F7965EA9A71FA99"
 			rewards: [{
-				id: "3FE0C4734D00778D"
+				id: "61FAC82D259D4B43"
 				type: "xp_levels"
 				xp_levels: 1
 			}]
@@ -264,12 +264,12 @@
 			}
 			id: "4FC2B3C3E3F6CAE0"
 			rewards: [{
-				id: "0FA8BAFBCEFB084A"
+				id: "0C28EE674CDFC6A6"
 				type: "xp_levels"
 				xp_levels: 2
 			}]
 			tasks: [{
-				id: "06A83C4E7BA422C7"
+				id: "55F4EBB7FAB1D1C7"
 				item: { count: 1, id: "scguns:mechanical_press" }
 				type: "item"
 			}]
@@ -284,7 +284,7 @@
 			icon: {
 				id: "scguns:standard_bullet"
 			}
-			id: "5AECB5AC6C50ECFB"
+			id: "0B320E5DEE1C5913"
 			rewards: [{
 				id: "10C0C854BC5E46DF"
 				type: "xp_levels"
@@ -292,7 +292,7 @@
 			}]
 			tasks: [{
 				count: 16L
-				id: "171610BD5F77BA55"
+				id: "3DCE2C62E1197F3B"
 				item: { count: 1, id: "scguns:standard_bullet" }
 				type: "item"
 			}]
@@ -321,14 +321,14 @@
 			icon: {
 				id: "scguns:blank_mold"
 			}
-			id: "27CB6C04E81058C3"
+			id: "4BA0E8A67D85B2BD"
 			rewards: [{
-				id: "5AB34BA188190EFC"
+				id: "3228C04E963184FF"
 				type: "xp_levels"
 				xp_levels: 2
 			}]
 			tasks: [{
-				id: "355DEB091CDBA080"
+				id: "789ADF0C7B616104"
 				item: { count: 1, id: "scguns:blank_mold" }
 				type: "item"
 			}]
@@ -341,12 +341,12 @@
 			}
 			id: "5C9B58A78AD34D54"
 			rewards: [{
-				id: "001AC689CE63EFA0"
+				id: "06D5B87AA5BA52CA"
 				type: "xp_levels"
 				xp_levels: 2
 			}]
 			tasks: [{
-				id: "5D56FA700CAB6F41"
+				id: "6407561DA8622452"
 				item: { count: 1, id: "scguns:bullet_mold" }
 				type: "item"
 			}]
@@ -360,13 +360,13 @@
 			}
 			id: "74BBFEE16DAA870B"
 			rewards: [{
-				id: "54BEEDFF0DA4FB6A"
+				id: "713DBCB2A3E884AE"
 				type: "xp_levels"
 				xp_levels: 4
 			}]
 			tasks: [{
 				count: 4L
-				id: "752B96A3F5ECCAE1"
+				id: "50F91ECFE3D81070"
 				item: { count: 1, id: "scguns:gun_parts" }
 				type: "item"
 			}]
@@ -377,7 +377,7 @@
 			icon: {
 				id: "scguns:gun_barrel"
 			}
-			id: "20A5B56371AEFC09"
+			id: "0DDD0397155BD200"
 			rewards: [{
 				id: "5A37705B3BA8C70C"
 				type: "xp_levels"
@@ -396,14 +396,14 @@
 			icon: {
 				id: "scguns:firing_unit"
 			}
-			id: "1CD886E1252668AC"
+			id: "7549994D3C407BA4"
 			rewards: [{
 				id: "2F4D61BB641F1C9E"
 				type: "xp_levels"
 				xp_levels: 4
 			}]
 			tasks: [{
-				id: "1F9715CD723C765C"
+				id: "763B54EC47FBC08B"
 				item: { count: 1, id: "scguns:firing_unit" }
 				type: "item"
 			}]
@@ -414,7 +414,7 @@
 			icon: {
 				id: "scguns:anthralite_ingot"
 			}
-			id: "6F40300EC173D962"
+			id: "5B4519BF8026C74A"
 			rewards: [{
 				id: "7D941B2CD24F57CD"
 				type: "xp_levels"
@@ -422,7 +422,7 @@
 			}]
 			tasks: [{
 				count: 4L
-				id: "49A02099C5A2DBD9"
+				id: "6CDB6D4201721348"
 				item: { count: 1, id: "scguns:anthralite_ingot" }
 				type: "item"
 			}]
@@ -433,7 +433,7 @@
 			icon: {
 				id: "scguns:lightning_battery"
 			}
-			id: "77E17289E510BEEF"
+			id: "42F7BC35DD99AC92"
 			rewards: [{
 				id: "57712ACC624A55FD"
 				type: "xp_levels"
@@ -458,7 +458,7 @@
 				xp_levels: 4
 			}]
 			tasks: [{
-				id: "5FC91D30B001865F"
+				id: "364E26DC12343032"
 				item: { count: 1, id: "scguns:powered_macerator" }
 				type: "item"
 			}]
@@ -470,7 +470,7 @@
 			icon: {
 				id: "scguns:powered_mechanical_press"
 			}
-			id: "7BF0BD7CD639B6FD"
+			id: "33B4BB3C371C9500"
 			rewards: [{
 				id: "20430C0B7FE834F3"
 				type: "xp_levels"
@@ -488,9 +488,9 @@
 			icon: {
 				id: "scguns:iron_blueprint"
 			}
-			id: "37F6FDBF64E9417A"
+			id: "44D52EAF910A33C6"
 			rewards: [{
-				id: "1933BDCBB67E7AB1"
+				id: "052ADD40367A01CA"
 				type: "xp_levels"
 				xp_levels: 4
 			}]
@@ -508,14 +508,14 @@
 			icon: {
 				id: "scguns:greaser_smg"
 			}
-			id: "793F0C33F0C588C5"
+			id: "7DB13235B1DD76FF"
 			rewards: [{
 				id: "28970B72461B0E68"
 				type: "xp_levels"
 				xp_levels: 5
 			}]
 			tasks: [{
-				id: "66D3C3EA4E5290CF"
+				id: "15B517E87A7D561F"
 				item: { count: 1, id: "scguns:greaser_smg" }
 				type: "item"
 			}]
@@ -528,12 +528,12 @@
 			}
 			id: "5E59B6F2970B3487"
 			rewards: [{
-				id: "65C58A30522B2B83"
+				id: "52CCFA95EE56EF77"
 				type: "xp_levels"
 				xp_levels: 5
 			}]
 			tasks: [{
-				id: "5106C5B6F8C3CE60"
+				id: "313410D0952D3090"
 				item: { count: 1, id: "scguns:combat_shotgun" }
 				type: "item"
 			}]
@@ -546,12 +546,12 @@
 			}
 			id: "48F3ECC2BDB7E587"
 			rewards: [{
-				id: "3D701F1172255ECC"
+				id: "3EBE76B20C588ED5"
 				type: "xp_levels"
 				xp_levels: 7
 			}]
 			tasks: [{
-				id: "0AA7123BF18E83E1"
+				id: "3225FD7D7F55DB0E"
 				item: { count: 1, id: "scguns:mk43_rifle" }
 				type: "item"
 			}]
@@ -562,7 +562,7 @@
 			icon: {
 				id: "scguns:cog_knight_helmet"
 			}
-			id: "24F03305893840BB"
+			id: "01678CF8F7AD5C6D"
 			rewards: [{
 				id: "16EE88A613AD6B54"
 				type: "xp_levels"
@@ -570,7 +570,7 @@
 			}]
 			tasks: [{
 				entity: "scguns:cog_knight"
-				id: "6795F50C05A4BB6B"
+				id: "31C500CE8787EB96"
 				type: "kill"
 				value: 1L
 			}]
@@ -581,14 +581,14 @@
 			icon: {
 				id: "scguns:cogloader"
 			}
-			id: "49B24F9574712471"
+			id: "5671AB2F068C7646"
 			rewards: [{
-				id: "43CE17968A9D2618"
+				id: "0C6AAEC3269D872B"
 				type: "xp_levels"
 				xp_levels: 6
 			}]
 			tasks: [{
-				id: "31417BDBE146E60C"
+				id: "3FC9A0FBCCD56273"
 				structure: "scguns:cog_chambers"
 				type: "structure"
 			}]
@@ -599,9 +599,9 @@
 			icon: {
 				id: "scguns:asgharian_bricks"
 			}
-			id: "206A919C4E741D66"
+			id: "505A9C7419F84699"
 			rewards: [{
-				id: "07E1A961E18D3A4C"
+				id: "79666203204E470C"
 				type: "xp_levels"
 				xp_levels: 5
 			}]
@@ -617,9 +617,9 @@
 			icon: {
 				id: "scguns:raygun"
 			}
-			id: "6B4F3BED0E4637E2"
+			id: "47BFCAE2FEA0B820"
 			rewards: [{
-				id: "7D4AC368C5A3ACFB"
+				id: "7B1AEE0F216DB18A"
 				type: "xp_levels"
 				xp_levels: 8
 			}]
@@ -635,7 +635,7 @@
 			icon: {
 				id: "scguns:osgood_50"
 			}
-			id: "7C64979C0A6D5CD6"
+			id: "7342BEF7D3DD7C58"
 			rewards: [{
 				id: "0E0D6B9C389A6AB5"
 				type: "xp_levels"
@@ -673,7 +673,7 @@
 			icon: {
 				id: "scguns:dissident_spawn_egg"
 			}
-			id: "4A9E1C66078C51AC"
+			id: "0943E262E1B30AD9"
 			rewards: [{
 				id: "3B3F1D4C7AA0FA65"
 				type: "xp_levels"
@@ -692,9 +692,9 @@
 			icon: {
 				id: "scguns:asgharian_tiles"
 			}
-			id: "3EAA3D954601DE9D"
+			id: "10404CEB06C575ED"
 			rewards: [{
-				id: "6BF85243532CA77A"
+				id: "0797F37E253CB7BF"
 				type: "xp_levels"
 				xp_levels: 10
 			}]
@@ -710,9 +710,9 @@
 			icon: {
 				id: "scguns:treated_brass_blueprint"
 			}
-			id: "2D51572ECA9A99E8"
+			id: "45CE0F1C7F59EA83"
 			rewards: [{
-				id: "35A23878711C6E4E"
+				id: "0D8E9A3B8B722E43"
 				type: "xp_levels"
 				xp_levels: 6
 			}]
@@ -728,7 +728,7 @@
 			icon: {
 				id: "scguns:treated_brass_ingot"
 			}
-			id: "3F5DC7834D6F2F5A"
+			id: "4B7CB79CF34FBF6B"
 			rewards: [{
 				id: "329C980DA16CBF7E"
 				type: "xp_levels"
@@ -747,7 +747,7 @@
 			icon: {
 				id: "scguns:gauss_rifle"
 			}
-			id: "4FC51B9C59DC927D"
+			id: "0A276CF8C0C4CBF2"
 			rewards: [{
 				id: "1BA9F072DC062E70"
 				type: "xp_levels"
@@ -767,14 +767,14 @@
 			icon: {
 				id: "scguns:diamond_steel_blueprint"
 			}
-			id: "0ED1CBFD72DCDD05"
+			id: "344C72BAAF9DC50E"
 			rewards: [{
 				id: "3196B9CD504F40E0"
 				type: "xp_levels"
 				xp_levels: 6
 			}]
 			tasks: [{
-				id: "1864F7D3B3174D5D"
+				id: "1A83B8542935C936"
 				item: { count: 1, id: "scguns:diamond_steel_blueprint" }
 				type: "item"
 			}]
@@ -785,7 +785,7 @@
 			icon: {
 				id: "scguns:diamond_steel_ingot"
 			}
-			id: "0380477BCA23193C"
+			id: "687516A776087E7C"
 			rewards: [{
 				id: "59FD35D74F4A0AE2"
 				type: "xp_levels"
@@ -806,12 +806,12 @@
 			}
 			id: "2A2D8179AF22F2DA"
 			rewards: [{
-				id: "57BF038A87FD9393"
+				id: "5DEB788A82B46D34"
 				type: "xp_levels"
 				xp_levels: 8
 			}]
 			tasks: [{
-				id: "758AB23334D6C370"
+				id: "25F10DD485933F40"
 				item: { count: 1, id: "scguns:diamond_steel_chestplate" }
 				type: "item"
 			}]
@@ -849,7 +849,7 @@
 				xp_levels: 10
 			}]
 			tasks: [{
-				id: "1094CB7481F12211"
+				id: "6C0DD6913B49C013"
 				item: { count: 1, id: "scguns:exo_suit_chestplate" }
 				type: "item"
 			}]
@@ -868,7 +868,7 @@
 				xp_levels: 10
 			}]
 			tasks: [{
-				id: "4A0CCC7C81D34C6E"
+				id: "6C894EA38E9FA626"
 				item: { count: 1, id: "scguns:jetpack_module" }
 				type: "item"
 			}]

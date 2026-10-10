@@ -15,14 +15,14 @@
 			icon: {
 				id: "create_connected:brass_gearbox"
 			}
-			id: "6BB51866FE308346"
+			id: "5AC945961E6CEF4C"
 			rewards: [{
 				id: "5B59A2E9A3163B30"
 				type: "xp_levels"
 				xp_levels: 1
 			}]
 			tasks: [{
-				id: "2FC0EC1DD83670B1"
+				id: "6ADB717D1506EBC4"
 				type: "checkmark"
 			}]
 			x: 0.0d
@@ -34,7 +34,7 @@
 			}
 			id: "53C931ED70AF189E"
 			rewards: [{
-				id: "5E1EED6316AB6308"
+				id: "73FF166D37C26930"
 				type: "xp_levels"
 				xp_levels: 3
 			}]
@@ -52,12 +52,12 @@
 			}
 			id: "528A39BD4D1A5749"
 			rewards: [{
-				id: "4A6D4B6D49F1C9E3"
+				id: "73FD7D02CD74A7D3"
 				type: "xp_levels"
 				xp_levels: 3
 			}]
 			tasks: [{
-				id: "64A0E7B779FFC458"
+				id: "1850DE837FADB9F5"
 				item: { count: 1, id: "sliceanddice:slicer" }
 				type: "item"
 			}]
@@ -87,14 +87,14 @@
 			icon: {
 				id: "createrailwaysnavigator:navigator"
 			}
-			id: "1A0067E7EC6BBDD8"
+			id: "2FCB3C928F8F3F98"
 			rewards: [{
-				id: "27EFFB52620DE762"
+				id: "01A70EF4A25888BC"
 				type: "xp_levels"
 				xp_levels: 4
 			}]
 			tasks: [{
-				id: "2DAC4A3B7E56D6C4"
+				id: "24615ED74907F00C"
 				item: { count: 1, id: "createrailwaysnavigator:navigator" }
 				type: "item"
 			}]
@@ -105,9 +105,9 @@
 			icon: {
 				id: "createdeco:andesite_catwalk"
 			}
-			id: "59D58DEFBA07618B"
+			id: "0ABBC6B8110F00F8"
 			rewards: [{
-				id: "787694A789DA8D28"
+				id: "1F2737CF0BA98113"
 				type: "xp_levels"
 				xp_levels: 1
 			}]
@@ -125,7 +125,7 @@
 			icon: {
 				id: "create_connected:brass_gearbox"
 			}
-			id: "298FBE11AF40215A"
+			id: "48D5A39D8543115D"
 			rewards: [{
 				id: "3CC8AAE4960E221F"
 				type: "xp_levels"
@@ -150,7 +150,7 @@
 				xp_levels: 2
 			}]
 			tasks: [{
-				id: "3F726573C6BAB99B"
+				id: "6EF497D8EFEC861B"
 				item: { count: 1, id: "create_connected:overstress_clutch" }
 				type: "item"
 			}]
@@ -183,7 +183,7 @@
 			}
 			id: "1D1259D3FEFDB873"
 			rewards: [{
-				id: "3E66BF08B2B90E90"
+				id: "38464695C2E8EDDE"
 				type: "xp_levels"
 				xp_levels: 3
 			}]
@@ -215,7 +215,7 @@
 				}
 				{
 					count: 4L
-					id: "74A21049E6B3EE25"
+					id: "59908361DE35F2BC"
 					item: { count: 1, id: "create_connected:copycat_stairs" }
 					type: "item"
 				}
@@ -228,14 +228,14 @@
 			icon: {
 				id: "create_connected:fan_freezing_catalyst"
 			}
-			id: "6AE892E178FCD399"
+			id: "08C57B2663E39FD4"
 			rewards: [{
 				id: "5E3042C10EC5B75D"
 				type: "xp_levels"
 				xp_levels: 3
 			}]
 			tasks: [{
-				id: "24358A5CE1A90712"
+				id: "5415364EF91F0125"
 				item: { count: 1, id: "create_connected:fan_freezing_catalyst" }
 				type: "item"
 			}]
@@ -246,14 +246,14 @@
 			icon: {
 				id: "create_dragons_plus:dragon_breath_bucket"
 			}
-			id: "11E92E195672ABF2"
+			id: "2FEEBE3588330DDC"
 			rewards: [{
 				id: "4A868F0B53E44E81"
 				type: "xp_levels"
 				xp_levels: 6
 			}]
 			tasks: [{
-				id: "467EFF20AF608065"
+				id: "51F6CF718EBA91E4"
 				item: { count: 1, id: "create_dragons_plus:dragon_breath_bucket" }
 				type: "item"
 			}]
@@ -266,12 +266,12 @@
 			}
 			id: "14C5A010F1A0E949"
 			rewards: [{
-				id: "135BCA3231E9B3E9"
+				id: "568A08DED00E7B56"
 				type: "xp_levels"
 				xp_levels: 3
 			}]
 			tasks: [{
-				id: "27D8CE9FC557F48C"
+				id: "6E09D07DA6344899"
 				item: { count: 1, id: "create_connected:fan_ending_catalyst_dragons_breath" }
 				type: "item"
 			}]
