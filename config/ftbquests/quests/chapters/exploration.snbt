@@ -6,7 +6,7 @@
 	icon: {
 		id: "minecraft:compass"
 	}
-	id: "229C036C57C69A67"
+	id: "1410945637DAD1D8"
 	images: [ ]
 	order_index: 9
 	quest_links: [ ]
@@ -15,14 +15,14 @@
 			icon: {
 				id: "minecraft:emerald"
 			}
-			id: "47A3579D9685006E"
+			id: "5F079F2D15A7F6FD"
 			rewards: [{
 				id: "485575837DD91AF2"
 				type: "xp_levels"
 				xp_levels: 2
 			}]
 			tasks: [{
-				id: "258CA7B9D7A42AA6"
+				id: "78B23B6F02F91C0D"
 				structure: "minecraft:village_plains"
 				type: "structure"
 			}]
@@ -33,7 +33,7 @@
 			icon: {
 				id: "minecraft:rail"
 			}
-			id: "77E16B6948FAB425"
+			id: "68051AEF2954FD95"
 			rewards: [{
 				id: "6DADBD128442F4E9"
 				type: "xp_levels"
@@ -51,7 +51,7 @@
 			icon: {
 				id: "minecraft:spawner"
 			}
-			id: "7AFECA6E2FDDB6C4"
+			id: "297F12262584EA67"
 			rewards: [{
 				id: "3BFC160D9A736BA7"
 				type: "xp_levels"
@@ -71,7 +71,7 @@
 			}
 			id: "40B1DC15981CEDF4"
 			rewards: [{
-				id: "5C2D233B7DA44E64"
+				id: "69DC3CAD4E1AA1C0"
 				type: "xp_levels"
 				xp_levels: 3
 			}]
@@ -89,7 +89,7 @@
 			}
 			id: "0488D8838BCDDA07"
 			rewards: [{
-				id: "29A62F8DA7F53DFA"
+				id: "415234999D8458B8"
 				type: "xp_levels"
 				xp_levels: 8
 			}]
@@ -106,7 +106,7 @@
 			icon: {
 				id: "minecraft:nether_bricks"
 			}
-			id: "7674809CA5595093"
+			id: "302C771323D53716"
 			rewards: [{
 				id: "359762F7F3F47A63"
 				type: "xp_levels"
@@ -125,14 +125,14 @@
 			icon: {
 				id: "minecraft:gilded_blackstone"
 			}
-			id: "0590CA9890A4FD04"
+			id: "5FD528C1B38052BD"
 			rewards: [{
 				id: "16F86FAF32AF45B5"
 				type: "xp_levels"
 				xp_levels: 10
 			}]
 			tasks: [{
-				id: "5FF2DD98BF4FA087"
+				id: "1088DEE1F415764E"
 				structure: "minecraft:bastion_remnant"
 				type: "structure"
 			}]
@@ -150,7 +150,7 @@
 				xp_levels: 12
 			}]
 			tasks: [{
-				id: "7AB05EC654FFF3F3"
+				id: "7986A4B537B6DF16"
 				structure: "minecraft:ancient_city"
 				type: "structure"
 			}]
@@ -162,9 +162,9 @@
 			icon: {
 				id: "minecraft:ender_eye"
 			}
-			id: "3B5FDA81FA5716AB"
+			id: "6CE079BC6B06F221"
 			rewards: [{
-				id: "48A65E97DD8A177C"
+				id: "375E921EF65615DD"
 				type: "xp_levels"
 				xp_levels: 12
 			}]
@@ -199,14 +199,14 @@
 			icon: {
 				id: "minecraft:purpur_block"
 			}
-			id: "28F146D5FB4E1BB4"
+			id: "29E9931A06F44B1F"
 			rewards: [{
-				id: "318CD3899818BD24"
+				id: "08547A60FD599F27"
 				type: "xp_levels"
 				xp_levels: 16
 			}]
 			tasks: [{
-				id: "6D29155C2D3D24E4"
+				id: "6FF3A8887E60103D"
 				structure: "minecraft:end_city"
 				type: "structure"
 			}]
@@ -217,7 +217,7 @@
 			icon: {
 				id: "minecraft:rotten_flesh"
 			}
-			id: "66FD10582E8193D6"
+			id: "088C142347876E45"
 			rewards: [{
 				id: "566E23DEF0692090"
 				type: "xp_levels"
@@ -237,12 +237,12 @@
 			}
 			id: "3B2685A5549DDAA7"
 			rewards: [{
-				id: "0A86166E4823EA66"
+				id: "4F04858A3A7608C8"
 				type: "xp_levels"
 				xp_levels: 3
 			}]
 			tasks: [{
-				id: "2FA6CD9DB056FA8A"
+				id: "7FFB56D7CD21783E"
 				structure: "betterdungeons:skeleton_dungeon"
 				type: "structure"
 			}]
@@ -253,9 +253,9 @@
 			icon: {
 				id: "minecraft:spider_eye"
 			}
-			id: "57730748A30EEB6F"
+			id: "509D876501040920"
 			rewards: [{
-				id: "61DF6600EB8DC48D"
+				id: "1ECD6DCC9CFBED0A"
 				type: "xp_levels"
 				xp_levels: 3
 			}]
@@ -294,16 +294,16 @@
 			icon: {
 				id: "minecraft:chest"
 			}
-			id: "288974F6E60AA7C0"
+			id: "22DD6BACF711CA43"
 			rewards: [{
-				id: "24F0E33D1867A928"
+				id: "438C06AABA13D11D"
 				type: "xp_levels"
 				xp_levels: 15
 			}]
 			tasks: [{
 				advancement: "betterdungeons:all_dungeons"
 				criterion: ""
-				id: "3368B9CB2E75B98C"
+				id: "7821642B49CEF332"
 				type: "advancement"
 			}]
 			x: 6.0d
@@ -316,7 +316,7 @@
 			}
 			id: "57F6A271F5E1465B"
 			rewards: [{
-				id: "134AE08F8ABCBF60"
+				id: "25A4C9F93C6DA9E2"
 				type: "xp_levels"
 				xp_levels: 6
 			}]
@@ -333,14 +333,14 @@
 			icon: {
 				id: "minecraft:totem_of_undying"
 			}
-			id: "25BA8065CE1FB155"
+			id: "4164F435AC8A6AC5"
 			rewards: [{
 				id: "0BE247963802E0AD"
 				type: "xp_levels"
 				xp_levels: 14
 			}]
 			tasks: [{
-				id: "178A9832FE52B8E4"
+				id: "3893448017313024"
 				structure: "minecraft:mansion"
 				type: "structure"
 			}]
@@ -351,7 +351,7 @@
 			icon: {
 				id: "minecraft:crossbow"
 			}
-			id: "11FBC3FBF3FDA849"
+			id: "741F7EBF6B9BA887"
 			rewards: [{
 				id: "1F8AFFBA636958DE"
 				type: "xp_levels"
@@ -370,7 +370,7 @@
 			icon: {
 				id: "minecraft:mossy_cobblestone"
 			}
-			id: "346C0C97B2C77E2B"
+			id: "11AADD62A8DB1733"
 			rewards: [{
 				id: "3F6B135BDDD2313C"
 				type: "xp_levels"
@@ -407,14 +407,14 @@
 			icon: {
 				id: "minecraft:crying_obsidian"
 			}
-			id: "043FA392E5E95AAA"
+			id: "637F5A3F88BEBFCF"
 			rewards: [{
-				id: "3D00559F1C083E95"
+				id: "5FAACABF48EF9B5E"
 				type: "xp_levels"
 				xp_levels: 3
 			}]
 			tasks: [{
-				id: "74A3A9B4E55608F0"
+				id: "6FED53EEEE9C98AD"
 				structure: "minecraft:ruined_portal"
 				type: "structure"
 			}]
@@ -446,7 +446,7 @@
 			}
 			id: "3722C0D737B6FA4F"
 			rewards: [{
-				id: "18AD8440718FF04A"
+				id: "2C3439E151C0D474"
 				type: "xp_levels"
 				xp_levels: 3
 			}]
@@ -462,14 +462,14 @@
 			icon: {
 				id: "minecraft:cooked_beef"
 			}
-			id: "22C0A270C38931A8"
+			id: "18164DFC3794F07F"
 			rewards: [{
-				id: "054CD0D850C1594D"
+				id: "352BACEA9C32F550"
 				type: "xp_levels"
 				xp_levels: 3
 			}]
 			tasks: [{
-				id: "5CC242E5C1E126BC"
+				id: "171B02B61234DA77"
 				structure: "nova_structures:tavern_oak"
 				type: "structure"
 			}]
@@ -480,7 +480,7 @@
 			icon: {
 				id: "minecraft:enchanted_book"
 			}
-			id: "33B563CFEB9CB5EC"
+			id: "10705B1FC5953B2A"
 			rewards: [{
 				id: "3663E1D859734F80"
 				type: "xp_levels"
@@ -498,9 +498,9 @@
 			icon: {
 				id: "minecraft:crossbow"
 			}
-			id: "09B7799316DE38E3"
+			id: "5739B4F51A8BC136"
 			rewards: [{
-				id: "688F9D721D422635"
+				id: "6F9DAFF9B474EB22"
 				type: "xp_levels"
 				xp_levels: 6
 			}]
@@ -517,14 +517,14 @@
 			icon: {
 				id: "minecraft:nether_bricks"
 			}
-			id: "08EA7FB8F1A69881"
+			id: "65E5D220FA73A7D7"
 			rewards: [{
-				id: "5CF5AC0493947DF4"
+				id: "6560BFB8A655391F"
 				type: "xp_levels"
 				xp_levels: 6
 			}]
 			tasks: [{
-				id: "7FF6BFD7FB2AC055"
+				id: "61B1EBB34CEE8176"
 				structure: "nova_structures:nether_keep"
 				type: "structure"
 			}]
@@ -535,9 +535,9 @@
 			icon: {
 				id: "minecraft:gold_ingot"
 			}
-			id: "48791E0B14E5697F"
+			id: "0F9E19D5E69F8A92"
 			rewards: [{
-				id: "59651C6D9D927C27"
+				id: "0E8E17C3C6CAB1F7"
 				type: "xp_levels"
 				xp_levels: 6
 			}]
@@ -555,7 +555,7 @@
 			}
 			id: "47C2D45D9ED3FB55"
 			rewards: [{
-				id: "0189DB7584EBB664"
+				id: "31766F02821F5A84"
 				type: "xp_levels"
 				xp_levels: 6
 			}]
@@ -571,14 +571,14 @@
 			icon: {
 				id: "minecraft:deepslate_bricks"
 			}
-			id: "409D6AB461BC5D7B"
+			id: "3E4856E4089EB09D"
 			rewards: [{
-				id: "7FD0CB170EB92401"
+				id: "63C7BCD8B6E06382"
 				type: "xp_levels"
 				xp_levels: 6
 			}]
 			tasks: [{
-				id: "75AD5B7C4D4ED0A6"
+				id: "286A3908D11B2924"
 				structure: "nova_structures:lone_citadel"
 				type: "structure"
 			}]
@@ -589,9 +589,9 @@
 			icon: {
 				id: "minecraft:elytra"
 			}
-			id: "08FB663B3D599B2E"
+			id: "49ECDC6AC6B5D36C"
 			rewards: [{
-				id: "7B43D5CE24D1D722"
+				id: "7350D8771D25F291"
 				type: "xp_levels"
 				xp_levels: 18
 			}]
@@ -609,12 +609,12 @@
 			}
 			id: "76C90508CF4BDBD0"
 			rewards: [{
-				id: "19999FCDCE00F718"
+				id: "6E6D394AD226704A"
 				type: "xp_levels"
 				xp_levels: 20
 			}]
 			tasks: [{
-				id: "159239D3CCA4F4DB"
+				id: "107A9DA7ECA65DE4"
 				structure: "nova_structures:end_castle"
 				type: "structure"
 			}]

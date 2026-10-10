@@ -15,14 +15,14 @@
 			icon: {
 				id: "createaddition:electric_motor"
 			}
-			id: "7AD310F27BB3EC69"
+			id: "4B9C5089FCEEABE7"
 			rewards: [{
 				id: "5B59A2E9A3163B30"
 				type: "xp_levels"
 				xp_levels: 2
 			}]
 			tasks: [{
-				id: "6459167110811509"
+				id: "0673616D3846ECC5"
 				type: "checkmark"
 			}]
 			x: 0.0d
@@ -34,12 +34,12 @@
 			}
 			id: "4B8DA19FD558CCA4"
 			rewards: [{
-				id: "623126FC2AEA3B31"
+				id: "6CB1165A9FBA7CAA"
 				type: "xp_levels"
 				xp_levels: 3
 			}]
 			tasks: [{
-				id: "672AF90830C2354A"
+				id: "2024E987194467B4"
 				item: { count: 1, id: "createaddition:electric_motor" }
 				type: "item"
 			}]
@@ -58,7 +58,7 @@
 				xp_levels: 3
 			}]
 			tasks: [{
-				id: "244F6ADA1F574E65"
+				id: "156138E571098299"
 				item: { count: 1, id: "createaddition:alternator" }
 				type: "item"
 			}]
@@ -70,14 +70,14 @@
 			icon: {
 				id: "createaddition:capacitor"
 			}
-			id: "0CFF0A07B9E7D38D"
+			id: "29021257A14BC5A7"
 			rewards: [{
-				id: "2BBDC24E2DCA8632"
+				id: "4497A54692F1D3EF"
 				type: "xp_levels"
 				xp_levels: 3
 			}]
 			tasks: [{
-				id: "3392A3ED38733874"
+				id: "66970D0D8DC3CBEA"
 				item: { count: 1, id: "createaddition:capacitor" }
 				type: "item"
 			}]
@@ -96,7 +96,7 @@
 				xp_levels: 3
 			}]
 			tasks: [{
-				id: "075F6189F871E458"
+				id: "598AEC6E30BEAD77"
 				item: { count: 1, id: "createaddition:rolling_mill" }
 				type: "item"
 			}]
@@ -108,9 +108,9 @@
 			icon: {
 				id: "createaddition:connector"
 			}
-			id: "2FBBCBC013056BA2"
+			id: "44962C3629D27E0D"
 			rewards: [{
-				id: "17D9ADE94702338E"
+				id: "2CA955BE8BDEE1C3"
 				type: "xp_levels"
 				xp_levels: 3
 			}]
@@ -129,7 +129,7 @@
 			}
 			id: "7AE7F2DA6149F569"
 			rewards: [{
-				id: "35B09ADF1D9C6BF3"
+				id: "7D4702D9EA27C0CF"
 				type: "xp_levels"
 				xp_levels: 6
 			}]
@@ -147,7 +147,7 @@
 			}
 			id: "53C931ED70AF189E"
 			rewards: [{
-				id: "07E0C9911D01B16D"
+				id: "4EDC0ED825073FB6"
 				type: "xp_levels"
 				xp_levels: 3
 			}]
@@ -165,12 +165,12 @@
 			}
 			id: "528A39BD4D1A5749"
 			rewards: [{
-				id: "17A2201003B363E1"
+				id: "6E9313B5260C962B"
 				type: "xp_levels"
 				xp_levels: 3
 			}]
 			tasks: [{
-				id: "0E252B0CB532D17D"
+				id: "5D7924157BC32BBB"
 				item: { count: 1, id: "sliceanddice:slicer" }
 				type: "item"
 			}]
@@ -200,14 +200,14 @@
 			icon: {
 				id: "createrailwaysnavigator:navigator"
 			}
-			id: "5E11CBC551409560"
+			id: "1BA1A6A97987E9BF"
 			rewards: [{
-				id: "1A25F4D32393B589"
+				id: "56C680971D91A5BE"
 				type: "xp_levels"
 				xp_levels: 3
 			}]
 			tasks: [{
-				id: "4FCE07DF7668F5CF"
+				id: "0D534DEE2540051F"
 				item: { count: 1, id: "createrailwaysnavigator:navigator" }
 				type: "item"
 			}]
@@ -218,9 +218,9 @@
 			icon: {
 				id: "createdeco:andesite_catwalk"
 			}
-			id: "36117F1262B5F342"
+			id: "4FA003FE8973197C"
 			rewards: [{
-				id: "77EF0F5B6C1D2CD8"
+				id: "565276DB92A93BC9"
 				type: "xp_levels"
 				xp_levels: 2
 			}]
@@ -240,7 +240,7 @@
 			}
 			id: "1460CA84050461ED"
 			rewards: [{
-				id: "5C6404FA3DC7A2BD"
+				id: "2811622158A90108"
 				type: "xp_levels"
 				xp_levels: 3
 			}]
@@ -277,12 +277,12 @@
 			}
 			id: "0E4B0F6A67E28B79"
 			rewards: [{
-				id: "3AEBDFC61828D353"
+				id: "567BDED452AEC63A"
 				type: "xp_levels"
 				xp_levels: 4
 			}]
 			tasks: [{
-				id: "78F751415C626E83"
+				id: "302CF13D5E72B3FA"
 				item: { count: 1, id: "createaddition:portable_energy_interface" }
 				type: "item"
 			}]
@@ -294,15 +294,15 @@
 			icon: {
 				id: "createaddition:biomass_pellet"
 			}
-			id: "284A289D8743BDB3"
+			id: "12B55B25685FDC3C"
 			rewards: [{
-				id: "67F23FB879048A6E"
+				id: "756EEABA4AFA6CF3"
 				type: "xp_levels"
 				xp_levels: 3
 			}]
 			tasks: [{
 				count: 8L
-				id: "124C40644F137348"
+				id: "2136D4DF13251448"
 				item: { count: 1, id: "createaddition:biomass_pellet" }
 				type: "item"
 			}]
@@ -313,9 +313,9 @@
 			icon: {
 				id: "createaddition:bioethanol_bucket"
 			}
-			id: "481CDCDB528B404B"
+			id: "6E8470482FD861EB"
 			rewards: [{
-				id: "0B9DB6CD96DD03BD"
+				id: "0F31651E38E72A00"
 				type: "xp_levels"
 				xp_levels: 4
 			}]
@@ -332,7 +332,7 @@
 			icon: {
 				id: "create_connected:brass_gearbox"
 			}
-			id: "75F3AC9919BC2FEA"
+			id: "5646EBEBB1A3F687"
 			rewards: [{
 				id: "3CC8AAE4960E221F"
 				type: "xp_levels"
@@ -357,7 +357,7 @@
 				xp_levels: 3
 			}]
 			tasks: [{
-				id: "3244154FBC7D37B5"
+				id: "2BB2F3037F6417DE"
 				item: { count: 1, id: "create_connected:overstress_clutch" }
 				type: "item"
 			}]
@@ -390,7 +390,7 @@
 			}
 			id: "1D1259D3FEFDB873"
 			rewards: [{
-				id: "71CCDF67D34FFCBB"
+				id: "335AB8D993FC3398"
 				type: "xp_levels"
 				xp_levels: 4
 			}]
@@ -421,7 +421,7 @@
 				}
 				{
 					count: 4L
-					id: "083A987D94569695"
+					id: "2E0B636C4C43C75D"
 					item: { count: 1, id: "create_connected:copycat_stairs" }
 					type: "item"
 				}
@@ -433,14 +433,14 @@
 			icon: {
 				id: "create_connected:fan_freezing_catalyst"
 			}
-			id: "051B76FD1A877D3F"
+			id: "02C58E68BC624B66"
 			rewards: [{
 				id: "5E3042C10EC5B75D"
 				type: "xp_levels"
 				xp_levels: 3
 			}]
 			tasks: [{
-				id: "2ECE01C274F69C51"
+				id: "33EEEA1379B4F7F6"
 				item: { count: 1, id: "create_connected:fan_freezing_catalyst" }
 				type: "item"
 			}]
@@ -451,14 +451,14 @@
 			icon: {
 				id: "create_dragons_plus:dragon_breath_bucket"
 			}
-			id: "4416FFDD2FFEA9CE"
+			id: "2284D864193E14C6"
 			rewards: [{
 				id: "4A868F0B53E44E81"
 				type: "xp_levels"
 				xp_levels: 4
 			}]
 			tasks: [{
-				id: "70E8E1E2D5E6DA21"
+				id: "3946AC31A6F3415D"
 				item: { count: 1, id: "create_dragons_plus:dragon_breath_bucket" }
 				type: "item"
 			}]
@@ -471,12 +471,12 @@
 			}
 			id: "14C5A010F1A0E949"
 			rewards: [{
-				id: "0745BAAF64F7D3E2"
+				id: "2EE807E2D5CD7AA5"
 				type: "xp_levels"
 				xp_levels: 5
 			}]
 			tasks: [{
-				id: "33CC55236BCCECEB"
+				id: "1C2E7D0D8E4C09E1"
 				item: { count: 1, id: "create_connected:fan_ending_catalyst_dragons_breath" }
 				type: "item"
 			}]

@@ -17,7 +17,7 @@
 			}
 			id: "0F16F7A61362E895"
 			rewards: [{
-				id: "7D7D01E5F68C2449"
+				id: "11D39ECAEB4E0193"
 				type: "xp_levels"
 				xp_levels: 1
 			}]
@@ -36,12 +36,12 @@
 			}
 			id: "69116DA2C6B3D852"
 			rewards: [{
-				id: "511DBFA13EC99964"
+				id: "38062E59133F0BFF"
 				type: "xp_levels"
 				xp_levels: 1
 			}]
 			tasks: [{
-				id: "6F670DA8CDBB028B"
+				id: "14C2DCE3CD42DA70"
 				item: { count: 1, id: "farmersdelight:cutting_board" }
 				type: "item"
 			}]
@@ -73,7 +73,7 @@
 			icon: {
 				id: "farmersdelight:ham"
 			}
-			id: "161E3748794D23B5"
+			id: "01EF3AAC7927701B"
 			rewards: [{
 				id: "1811D9FEBB27E8C6"
 				type: "xp_levels"
@@ -82,7 +82,7 @@
 			tasks: [{
 				advancement: "farmersdelight:main/get_ham"
 				criterion: ""
-				id: "7A670DA8DA15E082"
+				id: "03834C62F2DED098"
 				type: "advancement"
 			}]
 			x: 4.5d
@@ -95,14 +95,14 @@
 			}
 			id: "7EC198492A10A46F"
 			rewards: [{
-				id: "5A4D21F7F4757E34"
+				id: "20D80D3F731F2046"
 				type: "xp_levels"
 				xp_levels: 1
 			}]
 			tasks: [{
 				advancement: "farmersdelight:main/place_campfire"
 				criterion: ""
-				id: "6ECDFD413AD730F5"
+				id: "3EF6FFCB2110B4FA"
 				type: "advancement"
 			}]
 			x: 1.5d
@@ -113,14 +113,14 @@
 			icon: {
 				id: "farmersdelight:cooking_pot"
 			}
-			id: "36C34582ECD701CC"
+			id: "5FB95E7375665DF9"
 			rewards: [{
-				id: "38E578B924A0BD9D"
+				id: "0B629C0A0D08237B"
 				type: "xp_levels"
 				xp_levels: 2
 			}]
 			tasks: [{
-				id: "0A6046BA9768F1C0"
+				id: "0428A2085E328897"
 				item: { count: 1, id: "farmersdelight:cooking_pot" }
 				type: "item"
 			}]
@@ -182,7 +182,7 @@
 			tasks: [{
 				advancement: "farmersdelight:main/place_feast"
 				criterion: ""
-				id: "73BC376F8D62A054"
+				id: "42F819B0BB6EC547"
 				type: "advancement"
 			}]
 			x: 7.5d
@@ -277,7 +277,7 @@
 			}
 			id: "2B4F46BCC0C58493"
 			rewards: [{
-				id: "04D0012F3C1D7D88"
+				id: "6BCD84DCBB5DABE4"
 				type: "xp_levels"
 				xp_levels: 1
 			}]
@@ -297,7 +297,7 @@
 			}
 			id: "6FD7238A4E58CCAC"
 			rewards: [{
-				id: "126B5EA21ED4353E"
+				id: "36A8D582BD3A9C0A"
 				type: "xp_levels"
 				xp_levels: 2
 			}]
@@ -317,13 +317,13 @@
 			}
 			id: "3A47233E2835BCB1"
 			rewards: [{
-				id: "1C1721DE6685DBED"
+				id: "2F3E30C468F10595"
 				type: "xp_levels"
 				xp_levels: 3
 			}]
 			tasks: [{
 				count: 4L
-				id: "2655A36BDE52A84F"
+				id: "095E08C5DE975EB7"
 				item: { count: 1, id: "farmersdelight:rich_soil" }
 				type: "item"
 			}]
@@ -335,7 +335,7 @@
 			icon: {
 				id: "farmersdelight:cabbage_seeds"
 			}
-			id: "57E41A045AB4A1C8"
+			id: "37B25E4C451D5C39"
 			rewards: [{
 				id: "2329F92A53356F4D"
 				type: "xp_levels"
@@ -354,7 +354,7 @@
 			icon: {
 				id: "farmersdelight:rice_panicle"
 			}
-			id: "436DDDB6B71182F3"
+			id: "6220FDC71E85EDDB"
 			rewards: [{
 				id: "0E6A44E4737ED788"
 				type: "xp_levels"
@@ -363,7 +363,7 @@
 			tasks: [{
 				advancement: "farmersdelight:main/plant_rice"
 				criterion: ""
-				id: "21B1E48BEF93E51D"
+				id: "224C5D307C3D3949"
 				type: "advancement"
 			}]
 			x: 7.5d
@@ -375,13 +375,13 @@
 			}
 			id: "46CCB1A0C215EF5B"
 			rewards: [{
-				id: "0DC4553878FF3A9D"
+				id: "397E9D83B5D52AC1"
 				type: "xp_levels"
 				xp_levels: 3
 			}]
 			tasks: [{
 				count: 8L
-				id: "77194DC84C123BE8"
+				id: "03233D2EAFB8994F"
 				item: { count: 1, id: "farmersdelight:rice" }
 				type: "item"
 			}]
@@ -395,7 +395,7 @@
 			}
 			id: "6FB8A227FE08908E"
 			rewards: [{
-				id: "4696DC17C51FAC71"
+				id: "5F56A7FDC9A2A020"
 				type: "xp_levels"
 				xp_levels: 5
 			}]
@@ -413,14 +413,14 @@
 			}
 			id: "38A452183B56E9F1"
 			rewards: [{
-				id: "45F4B00D60B21454"
+				id: "0EF8EB41A414372A"
 				type: "xp_levels"
 				xp_levels: 4
 			}]
 			tasks: [{
 				advancement: "farmersdelight:main/harvest_ropelogged_tomato"
 				criterion: ""
-				id: "3223EAD9C0F0E144"
+				id: "07E02B7AA4326B69"
 				type: "advancement"
 			}]
 			x: 7.5d
@@ -440,7 +440,7 @@
 			tasks: [{
 				advancement: "farmersdelight:main/hit_raider_with_rotten_tomato"
 				criterion: ""
-				id: "1091C5F5BF75B830"
+				id: "151717AF72D34370"
 				type: "advancement"
 			}]
 			x: 9.0d
@@ -460,7 +460,7 @@
 			tasks: [{
 				advancement: "farmersdelight:main/get_mushroom_colony"
 				criterion: ""
-				id: "11A13ED19478637D"
+				id: "0E529D38986BB17A"
 				type: "advancement"
 			}]
 			x: 6.0d
@@ -532,7 +532,7 @@
 			icon: {
 				id: "farmersdelight:sweet_berry_cheesecake"
 			}
-			id: "7E986691AA70824A"
+			id: "4DD4CCEA43334225"
 			rewards: [{
 				id: "1535EABE35D36FB7"
 				type: "xp_levels"
@@ -551,9 +551,9 @@
 			icon: {
 				id: "farmersdelight:oak_cabinet"
 			}
-			id: "20DE6EF774302DEE"
+			id: "04648637FB1EB285"
 			rewards: [{
-				id: "20BB31C48B8BC0A7"
+				id: "727320D6093D5404"
 				type: "xp_levels"
 				xp_levels: 2
 			}]
@@ -569,7 +569,7 @@
 			icon: {
 				id: "farmersdelight:wooden_basket"
 			}
-			id: "70FD5A7C044CDAE3"
+			id: "147B34CFFCF2F04A"
 			rewards: [{
 				id: "3CFC7DAB5B7F3053"
 				type: "xp_levels"

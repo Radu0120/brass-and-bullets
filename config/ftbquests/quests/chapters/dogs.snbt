@@ -6,7 +6,7 @@
 	icon: {
 		id: "minecraft:bone"
 	}
-	id: "3158F08296F8CBAD"
+	id: "5E1CC9BCDABA8451"
 	images: [ ]
 	order_index: 7
 	quest_links: [ ]
@@ -15,16 +15,16 @@
 			icon: {
 				id: "minecraft:wheat"
 			}
-			id: "7856B42CFAA2C23E"
+			id: "053504589DA0EBCB"
 			rewards: [{
-				id: "7EB7ECC17E2A044F"
+				id: "44F905300B21521F"
 				type: "xp_levels"
 				xp_levels: 1
 			}]
 			tasks: [{
 				advancement: "minecraft:husbandry/breed_an_animal"
 				criterion: ""
-				id: "681FF04957769C1B"
+				id: "6ADD3D4E703C3B26"
 				type: "advancement"
 			}]
 			x: 0.0d
@@ -34,9 +34,9 @@
 			icon: {
 				id: "minecraft:hay_block"
 			}
-			id: "4A037A88084574D7"
+			id: "1CA0215E2E5A27D7"
 			rewards: [{
-				id: "5C5A2EE76BF253F9"
+				id: "4342F1EB364E24F9"
 				type: "xp_levels"
 				xp_levels: 1
 			}]
@@ -52,7 +52,7 @@
 			icon: {
 				id: "minecraft:pig_spawn_egg"
 			}
-			id: "58021291068F512B"
+			id: "45D4EA8281ED6E8A"
 			rewards: [{
 				id: "3F073735309849FD"
 				type: "xp_levels"
@@ -71,9 +71,9 @@
 			icon: {
 				id: "minecraft:chicken_spawn_egg"
 			}
-			id: "61A76D6DF0A7C341"
+			id: "3A29B99DE21626C3"
 			rewards: [{
-				id: "46BF92330856C537"
+				id: "698A32323FDD6251"
 				type: "xp_levels"
 				xp_levels: 2
 			}]
@@ -90,16 +90,16 @@
 			icon: {
 				id: "minecraft:cow_spawn_egg"
 			}
-			id: "4ACBBFC14D12BC61"
+			id: "54831C23FF3F16AE"
 			rewards: [{
-				id: "63890B6C4092C998"
+				id: "4CBDCCD630C86CAA"
 				type: "xp_levels"
 				xp_levels: 2
 			}]
 			tasks: [{
 				advancement: "minecraft:husbandry/bred_all_animals"
 				criterion: "minecraft:cow"
-				id: "5700C5ECDC4F6361"
+				id: "3DEBEB8C4F50412F"
 				type: "advancement"
 			}]
 			x: 3.0d
@@ -118,7 +118,7 @@
 			tasks: [{
 				advancement: "minecraft:husbandry/bred_all_animals"
 				criterion: "minecraft:mooshroom"
-				id: "10A85EC2437F23C0"
+				id: "74A81C02B747A9B4"
 				type: "advancement"
 			}]
 			x: 4.5d
@@ -130,14 +130,14 @@
 			}
 			id: "310D4CAA15EBF18F"
 			rewards: [{
-				id: "1D564C5EF51BBCED"
+				id: "7958C91FADFBEF7F"
 				type: "xp_levels"
 				xp_levels: 2
 			}]
 			tasks: [{
 				advancement: "minecraft:husbandry/bred_all_animals"
 				criterion: "minecraft:sheep"
-				id: "0DDD336C032A75B9"
+				id: "0DBB6AEFE024710D"
 				type: "advancement"
 			}]
 			x: 3.0d
@@ -156,7 +156,7 @@
 			tasks: [{
 				advancement: "minecraft:husbandry/bred_all_animals"
 				criterion: "minecraft:rabbit"
-				id: "1EA3C8F845B1E257"
+				id: "357BA287762E0606"
 				type: "advancement"
 			}]
 			x: 3.0d
@@ -187,7 +187,7 @@
 			}
 			id: "655D65FE51A0BF70"
 			rewards: [{
-				id: "01593689BC1C3A43"
+				id: "01713E51F115CE78"
 				type: "xp_levels"
 				xp_levels: 4
 			}]
@@ -205,14 +205,14 @@
 			icon: {
 				id: "minecraft:goat_horn"
 			}
-			id: "593CAD5DE44E76C9"
+			id: "53E3669B481E81CE"
 			rewards: [{
-				id: "2187E4A5DBBEB20E"
+				id: "7E164600A4C853D1"
 				type: "xp_levels"
 				xp_levels: 6
 			}]
 			tasks: [{
-				id: "2EF6DF97CB3C63B0"
+				id: "60046D4C491F507A"
 				item: { count: 1, id: "minecraft:goat_horn" }
 				type: "item"
 			}]
@@ -231,7 +231,7 @@
 				xp_levels: 3
 			}]
 			tasks: [{
-				id: "747017E9C2562F50"
+				id: "799C9170CAEE7321"
 				item: { count: 1, id: "minecraft:honey_bottle" }
 				type: "item"
 			}]
@@ -263,14 +263,14 @@
 			}
 			id: "73CCF02F6F496090"
 			rewards: [{
-				id: "47F625728E2E4CC9"
+				id: "19434462DA94D124"
 				type: "xp_levels"
 				xp_levels: 5
 			}]
 			tasks: [{
 				advancement: "minecraft:husbandry/bred_all_animals"
 				criterion: "minecraft:horse"
-				id: "74503FAB0553C7EB"
+				id: "6A0C36774A614A10"
 				type: "advancement"
 			}]
 			x: 3.0d
@@ -283,7 +283,7 @@
 			}
 			id: "35FCB61414FC9D8D"
 			rewards: [{
-				id: "3CB34AA89F6E3941"
+				id: "7BE34B4A7F75D714"
 				type: "xp_levels"
 				xp_levels: 6
 			}]
@@ -301,7 +301,7 @@
 			icon: {
 				id: "minecraft:mule_spawn_egg"
 			}
-			id: "3D28259899AD200E"
+			id: "3B8BFB02EBBF9E19"
 			rewards: [{
 				id: "120FB2CA50D1A740"
 				type: "xp_levels"
@@ -323,14 +323,14 @@
 			}
 			id: "1B0C35A35E4D0A1B"
 			rewards: [{
-				id: "216C8B26938EAF20"
+				id: "2D46C89498395B73"
 				type: "xp_levels"
 				xp_levels: 6
 			}]
 			tasks: [{
 				advancement: "minecraft:husbandry/bred_all_animals"
 				criterion: "minecraft:llama"
-				id: "5589440D15E1F96F"
+				id: "1A311E252ACF5D3A"
 				type: "advancement"
 			}]
 			x: 3.0d
@@ -350,7 +350,7 @@
 			tasks: [{
 				advancement: "minecraft:husbandry/bred_all_animals"
 				criterion: "minecraft:camel"
-				id: "6A58CE77A1F30868"
+				id: "3E44AAA791B9A661"
 				type: "advancement"
 			}]
 			x: 3.0d
@@ -360,9 +360,9 @@
 			icon: {
 				id: "minecraft:sweet_berries"
 			}
-			id: "05C8C2B0473F0436"
+			id: "37C213F75EA19699"
 			rewards: [{
-				id: "249678BA86DBDF74"
+				id: "3001D8BB3BA6C744"
 				type: "xp_levels"
 				xp_levels: 3
 			}]
@@ -378,7 +378,7 @@
 			icon: {
 				id: "minecraft:fox_spawn_egg"
 			}
-			id: "1531CCC611B1EDA0"
+			id: "355A22AE6E94B0C7"
 			rewards: [{
 				id: "1FF46BBF30B94DAE"
 				type: "xp_levels"
@@ -387,7 +387,7 @@
 			tasks: [{
 				advancement: "minecraft:husbandry/bred_all_animals"
 				criterion: "minecraft:fox"
-				id: "09744F4D4F5BCA72"
+				id: "43228C1C0E6C1358"
 				type: "advancement"
 			}]
 			x: 3.0d
@@ -399,7 +399,7 @@
 			}
 			id: "1B2A66EF3781C001"
 			rewards: [{
-				id: "1CFB324ED706CAEB"
+				id: "7FEA4D42B0E45D19"
 				type: "xp_levels"
 				xp_levels: 8
 			}]
@@ -416,7 +416,7 @@
 			icon: {
 				id: "minecraft:ocelot_spawn_egg"
 			}
-			id: "07C2E56B8FD8BEF2"
+			id: "6BDC7E1B0478E3D7"
 			rewards: [{
 				id: "0F5DCE7C3F85A5DD"
 				type: "xp_levels"
@@ -435,7 +435,7 @@
 			icon: {
 				id: "minecraft:cat_spawn_egg"
 			}
-			id: "35EE17EF68F9CBC2"
+			id: "602154CDC6B9C5D1"
 			rewards: [{
 				id: "76F44D639F945EAA"
 				type: "xp_levels"
@@ -444,7 +444,7 @@
 			tasks: [{
 				advancement: "minecraft:husbandry/bred_all_animals"
 				criterion: "minecraft:cat"
-				id: "3B711356A2B760C3"
+				id: "498302E2A6CA8024"
 				type: "advancement"
 			}]
 			x: 3.0d
@@ -456,7 +456,7 @@
 			}
 			id: "6E466293D8689A2C"
 			rewards: [{
-				id: "548128FEE3838C0E"
+				id: "025A6C27A341BFDB"
 				type: "xp_levels"
 				xp_levels: 2
 			}]
@@ -475,14 +475,14 @@
 			}
 			id: "0F9A60F9EF2A2364"
 			rewards: [{
-				id: "0595BC19C26E1FAB"
+				id: "61AA7B5E97E1E70C"
 				type: "xp_levels"
 				xp_levels: 8
 			}]
 			tasks: [{
 				advancement: "minecraft:husbandry/bred_all_animals"
 				criterion: "minecraft:axolotl"
-				id: "47079ABB6EADDB0E"
+				id: "5D604FE330506A8D"
 				type: "advancement"
 			}]
 			x: 3.0d
@@ -493,16 +493,16 @@
 			icon: {
 				id: "minecraft:turtle_spawn_egg"
 			}
-			id: "44254ACDC801461F"
+			id: "4E0DB8F5749C64FD"
 			rewards: [{
-				id: "2623077A70ACEF22"
+				id: "4E2F4A175A4AD3CA"
 				type: "xp_levels"
 				xp_levels: 6
 			}]
 			tasks: [{
 				advancement: "minecraft:husbandry/bred_all_animals"
 				criterion: "minecraft:turtle"
-				id: "1F73D362FE00D116"
+				id: "2929FF2D2C0CB996"
 				type: "advancement"
 			}]
 			x: 3.0d
@@ -522,7 +522,7 @@
 			tasks: [{
 				advancement: "minecraft:husbandry/bred_all_animals"
 				criterion: "minecraft:frog"
-				id: "30C10A1DD0F3FBAA"
+				id: "01B121C9FB41DF9B"
 				type: "advancement"
 			}]
 			x: 3.0d
@@ -533,7 +533,7 @@
 			icon: {
 				id: "minecraft:ochre_froglight"
 			}
-			id: "18E1E742DB361860"
+			id: "29098A8872E385A7"
 			rewards: [{
 				id: "30BA7E2C05475E98"
 				type: "xp_levels"
@@ -555,14 +555,14 @@
 			}
 			id: "26AEC99617F41A2D"
 			rewards: [{
-				id: "6343F9A7647BC195"
+				id: "4717729845AD61BD"
 				type: "xp_levels"
 				xp_levels: 5
 			}]
 			tasks: [{
 				advancement: "minecraft:husbandry/axolotl_in_a_bucket"
 				criterion: ""
-				id: "57DD9088F2FE7936"
+				id: "3DA1572C8B29FC1C"
 				type: "advancement"
 			}]
 			x: 4.5d
@@ -572,9 +572,9 @@
 			icon: {
 				id: "minecraft:armadillo_scute"
 			}
-			id: "1650A3AC7BB087BC"
+			id: "13D50AE1C510AE87"
 			rewards: [{
-				id: "21E282AC1D0A2C43"
+				id: "6922118CB94D56EF"
 				type: "xp_levels"
 				xp_levels: 8
 			}]
@@ -592,7 +592,7 @@
 			}
 			id: "7B0D075EA68C9980"
 			rewards: [{
-				id: "3B2021804F2DB50D"
+				id: "74BAD79E6BF0F579"
 				type: "xp_levels"
 				xp_levels: 9
 			}]
@@ -609,16 +609,16 @@
 			icon: {
 				id: "minecraft:sniffer_spawn_egg"
 			}
-			id: "6194910661A8F9E5"
+			id: "5240A20E9A5B4188"
 			rewards: [{
-				id: "71577A9068A234E7"
+				id: "1DFCDED140A46BCD"
 				type: "xp_levels"
 				xp_levels: 12
 			}]
 			tasks: [{
 				advancement: "minecraft:husbandry/bred_all_animals"
 				criterion: "minecraft:sniffer"
-				id: "4E7C3AD3295D8B0A"
+				id: "1E61BECB8485D6C4"
 				type: "advancement"
 			}]
 			x: 3.0d
@@ -628,9 +628,9 @@
 			icon: {
 				id: "minecraft:hoglin_spawn_egg"
 			}
-			id: "54F30D3E2FBFCF4B"
+			id: "5822D0F4DE074F11"
 			rewards: [{
-				id: "46EB3BE00A237188"
+				id: "6CE971688537A548"
 				type: "xp_levels"
 				xp_levels: 11
 			}]
@@ -656,7 +656,7 @@
 			tasks: [{
 				advancement: "minecraft:husbandry/bred_all_animals"
 				criterion: "minecraft:strider"
-				id: "6A29C17D5715A568"
+				id: "12C386BAD033D09D"
 				type: "advancement"
 			}]
 			x: 3.0d
@@ -682,7 +682,7 @@
 			}
 			id: "0596D1DAD53127A5"
 			rewards: [{
-				id: "3F988348CEED6202"
+				id: "0667CEA6AB05FB28"
 				type: "xp_levels"
 				xp_levels: 25
 			}]
@@ -709,7 +709,7 @@
 			tasks: [{
 				advancement: "minecraft:husbandry/tame_an_animal"
 				criterion: ""
-				id: "3A0706E5EC8024C9"
+				id: "5951982A5CD59CDF"
 				type: "advancement"
 			}]
 			x: 1.5d
@@ -720,14 +720,14 @@
 			icon: {
 				id: "minecraft:name_tag"
 			}
-			id: "117AA2BFC688A3AC"
+			id: "395AC23CC74EA77A"
 			rewards: [{
 				id: "4A4DA152C8E85590"
 				type: "xp_levels"
 				xp_levels: 2
 			}]
 			tasks: [{
-				id: "212B08EDAFDE38D6"
+				id: "07C2CE50659E5F3F"
 				item: { count: 1, id: "minecraft:name_tag" }
 				type: "item"
 			}]
@@ -758,16 +758,16 @@
 			icon: {
 				id: "minecraft:armadillo_scute"
 			}
-			id: "15F10716B72A2527"
+			id: "0A7DBA2EBEF771D4"
 			rewards: [{
-				id: "7C8C5E7EAE5F5475"
+				id: "3704BE1F7A6270E8"
 				type: "xp_levels"
 				xp_levels: 5
 			}]
 			tasks: [{
 				advancement: "minecraft:husbandry/repair_wolf_armor"
 				criterion: ""
-				id: "697791507B03B32A"
+				id: "2EFBCA2028181E7B"
 				type: "advancement"
 			}]
 			x: 4.5d
@@ -780,7 +780,7 @@
 			}
 			id: "49080A681E4F5D09"
 			rewards: [{
-				id: "1BBFD149FCF50300"
+				id: "7F6BA076B1FBE4FE"
 				type: "xp_levels"
 				xp_levels: 15
 			}]
@@ -798,7 +798,7 @@
 			icon: {
 				id: "minecraft:cod"
 			}
-			id: "697A1AAB2687091E"
+			id: "35F27F917E97CB24"
 			rewards: [{
 				id: "130A2C4ABE9F75A9"
 				type: "xp_levels"
@@ -818,7 +818,7 @@
 			icon: {
 				id: "minecraft:wheat_seeds"
 			}
-			id: "05F40181458E4712"
+			id: "6773CA138ABF8680"
 			rewards: [{
 				id: "34B48C903608D148"
 				type: "xp_levels"
@@ -838,7 +838,7 @@
 			}
 			id: "4C5CED5CFEB229CB"
 			rewards: [{
-				id: "2FB55E11E8DB39D9"
+				id: "4776A5E38075C9D9"
 				type: "xp_levels"
 				xp_levels: 5
 			}]
@@ -855,14 +855,14 @@
 			icon: {
 				id: "critterarmory:vitality_feed"
 			}
-			id: "717A490E01A766C0"
+			id: "104C523E837B6AEA"
 			rewards: [{
 				id: "19EEE3A95E04ED2D"
 				type: "xp_levels"
 				xp_levels: 8
 			}]
 			tasks: [{
-				id: "6FDD21A2E09BD8B4"
+				id: "44A9336243CA82AC"
 				item: { count: 1, id: "critterarmory:vitality_feed" }
 				type: "item"
 			}]
@@ -880,7 +880,7 @@
 				xp_levels: 7
 			}]
 			tasks: [{
-				id: "554A02CFEE82C510"
+				id: "5662445D3E7482BB"
 				item: { count: 1, id: "critterarmory:iron_cat_armor" }
 				type: "item"
 			}]
@@ -892,7 +892,7 @@
 			icon: {
 				id: "critterarmory:diamond_wolf_armor"
 			}
-			id: "5FB7A2E2CE24A382"
+			id: "5BBC35C15B5C9AE7"
 			rewards: [{
 				id: "482992E97685D93F"
 				type: "xp_levels"
