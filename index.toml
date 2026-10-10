@@ -6,7 +6,7 @@ hash = "d8f7ddb9429427a81e26479e2339993159744d661be16cc44ebd3ade19d317f9"
 
 [[files]]
 file = "config/ftblibrary-client.snbt"
-hash = "d8a42f113ff636d56ee24b7247c087f704580a46a4566399ded0049fa83d794f"
+hash = "b342ef1899ab7ada3da0ca40f8a6dd5d2a5dc0b2be15b25d24929942bb727e00"
 
 [[files]]
 file = "config/ftbquests/quests/chapter_groups.snbt"
@@ -66,7 +66,7 @@ hash = "772a9c32888034b52fe1b8b8ab4e28cbf16e2286ca9882794fa70c9b12b44ae0"
 
 [[files]]
 file = "config/inventoryprofilesnext/inventoryprofiles.json"
-hash = "b07a7d659026de564aca82cf021ca8bd6c11ef463ae48f87f3ab9b4007c7aadf"
+hash = "65374899c916b5af174275d96cd26414b6c26435dee0aebd07cb00412e0b582d"
 
 [[files]]
 file = "config/openloader/packs/bb-renames/assets/create/lang/en_us.json"
@@ -527,7 +527,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "4e3ea7e243370b01f11817496cae2b0faa037f2502dec6e1d0afcc3caa17e712"
+hash = "d2cac038e85a385187a4fa3e3bc5adacfdb900765bc4f0913682790ef1970daf"
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"

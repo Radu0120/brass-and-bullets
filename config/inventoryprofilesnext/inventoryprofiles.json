@@ -2,6 +2,10 @@
     "ModSettings": {
         "first_run": false
     },
+    "GuiSettings": {
+        "enable_inventory_settings_button": false,
+        "enable_inventory_editor_button": false
+    },
     "AutoRefillSettings": {
         "auto_refill_enable_indicator_icons": false,
         "auto_refill_enable_horbar_indicator_icons": false

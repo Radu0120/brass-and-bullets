@@ -34,7 +34,7 @@
 				y: 0
 			}
 			"ftblibrary:config": {
-				enabled: true
+				enabled: false
 				x: 3
 				y: 0
 			}
