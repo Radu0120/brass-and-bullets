@@ -329,6 +329,12 @@
 	quest.2D4E50283008AE40.title: "Gold Backpack"
 	quest.2D7B9D1F83ECB5ED.quest_desc: ["Create: Dragons Plus brings End-themed recipes. Collect dragon's breath in a basin."]
 	quest.2D7B9D1F83ECB5ED.title: "Dragon's Breath"
+	quest.2DFDB2EC9C7A9B8C.quest_desc: [
+		"Two crushing wheels side by side, turning towards each other, crush ore far better than a millstone: it is the biggest upgrade to your metal supply."
+		"They cannot be crafted by hand. The recipe is a 5x5 pattern of andesite alloy, planks and stone, so you need a &6Mechanical Crafter&r grid first."
+		"{image:item:create:crushing_wheel width:32 height:32 align:left click_action:show_recipe:create:crushing_wheel text:Crushing%20Wheel}"
+	]
+	quest.2DFDB2EC9C7A9B8C.title: "Crushing Wheels"
 	quest.2E61BF2BE61B1B43.quest_desc: [
 		"Create has a lot of add-ons in this pack. This chapter is a menu of four lanes:"
 		"&6Logic&r (chips, gearboxes, batteries), &6Kitchen&r (slicer, sprinkler),"
@@ -505,8 +511,12 @@
 	quest.43134D1808C1BCE8.title: "Controller"
 	quest.43D3A73EBCD55ADE.quest_desc: ["Lowers and raises a glued contraption, or a cable of building blocks, on a rope."]
 	quest.43D3A73EBCD55ADE.title: "Rope Pulley"
-	quest.43EA2ED38BF30878.quest_desc: ["Crushing wheels double your ore. It is the single biggest upgrade to early-game metal."]
-	quest.43EA2ED38BF30878.title: "Millstone \\& Crushing"
+	quest.43EA2ED38BF30878.quest_desc: [
+		"A &6Millstone&r grinds ore into crushed ore, grain into flour and many plants into dye. It is slow, but it needs only a cogwheel, an Andesite Casing and stone."
+		"Feed it from above and power it with a shaft. JEI lists everything it can grind."
+		"{image:item:create:millstone width:32 height:32 align:left click_action:show_recipe:create:millstone text:Millstone}"
+	]
+	quest.43EA2ED38BF30878.title: "Millstone"
 	quest.443BF0876FD68332.title: "Gyroscopic Bearing"
 	quest.4449D270CAA6F51A.quest_desc: ["Create's own storage. Vaults grow big and work with belts, funnels and the Mechanical Arm."]
 	quest.4449D270CAA6F51A.title: "Item Vault"

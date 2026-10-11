@@ -51,7 +51,7 @@ Rules learned the hard way:
 
 ## Quest book (FTB Quests)
 
-411 quests in 11 chapters, one dependency tree per chapter, rewards 1-30 XP levels by difficulty, progression
+412 quests in 11 chapters, one dependency tree per chapter, rewards 1-30 XP levels by difficulty, progression
 flexible (nothing locked). Quests are server-authoritative: a changed quest file needs a pack bump and the
 update procedure from NOTES.md.
 
@@ -60,7 +60,7 @@ The generator is **outside the repo**: `E:/Scratch/brass-and-bullets/quests/gen.
 `patches, functional, links, reduce, rewards` (Scratch is disposable: if it is gone, the committed SNBT is the
 only copy).
 
-- Run: `python -I -X utf8 gen.py <outdir>`. Expect `quests: 411 chapters: 11` and `unknown ids: 0`.
+- Run: `python -I -X utf8 gen.py <outdir>`. Expect `quests: 412 chapters: 11` and `unknown ids: 0`.
 - `Ch.q(key, title, icon, tasks, deps=(), xp=, lv=, desc=(), sub='', shape='')`. `lv` is XP levels 1..30
   (asserted). The first dep is the layout parent; cross-chapter deps are `(chapter, key)` tuples (real FTB
   dependencies, not drawn).

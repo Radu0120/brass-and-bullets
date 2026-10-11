@@ -26,7 +26,7 @@ hash = "2ffcb4e8eccf43c63cad2dad7f4c0a35b5c6afe3a5230758731e1583036339c0"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/create.snbt"
-hash = "0789393f280bfd41640c36d39ab92c7b38f8de2694e33a371ac778b1b8cd2397"
+hash = "f5da0e4b0c4dafe57457ca77eb0acf622754190a51a94939192806a8124d387c"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/dogs.snbt"
@@ -62,7 +62,7 @@ hash = "7d3cd3d4cc9045359490571dfada94da240ac01888aebf166e1187c61147bcf1"
 
 [[files]]
 file = "config/ftbquests/quests/lang/en_us.snbt"
-hash = "8f46c27b430d3e630bf6406b5809345bc5920b2a43912f638838ca769797138a"
+hash = "1fd405e9ca101f850acc170fc3053c0fd99125aa53135f666c02501c4df4a7a1"
 
 [[files]]
 file = "config/inventoryprofilesnext/inventoryprofiles.json"

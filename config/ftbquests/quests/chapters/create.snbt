@@ -132,7 +132,7 @@
 		{
 			dependencies: ["5F280AC959618021"]
 			icon: {
-				id: "create:crushing_wheel"
+				id: "create:millstone"
 			}
 			id: "43EA2ED38BF30878"
 			rewards: [{
@@ -140,19 +140,11 @@
 				type: "xp_levels"
 				xp_levels: 2
 			}]
-			tasks: [
-				{
-					id: "033208E3ADBE72EB"
-					item: { count: 1, id: "create:millstone" }
-					type: "item"
-				}
-				{
-					count: 2L
-					id: "694C153098F2DADF"
-					item: { count: 1, id: "create:crushing_wheel" }
-					type: "item"
-				}
-			]
+			tasks: [{
+				id: "033208E3ADBE72EB"
+				item: { count: 1, id: "create:millstone" }
+				type: "item"
+			}]
 			x: 3.5d
 			y: 4.8999999999999995d
 		}
@@ -881,6 +873,26 @@
 			}]
 			x: 17.5d
 			y: 2.0999999999999996d
+		}
+		{
+			dependencies: ["2FAEE98999C49526"]
+			icon: {
+				id: "create:crushing_wheel"
+			}
+			id: "2DFDB2EC9C7A9B8C"
+			rewards: [{
+				id: "4C8AC92311FC2F3F"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				count: 2L
+				id: "05A1C07B14AE29C7"
+				item: { count: 1, id: "create:crushing_wheel" }
+				type: "item"
+			}]
+			x: 18.2d
+			y: 3.5d
 		}
 		{
 			dependencies: [
