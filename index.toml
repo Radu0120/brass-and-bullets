@@ -488,7 +488,7 @@ metafile = true
 
 [[files]]
 file = "mods/woofbreeds-0.1.0.jar"
-hash = "bd90d6265ebef61f2cf2e68baa4740d1c4f723a1cdb4d07eaea19afbeb525ea5"
+hash = "044b9cb15e76c68d54357d99991d0fc183587ec17c7e60764b9b4384465dd804"
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
