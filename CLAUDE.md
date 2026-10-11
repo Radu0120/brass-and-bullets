@@ -72,6 +72,10 @@ only copy).
   deps change, re-run `python -I -X utf8 opt_chapter.py <chapter> [iters] [seed]` (writes
   `layouts/<ch>.seed<N>.json`; copy the best to `layouts/<ch>.json`); `gen.py` asserts the key sets match.
   `preview_html.py` writes `prev/index.html` for a look at every tab.
+- **Quest ids must keep the top bit clear** (first hex digit 0-7; `hid()` in gen.py masks it). FTB Quests reads ids
+  as signed longs and silently re-rolls any with the top bit set, and every dependency pointing at such a quest is
+  lost, so the book loads with half its lines missing (0.1.15 shipped that way). After a deploy boot, check the
+  edge count per chapter (about quests-1) instead of trusting the boot log.
 - Task helpers: `I(item,n)`, `CHECK(title)`, `KILL(ent,n)`, `ADV(adv,crit)`, `STRUCT`, `DIM`, `BIOME`.
 - `& ` in text is auto-escaped (FTB Quests rejects a bare `&` followed by a space).
 - Kill tasks must always emit `value` (a missing value is 0 = instantly complete).

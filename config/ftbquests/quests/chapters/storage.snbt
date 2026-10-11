@@ -6,7 +6,7 @@
 	icon: {
 		id: "sophisticatedstorage:chest"
 	}
-	id: "2515F9023A4823B9"
+	id: "5DECEBDEA58B5F26"
 	images: [ ]
 	order_index: 1
 	quest_links: [ ]
@@ -15,14 +15,14 @@
 			icon: {
 				id: "sophisticatedbackpacks:backpack"
 			}
-			id: "218F96F62E1A9D2B"
+			id: "2B4BB34920556D5B"
 			rewards: [{
-				id: "2D7DA4CECDAD0472"
+				id: "01101D3D4C19A376"
 				type: "xp_levels"
 				xp_levels: 2
 			}]
 			tasks: [{
-				id: "1DDDDBCB43E3006C"
+				id: "2E1A9D03DC33E7BA"
 				item: { count: 1, id: "sophisticatedbackpacks:backpack" }
 				type: "item"
 			}]
@@ -30,6 +30,7 @@
 			y: 4.8999999999999995d
 		}
 		{
+			dependencies: ["2B4BB34920556D5B"]
 			icon: {
 				id: "sophisticatedbackpacks:copper_backpack"
 			}
@@ -52,9 +53,9 @@
 			icon: {
 				id: "sophisticatedbackpacks:iron_backpack"
 			}
-			id: "3B5E25CDA6EFD81D"
+			id: "55F5BC11CBC369D1"
 			rewards: [{
-				id: "5D094085BFDAC905"
+				id: "52BFB8BF3ECBC969"
 				type: "xp_levels"
 				xp_levels: 3
 			}]
@@ -67,17 +68,18 @@
 			y: 4.8999999999999995d
 		}
 		{
+			dependencies: ["55F5BC11CBC369D1"]
 			icon: {
 				id: "sophisticatedbackpacks:gold_backpack"
 			}
-			id: "36080D5BC2AA8FFA"
+			id: "2D4E50283008AE40"
 			rewards: [{
-				id: "3C621A4E73A09FCB"
+				id: "30BFAAB77237CEEB"
 				type: "xp_levels"
 				xp_levels: 4
 			}]
 			tasks: [{
-				id: "5CFC5440BFFCA779"
+				id: "2FEBCAD81911066D"
 				item: { count: 1, id: "sophisticatedbackpacks:gold_backpack" }
 				type: "item"
 			}]
@@ -85,12 +87,13 @@
 			y: 4.8999999999999995d
 		}
 		{
+			dependencies: ["2D4E50283008AE40"]
 			icon: {
 				id: "sophisticatedbackpacks:diamond_backpack"
 			}
-			id: "164DEF784153E7DE"
+			id: "369838E42660BA77"
 			rewards: [{
-				id: "726616516FDBF72A"
+				id: "497C8CE5ECFC1B08"
 				type: "xp_levels"
 				xp_levels: 6
 			}]
@@ -103,10 +106,11 @@
 			y: 4.8999999999999995d
 		}
 		{
+			dependencies: ["369838E42660BA77"]
 			icon: {
 				id: "sophisticatedbackpacks:netherite_backpack"
 			}
-			id: "1847B9CA46DC21CE"
+			id: "50B88500E22D4CEC"
 			rewards: [{
 				id: "1438BA6A9A878786"
 				type: "xp_levels"
@@ -121,10 +125,11 @@
 			y: 4.8999999999999995d
 		}
 		{
+			dependencies: ["2B4BB34920556D5B"]
 			icon: {
 				id: "sophisticatedbackpacks:magnet_upgrade"
 			}
-			id: "435E78C41845B5E3"
+			id: "5427677A1E4D2230"
 			rewards: [{
 				id: "5B66A72B57B5C3CF"
 				type: "xp_levels"
@@ -139,17 +144,18 @@
 			y: 3.5d
 		}
 		{
+			dependencies: ["2B4BB34920556D5B"]
 			icon: {
 				id: "sophisticatedbackpacks:feeding_upgrade"
 			}
-			id: "7C8D87FC9314DAB3"
+			id: "20B56ECAA4155B78"
 			rewards: [{
-				id: "0AD0795255051A6A"
+				id: "4D004B271FE6E74C"
 				type: "xp_levels"
 				xp_levels: 2
 			}]
 			tasks: [{
-				id: "13B1A89FD8EBA748"
+				id: "66E8574BACCEF58B"
 				item: { count: 1, id: "sophisticatedbackpacks:feeding_upgrade" }
 				type: "item"
 			}]
@@ -157,12 +163,13 @@
 			y: 2.0999999999999996d
 		}
 		{
+			dependencies: ["2B4BB34920556D5B"]
 			icon: {
 				id: "sophisticatedbackpacks:restock_upgrade"
 			}
-			id: "74067AD0D12EA7FB"
+			id: "05EF8DD873BE7AFC"
 			rewards: [{
-				id: "29499401031C90D6"
+				id: "1470893A2AFF8EF4"
 				type: "xp_levels"
 				xp_levels: 3
 			}]
@@ -175,6 +182,7 @@
 			y: 2.0999999999999996d
 		}
 		{
+			dependencies: ["2B4BB34920556D5B"]
 			icon: {
 				id: "sophisticatedbackpacks:crafting_upgrade"
 			}
@@ -185,7 +193,7 @@
 				xp_levels: 2
 			}]
 			tasks: [{
-				id: "42337958FD5AF871"
+				id: "22C005351A30B07A"
 				item: { count: 1, id: "sophisticatedbackpacks:crafting_upgrade" }
 				type: "item"
 			}]
@@ -193,17 +201,18 @@
 			y: 9.799999999999999d
 		}
 		{
+			dependencies: ["2B4BB34920556D5B"]
 			icon: {
 				id: "sophisticatedbackpacks:tank_upgrade"
 			}
-			id: "3BC0DC0D468A54D5"
+			id: "7F038A6A4F84330F"
 			rewards: [{
-				id: "14BD754AA0517C17"
+				id: "693DB8FD3664E249"
 				type: "xp_levels"
 				xp_levels: 2
 			}]
 			tasks: [{
-				id: "6A1EEECBE86C545C"
+				id: "752E3459E27D4CAA"
 				item: { count: 1, id: "sophisticatedbackpacks:tank_upgrade" }
 				type: "item"
 			}]
@@ -211,12 +220,13 @@
 			y: 6.3d
 		}
 		{
+			dependencies: ["2B4BB34920556D5B"]
 			icon: {
 				id: "sophisticatedbackpacks:jukebox_upgrade"
 			}
 			id: "004275AE200E4F51"
 			rewards: [{
-				id: "60D0C213D1638CD2"
+				id: "2892627CEF3901C8"
 				type: "xp_levels"
 				xp_levels: 2
 			}]
@@ -229,17 +239,18 @@
 			y: 7.699999999999999d
 		}
 		{
+			dependencies: ["2B4BB34920556D5B"]
 			icon: {
 				id: "sophisticatedbackpacks:everlasting_upgrade"
 			}
-			id: "069376BBB8E0C143"
+			id: "2A572F89025693F7"
 			rewards: [{
 				id: "7E871039B820549A"
 				type: "xp_levels"
 				xp_levels: 5
 			}]
 			tasks: [{
-				id: "33F37B95B04B0F21"
+				id: "1AADE93713F53D17"
 				item: { count: 1, id: "sophisticatedbackpacks:everlasting_upgrade" }
 				type: "item"
 			}]
@@ -250,14 +261,14 @@
 			icon: {
 				id: "sophisticatedstorage:chest"
 			}
-			id: "3E8E17AEF35EE0EB"
+			id: "37C604F677BF5B25"
 			rewards: [{
-				id: "3E4A129338C85930"
+				id: "5F1CA61617199CF5"
 				type: "xp_levels"
 				xp_levels: 1
 			}]
 			tasks: [{
-				id: "6CA8CF1903A19E72"
+				id: "405D2663753AA736"
 				item: { count: 1, id: "sophisticatedstorage:chest" }
 				type: "item"
 			}]
@@ -265,10 +276,11 @@
 			y: 4.8999999999999995d
 		}
 		{
+			dependencies: ["37C604F677BF5B25"]
 			icon: {
 				id: "sophisticatedstorage:copper_chest"
 			}
-			id: "0B42A3BFC30DB815"
+			id: "4AD0255443BAE92A"
 			rewards: [{
 				id: "5F2A99B5EE4EE3BA"
 				type: "xp_levels"
@@ -283,17 +295,18 @@
 			y: 4.8999999999999995d
 		}
 		{
+			dependencies: ["4AD0255443BAE92A"]
 			icon: {
 				id: "sophisticatedstorage:iron_chest"
 			}
-			id: "48CA26629B6607CC"
+			id: "34B6AE20EB2C4EDF"
 			rewards: [{
-				id: "406AF91E758E6544"
+				id: "207A19E01503A498"
 				type: "xp_levels"
 				xp_levels: 3
 			}]
 			tasks: [{
-				id: "3C71AB30DEBA4A0B"
+				id: "10C27297E36B40CB"
 				item: { count: 1, id: "sophisticatedstorage:iron_chest" }
 				type: "item"
 			}]
@@ -301,17 +314,18 @@
 			y: 4.8999999999999995d
 		}
 		{
+			dependencies: ["34B6AE20EB2C4EDF"]
 			icon: {
 				id: "sophisticatedstorage:gold_chest"
 			}
 			id: "2B50A23788399F26"
 			rewards: [{
-				id: "3E923C5ED8546F3E"
+				id: "385DF009F460751B"
 				type: "xp_levels"
 				xp_levels: 4
 			}]
 			tasks: [{
-				id: "1E4BE2C5511E4FF8"
+				id: "48D4901B26D0ECFE"
 				item: { count: 1, id: "sophisticatedstorage:gold_chest" }
 				type: "item"
 			}]
@@ -325,7 +339,7 @@
 			}
 			id: "2FCBD865FA7F81C2"
 			rewards: [{
-				id: "35F238D3074263E5"
+				id: "27F4A1110E269048"
 				type: "xp_levels"
 				xp_levels: 6
 			}]
@@ -344,12 +358,12 @@
 			}
 			id: "5C5B9697AACED7AD"
 			rewards: [{
-				id: "1128A8CB3EA5E1A9"
+				id: "141D7E11A787EB01"
 				type: "xp_levels"
 				xp_levels: 10
 			}]
 			tasks: [{
-				id: "429623C71C3FB6D4"
+				id: "5B7FBE37DD279721"
 				item: { count: 1, id: "sophisticatedstorage:netherite_chest" }
 				type: "item"
 			}]
@@ -357,17 +371,18 @@
 			y: 4.8999999999999995d
 		}
 		{
+			dependencies: ["37C604F677BF5B25"]
 			icon: {
 				id: "sophisticatedstorage:barrel"
 			}
 			id: "5D71623A98A661FB"
 			rewards: [{
-				id: "02C5AF4DA9BE5696"
+				id: "2F216AF44F92DDE7"
 				type: "xp_levels"
 				xp_levels: 1
 			}]
 			tasks: [{
-				id: "0049D01D30C39F31"
+				id: "2A1BA95FA11A8972"
 				item: { count: 1, id: "sophisticatedstorage:barrel" }
 				type: "item"
 			}]
@@ -375,10 +390,11 @@
 			y: 3.5d
 		}
 		{
+			dependencies: ["37C604F677BF5B25"]
 			icon: {
 				id: "sophisticatedstorage:paintbrush"
 			}
-			id: "58C0DB551A589161"
+			id: "3674A16EB0ABEFAB"
 			rewards: [{
 				id: "222F205D510162C3"
 				type: "xp_levels"
@@ -393,12 +409,13 @@
 			y: 0.0d
 		}
 		{
+			dependencies: ["37C604F677BF5B25"]
 			icon: {
 				id: "sophisticatedstorage:basic_to_iron_tier_upgrade"
 			}
 			id: "2B1F993CBD221FBC"
 			rewards: [{
-				id: "62D2E595D0B5B668"
+				id: "0FA341C76BE1221E"
 				type: "xp_levels"
 				xp_levels: 2
 			}]
@@ -411,17 +428,18 @@
 			y: 1.4d
 		}
 		{
+			dependencies: ["37C604F677BF5B25"]
 			icon: {
 				id: "sophisticatedstorage:stack_upgrade_tier_1"
 			}
-			id: "17831E595BB5F880"
+			id: "38ACA5964F2C38A2"
 			rewards: [{
 				id: "6169050106D67D3D"
 				type: "xp_levels"
 				xp_levels: 2
 			}]
 			tasks: [{
-				id: "3D4FCAC8B669ABE3"
+				id: "5275DAFF435625AF"
 				item: { count: 1, id: "sophisticatedstorage:stack_upgrade_tier_1" }
 				type: "item"
 			}]
@@ -429,17 +447,18 @@
 			y: 8.399999999999999d
 		}
 		{
+			dependencies: ["37C604F677BF5B25"]
 			icon: {
 				id: "sophisticatedstorage:compression_upgrade"
 			}
-			id: "278A38974807BBEA"
+			id: "767351584E5D5C26"
 			rewards: [{
 				id: "4BE8D1E5AFEEBEDE"
 				type: "xp_levels"
 				xp_levels: 3
 			}]
 			tasks: [{
-				id: "6C45DC818F07AD2E"
+				id: "3AA062C7AC63D942"
 				item: { count: 1, id: "sophisticatedstorage:compression_upgrade" }
 				type: "item"
 			}]
@@ -447,6 +466,7 @@
 			y: 8.399999999999999d
 		}
 		{
+			dependencies: ["37C604F677BF5B25"]
 			icon: {
 				id: "sophisticatedstorage:hopper_upgrade"
 			}
@@ -457,7 +477,7 @@
 				xp_levels: 2
 			}]
 			tasks: [{
-				id: "4D1E8CCC6B8ABE69"
+				id: "41DA4D9082C3746F"
 				item: { count: 1, id: "sophisticatedstorage:hopper_upgrade" }
 				type: "item"
 			}]
@@ -465,12 +485,13 @@
 			y: 9.799999999999999d
 		}
 		{
+			dependencies: ["37C604F677BF5B25"]
 			icon: {
 				id: "sophisticatedstorage:shulker_box"
 			}
 			id: "4E7214563BFC17B3"
 			rewards: [{
-				id: "2AD360CD91DF0F34"
+				id: "645354FDF6E17E0D"
 				type: "xp_levels"
 				xp_levels: 4
 			}]
@@ -489,7 +510,7 @@
 			}
 			id: "7AD2BD073A59DB0D"
 			rewards: [{
-				id: "54C892004BA18CB5"
+				id: "44B8C5CA0A62F849"
 				type: "xp_levels"
 				xp_levels: 2
 			}]
@@ -502,17 +523,18 @@
 			y: 1.4d
 		}
 		{
+			dependencies: ["37C604F677BF5B25"]
 			icon: {
 				id: "sophisticatedstorage:controller"
 			}
-			id: "5456E42451862157"
+			id: "43134D1808C1BCE8"
 			rewards: [{
-				id: "0FC2026A2C2BFA1A"
+				id: "544516CCE9DE0012"
 				type: "xp_levels"
 				xp_levels: 3
 			}]
 			tasks: [{
-				id: "363E32B115FA44F9"
+				id: "1B36430DF9C1239B"
 				item: { count: 1, id: "sophisticatedstorage:controller" }
 				type: "item"
 			}]
@@ -520,12 +542,13 @@
 			y: 6.3d
 		}
 		{
+			dependencies: ["43134D1808C1BCE8"]
 			icon: {
 				id: "sophisticatedstorage:storage_io"
 			}
 			id: "1BE833509E94C02E"
 			rewards: [{
-				id: "15C175417161DC9B"
+				id: "47754D20D848A42E"
 				type: "xp_levels"
 				xp_levels: 3
 			}]
@@ -536,7 +559,7 @@
 					type: "item"
 				}
 				{
-					id: "07E322F5E2381207"
+					id: "3A28A4070886134A"
 					item: { count: 1, id: "sophisticatedstorage:storage_link" }
 					type: "item"
 				}
@@ -549,14 +572,14 @@
 			icon: {
 				id: "create:item_vault"
 			}
-			id: "75C98EC738C64045"
+			id: "4449D270CAA6F51A"
 			rewards: [{
 				id: "04782B6E3356E113"
 				type: "xp_levels"
 				xp_levels: 3
 			}]
 			tasks: [{
-				id: "25BE75FF81228513"
+				id: "3E17CB25995C29F8"
 				item: { count: 1, id: "create:item_vault" }
 				type: "item"
 			}]
@@ -564,12 +587,13 @@
 			y: 6.3d
 		}
 		{
+			dependencies: ["4449D270CAA6F51A"]
 			icon: {
 				id: "create_connected:item_silo"
 			}
-			id: "174D988053FDF488"
+			id: "2906D578B0837BA2"
 			rewards: [{
-				id: "5E5C4304F384D5F8"
+				id: "361F63D1C1994984"
 				type: "xp_levels"
 				xp_levels: 3
 			}]

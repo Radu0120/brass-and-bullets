@@ -1,28 +1,18 @@
 {
+	chapter.0EF9AE32E7B1351F.chapter_subtitle: ["Powder, brass and a lot of gunsmithing"]
+	chapter.0EF9AE32E7B1351F.title: "&cScorched Guns"
 	chapter.1AC7061CA1910866.chapter_subtitle: ["Farmer's Delight and friends"]
 	chapter.1AC7061CA1910866.title: "&aFarming \\& Food"
-	chapter.2515F9023A4823B9.chapter_subtitle: [
-		"Chests, barrels and backpacks"
-		"Sophisticated Storage and Backpacks"
-	]
-	chapter.2515F9023A4823B9.title: "&3Storage"
-	chapter.265CE3E7CE4F5FFA.chapter_subtitle: [
-		"Alex's Mobs Continued and Clutter: Bestiary"
-		"Over a hundred new animals. Open the Animal Dictionary."
-	]
-	chapter.265CE3E7CE4F5FFA.title: "&6Wildlife"
-	chapter.2B2229074986B056.chapter_subtitle: ["Powder, brass and a lot of gunsmithing"]
-	chapter.2B2229074986B056.title: "&cScorched Guns"
 	chapter.35B12A34E27EA91F.chapter_subtitle: [
 		"Take to the sky"
 		"Contraptions that really move"
 	]
 	chapter.35B12A34E27EA91F.title: "&bAeronautics \\& Sable"
-	chapter.3B5DFB54C802C233.chapter_subtitle: [
+	chapter.3BA4F6EB769E4EED.chapter_subtitle: [
 		"Biomes, then the structures hidden in them"
 		"Use the Explorer's Compass."
 	]
-	chapter.3B5DFB54C802C233.title: "&2Exploration"
+	chapter.3BA4F6EB769E4EED.title: "&2Exploration"
 	chapter.44D953F68CD66A06.chapter_subtitle: ["Logic, kitchens and rails"]
 	chapter.44D953F68CD66A06.title: "&eCreate Addons"
 	chapter.46B862BD16703034.chapter_subtitle: [
@@ -30,115 +20,100 @@
 		"Quests show what comes next - nothing is ever locked."
 	]
 	chapter.46B862BD16703034.title: "&6Getting Started"
-	chapter.5A16EBBB03054B49.chapter_subtitle: [
+	chapter.528D2D3560FA76F0.chapter_subtitle: [
 		"Tame, breed and look after every animal"
 		"Farm animals, pets, and the odd frog"
 	]
-	chapter.5A16EBBB03054B49.title: "&dPets \\& Livestock"
-	chapter.5FB7D2E1791C3EB2.chapter_subtitle: [
-		"Vanilla, Mowzie's Mobs and L_Ender's Cataclysm"
-		"Bring friends, armour, and a plan"
+	chapter.528D2D3560FA76F0.title: "&dPets \\& Livestock"
+	chapter.5DECEBDEA58B5F26.chapter_subtitle: [
+		"Chests, barrels and backpacks"
+		"Sophisticated Storage and Backpacks"
 	]
-	chapter.5FB7D2E1791C3EB2.title: "&4Bosses \\& Beasts"
+	chapter.5DECEBDEA58B5F26.title: "&3Storage"
 	chapter.76EA0BEBB3C22822.chapter_subtitle: [
 		"Gears, belts, brass and trains"
 		"The backbone of the pack."
 	]
 	chapter.76EA0BEBB3C22822.title: "&6Create"
+	chapter.78F53CC5173C0FB2.chapter_subtitle: [
+		"Vanilla, Mowzie's Mobs and L_Ender's Cataclysm"
+		"Bring friends, armour, and a plan"
+	]
+	chapter.78F53CC5173C0FB2.title: "&4Bosses \\& Beasts"
+	chapter.7CE889A721A6DF45.chapter_subtitle: [
+		"Alex's Mobs Continued and Clutter: Bestiary"
+		"Over a hundred new animals. Open the Animal Dictionary."
+	]
+	chapter.7CE889A721A6DF45.title: "&6Wildlife"
 	quest.004275AE200E4F51.quest_desc: ["Music wherever you go."]
 	quest.004275AE200E4F51.title: "Jukebox Upgrade"
 	quest.0065DE8C8950ECB5.quest_desc: ["Eat a meal from the pot. Food from Farmer's Delight gives you the Nourished effect."]
 	quest.0065DE8C8950ECB5.title: "Nourished"
 	quest.00999BD87090AE90.quest_desc: ["A dish made from monkey ingredients. Check JEI for the recipe."]
 	quest.00999BD87090AE90.title: "Monkey Stew"
-	quest.01678CF8F7AD5C6D.quest_desc: ["A heavy automaton, found guarding the Cog Chambers."]
-	quest.01678CF8F7AD5C6D.title: "Cog Knight"
 	quest.01A03C12C0E1664B.quest_desc: ["A macerator that runs on stored power, and faster than the hand-fed one."]
 	quest.01A03C12C0E1664B.title: "Powered Macerator"
+	quest.01A579313901DDF0.title: "Maledictus"
+	quest.01ED007AE3486DA3.quest_desc: ["Breed koi with kelp. Patterns come from the parents, with a small chance of a rare one. Catch them in a bucket."]
+	quest.01ED007AE3486DA3.title: "Koi"
 	quest.02217FC289C006A8.quest_desc: ["It lives in the Deep Dark and is blind, but hears everything. Sneak, and do not fight it unless you must."]
 	quest.02217FC289C006A8.title: "The Warden"
-	quest.0233DDC21BBD1433.quest_desc: [
-		"Craft the &6Explorer's Compass&r: a compass in the middle, cobweb in the corners and cracked stone bricks between."
-		"Right-click it, pick a structure type and it will point the way (and tell you how far). Most structures only generate in certain biomes, so every branch here starts with the biome to look for."
-		"The &6Nether&r and the &6End&r are the big gates: the End is reached through a Stronghold, and the Stronghold through the blaze rods of a Nether Fortress."
-	]
-	quest.0233DDC21BBD1433.title: "Explorer's Compass"
 	quest.023430ADEBFD4849.quest_desc: ["Put a fan behind lava, fire, water or smoke and items passing through get smelted, washed, haunted or smoked."]
 	quest.023430ADEBFD4849.title: "Encased Fan"
-	quest.02372BA05DC52AB4.quest_desc: ["Cut a ham off a Smoked Ham on the board with a knife."]
-	quest.02372BA05DC52AB4.title: "Honey-Glazed Ham"
 	quest.02617BAF5153DEEB.quest_desc: [
 		"Iron toughened with saltpeter, charcoal and redstone. Macerate the blend, then smelt it."
 		"You need it for the Gun Bench, the Stamping Press and every firing unit. Look up the recipe in JEI."
 	]
 	quest.02617BAF5153DEEB.title: "Treated Iron"
-	quest.0288609ED69DCAC5.quest_desc: ["A handheld remote for redstone links. Use it to drive contraptions and trains from anywhere."]
-	quest.0288609ED69DCAC5.title: "Linked Controller"
-	quest.02F2684A9212654E.quest_desc: ["Haul things up, or drag your ship in to dock."]
-	quest.02F2684A9212654E.title: "Rope Winch"
-	quest.031005D1B5712FF4.quest_desc: ["The hardest part to make by hand: it needs a sequenced assembly. Look it up in JEI and automate it."]
-	quest.031005D1B5712FF4.title: "Precision Mechanism"
-	quest.03E7349BB0E2D226.title: "Maledictus"
-	quest.03FA8E0A3B39DE1A.title: "End Ship"
+	quest.0350361E24E46316.title: "End Ship"
 	quest.04329C2564348549.title: "Shipwreck"
 	quest.0488D8838BCDDA07.quest_desc: ["Take fire resistance, a stack of blocks and a way home."]
 	quest.0488D8838BCDDA07.title: "Into the Fire"
+	quest.04B9BCEE45DB1B46.quest_desc: ["Molds tell the press what shape to make. A blank one is made from anthralite; cut it into the shape you need at a stonecutter."]
+	quest.04B9BCEE45DB1B46.title: "Blank Mold"
 	quest.04D8D40D853B4816.quest_desc: ["Harvesters cut crops as a contraption passes over them. Ploughs till soil and break plants."]
 	quest.04D8D40D853B4816.title: "Harvest Cart"
-	quest.05138D805EDCBD3B.title: "Illager Manor"
 	quest.052F5B39A8F1F2EE.quest_desc: ["Detects a passing train and gives a redstone signal. Use it to open doors and switch tracks."]
 	quest.052F5B39A8F1F2EE.title: "Train Observer"
-	quest.054527CFA83A26AB.quest_desc: ["Copies a saved schematic into the world. It eats a lot of materials, so keep it fed with a chest."]
-	quest.054527CFA83A26AB.title: "Schematicannon"
 	quest.0596D1DAD53127A5.quest_desc: ["Breed every animal in the game. Check the advancements screen for the ones still missing."]
 	quest.0596D1DAD53127A5.title: "Two by Two"
+	quest.05EF8DD873BE7AFC.quest_desc: ["Refills your hotbar stacks from the backpack as they run out."]
+	quest.05EF8DD873BE7AFC.title: "Restock"
 	quest.0676B65E4FBE7392.quest_desc: [
 		"Breed two strider: feed both of them warped fungus while they stand near each other."
 		"Striders walk on lava. A warped fungus on a stick lets you steer one."
 	]
 	quest.0676B65E4FBE7392.title: "Strider"
-	quest.069376BBB8E0C143.quest_desc: ["The backpack survives death or explosion. Worth having."]
-	quest.069376BBB8E0C143.title: "Everlasting"
 	quest.0717E4845D541305.quest_desc: ["Strange animals live among the islands: only the bravest come back with a pet."]
 	quest.0717E4845D541305.title: "The End"
+	quest.077036AEE3C02C5D.quest_desc: ["Copies a saved schematic into the world. It eats a lot of materials, so keep it fed with a chest."]
+	quest.077036AEE3C02C5D.title: "Schematicannon"
 	quest.077FBB5CEA5F59BA.quest_desc: ["Stone tools first, shelter second. The overworld here has more mobs and more dungeons than vanilla, so do not wander far unarmed."]
 	quest.077FBB5CEA5F59BA.title: "Survive the Night"
-	quest.084AB5E451D230F0.quest_desc: ["Prepare for fire."]
-	quest.084AB5E451D230F0.title: "Ignis"
-	quest.08B42159EAC40E71.quest_desc: ["Swim out and look beneath the waves."]
-	quest.08B42159EAC40E71.title: "The Ocean"
-	quest.08C57B2663E39FD4.title: "Freezing Fan"
-	quest.092D595F54BEE96C.quest_desc: [
-		"Craft a &6Lead&r (string and a slimeball). You can walk animals home with it, and tie them to a fence."
-		"Fencing animals in is the easiest way to breed them."
-	]
-	quest.092D595F54BEE96C.title: "Barnyard"
-	quest.092D9F617FA230A9.quest_desc: ["Visit every kind of Better Dungeons dungeon."]
-	quest.092D9F617FA230A9.title: "Dungeon Master"
-	quest.0943E262E1B30AD9.quest_desc: ["A tough mutant. Bring good armour."]
-	quest.0943E262E1B30AD9.title: "Dissident"
+	quest.07E327E99F667CCB.title: "Flutter"
+	quest.080F539364CF8796.quest_desc: ["A refined brass for the strongest guns."]
+	quest.080F539364CF8796.title: "Treated Brass"
+	quest.0941E6F8958DFA91.quest_desc: ["A basin under a mixer makes alloys and doughs. Heat the basin from below with a blaze burner for superheated recipes."]
+	quest.0941E6F8958DFA91.title: "Basin \\& Mixer"
 	quest.094CE6EDDC0007C7.quest_desc: ["A feast is a large dish that you place and everyone serves from. Cook one, and bring a bowl for each guest."]
 	quest.094CE6EDDC0007C7.title: "Feast"
-	quest.097ACB6B873926EF.quest_desc: ["Strange animals from other biomes and dimensions. Each one asks for a particular food."]
-	quest.097ACB6B873926EF.title: "Far Lands"
-	quest.0A276CF8C0C4CBF2.quest_desc: ["The endgame rifle. Expensive in every way."]
-	quest.0A276CF8C0C4CBF2.title: "Gauss Rifle"
-	quest.0AA209B7ABBE17D9.quest_desc: ["Found in the Nether. Neutral, hunts hoglins and curls up when hurt badly enough. Breeds on fire charges."]
-	quest.0AA209B7ABBE17D9.title: "Ember Tortoise"
-	quest.0ABBC6B8110F00F8.quest_desc: ["Create Deco adds catwalks, windows, bars and more. For when the factory should look good too."]
-	quest.0ABBC6B8110F00F8.title: "Deco"
-	quest.0AC0020180D5F99B.quest_desc: ["Terralith's mage towers are rare: they only stand in amethyst canyons, lavender valleys, moonlight valleys and mirage isles. Use the Explorer's Compass."]
-	quest.0AC0020180D5F99B.title: "Wizard's Tower"
-	quest.0B320E5DEE1C5913.quest_desc: ["Press standard bullets with a bullet mold in the Stamping Press. Every gun below needs them."]
-	quest.0B320E5DEE1C5913.title: "First Rounds"
-	quest.0B42A3BFC30DB815.quest_desc: ["Tiers up to Netherite add more slots and more upgrade slots."]
-	quest.0B42A3BFC30DB815.title: "Copper Chest"
+	quest.09542F8E1A565E12.quest_desc: ["The table turns creatures into magic items. It is crafted from a nether star, a farseer arm and obsidian."]
+	quest.09542F8E1A565E12.title: "Transmutation Table"
+	quest.0A1DEBF0558E0A19.quest_desc: ["Better Dungeons makes dungeons bigger and better stocked. They generate underground in plains and many other biomes (all the overworld dungeons share one list)."]
+	quest.0A1DEBF0558E0A19.title: "Dungeon Delver"
+	quest.0A7DA8540ACCBEF9.quest_desc: ["A pillager tower with caged mobs and a captain. Plains are a good start, but they also stand in deserts, savannas, taiga, snowy plains and mountain meadows."]
+	quest.0A7DA8540ACCBEF9.title: "Pillager Outpost"
+	quest.0B2A2FFDC3301D58.quest_desc: ["Old battlefields with redcoat patrols and loot."]
+	quest.0B2A2FFDC3301D58.title: "Trenches"
+	quest.0B3B49A64C5E8882.quest_desc: ["Catch a blaze with an Empty Blaze Burner (a Nether fortress spawner is the usual place), then feed it fuel. A burner under a basin heats it."]
+	quest.0B3B49A64C5E8882.title: "Blaze Burner"
+	quest.0BB73625FAC66C5C.quest_desc: ["Plant a Rice Panicle. Rice likes shallow water, and JEI will tell you where to find the panicle."]
+	quest.0BB73625FAC66C5C.title: "Paddy Time"
 	quest.0C457AE5A595ADB7.quest_desc: [
 		"Hoe dirt into farmland, then plant seeds on it: crops need water within four blocks to grow well."
 		"Everything the game lets you plant counts towards &6Plant All Crops&r. The quests in this lane group them."
 	]
 	quest.0C457AE5A595ADB7.title: "Tilled Earth"
-	quest.0C84C1552C7D042D.title: "Pearlescent Levitite"
 	quest.0C95E7D77FCCAD80.quest_desc: [
 		"Plant every crop in the game, vanilla and Farmer's Delight both. The quests in this lane cover them, plus rice and tomatoes."
 		"Open the advancements screen (&6L&r by default) to see which ones you still need."
@@ -147,19 +122,14 @@
 	quest.0D18C49E00F96704.quest_desc: ["Dig down below level 0 and mine carefully. Lava loves diamond miners."]
 	quest.0D18C49E00F96704.title: "Diamonds!"
 	quest.0D1CE57D6C9263F4.title: "Portable Engine"
-	quest.0D32021D2E7F3230.title: "Enchanter"
 	quest.0D63C113BA5A01C8.quest_desc: ["Seahorses breed on sea pickles, and one parent later hatches several babies."]
 	quest.0D63C113BA5A01C8.title: "Seahorse"
 	quest.0D709C5A30F87CEF.quest_desc: ["Turn a minecart into a moving contraption. Pair it with a powered rail."]
 	quest.0D709C5A30F87CEF.title: "Cart Assembler"
-	quest.0DDD0397155BD200.quest_desc: ["A proper metal barrel for modern guns, forged from anthralite."]
-	quest.0DDD0397155BD200.title: "Gun Barrel"
-	quest.0E46EA7696FB8276.title: "Cosmaw"
-	quest.0EEEED0B013BFA0E.quest_desc: [
-		"Breed two fox: feed both of them sweet berries or glow berries while they stand near each other."
-		"Foxes live in taigas."
-	]
-	quest.0EEEED0B013BFA0E.title: "Fox"
+	quest.0DBD5F6E9AAF889D.quest_desc: ["A proper metal barrel for modern guns, forged from anthralite."]
+	quest.0DBD5F6E9AAF889D.title: "Gun Barrel"
+	quest.0ED56586DC9B3ECD.quest_desc: ["Request production on demand: put a gauge on a chest and it will order what is missing."]
+	quest.0ED56586DC9B3ECD.title: "Factory Gauge"
 	quest.0F16F7A61362E895.quest_desc: [
 		"Knives are Farmer's Delight's main tool: they harvest straw, cut ingredients on the board and carve cakes and pies."
 		"Craft a &6Flint Knife&r from flint and a stick. Later you can upgrade it."
@@ -167,17 +137,14 @@
 		"Three lanes lead on from here: the &6Kitchen&r, &6Soil \\& Crops&r and &6Baking&r."
 	]
 	quest.0F16F7A61362E895.title: "A Sharp Start"
+	quest.0F233628156B5C45.quest_desc: ["Butterflies come in sixteen Overworld colours and three Nether ones, breed on sugar and can be carried in a bottle."]
+	quest.0F233628156B5C45.title: "Butterflies"
 	quest.0F9A60F9EF2A2364.quest_desc: [
 		"Breed two axolotl: feed both of them buckets of tropical fish while they stand near each other."
 		"Axolotls live in lush caves. Catch them with a water bucket."
 	]
 	quest.0F9A60F9EF2A2364.title: "Axolotl"
-	quest.0FE38205E0C3ED8A.quest_desc: ["Jellyfish sting anything that is not aquatic that comes near. Manta rays hunt them."]
-	quest.0FE38205E0C3ED8A.title: "Jellyfish"
-	quest.10404CEB06C575ED.quest_desc: ["A great fortress of the Asgharians, full of dangerous guards and valuable blueprints."]
-	quest.10404CEB06C575ED.title: "Asgharian Citadel"
-	quest.10871F69197A0BC4.quest_desc: ["A block that wants to float. Look at its recipe in JEI."]
-	quest.10871F69197A0BC4.title: "Levitite"
+	quest.0FFFEE61F29AE197.title: "Patch Up"
 	quest.10CDEB0FC851DA4A.quest_desc: [
 		"Breed two frog: feed both of them slimeballs while they stand near each other."
 		"Frogs live in swamps. The tadpoles grow into a frog that matches the biome they grew up in."
@@ -185,58 +152,50 @@
 	quest.10CDEB0FC851DA4A.title: "Frog"
 	quest.11300B88B69AA585.quest_desc: ["Pumps move fluids through pipes in one direction. Right-click a pipe with the Wrench to open or close a window."]
 	quest.11300B88B69AA585.title: "Pipes \\& Pumps"
+	quest.11E6646EA7D1FA5E.title: "Emu"
 	quest.120BE993ED586D00.quest_desc: ["Bring warm food. Frozen citadels stand on the ice."]
 	quest.120BE993ED586D00.title: "Snowy Plains"
 	quest.123A4C02C9A482C0.quest_desc: ["A crafting table in your pocket."]
 	quest.123A4C02C9A482C0.title: "Crafting Upgrade"
 	quest.129F1D036432EC2A.quest_desc: ["Echofins swim the End in a chorus and a levitating variety. They sometimes go for the player and can be bucketed."]
 	quest.129F1D036432EC2A.title: "Echofin"
-	quest.13AC95AE7414FAC6.title: "Crocodile"
-	quest.142B66E89863920D.quest_desc: ["Sweet berries and milk on a crust. Check JEI for the exact recipe."]
-	quest.142B66E89863920D.title: "Sweet Berry Cheesecake"
 	quest.14C5A010F1A0E949.title: "Ending Catalyst"
-	quest.1520216F5F2483C3.quest_desc: ["A boiler plus steam engines make serious, steady power. Check the water and fuel tips in the boiler's Jade overlay."]
-	quest.1520216F5F2483C3.title: "Steam Engine"
 	quest.15706F396A793C9C.quest_desc: ["Copycat blocks look like any block you apply to them. Great for hiding wires and gearing."]
 	quest.15706F396A793C9C.title: "Copycats"
-	quest.16325DA731ABB66F.quest_desc: ["Fill an envelope with hot air from a burner and the balloon will rise."]
-	quest.16325DA731ABB66F.title: "Hot Air Balloon"
-	quest.164DEF784153E7DE.quest_desc: ["Upgrade the backpack you already have to the next tier."]
-	quest.164DEF784153E7DE.title: "Diamond Backpack"
-	quest.16644C1D1F59C8A6.quest_desc: ["Tame a mossbloom with a spore blossom. You can ride it, and it keeps farmland from being trampled and nudges crops to grow."]
-	quest.16644C1D1F59C8A6.title: "Mossbloom"
-	quest.1696BF1FC88BA2D0.quest_desc: ["Smelt iron ore in a furnace. Create will give you faster ways soon, but the furnace is how everyone starts."]
-	quest.1696BF1FC88BA2D0.title: "Acquire Hardware"
-	quest.170A2618A77E11EF.quest_desc: ["A very strong shrimp. Tame it, and carry it in a bucket."]
-	quest.170A2618A77E11EF.title: "Mantis Shrimp"
+	quest.15A886ADB6263230.quest_desc: ["Build a boat or swim. Shipwrecks lie on the sea floor, in every kind of ocean."]
+	quest.15A886ADB6263230.title: "Ocean"
+	quest.1655F36F8153D56F.quest_desc: [
+		"Craft the &6Explorer's Compass&r: a compass in the middle, cobweb in the corners and cracked stone bricks between."
+		"Right-click it, pick a structure type and it will point the way (and tell you how far). Most structures only generate in certain biomes, so every branch here starts with the biome to look for."
+		"The &6Nether&r and the &6End&r are the big gates: the End is reached through a Stronghold, and the Stronghold through the blaze rods of a Nether Fortress."
+	]
+	quest.1655F36F8153D56F.title: "Explorer's Compass"
+	quest.166383C02B2E6B8E.quest_desc: ["Smelt iron ore in a furnace. Create will give you faster ways soon, but the furnace is how everyone starts."]
+	quest.166383C02B2E6B8E.title: "Acquire Hardware"
+	quest.16E38AE72F23A5B2.quest_desc: [
+		"Opens the modern guns. Gunsmith villagers sell it, and dungeon chests may hold one."
+		"You need treated iron and a firing unit before the recipes work."
+	]
+	quest.16E38AE72F23A5B2.title: "Iron Blueprint"
 	quest.17128DE4517B2B44.quest_desc: ["&bJade&r shows what you are pointing at: block names, which tool is needed, crop growth, machine contents and the mod it came from."]
 	quest.17128DE4517B2B44.title: "What Am I Looking At?"
-	quest.174D988053FDF488.title: "Item Silo"
-	quest.17831E595BB5F880.quest_desc: ["Doubles how much each slot holds. Stack Upgrades stack on top of each other."]
-	quest.17831E595BB5F880.title: "Stack Upgrade"
-	quest.17BDC19D8F5A18DD.title: "End City"
-	quest.1847B9CA46DC21CE.quest_desc: ["Upgrade the backpack you already have to the next tier."]
-	quest.1847B9CA46DC21CE.title: "Netherite Backpack"
+	quest.172E9E36844EE5CE.quest_desc: ["Press copper ingots into sheets. Copper is the key to everything that holds or moves liquids."]
+	quest.172E9E36844EE5CE.title: "Copper Sheets"
+	quest.175E536D4E1C8991.quest_desc: [
+		"The &6Explorer's Compass&r points you towards structures such as villages, temples and the many dungeons this pack adds."
+		"Check its recipe in JEI, then use it to find your next adventure."
+	]
+	quest.175E536D4E1C8991.title: "Explorer's Compass"
 	quest.18F5772D5FB7B2D5.quest_desc: ["The first of Mowzie's Mobs: a jungle plant that snaps at anything close by. Kill one to begin."]
 	quest.18F5772D5FB7B2D5.title: "Foliaath"
-	quest.199C4507639AE101.quest_desc: [
-		"Alex's Mobs adds over a hundred animals. Craft the &6Animal Dictionary&r first (the recipe is in JEI)."
-		"Right-click an animal with it to learn what it eats and where it lives."
-		""
-		"Every branch below is a habitat: &6Jungle&r, &6Savanna&r, &6Desert&r, &6Swamp&r, &6Ocean&r, &6Nether&r and &6End&r. The Clutter: Bestiary branch is at the bottom."
-	]
-	quest.199C4507639AE101.title: "Animal Dictionary"
 	quest.19F420DA37861ED5.quest_desc: ["Wide plains with elephants, kangaroos and emus."]
 	quest.19F420DA37861ED5.title: "The Savanna"
-	quest.1A75DB740F987671.title: "Steam Vent"
-	quest.1A7A9196FBE6A2EC.quest_desc: [
-		"Breed two mule: feed both of them golden carrots, with a horse and a donkey while they stand near each other."
-		"Mules cannot have babies of their own: breed a horse with a donkey."
-	]
-	quest.1A7A9196FBE6A2EC.title: "Mule"
+	quest.1A21C71DB6A422CB.quest_desc: ["A block that wants to float. Look at its recipe in JEI."]
+	quest.1A21C71DB6A422CB.title: "Levitite"
 	quest.1ABF535DAFE37E1F.quest_desc: ["Beavers breed on saplings and will help strip logs and turn planks into sticks."]
 	quest.1ABF535DAFE37E1F.title: "Beaver"
-	quest.1AD3B5E42C8F18A2.title: "Altitude Sensor"
+	quest.1AEC9011B9D0DD42.quest_desc: ["Plant glow berries on a cave ceiling, and red and brown mushrooms on dirt away from light."]
+	quest.1AEC9011B9D0DD42.title: "Dark and Deep"
 	quest.1B0C35A35E4D0A1B.quest_desc: [
 		"Breed two llama: feed both of them hay bales while they stand near each other."
 		"Llamas spit at enemies, and follow each other in a caravan on a lead."
@@ -248,106 +207,90 @@
 	]
 	quest.1B2A66EF3781C001.title: "Panda"
 	quest.1BE833509E94C02E.title: "Storage I/O"
-	quest.1BFBAF97A482F132.quest_desc: ["A Nether ruin guarded by a very large netherite machine."]
-	quest.1BFBAF97A482F132.title: "Soul Black Smith"
-	quest.1CB765ABA1D9049D.quest_desc: ["Guns wear out. Craft a kit to fix them without starting again."]
-	quest.1CB765ABA1D9049D.title: "Repair Kit"
-	quest.1CFF2ADD486CC911.quest_desc: [
-		"&6Brass \\& Bullets&r is a Create-flavoured adventure: gears, airships, guns, farms and a few very angry bosses."
-		""
-		"This book is a suggestion, not a gate. Every quest is open from the start; the arrows only show a natural order."
-		"Quests give a little XP so there is always a reason to tick one off."
-	]
-	quest.1CFF2ADD486CC911.title: "Welcome"
 	quest.1D1259D3FEFDB873.title: "Pulse Generator"
-	quest.1D31B1B6974A98DB.quest_desc: ["Dense, loud and full of vines. Jungle temples hide in it."]
-	quest.1D31B1B6974A98DB.title: "Jungle"
 	quest.1D599253D52B0FED.quest_desc: ["Fire a flare to light a cave or mark a spot."]
 	quest.1D599253D52B0FED.title: "Flare Pistol"
-	quest.1D99D946AF61EAF5.quest_desc: ["Throw an ender eye and follow it."]
-	quest.1D99D946AF61EAF5.title: "Stronghold"
+	quest.1D7C1A6C939C1965.quest_desc: ["Breed two pig: feed both of them carrots, potatoes or beetroot while they stand near each other."]
+	quest.1D7C1A6C939C1965.title: "Pig"
 	quest.1DA2CB06EAF91502.quest_desc: ["&6Copper Casing&r is copper sheets applied to a stripped log. It is the shell for tanks, pipes and pumps: the Copper Age is the age of fluids."]
 	quest.1DA2CB06EAF91502.title: "Copper Age"
 	quest.1DBC34C4CA39C0AE.quest_desc: ["A giant of the snowy lands. The rewards are worth a sore head."]
 	quest.1DBC34C4CA39C0AE.title: "Frostmaw"
+	quest.1DF626363ED645DF.quest_desc: ["Craft a feeder and hang it up to attract hummingbirds."]
+	quest.1DF626363ED645DF.title: "Hummingbird Feeder"
 	quest.1E23A31C42FBC8A0.quest_desc: ["Rises from the sunken city. Do not fight it on a boat."]
 	quest.1E23A31C42FBC8A0.title: "The Leviathan"
-	quest.1EC342C3D6C94A82.quest_desc: ["Find a leafcutter anthill and stomp on it."]
-	quest.1EC342C3D6C94A82.title: "Leafcutter Ants"
 	quest.1F1988D430C1F9AB.quest_desc: ["The finest knife: a netherite upgrade at a smithing table."]
 	quest.1F1988D430C1F9AB.title: "Netherite Knife"
-	quest.1F7965EA9A71FA99.quest_desc: ["Gunpowder dust is the propellant for every early round. Mill or craft it."]
-	quest.1F7965EA9A71FA99.title: "Black Powder"
+	quest.1FA862E431033027.quest_desc: ["A strong dark metal. The ore is an ordinary find in stone, so smelt it like iron. Molds, barrels, firing units and batteries all use it."]
+	quest.1FA862E431033027.title: "Anthralite"
+	quest.1FC559872263A69B.title: "Diamond Pets"
 	quest.200EBB315D6E07B1.quest_desc: ["Fly. Fit it to the Exo Suit."]
 	quest.200EBB315D6E07B1.title: "Jetpack Module"
-	quest.20ED7782FAD9A308.quest_desc: ["Bring water. Pyramids sit in the dunes."]
-	quest.20ED7782FAD9A308.title: "Desert"
+	quest.202B75176B8E87A9.quest_desc: ["A shattered fortress in the End."]
+	quest.202B75176B8E87A9.title: "Ruined Citadel"
+	quest.20454D992F6D05A5.title: "End City"
+	quest.206EC9FA60917D27.title: "Illager Manor"
+	quest.20B56ECAA4155B78.quest_desc: ["Eats from the backpack when you are hungry."]
+	quest.20B56ECAA4155B78.title: "Feeding"
 	quest.211E79D361E5CA38.quest_desc: ["Breathe and walk on the sea floor. Netherite diving gear works in lava too."]
 	quest.211E79D361E5CA38.title: "Diving Gear"
-	quest.218F96F62E1A9D2B.quest_desc: [
-		"A &6Sophisticated Backpack&r is more than extra slots: upgrade slots add magnets, auto-feeding, restocking and more."
-		"Craft one, then climb the tiers to the right: each tier adds slots and upgrade slots. Every upgrade below goes into a backpack."
-	]
-	quest.218F96F62E1A9D2B.title: "Carry More"
+	quest.2154C2057DDF9DEA.title: "Brass Gearbox"
 	quest.21A8555A58792546.quest_desc: ["Feed a capuchin bananas to tame it."]
 	quest.21A8555A58792546.title: "Capuchin Monkey"
+	quest.21D723BC9A574827.title: "Mounted Potato Cannon"
 	quest.224BBEDD54E0D10F.quest_desc: ["Wireless redstone. Put a pair at opposite ends of your base and set matching frequencies."]
 	quest.224BBEDD54E0D10F.title: "Redstone Link"
-	quest.227298936A7FBB96.quest_desc: ["Far below the world, in the dark. Be quiet and never fight what you hear here; ancient cities are built in it."]
-	quest.227298936A7FBB96.title: "Deep Dark"
+	quest.22BABC9721557345.quest_desc: ["Stores up to 8 buckets per block, and neighbouring tanks merge into bigger ones. Boilers are made of tanks too."]
+	quest.22BABC9721557345.title: "Fluid Tank"
 	quest.22D52778066ED8CB.quest_desc: ["The Dragon leaves a dragon egg on the exit portal. Mind that it teleports when you touch it: push it into place with a piston."]
 	quest.22D52778066ED8CB.title: "The Next Generation"
-	quest.23AB14092A4DE19D.quest_desc: [
-		"A boss that lives in the void beneath the End. Toss a &6Mysterious Worm&r into the void to bait it out; the advancement tracks the first summoning."
-		"You get a Mysterious Worm by putting a Crimson Mosquito Larva in an Enderiophage's Capsid. Bring armour and friends."
-	]
-	quest.23AB14092A4DE19D.title: "Void Worm"
-	quest.23BB22216B4205B2.quest_desc: ["Armour forged from Ignis's drops."]
-	quest.23BB22216B4205B2.title: "Ignitium Armour"
+	quest.23D572FA853EC623.quest_desc: ["Keeps a ship upright. Needed for serious airships."]
+	quest.23D572FA853EC623.title: "Gyroscopic Mechanism"
 	quest.23D7FFD5012513B5.quest_desc: ["Glue holds a build together when you assemble it."]
 	quest.23D7FFD5012513B5.title: "Honey Glue"
+	quest.23FF71D46E92B08D.quest_desc: ["When a frog eats a small magma cube, it leaves a froglight behind. Have all three frog colours (temperate, warm and cold) in your inventory."]
+	quest.23FF71D46E92B08D.title: "Froglights"
 	quest.244E852D0D987685.quest_desc: ["A desert structure full of curses. The Ancient Remnant lives inside."]
 	quest.244E852D0D987685.title: "Cursed Pyramid"
 	quest.24A1AFE82B76CE66.quest_desc: ["Cook your first real meal in the pot, with a bowl. JEI has the recipe."]
 	quest.24A1AFE82B76CE66.title: "Beef Stew"
-	quest.25C390099BFF4BFE.title: "Zombie Dungeon"
+	quest.24CC6A5DD028D7B2.quest_desc: ["A fast submachine gun."]
+	quest.24CC6A5DD028D7B2.title: "Greaser SMG"
+	quest.25CB8B8846D4F972.quest_desc: ["A strong animal that can be tamed with bananas."]
+	quest.25CB8B8846D4F972.title: "Gorilla"
 	quest.25E7DC9CCD0C52A2.quest_desc: ["Wear the glove to command a tamed bald eagle: it can fetch things for you."]
 	quest.25E7DC9CCD0C52A2.title: "Falconry Glove"
+	quest.25F7FD394EFE6DF8.quest_desc: [
+		"Breed two cat: feed both of them raw cod or raw salmon while they stand near each other."
+		"Tamed cats breed. Stray cats can be tamed with the same food."
+	]
+	quest.25F7FD394EFE6DF8.title: "Cat"
 	quest.2616DAB1FC88E2D7.quest_desc: ["Kinetic power travels through shafts and cogs. Rotate them with the Wrench and watch the direction of spin."]
 	quest.2616DAB1FC88E2D7.title: "Shafts \\& Cogwheels"
 	quest.2616FE1EC51A8AFD.quest_desc: ["Breed two rabbit: feed both of them carrots, dandelions or golden carrots while they stand near each other."]
 	quest.2616FE1EC51A8AFD.title: "Rabbit"
+	quest.2646F51DCFEFD28C.quest_desc: ["The endgame rifle. Expensive in every way."]
+	quest.2646F51DCFEFD28C.title: "Gauss Rifle"
+	quest.2681D97DBA0B0AA0.quest_desc: ["Guns wear out. Craft a kit to fix them without starting again."]
+	quest.2681D97DBA0B0AA0.title: "Repair Kit"
 	quest.26AEC99617F41A2D.quest_desc: ["Scoop an axolotl up in a bucket to carry it home."]
 	quest.26AEC99617F41A2D.title: "Bucket of Axolotl"
-	quest.26D936816C4547D3.quest_desc: ["Tame a parrot with seeds in a jungle. Parrots sit on your shoulder; cookies are poisonous to them."]
-	quest.26D936816C4547D3.title: "Parrots"
 	quest.272793C34A2906CB.quest_desc: ["Attach sails to a Windmill Bearing and build upward. Higher is better, and it needs no water."]
 	quest.272793C34A2906CB.title: "Windmill"
-	quest.2786061A19C858CA.quest_desc: ["A strong animal that can be tamed with bananas."]
-	quest.2786061A19C858CA.title: "Gorilla"
-	quest.278A38974807BBEA.quest_desc: ["Packs items into blocks automatically, to fit far more in the same chest."]
-	quest.278A38974807BBEA.title: "Compression"
+	quest.27DC14F6968FE8CD.quest_desc: [
+		"The &6Wrench&r rotates and dismantles Create parts. The &6Engineer's Goggles&r show stress and speed."
+		"Both are in JEI and neither costs much."
+	]
+	quest.27DC14F6968FE8CD.title: "Tools of the Trade"
 	quest.285F81CFFC4BABBF.quest_desc: [
 		"Destroy the crystals on the pillars first, then fight the Dragon on the main island of the End."
 		"Bring a bow, ender pearls, blocks to hide behind, and plenty of food."
 	]
 	quest.285F81CFFC4BABBF.title: "The Ender Dragon"
-	quest.2931B72F9A956D1C.quest_desc: ["Better Dungeons makes dungeons bigger and better stocked. They generate underground in plains and many other biomes (all the overworld dungeons share one list)."]
-	quest.2931B72F9A956D1C.title: "Dungeon Delver"
+	quest.2906D578B0837BA2.title: "Item Silo"
 	quest.293B0FD7A9EBEB5B.quest_desc: ["A favourite of several animals. Obtain one and keep it for taming."]
 	quest.293B0FD7A9EBEB5B.title: "Banana"
-	quest.297DF243E5B1EC66.quest_desc: ["Spins glued structures: windmills, drills on arms and so on."]
-	quest.297DF243E5B1EC66.title: "Mechanical Bearing"
-	quest.2987529E709814B2.quest_desc: [
-		"Breed two turtle: feed both of them seagrass while they stand near each other."
-		"Turtles lay eggs on the beach where they hatched. Protect them from zombies."
-	]
-	quest.2987529E709814B2.title: "Turtle"
-	quest.29D03201FA18CED5.quest_desc: [
-		"Breed two hoglin: feed both of them crimson fungus while they stand near each other."
-		"Bring hoglins home from the Nether. Take armour; they hit hard."
-	]
-	quest.29D03201FA18CED5.title: "Hoglin"
 	quest.29DF06E204203F75.quest_desc: ["Throw a Rotten Tomato at a raider. JEI shows how to get one."]
 	quest.29DF06E204203F75.title: "Rotten Tomato"
 	quest.2A0CA5E0992B1FCF.quest_desc: [
@@ -356,159 +299,200 @@
 	]
 	quest.2A0CA5E0992B1FCF.title: "Goat"
 	quest.2A2D8179AF22F2DA.title: "Steel Armour"
+	quest.2A572F89025693F7.quest_desc: ["The backpack survives death or explosion. Worth having."]
+	quest.2A572F89025693F7.title: "Everlasting"
 	quest.2A633DA260ED3B77.quest_desc: ["Sends and receives packages across the base. A frogport on every machine row makes a perfect warehouse."]
 	quest.2A633DA260ED3B77.title: "Frogport"
 	quest.2AADB5C53E2AB634.quest_desc: ["Saddles are found in loot chests, not crafted. Tame a horse by mounting it again and again until hearts appear."]
 	quest.2AADB5C53E2AB634.title: "Stable"
-	quest.2AE0613F8326CEAE.quest_desc: ["Catch a blaze with an Empty Blaze Burner (a Nether fortress spawner is the usual place), then feed it fuel. A burner under a basin heats it."]
-	quest.2AE0613F8326CEAE.title: "Blaze Burner"
+	quest.2AE0C676C2D0CD59.quest_desc: ["Your first blueprint, crafted from flint and paper. It unlocks the oldest guns."]
+	quest.2AE0C676C2D0CD59.title: "Antique Blueprint"
 	quest.2B1F993CBD221FBC.quest_desc: ["Upgrade an existing chest in place. No need to move anything."]
 	quest.2B1F993CBD221FBC.title: "Tier Up"
+	quest.2B4BB34920556D5B.quest_desc: [
+		"A &6Sophisticated Backpack&r is more than extra slots: upgrade slots add magnets, auto-feeding, restocking and more."
+		"Craft one, then climb the tiers to the right: each tier adds slots and upgrade slots. Every upgrade below goes into a backpack."
+	]
+	quest.2B4BB34920556D5B.title: "Carry More"
 	quest.2B4F46BCC0C58493.quest_desc: ["Cut tall grass with a knife to harvest straw. Straw is used for beds, bales and compost."]
 	quest.2B4F46BCC0C58493.title: "Hay Day"
 	quest.2B50A23788399F26.quest_desc: ["Craft it, or upgrade a chest in place with a Tier Upgrade."]
 	quest.2B50A23788399F26.title: "Gold Chest"
-	quest.2B7A49E4100A993B.quest_desc: ["Lets part of a ship rotate freely: gun turrets, cranes, and radar."]
-	quest.2B7A49E4100A993B.title: "Swivel Bearing"
+	quest.2B791E17A15C8F48.quest_desc: ["The trigger mechanism: anthralite, iron and treated iron. Without one, nothing past the musket works."]
+	quest.2B791E17A15C8F48.title: "Firing Unit"
 	quest.2B7FA0364450CB22.title: "The End"
 	quest.2BAA79F00DD37986.quest_desc: ["A rock-shelled creature. It curls up when attacked."]
 	quest.2BAA79F00DD37986.title: "Rocky Roller"
-	quest.2C51BCE085159A50.quest_desc: ["Your first blueprint, crafted from flint and paper. It unlocks the oldest guns."]
-	quest.2C51BCE085159A50.title: "Antique Blueprint"
 	quest.2C6424F57B4FCC33.quest_desc: ["Place the board, put an item on it and chop with a knife."]
 	quest.2C6424F57B4FCC33.title: "Prep Work"
-	quest.2CE0EAF7AFE186F1.title: "Patch Up"
-	quest.2E9C0EDCD3692323.quest_desc: ["Tigers are dangerous. See the Animal Dictionary for how to earn their favour."]
-	quest.2E9C0EDCD3692323.title: "Tiger's Blessing"
-	quest.2F060326A9FB4112.quest_desc: ["Crushing wheels double your ore. It is the single biggest upgrade to early-game metal."]
-	quest.2F060326A9FB4112.title: "Millstone \\& Crushing"
+	quest.2D4E50283008AE40.quest_desc: ["Upgrade the backpack you already have to the next tier."]
+	quest.2D4E50283008AE40.title: "Gold Backpack"
+	quest.2D7B9D1F83ECB5ED.quest_desc: ["Create: Dragons Plus brings End-themed recipes. Collect dragon's breath in a basin."]
+	quest.2D7B9D1F83ECB5ED.title: "Dragon's Breath"
+	quest.2E61BF2BE61B1B43.quest_desc: [
+		"Create has a lot of add-ons in this pack. This chapter is a menu of four lanes:"
+		"&6Logic&r (chips, gearboxes, batteries), &6Kitchen&r (slicer, sprinkler),"
+		"&6Rails&r (navigator, freezing fans) and &6Decoration&r (catwalks, copycats)."
+		"Start any lane you like."
+	]
+	quest.2E61BF2BE61B1B43.title: "Beyond Create"
+	quest.2E6D1D0FE69E4A97.quest_desc: ["Cut a ham off a Smoked Ham on the board with a knife."]
+	quest.2E6D1D0FE69E4A97.title: "Honey-Glazed Ham"
+	quest.2F33CEA414E7CC27.quest_desc: ["Visit every kind of Better Dungeons dungeon."]
+	quest.2F33CEA414E7CC27.title: "Dungeon Master"
 	quest.2FAEE98999C49526.quest_desc: ["A grid of these crafts any recipe, hands free."]
 	quest.2FAEE98999C49526.title: "Mechanical Crafter"
-	quest.2FCB3C928F8F3F98.quest_desc: ["Use with the track network from the Create chapter: pick a station and the navigator plans your journey."]
-	quest.2FCB3C928F8F3F98.title: "Railways Navigator"
 	quest.2FCBD865FA7F81C2.quest_desc: ["Craft it, or upgrade a chest in place with a Tier Upgrade."]
 	quest.2FCBD865FA7F81C2.title: "Diamond Chest"
 	quest.2FE50E5BC4A777F8.quest_desc: ["Cachalot whales are the biggest animals in the sea. The Animal Dictionary tells you how to help one."]
 	quest.2FE50E5BC4A777F8.title: "Save the Whale"
-	quest.2FEEBE3588330DDC.quest_desc: ["Create: Dragons Plus brings End-themed recipes. Collect dragon's breath in a basin."]
-	quest.2FEEBE3588330DDC.title: "Dragon's Breath"
+	quest.3035AC6C1F7172C0.quest_desc: ["A trial of timing. Take on the Sculptor's challenge."]
+	quest.3035AC6C1F7172C0.title: "Sculptor"
 	quest.3088C953FB135410.quest_desc: ["Armour from crocodile scutes."]
 	quest.3088C953FB135410.title: "Crocodile Armour"
-	quest.30D2D7716F02646C.quest_desc: [
-		"&6Andesite Casing&r is the shell of every early machine: andesite alloy applied to a stripped log."
-		"Next come fluids (the Copper Age), then brass."
-	]
-	quest.30D2D7716F02646C.title: "Andesite Age"
+	quest.3096CCC340E18B9C.title: "Piglin Donjon"
 	quest.310D4CAA15EBF18F.quest_desc: [
 		"Breed two sheep: feed both of them wheat while they stand near each other."
 		"Shear them for wool, or dye them to change the colour of the babies."
 	]
 	quest.310D4CAA15EBF18F.title: "Sheep"
-	quest.31506FE26C4BDC02.quest_desc: ["Plant a Rice Panicle. Rice likes shallow water, and JEI will tell you where to find the panicle."]
-	quest.31506FE26C4BDC02.title: "Paddy Time"
-	quest.3166D8E9FF35941B.quest_desc: ["Horned mossblooms occasionally shed their antlers, which grow back."]
-	quest.3166D8E9FF35941B.title: "Mossbloom Antlers"
+	quest.311BAE3F9280EC7D.quest_desc: [
+		"Abandoned mineshafts run through the rock below ground in almost every biome, and their style follows the biome above (oak, spruce, desert, jungle, ice, mesa, mushroom, lush and dripstone)."
+		"Yung's Better Mineshafts replaces the vanilla ones. Dig down into the stone, or follow the Explorer's Compass."
+	]
+	quest.311BAE3F9280EC7D.title: "Down the Shaft"
 	quest.3179E6E9A5A4F7B2.quest_desc: ["Savanna giants. Feed them acacia blossoms to tame them."]
 	quest.3179E6E9A5A4F7B2.title: "Elephant"
-	quest.31D4B0F515F8E8BD.quest_desc: ["Where you stand to steer. Pair it with the Throttle Lever."]
-	quest.31D4B0F515F8E8BD.title: "Steering Wheel"
-	quest.32091A59C7ACE431.title: "Scylla"
-	quest.324BE29245DAE01A.quest_desc: [
-		"Xaero's Minimap sits in the top right and Xaero's World Map shows everywhere you have been."
-		"Set waypoints before you wander off - the nether and the sky both make it very easy to get lost."
+	quest.3222E032064050CD.quest_desc: [
+		"Breed two fox: feed both of them sweet berries or glow berries while they stand near each other."
+		"Foxes live in taigas."
 	]
-	quest.324BE29245DAE01A.title: "Find Your Way"
-	quest.326A5852AAC1D74D.quest_desc: ["Request production on demand: put a gauge on a chest and it will order what is missing."]
-	quest.326A5852AAC1D74D.title: "Factory Gauge"
-	quest.327E70CA90271213.title: "Nether Fortress"
-	quest.3289E5F53DA19F82.quest_desc: ["Belts carry items and entities. Place a shaft at each end and use the belt connector on both."]
-	quest.3289E5F53DA19F82.title: "Conveyor Belts"
+	quest.3222E032064050CD.title: "Fox"
+	quest.3271CBBCA703D509.quest_desc: ["The sun chief of the Umvuthana. Treat him with respect."]
+	quest.3271CBBCA703D509.title: "Barako"
 	quest.32CFE52650DB299E.quest_desc: ["Attachments change how a gun feels. Scopes, grips and barrels are made at the Gun Bench."]
 	quest.32CFE52650DB299E.title: "Scope"
+	quest.32F34CB510DDDB57.quest_desc: ["Empties filled items and bottles into a pipe network."]
+	quest.32F34CB510DDDB57.title: "Item Drain"
 	quest.330970289E4E0864.quest_desc: ["Place it next to flowing water for free rotation. Your first real power source."]
 	quest.330970289E4E0864.title: "Water Wheel"
-	quest.33B4BB3C371C9500.quest_desc: ["The powered version of the press for bulk production."]
-	quest.33B4BB3C371C9500.title: "Powered Stamping Press"
-	quest.3421ABCE9997AD54.quest_desc: [
-		"Packagers, Frogports and a Stock Ticker turn a base into a shopping network."
-		"This is the endgame of Create logistics."
-	]
-	quest.3421ABCE9997AD54.title: "Package Logistics"
-	quest.3438A3F68FFF9E5D.quest_desc: ["A basin under a mixer makes alloys and doughs. Heat the basin from below with a blaze burner for superheated recipes."]
-	quest.3438A3F68FFF9E5D.title: "Basin \\& Mixer"
-	quest.344C72BAAF9DC50E.quest_desc: ["Wandering Traders sell it, and it turns up in Asgharian dungeons and Ancient Cities."]
-	quest.344C72BAAF9DC50E.title: "Diamond Steel Blueprint"
-	quest.34CE5BBA350924A3.title: "Bastion"
+	quest.339A0210EC0C9792.quest_desc: ["Tigers are dangerous. See the Animal Dictionary for how to earn their favour."]
+	quest.339A0210EC0C9792.title: "Tiger's Blessing"
+	quest.34B6AE20EB2C4EDF.quest_desc: ["Craft it, or upgrade a chest in place with a Tier Upgrade."]
+	quest.34B6AE20EB2C4EDF.title: "Iron Chest"
+	quest.34BE6BB4A07AF841.quest_desc: ["Prepare for fire."]
+	quest.34BE6BB4A07AF841.title: "Ignis"
+	quest.35179E1CCA6C0280.quest_desc: ["Villages are a good place for beds, bread and trades."]
+	quest.35179E1CCA6C0280.title: "Anyone Home?"
 	quest.354CFA9492C9B1EE.quest_desc: ["Stores rotation. Store the spare power from your windmills for later."]
 	quest.354CFA9492C9B1EE.title: "Kinetic Battery"
 	quest.35A661D36C0550AF.quest_desc: ["Craft the pie from a crust and apples. Cut it into slices with a knife."]
 	quest.35A661D36C0550AF.title: "Apple Pie"
-	quest.35D70CD83BE66D04.title: "Rattlesnake"
 	quest.35E3196556E7D965.title: "Andesite Propeller"
 	quest.35FCB61414FC9D8D.quest_desc: [
 		"Breed two donkey: feed both of them golden apples or golden carrots while they stand near each other."
 		"Donkeys carry a chest."
 	]
 	quest.35FCB61414FC9D8D.title: "Donkey"
-	quest.36080D5BC2AA8FFA.quest_desc: ["Upgrade the backpack you already have to the next tier."]
-	quest.36080D5BC2AA8FFA.title: "Gold Backpack"
+	quest.3646A997DD4FCF43.title: "Land Animals"
+	quest.366685983A32B576.quest_desc: ["Armour matters far more here than in vanilla. Wear something before you go looking for dungeons."]
+	quest.366685983A32B576.title: "Suit Up"
+	quest.3674A16EB0ABEFAB.quest_desc: [
+		"Paint chests and barrels any colour, and change their wood and trim, with the &6Paintbrush&r. Click it to see the recipe:"
+		"{image:item:sophisticatedstorage:paintbrush width:32 height:32 align:left click_action:show_recipe:sophisticatedstorage:paintbrush text:Paintbrush}"
+	]
+	quest.3674A16EB0ABEFAB.title: "Paint Job"
+	quest.369838E42660BA77.quest_desc: ["Upgrade the backpack you already have to the next tier."]
+	quest.369838E42660BA77.title: "Diamond Backpack"
 	quest.3722C0D737B6FA4F.title: "Trail Ruins"
 	quest.374540ABE9CFD17B.quest_desc: ["Search the high-tier structures for this. Check JEI for where it drops."]
 	quest.374540ABE9CFD17B.title: "Exo Suit Blueprint"
+	quest.375F20659AEB6062.quest_desc: ["Emperor penguins breed on fish and lay eggs."]
+	quest.375F20659AEB6062.title: "Emperor Penguin"
+	quest.37C604F677BF5B25.quest_desc: [
+		"Sophisticated chests keep their contents when broken. Craft any with just wood."
+		"Climb the tiers to the right: each adds slots and upgrade slots. The upgrades below all go into a chest."
+	]
+	quest.37C604F677BF5B25.title: "A Better Chest"
 	quest.38A452183B56E9F1.quest_desc: ["Tomato vines climb ropes. Plant tomato seeds, run a rope above them and harvest the vines."]
 	quest.38A452183B56E9F1.title: "Ropelogged Tomatoes"
+	quest.38ACA5964F2C38A2.quest_desc: ["Doubles how much each slot holds. Stack Upgrades stack on top of each other."]
+	quest.38ACA5964F2C38A2.title: "Stack Upgrade"
+	quest.38B61EE0CEE7D615.quest_desc: ["Feed a wild coati honey from a bottle three Minecraft days in a row. It then walks to its burrow and digs up a baby, which you tame with melon slices."]
+	quest.38B61EE0CEE7D615.title: "Coati"
+	quest.3907795788DACA08.quest_desc: ["Found in ocean monuments. It gives mining fatigue to everyone nearby, so bring milk."]
+	quest.3907795788DACA08.title: "Elder Guardian"
 	quest.3942A54C058625F7.quest_desc: ["A Nether structure where Ignis waits. Use the Explorer's Compass."]
 	quest.3942A54C058625F7.title: "Burning Arena"
+	quest.394F59E1D0159D91.quest_desc: ["Guards the Wrought Chamber. Learn his patterns and dodge."]
+	quest.394F59E1D0159D91.title: "Ferrous Wroughtnaut"
+	quest.39A50830D4E6EC5E.quest_desc: ["Dense, loud and full of vines. Jungle temples hide in it."]
+	quest.39A50830D4E6EC5E.title: "Jungle"
+	quest.39DB38B0323FA781.title: "Rattlesnake"
 	quest.3A47233E2835BCB1.quest_desc: [
 		"Compost turns into &6Rich Soil&r when it has matured. Plants grown on it grow faster and spread, and it is not lost when it is rained on."
 		"Mushroom colonies also love it."
 	]
 	quest.3A47233E2835BCB1.title: "Rich Soil"
 	quest.3B2685A5549DDAA7.title: "Skeleton Dungeon"
-	quest.3B5E25CDA6EFD81D.quest_desc: ["Upgrade the backpack you already have to the next tier."]
-	quest.3B5E25CDA6EFD81D.title: "Iron Backpack"
+	quest.3B4E9871BACEFED3.quest_desc: ["Vitality feed and balanced feed give animals extra health or a longer life. See JEI for the recipes."]
+	quest.3B4E9871BACEFED3.title: "Special Feed"
 	quest.3B5FA140CFDF3137.quest_desc: ["Mushrooms grow into colonies on Rich Soil, away from sunlight. Harvest one with a knife."]
 	quest.3B5FA140CFDF3137.title: "Mushroom Colony"
-	quest.3BC0DC0D468A54D5.quest_desc: ["Carry fluids in the backpack."]
-	quest.3BC0DC0D468A54D5.title: "Tank Upgrade"
-	quest.3BE7A975F45A7DBE.quest_desc: ["Copper and zinc, mixed in a basin heated by a blaze burner. Brass is the mid-game material: most of this pack's gear wants it."]
-	quest.3BE7A975F45A7DBE.title: "Brass"
+	quest.3BEA6E64705C16F1.quest_desc: ["Shoots almost any food or small item. Surprisingly lethal."]
+	quest.3BEA6E64705C16F1.title: "Potato Cannon"
+	quest.3C11167805AA1F3E.quest_desc: [
+		"Packagers, Frogports and a Stock Ticker turn a base into a shopping network."
+		"This is the endgame of Create logistics."
+	]
+	quest.3C11167805AA1F3E.title: "Package Logistics"
 	quest.3C508F23063DA208.quest_desc: [
 		"&bJEI&r is your recipe book. Items only show up when you type in the search box."
 		"Hover an item and press &eR&r for how to make it, or &eU&r for what it is used in."
 		"Press &eO&r (or click the bookmark star) to bookmark recipes you want to keep."
 	]
 	quest.3C508F23063DA208.title: "Recipes \\& Uses"
-	quest.3C50CD36AA2CBA15.quest_desc: ["Dungeons and Taverns adds many extra structures. Taverns are friendly."]
-	quest.3C50CD36AA2CBA15.title: "Roadside Tavern"
-	quest.3C51122D83164E64.quest_desc: ["Tame every cat variant. Stray cats near villages and swamp huts are good places to start."]
-	quest.3C51122D83164E64.title: "Cat Person"
+	quest.3C55562E4967ED96.title: "Pearlescent Levitite"
+	quest.3D1F3C3D7988C768.title: "Crocodile"
+	quest.3D6B52FFE1665468.quest_desc: ["Put them in a carriage with a Train Station and a schedule and you have a working train."]
+	quest.3D6B52FFE1665468.title: "Train Controls"
 	quest.3DBE9DF7285B73DD.quest_desc: ["Plant sweet berries (on grass or dirt), sugar cane (on sand next to water), kelp (underwater) and cocoa beans (on the side of a jungle log)."]
 	quest.3DBE9DF7285B73DD.title: "Wet and Sweet"
 	quest.3DC6D02DFCB5EF09.quest_desc: ["Head into a jungle for monkeys, gorillas and tigers."]
 	quest.3DC6D02DFCB5EF09.title: "The Jungle"
-	quest.3DEF9A026F5CDD28.quest_desc: ["A cabinet is a small, tidy chest for kitchen supplies. Craft any wood type."]
-	quest.3DEF9A026F5CDD28.title: "Kitchen Cabinet"
-	quest.3E58C8C71E90BC55.quest_desc: ["Sleep through the night to set your spawn point. Do it before you wander far from home."]
-	quest.3E58C8C71E90BC55.title: "Sweet Dreams"
-	quest.3E8E17AEF35EE0EB.quest_desc: [
-		"Sophisticated chests keep their contents when broken. Craft any with just wood."
-		"Climb the tiers to the right: each adds slots and upgrade slots. The upgrades below all go into a chest."
-	]
-	quest.3E8E17AEF35EE0EB.title: "A Better Chest"
+	quest.3E11E6711ED39836.quest_desc: ["A tough mutant. Bring good armour."]
+	quest.3E11E6711ED39836.title: "Dissident"
+	quest.3E8EF3204AF7A374.quest_desc: ["Jellyfish sting anything that is not aquatic that comes near. Manta rays hunt them."]
+	quest.3E8EF3204AF7A374.title: "Jellyfish"
 	quest.3EA0799D0A22B286.quest_desc: ["Smithing templates turn an Elytra into one of nineteen coloured Butterfly Elytra. They fly just like the normal ones."]
 	quest.3EA0799D0A22B286.title: "Butterfly Wings"
-	quest.3F23A59B02F6CA0E.title: "Optical Sensor"
+	quest.3F145EDFBB12EF82.quest_desc: ["Fill an envelope with hot air from a burner and the balloon will rise."]
+	quest.3F145EDFBB12EF82.title: "Hot Air Balloon"
+	quest.3F41A062BEF50AEB.title: "Jungle Temple"
 	quest.40420044B447BA31.quest_desc: ["Fill a glass bottle from a full beehive. Put a campfire below the hive first to calm the bees."]
 	quest.40420044B447BA31.title: "Honey Harvest"
-	quest.4054AC347843561D.quest_desc: ["Lowers and raises a glued contraption, or a cable of building blocks, on a rope."]
-	quest.4054AC347843561D.title: "Rope Pulley"
+	quest.406CC65AC445FE7F.quest_desc: [
+		"Craft the &6Cooking Pot&r, put it on a heat source (a campfire or a stove) and add ingredients."
+		"Most of the recipes in this chapter are cooked in it."
+		"{image:item:farmersdelight:cooking_pot width:32 height:32 align:left click_action:show_recipe:farmersdelight:cooking_pot text:Cooking%20Pot}"
+	]
+	quest.406CC65AC445FE7F.title: "Cooking Pot"
+	quest.408C9EB8EBC2B870.quest_desc: ["Automated mining and woodcutting. Aim the drill at stone and let it run."]
+	quest.408C9EB8EBC2B870.title: "Drill \\& Saw"
+	quest.4097F9962B6F9B79.quest_desc: ["A village of masked tribesfolk."]
+	quest.4097F9962B6F9B79.title: "Umvuthana Grove"
 	quest.40B1DC15981CEDF4.title: "Ancient Stone"
+	quest.40CA475229A72CCA.quest_desc: ["A Nether ruin guarded by a very large netherite machine."]
+	quest.40CA475229A72CCA.title: "Soul Black Smith"
 	quest.40DE98DBAE097FB7.title: "Farseer"
-	quest.4170E88C62553C77.quest_desc: ["A tank of air for your back. Place it on a spinning shaft to fill it."]
-	quest.4170E88C62553C77.title: "Copper Backtank"
+	quest.41A8744E89E860EA.quest_desc: ["The powered version of the press for bulk production."]
+	quest.41A8744E89E860EA.title: "Powered Stamping Press"
 	quest.41B44BB1CDC8AE3F.title: "Naga"
-	quest.41DF2AA8935E0373.title: "Flutter"
+	quest.421E23937EEF2EA7.quest_desc: [
+		"Breed two turtle: feed both of them seagrass while they stand near each other."
+		"Turtles lay eggs on the beach where they hatched. Protect them from zombies."
+	]
+	quest.421E23937EEF2EA7.title: "Turtle"
 	quest.4228F233E9897D07.quest_desc: ["You are not a pilot without goggles."]
 	quest.4228F233E9897D07.title: "Aviator"
 	quest.42C35CD12E723741.quest_desc: [
@@ -517,132 +501,89 @@
 		"{image:item:scguns:gun_bench width:32 height:32 align:left click_action:show_recipe:scguns:gun_bench text:Gun%20Bench}"
 	]
 	quest.42C35CD12E723741.title: "Gun Bench"
-	quest.42E83E446B3A311A.quest_desc: ["Breed two pig: feed both of them carrots, potatoes or beetroot while they stand near each other."]
-	quest.42E83E446B3A311A.title: "Pig"
-	quest.42ED3BBB81DB170B.quest_desc: ["Murky water and witches. Toxic lairs are found in the bogs."]
-	quest.42ED3BBB81DB170B.title: "Swamp"
-	quest.42F7BC35DD99AC92.quest_desc: ["Stores electrical power for the powered machines below."]
-	quest.42F7BC35DD99AC92.title: "Lightning Battery"
-	quest.4312DBFAC872D8DA.quest_desc: ["Armour matters far more here than in vanilla. Wear something before you go looking for dungeons."]
-	quest.4312DBFAC872D8DA.title: "Suit Up"
-	quest.435E78C41845B5E3.quest_desc: ["Pulls loose items to you as you mine."]
-	quest.435E78C41845B5E3.title: "Magnet"
-	quest.441FCB632FBC4F43.quest_desc: ["Shoots almost any food or small item. Surprisingly lethal."]
-	quest.441FCB632FBC4F43.title: "Potato Cannon"
+	quest.43134D1808C1BCE8.quest_desc: ["Link chests to the controller to search all of them from one block."]
+	quest.43134D1808C1BCE8.title: "Controller"
+	quest.43D3A73EBCD55ADE.quest_desc: ["Lowers and raises a glued contraption, or a cable of building blocks, on a rope."]
+	quest.43D3A73EBCD55ADE.title: "Rope Pulley"
+	quest.43EA2ED38BF30878.quest_desc: ["Crushing wheels double your ore. It is the single biggest upgrade to early-game metal."]
+	quest.43EA2ED38BF30878.title: "Millstone \\& Crushing"
 	quest.443BF0876FD68332.title: "Gyroscopic Bearing"
+	quest.4449D270CAA6F51A.quest_desc: ["Create's own storage. Vaults grow big and work with belts, funnels and the Mechanical Arm."]
+	quest.4449D270CAA6F51A.title: "Item Vault"
 	quest.44BD5BCCC34D6446.quest_desc: [
 		"Everything in this chapter hits hard. Bring a shield, good armour, food and golden apples, and ideally a friend or two."
 		"Three lanes lead on from here: &6Vanilla&r, &6Mowzie's Mobs&r and &6Cataclysm&r."
 	]
 	quest.44BD5BCCC34D6446.title: "Suit Up"
-	quest.44D52EAF910A33C6.quest_desc: [
-		"Opens the modern guns. Gunsmith villagers sell it, and dungeon chests may hold one."
-		"You need treated iron and a firing unit before the recipes work."
-	]
-	quest.44D52EAF910A33C6.title: "Iron Blueprint"
-	quest.44E00BFA3DEF03B1.quest_desc: ["Craft a beacon from the star, glass and obsidian, and put it on a pyramid of iron, gold, diamond or emerald blocks."]
-	quest.44E00BFA3DEF03B1.title: "Beacon"
 	quest.450C66CCF444D53D.quest_desc: ["River turtles breed on apples and now and then harvest kelp."]
 	quest.450C66CCF444D53D.title: "River Turtle"
-	quest.45860C5D3D30E207.quest_desc: ["Automated mining and woodcutting. Aim the drill at stone and let it run."]
-	quest.45860C5D3D30E207.title: "Drill \\& Saw"
-	quest.45CE0F1C7F59EA83.quest_desc: [
+	quest.469F0EF911755436.quest_desc: [
 		"Wandering Traders sell it, and it turns up in Osgood dungeons and Bastions."
 		"It opens treated brass tools and the Gauss Rifle."
 	]
-	quest.45CE0F1C7F59EA83.title: "Treated Brass Blueprint"
+	quest.469F0EF911755436.title: "Treated Brass Blueprint"
 	quest.46CCB1A0C215EF5B.quest_desc: ["Harvest rice and collect eight grains. It is a cooking-pot ingredient and the base of many dishes."]
 	quest.46CCB1A0C215EF5B.title: "Rice, Rice, Rice"
-	quest.46E7A699618CF2A3.quest_desc: ["A village of masked tribesfolk."]
-	quest.46E7A699618CF2A3.title: "Umvuthana Grove"
 	quest.46E81D79EEA1024A.title: "Isn't It Iron Pick"
-	quest.474D49FEF192AEFF.quest_desc: ["A hostile mutated piglin. They hit hard in a pack."]
-	quest.474D49FEF192AEFF.title: "Hornlins"
+	quest.4705BF50F9309F6D.quest_desc: ["Beneath the ocean. The Leviathan rises from it."]
+	quest.4705BF50F9309F6D.title: "Sunken City"
+	quest.470F194CC10061E6.quest_desc: ["Bring fire resistance. Some animals here are friendly if you know what to offer them."]
+	quest.470F194CC10061E6.title: "The Nether"
 	quest.475C73D2E607BA2C.title: "Frosted Prison"
-	quest.47BE9A2165C18B7C.quest_desc: ["A pillager tower with caged mobs and a captain. Plains are a good start, but they also stand in deserts, savannas, taiga, snowy plains and mountain meadows."]
-	quest.47BE9A2165C18B7C.title: "Pillager Outpost"
-	quest.47BFCAE2FEA0B820.quest_desc: ["A scientist's lab full of experimental weapons and worse. Find it with the Explorer's Compass."]
-	quest.47BFCAE2FEA0B820.title: "Osgood Lab"
 	quest.47C2D45D9ED3FB55.title: "Toxic Lair"
-	quest.48002BB9C678DB38.quest_desc: [
-		"Animals breed when two of the same kind are each fed their favourite food. A baby appears, and takes about twenty minutes to grow up."
-		"This chapter has five lanes: the &6Barnyard&r, the &6Stable&r, the &6Wild&r, the &6Water&r and the &6Far Lands&r. The &6Pets&r lane covers taming."
-		"Breed one animal to begin."
-	]
-	quest.48002BB9C678DB38.title: "The Parrots and the Bees"
 	quest.48503F06FDA262CF.quest_desc: ["Assembles blocks into a free-moving \"ship\". Build it, press the button and the whole thing is a physics object."]
 	quest.48503F06FDA262CF.title: "Physics Assembler"
-	quest.48CA26629B6607CC.quest_desc: ["Craft it, or upgrade a chest in place with a Tier Upgrade."]
-	quest.48CA26629B6607CC.title: "Iron Chest"
-	quest.48D5A39D8543115D.title: "Brass Gearbox"
+	quest.4868E62A58951D35.quest_desc: ["Gunpowder dust is the propellant for every early round. Mill or craft it."]
+	quest.4868E62A58951D35.title: "Black Powder"
+	quest.48C4FD599D68DD92.title: "Enchanter"
 	quest.48F3ECC2BDB7E587.quest_desc: ["A reliable all-round rifle."]
 	quest.48F3ECC2BDB7E587.title: "Mk43 Rifle"
 	quest.48FD97D23D0CB652.title: "Smart Propeller"
 	quest.49080A681E4F5D09.quest_desc: ["Wolves come in several variants depending on the biome. Tame one of each."]
 	quest.49080A681E4F5D09.title: "The Whole Pack"
-	quest.495F3D45091C0335.quest_desc: ["Fills items from above: bottles, buckets, chocolate-covered anything."]
-	quest.495F3D45091C0335.title: "Spout"
-	quest.4982DD9C4436A128.quest_desc: ["Hands that turn at clock speeds: drawbridges, rotating towers and, of course, clocks."]
-	quest.4982DD9C4436A128.title: "Clockwork Bearing"
-	quest.498D60F4FFCC929E.quest_desc: ["Funnels put items on a belt or take them off it, and filter with a right-click."]
-	quest.498D60F4FFCC929E.title: "Funnels"
-	quest.49DBB374AC7AA0B7.quest_desc: ["Baskets hold items and can hang from a rope."]
-	quest.49DBB374AC7AA0B7.title: "Wooden Basket"
-	quest.4AEB452269C3EEA5.quest_desc: ["Every gun is built around a barrel. Craft the stone one at the bench."]
-	quest.4AEB452269C3EEA5.title: "Stone Gun Barrel"
-	quest.4B48B2A696D30193.quest_desc: [
-		"Craft the &6Cooking Pot&r, put it on a heat source (a campfire or a stove) and add ingredients."
-		"Most of the recipes in this chapter are cooked in it."
-		"{image:item:farmersdelight:cooking_pot width:32 height:32 align:left click_action:show_recipe:farmersdelight:cooking_pot text:Cooking%20Pot}"
-	]
-	quest.4B48B2A696D30193.title: "Cooking Pot"
-	quest.4B7CB79CF34FBF6B.quest_desc: ["A refined brass for the strongest guns."]
-	quest.4B7CB79CF34FBF6B.title: "Treated Brass"
-	quest.4BA0E8A67D85B2BD.quest_desc: ["Molds tell the press what shape to make. A blank one is made from anthralite; cut it into the shape you need at a stonecutter."]
-	quest.4BA0E8A67D85B2BD.title: "Blank Mold"
-	quest.4BD52868791EF139.quest_desc: ["A cold place in the snowy lands."]
-	quest.4BD52868791EF139.title: "Frostmaw's Den"
+	quest.496E814606D61BA4.quest_desc: ["Use with the track network from the Create chapter: pick a station and the navigator plans your journey."]
+	quest.496E814606D61BA4.title: "Railways Navigator"
+	quest.4A3DCBB5C0E01A5D.title: "Altitude Sensor"
+	quest.4A5C67634BF1342D.quest_desc: ["Where you stand to steer. Pair it with the Throttle Lever."]
+	quest.4A5C67634BF1342D.title: "Steering Wheel"
+	quest.4AD0255443BAE92A.quest_desc: ["Tiers up to Netherite add more slots and more upgrade slots."]
+	quest.4AD0255443BAE92A.title: "Copper Chest"
+	quest.4B94B17E61B646AA.quest_desc: ["A heavy automaton, found guarding the Cog Chambers."]
+	quest.4B94B17E61B646AA.title: "Cog Knight"
+	quest.4BE48A579016AB44.quest_desc: ["The hardest part to make by hand: it needs a sequenced assembly. Look it up in JEI and automate it."]
+	quest.4BE48A579016AB44.title: "Precision Mechanism"
 	quest.4C1DB57B77EB2CEC.quest_desc: [
 		"Eat all of Farmer's Delight's dishes."
 		"Open the advancements screen to see which ones you are missing."
 	]
 	quest.4C1DB57B77EB2CEC.title: "Master Chef"
-	quest.4C1E36D411423299.quest_desc: ["Bring fire resistance. Some animals here are friendly if you know what to offer them."]
-	quest.4C1E36D411423299.title: "The Nether"
+	quest.4C5A58EFBE024D32.title: "Steam Vent"
 	quest.4C5CED5CFEB229CB.quest_desc: ["A Farmer's Delight recipe the dogs approve of."]
 	quest.4C5CED5CFEB229CB.title: "Dog Food"
-	quest.4CB9076244FCBDBC.quest_desc: ["Found in ocean monuments. It gives mining fatigue to everyone nearby, so bring milk."]
-	quest.4CB9076244FCBDBC.title: "Elder Guardian"
-	quest.4D0A85970A5A302A.quest_desc: ["Emperor penguins breed on fish and lay eggs."]
-	quest.4D0A85970A5A302A.title: "Emperor Penguin"
 	quest.4D316F2092C0640C.quest_desc: [
 		"L_Ender's Cataclysm hides huge structures around the world. Find the structure, defeat the boss inside, and use its drops to craft gear."
 		"The Explorer's Compass can locate each structure. Four bosses come first, then a second tier, then the Slayer of Giants."
 	]
 	quest.4D316F2092C0640C.title: "Cataclysm"
-	quest.4D4A4272F0FB722A.quest_desc: [
-		"Breed two sniffer: feed both of them torchflower seeds while they stand near each other."
-		"Sniffer eggs are found in warm ocean ruins. Hatch the egg on moss and look after the baby."
-	]
-	quest.4D4A4272F0FB722A.title: "Sniffer"
 	quest.4D5246EB56272BB0.quest_desc: ["Cuts power before the network breaks. Wire it in before an expensive machine."]
 	quest.4D5246EB56272BB0.title: "Overstress Clutch"
-	quest.4D57208EDDFB558A.quest_desc: ["Lay track, build a train bogey and name a station. Trains are slow to set up and very satisfying."]
-	quest.4D57208EDDFB558A.title: "All Aboard"
+	quest.4D654D7D6E6A1D8B.quest_desc: ["Very far from home, and very full of evokers."]
+	quest.4D654D7D6E6A1D8B.title: "Woodland Mansion"
 	quest.4D6EFDF24EA55D5A.quest_desc: ["A rarer elephant with tusks. Tame one."]
 	quest.4D6EFDF24EA55D5A.title: "Tusked Elephant"
-	quest.4DE10C94892E6184.quest_desc: ["Hidden in the overworld. The Harbinger sleeps inside."]
-	quest.4DE10C94892E6184.title: "Ancient Factory"
+	quest.4DA03BB3AC00D8C2.quest_desc: ["Wandering Traders sell it, and it turns up in Asgharian dungeons and Ancient Cities."]
+	quest.4DA03BB3AC00D8C2.title: "Diamond Steel Blueprint"
+	quest.4DDFE8ADCDED9875.title: "Acropolis"
 	quest.4DE771DE0262593A.quest_desc: [
 		"Build a T of soul sand with three wither skeleton skulls on top. Do it in the open, and get out of the way."
 		"Wither skeletons are found in Nether fortresses."
 	]
 	quest.4DE771DE0262593A.title: "Withering Heights"
-	quest.4E32E40099982BF6.quest_desc: [
-		"The &6Explorer's Compass&r points you towards structures such as villages, temples and the many dungeons this pack adds."
-		"Check its recipe in JEI, then use it to find your next adventure."
+	quest.4E2D87BA82D64FA3.quest_desc: [
+		"Breed two sniffer: feed both of them torchflower seeds while they stand near each other."
+		"Sniffer eggs are found in warm ocean ruins. Hatch the egg on moss and look after the baby."
 	]
-	quest.4E32E40099982BF6.title: "Explorer's Compass"
+	quest.4E2D87BA82D64FA3.title: "Sniffer"
 	quest.4E7214563BFC17B3.title: "Shulker Box"
 	quest.4FC2B3C3E3F6CAE0.quest_desc: [
 		"Craft the &6Stamping Press&r first. It stamps bullets, casings and gun parts out of metal, using molds."
@@ -650,17 +591,26 @@
 		"{image:item:scguns:mechanical_press width:32 height:32 align:left click_action:show_recipe:scguns:mechanical_press text:Stamping%20Press}"
 	]
 	quest.4FC2B3C3E3F6CAE0.title: "Stamping Press"
-	quest.4FC8E6233F248319.quest_desc: [
-		"Breed two ocelot: feed both of them raw cod or raw salmon while they stand near each other."
-		"Ocelots live in jungles and are wild. They are skittish: stand still and hold the fish."
-	]
-	quest.4FC8E6233F248319.title: "Ocelot"
-	quest.505A9C7419F84699.quest_desc: ["Old battlefields with redcoat patrols and loot."]
-	quest.505A9C7419F84699.title: "Trenches"
+	quest.500DB26DA471AC66.quest_desc: ["Some animals only live in a particular biome. Sweet berries from taiga bushes are a favourite with foxes."]
+	quest.500DB26DA471AC66.title: "The Wild"
 	quest.50705865B6339F5C.quest_desc: ["Carries ammunition in the right calibre. Different guns use different boxes."]
 	quest.50705865B6339F5C.title: "Ammo Box"
-	quest.50D105B1D8414C05.title: "Lone Citadel"
+	quest.509B3351B7121A6D.quest_desc: ["Horned mossblooms occasionally shed their antlers, which grow back."]
+	quest.509B3351B7121A6D.title: "Mossbloom Antlers"
+	quest.50B6CF710B04183B.quest_desc: [
+		"Breed two hoglin: feed both of them crimson fungus while they stand near each other."
+		"Bring hoglins home from the Nether. Take armour; they hit hard."
+	]
+	quest.50B6CF710B04183B.title: "Hoglin"
+	quest.50B88500E22D4CEC.quest_desc: ["Upgrade the backpack you already have to the next tier."]
+	quest.50B88500E22D4CEC.title: "Netherite Backpack"
+	quest.5114F2A34EA74BD4.quest_desc: ["Hands that turn at clock speeds: drawbridges, rotating towers and, of course, clocks."]
+	quest.5114F2A34EA74BD4.title: "Clockwork Bearing"
 	quest.51282A0F8DCF9008.title: "Grottol"
+	quest.51F8D4507BE72082.quest_desc: ["Strange animals from other biomes and dimensions. Each one asks for a particular food."]
+	quest.51F8D4507BE72082.title: "Far Lands"
+	quest.521D75A8C2CD0BF4.quest_desc: ["A handheld remote for redstone links. Use it to drive contraptions and trains from anywhere."]
+	quest.521D75A8C2CD0BF4.title: "Linked Controller"
 	quest.524BF7324A5EAC9C.quest_desc: ["Kill the Wither and keep the Nether Star it drops. It flies, explodes things and withers you: a bow and strong armour help."]
 	quest.524BF7324A5EAC9C.title: "The Wither"
 	quest.528A39BD4D1A5749.quest_desc: [
@@ -670,15 +620,11 @@
 	quest.528A39BD4D1A5749.title: "Slice \\& Dice"
 	quest.52DF5F9AE8CC0ADD.quest_desc: ["Sail far from shore, to where the water turns dark. Ocean monuments stand on the seabed here. Bring a way to breathe."]
 	quest.52DF5F9AE8CC0ADD.title: "Deep Ocean"
+	quest.52F2616CCD23FB24.quest_desc: ["Farmer's Delight adds cabbage, tomato, onion and rice crops. Wild ones grow in the world, so go and look: cut them with a knife or just break them. JEI shows where each seed comes from."]
+	quest.52F2616CCD23FB24.title: "Seeds of Change"
 	quest.52F54AD1242A4D43.quest_desc: ["A crust is the base of every pie. Craft it first."]
 	quest.52F54AD1242A4D43.title: "Pie Crust"
-	quest.53BBDED30DF9754F.quest_desc: [
-		"Clutter: Bestiary adds over twenty gentle animals, from capybaras and penguins to butterflies and newts."
-		"Most of them spawn in the biome you would expect, so go and look. The Animal Dictionary does not cover them."
-		""
-		"Four branches: &6Land&r, &6Butterflies&r, &6Waters&r and the &6Nether&r."
-	]
-	quest.53BBDED30DF9754F.title: "Clutter: Bestiary"
+	quest.536DD3D21B59A67E.title: "Docking"
 	quest.53C931ED70AF189E.quest_desc: [
 		"Create: Connected adds quality-of-life parts like the Brass Gearbox and Kinetic Battery."
 		"Chips are used for the more clever ones."
@@ -686,92 +632,91 @@
 	quest.53C931ED70AF189E.title: "Control Chip"
 	quest.53E63E8429D152DD.quest_desc: ["A small animal that sprays. Do not stand close."]
 	quest.53E63E8429D152DD.title: "Skunk"
-	quest.5456E42451862157.quest_desc: ["Link chests to the controller to search all of them from one block."]
-	quest.5456E42451862157.title: "Controller"
+	quest.5427677A1E4D2230.quest_desc: ["Pulls loose items to you as you mine."]
+	quest.5427677A1E4D2230.title: "Magnet"
 	quest.5463AE0A689696B4.quest_desc: ["Interact with an empty hand and the panda asks for a particular item. Give it that item three times in a row."]
 	quest.5463AE0A689696B4.title: "Red Panda"
-	quest.54E38EF6E9C00FD7.title: "Nether Keep"
+	quest.5464EE874AD87CDA.quest_desc: [
+		"Breed two chicken: feed both of them seeds while they stand near each other."
+		"Their eggs hatch into chicks if you throw them."
+	]
+	quest.5464EE874AD87CDA.title: "Chicken"
+	quest.54BCAA412DC070A2.quest_desc: ["Swim out and look beneath the waves."]
+	quest.54BCAA412DC070A2.title: "The Ocean"
 	quest.550CF3001E10E548.quest_desc: ["Armour from its shell."]
 	quest.550CF3001E10E548.title: "Rocky Chestplate"
+	quest.5547BF68860AC61A.quest_desc: ["Find a leafcutter anthill and stomp on it."]
+	quest.5547BF68860AC61A.title: "Leafcutter Ants"
 	quest.5567DF1BA3521FEB.quest_desc: ["Moves glued structures along a line. Add extension poles to lengthen its reach."]
 	quest.5567DF1BA3521FEB.title: "Mechanical Piston"
 	quest.55E419DC7721284F.quest_desc: ["Armadillo scutes make armour for a wolf. Give it to your dog by right-clicking, and repair it with more scutes."]
 	quest.55E419DC7721284F.title: "Wolf Armour"
-	quest.566AAD5B01EC8885.quest_desc: ["Vitality feed and balanced feed give animals extra health or a longer life. See JEI for the recipes."]
-	quest.566AAD5B01EC8885.title: "Special Feed"
-	quest.5671AB2F068C7646.quest_desc: ["A mechanical complex full of automatons. Find it with the Explorer's Compass."]
-	quest.5671AB2F068C7646.title: "Cog Chambers"
-	quest.570D241B025D688D.quest_desc: ["Breed koi with kelp. Patterns come from the parents, with a small chance of a rare one. Catch them in a bucket."]
-	quest.570D241B025D688D.title: "Koi"
+	quest.55F5BC11CBC369D1.quest_desc: ["Upgrade the backpack you already have to the next tier."]
+	quest.55F5BC11CBC369D1.title: "Iron Backpack"
+	quest.569BCE357815D75C.quest_desc: ["Pump up lava or water from a large pool. It makes water infinite, and lava endless for the boiler."]
+	quest.569BCE357815D75C.title: "Hose Pulley"
+	quest.56B063F150CD4683.title: "Ruined Portal"
+	quest.57737ADE23483459.quest_desc: ["Sweet berries and milk on a crust. Check JEI for the exact recipe."]
+	quest.57737ADE23483459.title: "Sweet Berry Cheesecake"
 	quest.57E1E60696F2CB92.quest_desc: ["&6Brass Casing&r is brass sheets applied to a stripped log. It unlocks the next tier of automation: deployers, crafters and display links."]
 	quest.57E1E60696F2CB92.title: "Brass Age"
 	quest.57F6A271F5E1465B.quest_desc: ["Ocean monuments are guarded by Guardians. Bring a way to breathe underwater and some milk."]
 	quest.57F6A271F5E1465B.title: "Deep Dive"
 	quest.580EF9788D66891F.quest_desc: ["Pushes items out of the chest into whatever is next to it."]
 	quest.580EF9788D66891F.title: "Hopper Upgrade"
-	quest.581051216BDE65C2.title: "Mounted Potato Cannon"
 	quest.58303CE51346B948.title: "Warped Toad"
-	quest.584138A1710602AE.quest_desc: ["Plant glow berries on a cave ceiling, and red and brown mushrooms on dirt away from light."]
-	quest.584138A1710602AE.title: "Dark and Deep"
-	quest.58C0DB551A589161.quest_desc: [
-		"Paint chests and barrels any colour, and change their wood and trim, with the &6Paintbrush&r. Click it to see the recipe:"
-		"{image:item:sophisticatedstorage:paintbrush width:32 height:32 align:left click_action:show_recipe:sophisticatedstorage:paintbrush text:Paintbrush}"
-	]
-	quest.58C0DB551A589161.title: "Paint Job"
-	quest.58C4FC23A8D6A044.quest_desc: ["The sun chief of the Umvuthana. Treat him with respect."]
-	quest.58C4FC23A8D6A044.title: "Barako"
+	quest.58BF81C902BC6B3A.quest_desc: ["Fills items from above: bottles, buckets, chocolate-covered anything."]
+	quest.58BF81C902BC6B3A.title: "Spout"
 	quest.597FEC7B42B47918.quest_desc: ["A &6Stove&r is a safer, hotter heat source for pots and skillets, and it burns most fuels."]
 	quest.597FEC7B42B47918.title: "Stove"
 	quest.59C75941A1FEB9B9.quest_desc: ["A single-shot pistol: blueprint, flint, cobblestone, planks and a stone barrel. It is no use without ammunition, so make some bullets first."]
 	quest.59C75941A1FEB9B9.title: "Flintlock"
-	quest.5AC493809AF97D7F.quest_desc: ["Build a boat or swim. Shipwrecks lie on the sea floor, in every kind of ocean."]
-	quest.5AC493809AF97D7F.title: "Ocean"
-	quest.5AC945961E6CEF4C.quest_desc: [
-		"Create has a lot of add-ons in this pack. This chapter is a menu of four lanes:"
-		"&6Logic&r (chips, gearboxes, batteries), &6Kitchen&r (slicer, sprinkler),"
-		"&6Rails&r (navigator, freezing fans) and &6Decoration&r (catwalks, copycats)."
-		"Start any lane you like."
-	]
-	quest.5AC945961E6CEF4C.title: "Beyond Create"
+	quest.59ECDCE12E7EA4E9.title: "Freezing Fan"
+	quest.5A8387B56FED0BB5.quest_desc: ["Craft a beacon from the star, glass and obsidian, and put it on a pyramid of iron, gold, diamond or emerald blocks."]
+	quest.5A8387B56FED0BB5.title: "Beacon"
+	quest.5AA16A23DACA09D4.quest_desc: ["A cold place in the snowy lands."]
+	quest.5AA16A23DACA09D4.title: "Frostmaw's Den"
+	quest.5ABF7E0762E4E394.title: "Lone Citadel"
 	quest.5AEBE15A6A4B89DE.title: "Waters"
-	quest.5B4519BF8026C74A.quest_desc: ["A strong dark metal. The ore is an ordinary find in stone, so smelt it like iron. Molds, barrels, firing units and batteries all use it."]
-	quest.5B4519BF8026C74A.title: "Anthralite"
+	quest.5B635E412F492023.title: "Nether Fortress"
 	quest.5B679972E90D7148.quest_desc: ["The first proper long gun. Slow to reload and very satisfying."]
 	quest.5B679972E90D7148.title: "Musket"
-	quest.5B6B2F90B835AE67.title: "Emu"
-	quest.5BB4C763F78122AB.title: "Netherite Monstrosity"
+	quest.5B6A09755D038F40.quest_desc: [
+		"Alex's Mobs adds over a hundred animals. Craft the &6Animal Dictionary&r first (the recipe is in JEI)."
+		"Right-click an animal with it to learn what it eats and where it lives."
+		""
+		"Every branch below is a habitat: &6Jungle&r, &6Savanna&r, &6Desert&r, &6Swamp&r, &6Ocean&r, &6Nether&r and &6End&r. The Clutter: Bestiary branch is at the bottom."
+	]
+	quest.5B6A09755D038F40.title: "Animal Dictionary"
+	quest.5BAA1FD7A5B69FA9.title: "Optical Sensor"
 	quest.5BF1C6399730FE3B.quest_desc: ["Craft a &6Skillet&r and put it on a heat source to fry eggs, bacon and steak."]
 	quest.5BF1C6399730FE3B.title: "Skillet"
 	quest.5C00D9153F3CC3C1.quest_desc: ["Plant cabbage seeds and an onion on farmland. Wild ones grow in the world: break them to get seeds."]
 	quest.5C00D9153F3CC3C1.title: "Wild Greens"
-	quest.5C042F97D872056F.title: "Acropolis"
-	quest.5C1D10DF12DDD748.quest_desc: ["Catch the wind. You can dye a sail with any dye."]
-	quest.5C1D10DF12DDD748.title: "Sails"
 	quest.5C3B46BD8E6A4C0E.quest_desc: ["The first step up from the plain backpack: more slots and more upgrade slots."]
 	quest.5C3B46BD8E6A4C0E.title: "Copper Backpack"
-	quest.5C5235CE171BB567.quest_desc: ["A trial of timing. Take on the Sculptor's challenge."]
-	quest.5C5235CE171BB567.title: "Sculptor"
 	quest.5C5B9697AACED7AD.quest_desc: ["Craft it, or upgrade a chest in place with a Tier Upgrade."]
 	quest.5C5B9697AACED7AD.title: "Netherite Chest"
 	quest.5C8C9C9A4A359CEF.title: "Navigation Table"
 	quest.5C9B58A78AD34D54.quest_desc: ["Cut a blank mold into a bullet mold at a stonecutter."]
 	quest.5C9B58A78AD34D54.title: "Bullet Mold"
 	quest.5CB16FB9690C84C0.title: "Kangaroo"
-	quest.5D116746CF0DB771.quest_desc: ["A shattered fortress in the End."]
-	quest.5D116746CF0DB771.title: "Ruined Citadel"
+	quest.5D1B86A06F7040BF.quest_desc: ["Open &eOptions > Controls&r and use the search box. This pack adds a handful of keys for the minimap, skills book, backpacks and more."]
+	quest.5D1B86A06F7040BF.title: "Check Your Controls"
 	quest.5D71623A98A661FB.quest_desc: ["Barrels have the same tiers and upgrades as chests, in a smaller footprint."]
 	quest.5D71623A98A661FB.title: "Barrels"
-	quest.5D96F2EAA3D74C86.quest_desc: [
-		"Plant a crop of each: wheat, carrots, potatoes, beetroot, melons and pumpkins."
-		"Seeds come from tall grass, village farms and loot; carrots and potatoes drop from zombies. Melons and pumpkins want a free block beside the stem for the fruit."
+	quest.5D8D7D6B3665394A.quest_desc: ["Funnels put items on a belt or take them off it, and filter with a right-click."]
+	quest.5D8D7D6B3665394A.title: "Funnels"
+	quest.5D9E95C1E072EB0B.quest_desc: [
+		"Animals breed when two of the same kind are each fed their favourite food. A baby appears, and takes about twenty minutes to grow up."
+		"This chapter has five lanes: the &6Barnyard&r, the &6Stable&r, the &6Wild&r, the &6Water&r and the &6Far Lands&r. The &6Pets&r lane covers taming."
+		"Breed one animal to begin."
 	]
-	quest.5D96F2EAA3D74C86.title: "Vegetable Patch"
-	quest.5DB8ABE718B2CCB0.quest_desc: ["Villages are a good place for beds, bread and trades."]
-	quest.5DB8ABE718B2CCB0.title: "Anyone Home?"
+	quest.5D9E95C1E072EB0B.title: "The Parrots and the Bees"
+	quest.5DEE3CCBD2DA3FBE.quest_desc: ["Throw an ender eye and follow it."]
+	quest.5DEE3CCBD2DA3FBE.title: "Stronghold"
 	quest.5DEE6C438A78E96C.quest_desc: ["Shows information from blocks on signs, boards and nixie tubes. Production counters are very satisfying."]
 	quest.5DEE6C438A78E96C.title: "Display Link"
-	quest.5DF0D48C360A74B9.quest_desc: ["Chameleons are tamed with apples and breed on a butterfly in a bottle. Tame ones attack whatever you are fighting."]
-	quest.5DF0D48C360A74B9.title: "Chameleon"
 	quest.5DF2307A14A35CBD.quest_desc: ["Ride lava on a board made of straddlite."]
 	quest.5DF2307A14A35CBD.title: "Straddleboard"
 	quest.5DF23E0453576640.quest_desc: [
@@ -780,116 +725,133 @@
 		"Andesite plus iron or zinc nuggets. The first of Create's key materials."
 	]
 	quest.5DF23E0453576640.title: "Andesite Alloy"
+	quest.5E13928117E5403B.quest_desc: [
+		"&6Brass \\& Bullets&r is a Create-flavoured adventure: gears, airships, guns, farms and a few very angry bosses."
+		""
+		"This book is a suggestion, not a gate. Every quest is open from the start; the arrows only show a natural order."
+		"Quests give a little XP so there is always a reason to tick one off."
+	]
+	quest.5E13928117E5403B.title: "Welcome"
+	quest.5E24789BE634350A.quest_desc: ["Far below the world, in the dark. Be quiet and never fight what you hear here; ancient cities are built in it."]
+	quest.5E24789BE634350A.title: "Deep Dark"
 	quest.5E59B6F2970B3487.quest_desc: ["Short-range, hard-hitting."]
 	quest.5E59B6F2970B3487.title: "Combat Shotgun"
-	quest.5EA30BD86BD9FABB.quest_desc: ["Stores up to 8 buckets per block, and neighbouring tanks merge into bigger ones. Boilers are made of tanks too."]
-	quest.5EA30BD86BD9FABB.title: "Fluid Tank"
-	quest.5EF02CD564666302.quest_desc: ["Guards the Wrought Chamber. Learn his patterns and dodge."]
-	quest.5EF02CD564666302.title: "Ferrous Wroughtnaut"
+	quest.5E7AC2FE5CB2B347.title: "Zombie Dungeon"
 	quest.5F1D908D2DEDCA24.quest_desc: ["Because every train needs a whistle."]
 	quest.5F1D908D2DEDCA24.title: "Steam Whistle"
+	quest.5F280AC959618021.quest_desc: [
+		"&6Andesite Casing&r is the shell of every early machine: andesite alloy applied to a stripped log."
+		"Next come fluids (the Copper Age), then brass."
+	]
+	quest.5F280AC959618021.title: "Andesite Age"
 	quest.5F91D2BEA8B41967.quest_desc: ["Powered armour with room for modules. Look at the Exo Suit Core in JEI."]
 	quest.5F91D2BEA8B41967.title: "Exo Suit"
-	quest.5FB588E9DB424E4B.title: "Orca's Might"
 	quest.602012AA9B67228F.title: "Black Steel"
-	quest.603FF4ABB795AB66.quest_desc: [
-		"Breed two chicken: feed both of them seeds while they stand near each other."
-		"Their eggs hatch into chicks if you throw them."
-	]
-	quest.603FF4ABB795AB66.title: "Chicken"
+	quest.6106BD528C6E6AD5.quest_desc: ["Tame a mossbloom with a spore blossom. You can ride it, and it keeps farmland from being trampled and nudges crops to grow."]
+	quest.6106BD528C6E6AD5.title: "Mossbloom"
 	quest.61D670D021BECD06.quest_desc: [
 		"Cobblestone, a smooth stone slab and a furnace. The &6Macerator&r grinds and blends materials, and the first thing it blends is treated iron."
 		"{image:item:scguns:macerator width:32 height:32 align:left click_action:show_recipe:scguns:macerator text:Macerator}"
 	]
 	quest.61D670D021BECD06.title: "Macerator"
+	quest.61F54B34AE5F91CC.title: "Bastion"
+	quest.621B950B6472498F.quest_desc: ["Lay track, build a train bogey and name a station. Trains are slow to set up and very satisfying."]
+	quest.621B950B6472498F.title: "All Aboard"
+	quest.62229DC59DD82159.title: "Orca's Might"
+	quest.6227B96FCC9DC6E6.quest_desc: ["A gantry carriage slides along its shaft and carries anything glued to it."]
+	quest.6227B96FCC9DC6E6.title: "Gantry"
 	quest.6236DD6950433E11.title: "Monstrous Helm"
-	quest.63E0F2E521558E0B.quest_desc: ["Butterflies come in sixteen Overworld colours and three Nether ones, breed on sugar and can be carried in a bottle."]
-	quest.63E0F2E521558E0B.title: "Butterflies"
-	quest.65299C06115695C6.quest_desc: ["Empties filled items and bottles into a pipe network."]
-	quest.65299C06115695C6.title: "Item Drain"
+	quest.62370C904878E162.quest_desc: ["A hostile mutated piglin. They hit hard in a pack."]
+	quest.62370C904878E162.title: "Hornlins"
+	quest.62CC0B108997F7D1.quest_desc: ["Belts carry items and entities. Place a shaft at each end and use the belt connector on both."]
+	quest.62CC0B108997F7D1.title: "Conveyor Belts"
+	quest.634078F8DC8589E1.quest_desc: ["A boiler plus steam engines make serious, steady power. Check the water and fuel tips in the boiler's Jade overlay."]
+	quest.634078F8DC8589E1.title: "Steam Engine"
+	quest.63C338E7BA206B31.quest_desc: [
+		"Craft a &6Lead&r (string and a slimeball). You can walk animals home with it, and tie them to a fence."
+		"Fencing animals in is the easiest way to breed them."
+	]
+	quest.63C338E7BA206B31.title: "Barnyard"
+	quest.63C5CFFC052FF63C.title: "Nether Animals"
+	quest.64C1924D43A4318D.quest_desc: [
+		"Clutter: Bestiary adds over twenty gentle animals, from capybaras and penguins to butterflies and newts."
+		"Most of them spawn in the biome you would expect, so go and look. The Animal Dictionary does not cover them."
+		""
+		"Four branches: &6Land&r, &6Butterflies&r, &6Waters&r and the &6Nether&r."
+	]
+	quest.64C1924D43A4318D.title: "Clutter: Bestiary"
+	quest.64F7AB3B3AA37E95.quest_desc: ["Trees so thick it is dark at noon. Mansions and illager manors are hidden in them."]
+	quest.64F7AB3B3AA37E95.title: "Dark Forest"
 	quest.655D65FE51A0BF70.quest_desc: [
 		"Breed two bee: feed both of them flowers while they stand near each other."
 		"A beehive and a campfire underneath it make honey safe to harvest."
 	]
 	quest.655D65FE51A0BF70.title: "Bee"
+	quest.657616617E6DA316.title: "Ender Golem"
+	quest.65971BCBE974C648.title: "Netherite Monstrosity"
 	quest.65DBC77BA61CFD6E.quest_desc: ["Crimson newts take weeping vines and warped newts take twisting vines. Their backs grow fungi that you can shear off."]
 	quest.65DBC77BA61CFD6E.title: "Newts"
-	quest.6612FFD589FE426E.title: "Getting an Upgrade"
-	quest.6671C1C51239F27F.title: "Docking"
 	quest.667A05BDABF32CBB.title: "Nether Dungeon"
-	quest.6698A555AEE25964.quest_desc: ["When a frog eats a small magma cube, it leaves a froglight behind. Have all three frog colours (temperate, warm and cold) in your inventory."]
-	quest.6698A555AEE25964.title: "Froglights"
-	quest.67458AD1BFFB67FA.quest_desc: ["Glued blocks move together on pistons and bearings. Build first, glue second."]
-	quest.67458AD1BFFB67FA.title: "Super Glue"
 	quest.67574C3321284B9D.quest_desc: ["Defeat the Void Worm. Hit the head: broken segments split it in two."]
 	quest.67574C3321284B9D.title: "Worm Slayer"
-	quest.677C9A47074E52B7.title: "Bald Eagle"
-	quest.681DD06C05E0411C.quest_desc: ["Press copper ingots into sheets. Copper is the key to everything that holds or moves liquids."]
-	quest.681DD06C05E0411C.title: "Copper Sheets"
-	quest.687516A776087E7C.quest_desc: ["Steel alloyed with diamond. Armour, frames and the Exo Suit are built from it."]
-	quest.687516A776087E7C.title: "Diamond Steel"
-	quest.68DDF5EF3BD49A27.title: "Ender Golem"
+	quest.67819D61C94C1A4F.quest_desc: ["A fiery undead warrior."]
+	quest.67819D61C94C1A4F.title: "Ignited Revenant"
+	quest.681D058945E21FD1.quest_desc: ["Tame a parrot with seeds in a jungle. Parrots sit on your shoulder; cookies are poisonous to them."]
+	quest.681D058945E21FD1.title: "Parrots"
 	quest.68E395BA4D950EB5.title: "Ender Guardian"
-	quest.68E6E4E4E29246A4.title: "Piglin Donjon"
 	quest.68F3112C93D990EF.quest_desc: ["Guards your base. Feed it ammo and set its targets."]
 	quest.68F3112C93D990EF.title: "Auto Turret"
-	quest.690343CF76DB54CD.title: "Jungle Temple"
 	quest.69116DA2C6B3D852.quest_desc: [
 		"Craft a &6Cutting Board&r first: use a knife on it to turn whole foods into slices and ingredients."
 		"{image:item:farmersdelight:cutting_board width:32 height:32 align:left click_action:show_recipe:farmersdelight:cutting_board text:Cutting%20Board}"
 	]
 	quest.69116DA2C6B3D852.title: "Cutting Board"
-	quest.694FFFE396B09D67.quest_desc: ["Trees so thick it is dark at noon. Mansions and illager manors are hidden in them."]
-	quest.694FFFE396B09D67.title: "Dark Forest"
-	quest.696745C45D9412BE.title: "Nether Animals"
-	quest.69C3705C33615AEA.quest_desc: [
-		"Breed two cat: feed both of them raw cod or raw salmon while they stand near each other."
-		"Tamed cats breed. Stray cats can be tamed with the same food."
-	]
-	quest.69C3705C33615AEA.title: "Cat"
-	quest.6A6426C027055672.quest_desc: ["A gantry carriage slides along its shaft and carries anything glued to it."]
-	quest.6A6426C027055672.title: "Gantry"
+	quest.6932E9ABBBCFDD92.quest_desc: ["Spins glued structures: windmills, drills on arms and so on."]
+	quest.6932E9ABBBCFDD92.title: "Mechanical Bearing"
+	quest.696E61E192F69420.quest_desc: ["Tame every cat variant. Stray cats near villages and swamp huts are good places to start."]
+	quest.696E61E192F69420.title: "Cat Person"
+	quest.696ED018276CBE2B.quest_desc: ["Glued blocks move together on pistons and bearings. Build first, glue second."]
+	quest.696ED018276CBE2B.title: "Super Glue"
+	quest.69FE04339D02CA06.quest_desc: ["Press standard bullets with a bullet mold in the Stamping Press. Every gun below needs them."]
+	quest.69FE04339D02CA06.title: "First Rounds"
 	quest.6A708C8FE452C339.quest_desc: ["Defeat every Cataclysm boss."]
 	quest.6A708C8FE452C339.title: "Slayer of Giants"
-	quest.6A7630BD57CB308B.quest_desc: ["The table turns creatures into magic items. It is crafted from a nether star, a farseer arm and obsidian."]
-	quest.6A7630BD57CB308B.title: "Transmutation Table"
 	quest.6ABBB7E5FBA5FB89.quest_desc: ["Feed a capybara melon slices to tame it. Tame capybaras sleep at night and heal whoever is nearby."]
 	quest.6ABBB7E5FBA5FB89.title: "Capybara"
-	quest.6AE8C4446A4050D9.quest_desc: [
-		"The &6Wrench&r rotates and dismantles Create parts. The &6Engineer's Goggles&r show stress and speed."
-		"Both are in JEI and neither costs much."
-	]
-	quest.6AE8C4446A4050D9.title: "Tools of the Trade"
-	quest.6AEEF1E9ADEFB307.quest_desc: ["Very far from home, and very full of evokers."]
-	quest.6AEEF1E9ADEFB307.title: "Woodland Mansion"
-	quest.6B55881D45C1708A.title: "Spider Dungeon"
-	quest.6B804EBC3ABBF4BA.quest_desc: ["Farmer's Delight adds cabbage, tomato, onion and rice crops. Wild ones grow in the world, so go and look: cut them with a knife or just break them. JEI shows where each seed comes from."]
-	quest.6B804EBC3ABBF4BA.title: "Seeds of Change"
+	quest.6B95B2A0B9C79EE3.quest_desc: ["A cabinet is a small, tidy chest for kitchen supplies. Craft any wood type."]
+	quest.6B95B2A0B9C79EE3.title: "Kitchen Cabinet"
 	quest.6BA82933E1359447.quest_desc: [
 		"Put an item on a belt or depot under the press to make sheets."
 		"Pressed iron, copper and gold sheets feed almost everything that follows."
 	]
 	quest.6BA82933E1359447.title: "Mechanical Press"
-	quest.6BAE8C0C0555B49F.quest_desc: ["Name tags are found in loot chests, not crafted. Rename it on an anvil, then use it on a pet."]
-	quest.6BAE8C0C0555B49F.title: "Name Tag"
 	quest.6BB14B21200B4A7E.quest_desc: [
 		"&bImprovable Skills&r lets you spend experience on permanent upgrades such as mining speed, health or fall protection."
 		"Look up the Skills Book in JEI. Quest rewards pay in XP, so every quest here nudges you towards your next skill."
 	]
 	quest.6BB14B21200B4A7E.title: "Book of Skills"
-	quest.6C78DC23F513AC40.title: "Diamond Pets"
-	quest.6CD255C2BFCFF634.quest_desc: ["A propeller on a bearing pushes air - and your ship."]
-	quest.6CD255C2BFCFF634.title: "Propellers"
+	quest.6BDE8AD943EB03A4.quest_desc: ["A propeller on a bearing pushes air - and your ship."]
+	quest.6BDE8AD943EB03A4.title: "Propellers"
+	quest.6CD2A85F4C1BC9B8.title: "Bald Eagle"
+	quest.6CEF2E5BB50DFB36.quest_desc: ["A mechanical complex full of automatons. Find it with the Explorer's Compass."]
+	quest.6CEF2E5BB50DFB36.title: "Cog Chambers"
+	quest.6D34FCD8555D11CD.quest_desc: ["Goats drop a horn when they ram a hard block like a tree trunk or stone. Blow it for a loud, far-carrying call."]
+	quest.6D34FCD8555D11CD.title: "Goat Horn"
+	quest.6D35D20B03338F8E.quest_desc: ["Catch the wind. You can dye a sail with any dye."]
+	quest.6D35D20B03338F8E.title: "Sails"
 	quest.6D726E5DA0967109.quest_desc: ["Docks a moving contraption to a station and trades its items. Think mine carts with a cargo bay."]
 	quest.6D726E5DA0967109.title: "Portable Storage"
 	quest.6D97678C4739C605.quest_desc: ["Redcoats are musket-armed soldiers. Shoot three of them."]
 	quest.6D97678C4739C605.title: "Hold the Line"
 	quest.6E466293D8689A2C.quest_desc: ["A bucket of water keeps fish and amphibians happy on the way home."]
 	quest.6E466293D8689A2C.title: "Water Folk"
-	quest.6EB39726B98181FF.quest_desc: ["Some animals only live in a particular biome. Sweet berries from taiga bushes are a favourite with foxes."]
-	quest.6EB39726B98181FF.title: "The Wild"
+	quest.6EAB1E4EED089E6A.title: "Cosmaw"
 	quest.6EF8AADCDB5DB761.quest_desc: ["Moves items between any two inventories. Link it to inputs and outputs with the Wrench."]
 	quest.6EF8AADCDB5DB761.title: "Mechanical Arm"
+	quest.6F1844DC1512B172.quest_desc: ["A scientist's lab full of experimental weapons and worse. Find it with the Explorer's Compass."]
+	quest.6F1844DC1512B172.title: "Osgood Lab"
+	quest.6F87F342646521D6.quest_desc: ["Bring water. Pyramids sit in the dunes."]
+	quest.6F87F342646521D6.title: "Desert"
 	quest.6FB6BE55107A4B96.quest_desc: [
 		"Offer a wolf bones until hearts appear. Tame wolves follow you, fight for you, and sit when you tell them to."
 		"Cats are tamed with raw cod or salmon. Parrots are tamed with seeds."
@@ -899,98 +861,121 @@
 	quest.6FB8A227FE08908E.title: "Fried Rice"
 	quest.6FD7238A4E58CCAC.quest_desc: ["Craft &6Organic Compost&r from straw, bark, rotten flesh and similar scraps, then place it down so it can mature."]
 	quest.6FD7238A4E58CCAC.title: "Compost"
-	quest.70697F56B006D191.quest_desc: ["Breed two cow: feed both of them wheat while they stand near each other."]
-	quest.70697F56B006D191.title: "Cow"
-	quest.712F78A2D13C71FE.quest_desc: ["A fiery undead warrior."]
-	quest.712F78A2D13C71FE.title: "Ignited Revenant"
+	quest.7086743EB6BB4CB4.quest_desc: ["A smaller lab outpost. A good place to hunt for blueprints."]
+	quest.7086743EB6BB4CB4.title: "Lab Outpost"
+	quest.70E909C7ECB28579.quest_desc: ["Breed two cow: feed both of them wheat while they stand near each other."]
+	quest.70E909C7ECB28579.title: "Cow"
+	quest.71A2262C23A128E5.quest_desc: ["Name tags are found in loot chests, not crafted. Rename it on an anvil, then use it on a pet."]
+	quest.71A2262C23A128E5.title: "Name Tag"
 	quest.71E13DBACE60A79B.quest_desc: [
 		"Breed two camel: feed both of them cactus while they stand near each other."
 		"Camels are found in desert villages, and can carry two riders."
 	]
 	quest.71E13DBACE60A79B.title: "Camel"
 	quest.7209BCAE567F88AB.title: "Sprinkler"
-	quest.72F5B7FD9223D62B.quest_desc: ["Nether wart is found in Nether fortresses and grows on soul sand. Chorus plants grow on end stone: take a flower home from the End."]
-	quest.72F5B7FD9223D62B.title: "Strange Crops"
-	quest.7342BEF7D3DD7C58.quest_desc: ["A smaller lab outpost. A good place to hunt for blueprints."]
-	quest.7342BEF7D3DD7C58.title: "Lab Outpost"
+	quest.723A2CB727EA6491.quest_desc: ["Wetlands with crocodiles and other cold-blooded animals."]
+	quest.723A2CB727EA6491.title: "The Swamp"
+	quest.7253982E9AE4DA71.quest_desc: ["Steel alloyed with diamond. Armour, frames and the Exo Suit are built from it."]
+	quest.7253982E9AE4DA71.title: "Diamond Steel"
+	quest.72BEAD9A63F0A886.quest_desc: ["Spruce forest. Buried trail ruins show up here, and also in jungles, old-growth birch forests and snowy taiga."]
+	quest.72BEAD9A63F0A886.title: "Taiga"
+	quest.72D16621AF8F13B4.quest_desc: ["Create Deco adds catwalks, windows, bars and more. For when the factory should look good too."]
+	quest.72D16621AF8F13B4.title: "Deco"
+	quest.73B0BECAE47BECD3.quest_desc: ["Keep two trains from meeting nose to nose."]
+	quest.73B0BECAE47BECD3.title: "Signals"
 	quest.73CCF02F6F496090.quest_desc: ["Breed two horse: feed both of them golden apples or golden carrots while they stand near each other."]
 	quest.73CCF02F6F496090.title: "Horse"
-	quest.74067AD0D12EA7FB.quest_desc: ["Refills your hotbar stacks from the backpack as they run out."]
-	quest.74067AD0D12EA7FB.title: "Restock"
 	quest.7432A2FDB1E024A5.title: "Throttle"
-	quest.7483B2F8306D3A8F.quest_desc: ["Spruce forest. Buried trail ruins show up here, and also in jungles, old-growth birch forests and snowy taiga."]
-	quest.7483B2F8306D3A8F.title: "Taiga"
 	quest.74BBFEE16DAA870B.quest_desc: ["Gun parts are stamped from iron blocks in the Stamping Press, with a gun parts mold cut from a blank mold. Better guns want plenty of them."]
 	quest.74BBFEE16DAA870B.title: "Gun Parts"
 	quest.74D289E5A20843AC.quest_desc: ["Feed kiwis seeds to make them lay eggs. They dance when a jukebox plays."]
 	quest.74D289E5A20843AC.title: "Kiwi"
+	quest.7517CC0351DE3A85.quest_desc: ["Every gun is built around a barrel. Craft the stone one at the bench."]
+	quest.7517CC0351DE3A85.title: "Stone Gun Barrel"
 	quest.752CE7E2EFF72141.quest_desc: ["Not everything flies. Tires and wheel mounts give you a land vehicle from the same assembler."]
 	quest.752CE7E2EFF72141.title: "On the Ground"
-	quest.7549994D3C407BA4.quest_desc: ["The trigger mechanism: anthralite, iron and treated iron. Without one, nothing past the musket works."]
-	quest.7549994D3C407BA4.title: "Firing Unit"
-	quest.755030050738AA9A.quest_desc: [
-		"Abandoned mineshafts run through the rock below ground in almost every biome, and their style follows the biome above (oak, spruce, desert, jungle, ice, mesa, mushroom, lush and dripstone)."
-		"Yung's Better Mineshafts replaces the vanilla ones. Dig down into the stone, or follow the Explorer's Compass."
-	]
-	quest.755030050738AA9A.title: "Down the Shaft"
 	quest.7552B96E831EF6DD.quest_desc: ["When a butterfly hatches from a cocoon there is a chance it drops a template shard."]
 	quest.7552B96E831EF6DD.title: "Cocoon Shards"
+	quest.7562E5C6713BFB8F.quest_desc: [
+		"Plant a crop of each: wheat, carrots, potatoes, beetroot, melons and pumpkins."
+		"Seeds come from tall grass, village farms and loot; carrots and potatoes drop from zombies. Melons and pumpkins want a free block beside the stem for the fruit."
+	]
+	quest.7562E5C6713BFB8F.title: "Vegetable Patch"
 	quest.7584D814CBA3061C.quest_desc: ["A fox-like animal that loves apples. The Animal Dictionary has the rest."]
 	quest.7584D814CBA3061C.title: "Maned Wolf"
-	quest.75C98EC738C64045.quest_desc: ["Create's own storage. Vaults grow big and work with belts, funnels and the Mechanical Arm."]
-	quest.75C98EC738C64045.title: "Item Vault"
-	quest.75D9F0A4447E2C3E.quest_desc: ["Open &eOptions > Controls&r and use the search box. This pack adds a handful of keys for the minimap, skills book, backpacks and more."]
-	quest.75D9F0A4447E2C3E.title: "Check Your Controls"
-	quest.7678067313B460D5.quest_desc: ["A machine of war from the Ancient Factory."]
-	quest.7678067313B460D5.title: "The Harbinger"
+	quest.760D56400F506D3E.quest_desc: ["Murky water and witches. Toxic lairs are found in the bogs."]
+	quest.760D56400F506D3E.title: "Swamp"
+	quest.762C28C7946982A3.quest_desc: ["A very strong shrimp. Tame it, and carry it in a bucket."]
+	quest.762C28C7946982A3.title: "Mantis Shrimp"
+	quest.763B007BE3FCE8A3.title: "Spider Dungeon"
+	quest.767351584E5D5C26.quest_desc: ["Packs items into blocks automatically, to fit far more in the same chest."]
+	quest.767351584E5D5C26.title: "Compression"
 	quest.768E45FF9F3042E4.quest_desc: ["Critter Armory adds armour for cats, pigs, cows, sheep and chickens, in iron, gold, diamond and netherite. Iron ones are ingots plus a fish (or a bone for wolves): nothing but a pet to wear them."]
 	quest.768E45FF9F3042E4.title: "Armour for Everyone"
 	quest.76C90508CF4BDBD0.title: "End Castle"
 	quest.76E4D391B428F74A.quest_desc: ["A chamber of stone and iron. Find it with the Explorer's Compass."]
 	quest.76E4D391B428F74A.title: "Wrought Chamber"
+	quest.7732CC6247218EEB.title: "Nether Keep"
 	quest.775CEAA4D023A2CD.quest_desc: ["A fake player on a stick: it uses, places and applies items. Feed it a belt and you have a sequenced assembly line."]
 	quest.775CEAA4D023A2CD.title: "Deployer"
-	quest.778CAFEACE04AA71.quest_desc: ["Craft a feeder and hang it up to attract hummingbirds."]
-	quest.778CAFEACE04AA71.title: "Hummingbird Feeder"
-	quest.77BD2EDF3BF10264.quest_desc: ["Wetlands with crocodiles and other cold-blooded animals."]
-	quest.77BD2EDF3BF10264.title: "The Swamp"
+	quest.77E1472D5EB9AA15.quest_desc: ["A great fortress of the Asgharians, full of dangerous guards and valuable blueprints."]
+	quest.77E1472D5EB9AA15.title: "Asgharian Citadel"
+	quest.77EA207A89197FC3.quest_desc: ["Chameleons are tamed with apples and breed on a butterfly in a bottle. Tame ones attack whatever you are fighting."]
+	quest.77EA207A89197FC3.title: "Chameleon"
 	quest.782AA180F2EDF471.quest_desc: ["Copper and tuff chambers deep underground, full of vaults and spawners that keep coming."]
 	quest.782AA180F2EDF471.title: "Trial Chambers"
-	quest.79255F7439496713.title: "Land Animals"
+	quest.78BAD341600E615E.quest_desc: ["Terralith's mage towers are rare: they only stand in amethyst canyons, lavender valleys, moonlight valleys and mirage isles. Use the Explorer's Compass."]
+	quest.78BAD341600E615E.title: "Wizard's Tower"
+	quest.78D17032EDC21BE5.quest_desc: ["Nether wart is found in Nether fortresses and grows on soul sand. Chorus plants grow on end stone: take a flower home from the End."]
+	quest.78D17032EDC21BE5.title: "Strange Crops"
+	quest.79D9CCD52E8212D4.quest_desc: [
+		"Breed two ocelot: feed both of them raw cod or raw salmon while they stand near each other."
+		"Ocelots live in jungles and are wild. They are skittish: stand still and hold the fish."
+	]
+	quest.79D9CCD52E8212D4.title: "Ocelot"
+	quest.79F3D23DD8D4817C.quest_desc: ["Sleep through the night to set your spawn point. Do it before you wander far from home."]
+	quest.79F3D23DD8D4817C.title: "Sweet Dreams"
 	quest.7A5AEFE62BCBB6C4.quest_desc: ["Open grassland. Villages, outposts, taverns and the ordinary dungeons all like it here."]
 	quest.7A5AEFE62BCBB6C4.title: "Plains"
+	quest.7A87785571D78A41.quest_desc: ["Haul things up, or drag your ship in to dock."]
+	quest.7A87785571D78A41.title: "Rope Winch"
 	quest.7AD2BD073A59DB0D.quest_desc: ["Seal a chest with tape and carry it, items and all."]
 	quest.7AD2BD073A59DB0D.title: "Packing Tape"
+	quest.7ADE58AF5502ECCE.quest_desc: ["Armour forged from Ignis's drops."]
+	quest.7ADE58AF5502ECCE.title: "Ignitium Armour"
+	quest.7AF4129F78D73174.quest_desc: ["Copper and zinc, mixed in a basin heated by a blaze burner. Brass is the mid-game material: most of this pack's gear wants it."]
+	quest.7AF4129F78D73174.title: "Brass"
 	quest.7B0D075EA68C9980.quest_desc: [
 		"Breed two armadillo: feed both of them spider eyes while they stand near each other."
 		"Armadillos live in savannas and drop scutes when brushed."
 	]
 	quest.7B0D075EA68C9980.title: "Armadillo"
-	quest.7B1945C6DC7CC249.quest_desc: ["Keeps a ship upright. Needed for serious airships."]
-	quest.7B1945C6DC7CC249.title: "Gyroscopic Mechanism"
-	quest.7B424EB95CC6138C.quest_desc: ["Goats drop a horn when they ram a hard block like a tree trunk or stone. Blow it for a loud, far-carrying call."]
-	quest.7B424EB95CC6138C.title: "Goat Horn"
+	quest.7B0E7DCAEF01A7EB.quest_desc: ["Stores electrical power for the powered machines below."]
+	quest.7B0E7DCAEF01A7EB.title: "Lightning Battery"
 	quest.7B79F631DAAAF203.quest_desc: ["Hot, dry land with snakes, wasps and rolling armadillo-like creatures."]
 	quest.7B79F631DAAAF203.title: "The Desert"
-	quest.7BDF770073E1F894.quest_desc: ["Put them in a carriage with a Train Station and a schedule and you have a working train."]
-	quest.7BDF770073E1F894.title: "Train Controls"
+	quest.7B7C37872B396DF6.quest_desc: ["Dungeons and Taverns adds many extra structures. Taverns are friendly."]
+	quest.7B7C37872B396DF6.title: "Roadside Tavern"
+	quest.7BD6274F648A6CBB.quest_desc: ["A giant wasp. Tame one with the right bait; the Animal Dictionary explains."]
+	quest.7BD6274F648A6CBB.title: "Tarantula Hawk"
 	quest.7C5E21A17A030622.quest_desc: ["Do not make noise. Do not bring a torch. Bring a lot of food."]
 	quest.7C5E21A17A030622.title: "Ancient City"
-	quest.7C8B91D8DB33E7FE.quest_desc: ["Keep two trains from meeting nose to nose."]
-	quest.7C8B91D8DB33E7FE.title: "Signals"
-	quest.7C8D87FC9314DAB3.quest_desc: ["Eats from the backpack when you are hungry."]
-	quest.7C8D87FC9314DAB3.title: "Feeding"
-	quest.7D0C9963195484AC.quest_desc: ["A giant wasp. Tame one with the right bait; the Animal Dictionary explains."]
-	quest.7D0C9963195484AC.title: "Tarantula Hawk"
-	quest.7D1F9BF3AA9DB558.quest_desc: ["Pump up lava or water from a large pool. It makes water infinite, and lava endless for the boiler."]
-	quest.7D1F9BF3AA9DB558.title: "Hose Pulley"
-	quest.7D2DC8EC5FAE4504.quest_desc: ["Beneath the ocean. The Leviathan rises from it."]
-	quest.7D2DC8EC5FAE4504.title: "Sunken City"
-	quest.7DB13235B1DD76FF.quest_desc: ["A fast submachine gun."]
-	quest.7DB13235B1DD76FF.title: "Greaser SMG"
-	quest.7DCE129C9E4832F8.title: "Ruined Portal"
-	quest.7E442A684BA7922F.quest_desc: ["Feed a wild coati honey from a bottle three Minecraft days in a row. It then walks to its burrow and digs up a baby, which you tame with melon slices."]
-	quest.7E442A684BA7922F.title: "Coati"
+	quest.7CBA40E8DBEFB1A2.quest_desc: ["Baskets hold items and can hang from a rope."]
+	quest.7CBA40E8DBEFB1A2.title: "Wooden Basket"
+	quest.7D0ED0A9A6EABDF7.quest_desc: [
+		"A boss that lives in the void beneath the End. Toss a &6Mysterious Worm&r into the void to bait it out; the advancement tracks the first summoning."
+		"You get a Mysterious Worm by putting a Crimson Mosquito Larva in an Enderiophage's Capsid. Bring armour and friends."
+	]
+	quest.7D0ED0A9A6EABDF7.title: "Void Worm"
+	quest.7DAF441AD82F300D.quest_desc: ["A machine of war from the Ancient Factory."]
+	quest.7DAF441AD82F300D.title: "The Harbinger"
+	quest.7DBD95D59A03B5A8.title: "Getting an Upgrade"
+	quest.7E32261996BD8B63.quest_desc: [
+		"Xaero's Minimap sits in the top right and Xaero's World Map shows everywhere you have been."
+		"Set waypoints before you wander off - the nether and the sky both make it very easy to get lost."
+	]
+	quest.7E32261996BD8B63.title: "Find Your Way"
+	quest.7E48CBA2BF8277F1.title: "Scylla"
 	quest.7EAA2BC7828BC4DA.quest_desc: [
 		"Breed two mooshroom: feed both of them wheat while they stand near each other."
 		"Mooshrooms live in mushroom fields. Bowls get you soup from them."
@@ -999,26 +984,41 @@
 	quest.7EC198492A10A46F.quest_desc: ["A campfire is the heat source for the Cooking Pot, until you build a Stove."]
 	quest.7EC198492A10A46F.title: "Over an Open Flame"
 	quest.7EEFCB7C2EC7EB8C.title: "Ancient Remnant"
+	quest.7F038A6A4F84330F.quest_desc: ["Carry fluids in the backpack."]
+	quest.7F038A6A4F84330F.title: "Tank Upgrade"
+	quest.7F07C182FD24C3A5.quest_desc: ["A tank of air for your back. Place it on a spinning shaft to fill it."]
+	quest.7F07C182FD24C3A5.title: "Copper Backtank"
+	quest.7F6AA678877B7E75.quest_desc: ["Found in the Nether. Neutral, hunts hoglins and curls up when hurt badly enough. Breeds on fire charges."]
+	quest.7F6AA678877B7E75.title: "Ember Tortoise"
+	quest.7FC58D02BD55F314.quest_desc: ["Lets part of a ship rotate freely: gun turrets, cranes, and radar."]
+	quest.7FC58D02BD55F314.title: "Swivel Bearing"
+	quest.7FE29E0103FDE4C5.quest_desc: ["Hidden in the overworld. The Harbinger sleeps inside."]
+	quest.7FE29E0103FDE4C5.title: "Ancient Factory"
+	quest.7FF09E1CEC52E159.quest_desc: [
+		"Breed two mule: feed both of them golden carrots, with a horse and a donkey while they stand near each other."
+		"Mules cannot have babies of their own: breed a horse with a donkey."
+	]
+	quest.7FF09E1CEC52E159.title: "Mule"
+	task.05F31DC2F8DB5AC5.title: "Hover over a block"
 	task.0CD4992FB46A8D74.title: "Open JEI"
-	task.1B5E8AAFC4C56D5B.title: "Open the world map"
+	task.0E7CA5AF50B0301C.title: "Open the world map"
 	task.20C61B1E3E1B3C61.title: "Study the Cataclysm bosses"
-	task.21A8A7109C6A9C2E.title: "Read me"
 	task.24668F9BCD084690.title: "Befriend a coati"
-	task.320F30F0945CE4C1.title: "Meet a land animal"
-	task.32E4F92E212D79AB.title: "Tame a mossbloom"
+	task.2CFE575584E8BA72.title: "Tame a red panda"
+	task.3082792F26807A36.title: "Open your skills"
 	task.33871A2014168C82.title: "Meet an ember tortoise"
+	task.34FE8D7EF1B4672B.title: "Meet a beaver"
 	task.3A911F92133E4B2E.title: "Meet a water animal"
 	task.3CC83F3F7B6E6B12.title: "Tame a chameleon"
-	task.40DCBAE2ADE79F01.title: "Tame a capybara"
+	task.3EFD2839A84B2AE0.title: "Tame a mossbloom"
 	task.454259631E63125B.title: "Meet a Nether animal"
-	task.4BA0FCD20925DD0A.title: "Meet a beaver"
+	task.488BB110D212C961.title: "Tame a capybara"
+	task.4AB0A1273830E401.title: "See what Create can grow into"
 	task.4F98037BBD30D6AB.title: "Find a Bestiary creature"
+	task.51C0EF6B6FDD96FB.title: "Read me"
 	task.57DA0BD6223A1FB8.title: "Tame a crimson or warped newt"
 	task.5D978BEEC558BFCD.title: "Tame a parrot"
 	task.6020EEFD4B189EC3.title: "Look at the controls"
-	task.62BD7B47E8E74BBC.title: "Hover over a block"
-	task.6ADB717D1506EBC4.title: "See what Create can grow into"
-	task.721523F1C784AAF5.title: "Tame a red panda"
+	task.668B9B12A46365CF.title: "Meet a land animal"
 	task.73EB1BEFC9C0746F.title: "Learn about the compass"
-	task.7EDCBD3651FA75E4.title: "Open your skills"
 }
