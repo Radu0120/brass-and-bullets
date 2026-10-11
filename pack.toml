@@ -1,6 +1,6 @@
 name = "Brass & Bullets"
 author = "radu0120"
-version = "0.1.22"
+version = "0.1.23"
 pack-format = "packwiz:1.1.0"
 
 [index]
