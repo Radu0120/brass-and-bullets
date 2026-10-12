@@ -1,12 +1,12 @@
 name = "Brass & Bullets"
 author = "radu0120"
-version = "0.1.58"
+version = "0.1.59"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "9aa793320f15f223fdbca93fa6afc546aae15976d6c6f0934025a659fd9cf57f"
+hash = "88b7a10b002477e7dead5570f6fc3af88b76f37ef128f5e2244b87fdeccfb673"
 
 [versions]
 minecraft = "1.21.1"
