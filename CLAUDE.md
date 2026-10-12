@@ -10,7 +10,7 @@ pack history live in the dotfiles repo: `E:\Documents\debian_server_dotfiles\doc
 
 ## Layout
 
-- `pack.toml`, `index.toml`, `mods/*.pw.toml`: packwiz metafiles (about 72 mods). `index.toml` is generated.
+- `pack.toml`, `index.toml`, `mods/*.pw.toml`: packwiz metafiles (about 77 mods). `index.toml` is generated.
 - `config/`: pack config defaults (Distant Horizons tuning, JEI, Xaero, FTB Quests, Open Loader packs
   `bb-tweaks` data pack and `bb-renames` client lang pack).
 - `config/ftbquests/quests/`: the quest book. **Generated** (see below), do not hand-edit.

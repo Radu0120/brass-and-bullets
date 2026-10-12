@@ -187,6 +187,11 @@ hash = "657a01a86bbf8617e4726c77df08f708e43a3db12db74b837eebd8eb1d93faae"
 metafile = true
 
 [[files]]
+file = "mods/baguettelib.pw.toml"
+hash = "ad964c7bc216dc509aba7cc617456a340e7746565e79d0cd4fab8a4d31ec95ed"
+metafile = true
+
+[[files]]
 file = "mods/choicetheorems-overhauled-village.pw.toml"
 hash = "000217304bbb5971cb9dde9081fcb5ea92cc7edcae83321effdcd92b36e2f490"
 metafile = true
@@ -327,6 +332,21 @@ hash = "4cf7eb494f48576e28895ee5f362878f95c6bad65372666106140fdae82d0c4c"
 metafile = true
 
 [[files]]
+file = "mods/gravestone-and-sable-compatibility-patch.pw.toml"
+hash = "6baec0ac505606e2066b5a00a5873cc6895f0ca639a0bfabd74bf408dcf25749"
+metafile = true
+
+[[files]]
+file = "mods/gravestone-mod.pw.toml"
+hash = "d18f1ea4c6c1c2f99f18a8725d11e14c93abd29988df24c967794fc52e9c969c"
+metafile = true
+
+[[files]]
+file = "mods/gravestone-x-curios-api-compat.pw.toml"
+hash = "ab17d6e36c0a7503693e512231e86685009d85953e1e8026a31d3241df565f83"
+metafile = true
+
+[[files]]
 file = "mods/hammer-lib.pw.toml"
 hash = "1e43aa344f623cf2fa46e0ec8b5afeb28e629310faf754b20f8ad58e54746d8e"
 metafile = true
@@ -369,6 +389,11 @@ metafile = true
 [[files]]
 file = "mods/l_enders-cataclysm.pw.toml"
 hash = "f262b49b1038ef9f67704e0629da6aafa84cf4f760273589f5d73530ca5d74b5"
+metafile = true
+
+[[files]]
+file = "mods/leaves-be-gone.pw.toml"
+hash = "583a335211bc3a21bb379394344b67d64bffea421e7f7942c254903e1d607814"
 metafile = true
 
 [[files]]
@@ -424,6 +449,11 @@ metafile = true
 [[files]]
 file = "mods/prism-lib.pw.toml"
 hash = "f39355b06c16d2161d3e5c0d327effec99af44d49a608f6d52d939827b73d584"
+metafile = true
+
+[[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "0a04f1d0b86262c6dfdbd14e0493d7f4786f24054a95a07ff7b41a7870bb258d"
 metafile = true
 
 [[files]]
