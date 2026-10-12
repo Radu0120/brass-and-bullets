@@ -178,6 +178,11 @@ hash = "cd608d0299ecf59725823ee39d865e2a0045b4e41fe2311bf97c6be76cc0ce4a"
 preserve = true
 
 [[files]]
+file = "config/xaero/world-map/profiles/default.cfg"
+hash = "404c262586bbc048f13a7ba642a2797a5da0c15be44500c9d98380c3f11e008d"
+preserve = true
+
+[[files]]
 file = "config/xaerohud.txt"
 hash = "8d13c5f398016036aa4fdefb366ef3926d89f96ca104155bc9f6e5a7ec682ecd"
 
