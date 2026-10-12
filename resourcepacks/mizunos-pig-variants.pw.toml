@@ -1,0 +1,13 @@
+name = "Mizuno's Pig Variants"
+filename = "Mizuno's Pig Variant 2.1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/qOtCfXs3/versions/VuGv65mi/Mizuno%27s%20Pig%20Variant%202.1.zip"
+hash-format = "sha512"
+hash = "4d4c8b30abc39b94be771c52dab83b82e1c120cdf14a837c321f4935ca24abba16f4a2b7ec3e055609aa7f916b37800db07598ea518fc7edbe16ac0ef959aeb2"
+
+[update]
+[update.modrinth]
+mod-id = "qOtCfXs3"
+version = "VuGv65mi"

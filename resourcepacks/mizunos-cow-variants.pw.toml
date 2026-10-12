@@ -1,0 +1,13 @@
+name = "Mizuno's Cow Variants"
+filename = "Mizuno's Cow Variant.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/jjH3Iu0Q/versions/5ZbA32rz/Mizuno%27s%20Cow%20Variant.zip"
+hash-format = "sha512"
+hash = "c32560c5ede63b49e051f106eccbf4eb0f434bb509880bcd02ddd1ae2e3cf668079b03b28c7f931d5afe1d58af9166558479bfb5ebb760df8f017ddd6b949049"
+
+[update]
+[update.modrinth]
+mod-id = "jjH3Iu0Q"
+version = "5ZbA32rz"

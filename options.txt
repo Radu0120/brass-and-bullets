@@ -2,3 +2,12 @@ guiScale:3
 narrator:0
 onboardAccessibility:false
 tutorialStep:none
+resourcePacks:["vanilla","mod_resources","file/Mizuno's Cow Variant.zip","file/Mizuno's Pig Variant 2.1.zip"]
+key_key.scguns.enable_exo_helmet:key.keyboard.z
+key_key.scguns.enable_exo_chestplate:key.keyboard.x
+key_key.scguns.enable_exo_boots:key.keyboard.v
+key_key.scguns.unload:key.keyboard.y
+key_key.createrailwaysnavigator.route_overlay_options:key.keyboard.j
+key_key.cataclysm.helmet_ability:key.keyboard.period
+key_gui.xaero_new_waypoint:key.keyboard.comma
+key_iris.keybind.reload:key.keyboard.unknown
