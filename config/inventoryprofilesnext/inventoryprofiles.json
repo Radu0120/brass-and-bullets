@@ -1,6 +1,9 @@
 {
     "ModSettings": {
-        "first_run": false
+        "first_run": false,
+        "highlight_foused_items": {
+            "value": false
+        }
     },
     "GuiSettings": {
         "enable_inventory_settings_button": false,
