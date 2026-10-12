@@ -192,6 +192,8 @@
 	quest.19F420DA37861ED5.title: "The Savanna"
 	quest.1A21C71DB6A422CB.quest_desc: ["A block that wants to float. Look at its recipe in JEI."]
 	quest.1A21C71DB6A422CB.title: "Levitite"
+	quest.1A40E7B6D3752F76.quest_desc: ["Craft premium kibble (see the Dog Breeder Guide book or JEI) and feed it to a tame dog: it is Well Fed for a whole day, with more health, damage, speed and reach."]
+	quest.1A40E7B6D3752F76.title: "Premium Treatment"
 	quest.1ABF535DAFE37E1F.quest_desc: ["Beavers breed on saplings and will help strip logs and turn planks into sticks."]
 	quest.1ABF535DAFE37E1F.title: "Beaver"
 	quest.1AEC9011B9D0DD42.quest_desc: ["Plant glow berries on a cave ceiling, and red and brown mushrooms on dirt away from light."]
@@ -934,6 +936,11 @@
 	quest.77EA207A89197FC3.title: "Chameleon"
 	quest.782AA180F2EDF471.quest_desc: ["Copper and tuff chambers deep underground, full of vaults and spawners that keep coming."]
 	quest.782AA180F2EDF471.title: "Trial Chambers"
+	quest.7889DBB0CD112856.quest_desc: [
+		"Own a tame dog of every breed. Stray dogs wander near villages; crossing two tame dogs gives the rarer breeds (the Dog Breeder Guide book lists the crosses)."
+		"Each breed ticks off as soon as a dog of it is yours and near you, however it came to you: tamed, born or from a spawn egg."
+	]
+	quest.7889DBB0CD112856.title: "Every Dog Has Its Day"
 	quest.78BAD341600E615E.quest_desc: ["Terralith's mage towers are rare: they only stand in amethyst canyons, lavender valleys, moonlight valleys and mirage isles. Use the Explorer's Compass."]
 	quest.78BAD341600E615E.title: "Wizard's Tower"
 	quest.78D17032EDC21BE5.quest_desc: ["Nether wart is found in Nether fortresses and grows on soul sand. Chorus plants grow on end stone: take a flower home from the End."]

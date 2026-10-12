@@ -30,7 +30,7 @@ hash = "f5da0e4b0c4dafe57457ca77eb0acf622754190a51a94939192806a8124d387c"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/dogs.snbt"
-hash = "46ec0362e6bc5c01508accec62ad21006169f0059f7cc34163b1146e70bf30ef"
+hash = "d60da67444cee97418810c854eb20afdfb983fe23b95eead06da07d15cad41bf"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/exploration.snbt"
@@ -62,7 +62,7 @@ hash = "7d3cd3d4cc9045359490571dfada94da240ac01888aebf166e1187c61147bcf1"
 
 [[files]]
 file = "config/ftbquests/quests/lang/en_us.snbt"
-hash = "1fd405e9ca101f850acc170fc3053c0fd99125aa53135f666c02501c4df4a7a1"
+hash = "ea5eeb1a37829a08de436dc1ccbe6adcbf7b4dbcb6bde48a1d89512cef5da5c5"
 
 [[files]]
 file = "config/inventoryprofilesnext/inventoryprofiles.json"
@@ -488,7 +488,7 @@ metafile = true
 
 [[files]]
 file = "mods/woofbreeds-0.1.0.jar"
-hash = "ed57da96d05e783d264bbdd69d85319a3db870cb940899032d036a59e2d02b9b"
+hash = "bf153ae7f989a8247860aea6da390720f521ae7cc716c8dba44fe6a46c506319"
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"

@@ -28,7 +28,7 @@
 				type: "advancement"
 			}]
 			x: 0.0d
-			y: 11.899999999999999d
+			y: 11.2d
 		}
 		{
 			dependencies: ["5D9E95C1E072EB0B"]
@@ -46,8 +46,8 @@
 				item: { count: 1, id: "minecraft:lead" }
 				type: "item"
 			}]
-			x: 2.0999999999999996d
-			y: 3.5d
+			x: 3.5d
+			y: 2.8d
 		}
 		{
 			dependencies: ["63C338E7BA206B31"]
@@ -86,8 +86,8 @@
 				id: "65154270E221DC98"
 				type: "advancement"
 			}]
-			x: 3.5d
-			y: 0.0d
+			x: 9.1d
+			y: 3.5d
 		}
 		{
 			dependencies: ["63C338E7BA206B31"]
@@ -106,8 +106,8 @@
 				id: "7CEFA32D7C9A53AF"
 				type: "advancement"
 			}]
-			x: 6.3d
-			y: 4.199999999999999d
+			x: 4.8999999999999995d
+			y: 0.7d
 		}
 		{
 			dependencies: ["70E909C7ECB28579"]
@@ -126,8 +126,8 @@
 				id: "5E844BB3A4FDBD13"
 				type: "advancement"
 			}]
-			x: 7.699999999999999d
-			y: 4.199999999999999d
+			x: 6.3d
+			y: 0.0d
 		}
 		{
 			dependencies: ["63C338E7BA206B31"]
@@ -146,8 +146,8 @@
 				id: "3D56713DB507A370"
 				type: "advancement"
 			}]
-			x: 3.5d
-			y: 5.6d
+			x: 7.699999999999999d
+			y: 4.199999999999999d
 		}
 		{
 			dependencies: ["63C338E7BA206B31"]
@@ -166,8 +166,8 @@
 				id: "38287D5935F98424"
 				type: "advancement"
 			}]
-			x: 4.8999999999999995d
-			y: 2.8d
+			x: 6.3d
+			y: 1.4d
 		}
 		{
 			dependencies: ["63C338E7BA206B31"]
@@ -186,8 +186,8 @@
 				id: "6DFCF7901AC6BFEF"
 				type: "advancement"
 			}]
-			x: 4.8999999999999995d
-			y: 1.4d
+			x: 7.699999999999999d
+			y: 2.0999999999999996d
 		}
 		{
 			dependencies: ["63C338E7BA206B31"]
@@ -206,8 +206,8 @@
 				id: "26ED905252507783"
 				type: "advancement"
 			}]
-			x: 4.8999999999999995d
-			y: 0.0d
+			x: 7.699999999999999d
+			y: 5.6d
 		}
 		{
 			dependencies: ["2A0CA5E0992B1FCF"]
@@ -225,8 +225,8 @@
 				item: { count: 1, id: "minecraft:goat_horn" }
 				type: "item"
 			}]
-			x: 6.3d
-			y: 1.4d
+			x: 9.1d
+			y: 2.0999999999999996d
 		}
 		{
 			dependencies: ["655D65FE51A0BF70"]
@@ -244,8 +244,8 @@
 				item: { count: 1, id: "minecraft:honey_bottle" }
 				type: "item"
 			}]
-			x: 6.3d
-			y: 0.0d
+			x: 9.1d
+			y: 5.6d
 		}
 		{
 			dependencies: ["5D9E95C1E072EB0B"]
@@ -263,8 +263,8 @@
 				item: { count: 1, id: "minecraft:saddle" }
 				type: "item"
 			}]
-			x: 2.0999999999999996d
-			y: 9.1d
+			x: 2.8d
+			y: 9.799999999999999d
 		}
 		{
 			dependencies: ["2AADB5C53E2AB634"]
@@ -283,8 +283,8 @@
 				id: "1FE5D40C08327D83"
 				type: "advancement"
 			}]
-			x: 4.8999999999999995d
-			y: 8.399999999999999d
+			x: 5.6d
+			y: 9.1d
 		}
 		{
 			dependencies: ["73CCF02F6F496090"]
@@ -303,8 +303,8 @@
 				id: "289402A5D1345F18"
 				type: "advancement"
 			}]
-			x: 6.3d
-			y: 7.0d
+			x: 7.0d
+			y: 9.799999999999999d
 		}
 		{
 			dependencies: ["35FCB61414FC9D8D"]
@@ -323,8 +323,8 @@
 				id: "5B89FDF38237D9C6"
 				type: "advancement"
 			}]
-			x: 8.399999999999999d
-			y: 6.3d
+			x: 9.1d
+			y: 9.1d
 		}
 		{
 			dependencies: ["2AADB5C53E2AB634"]
@@ -343,8 +343,8 @@
 				id: "28AE55A7E1560A9D"
 				type: "advancement"
 			}]
-			x: 3.5d
-			y: 7.699999999999999d
+			x: 4.199999999999999d
+			y: 8.399999999999999d
 		}
 		{
 			dependencies: ["2AADB5C53E2AB634"]
@@ -363,8 +363,8 @@
 				id: "3A889EA8131DA93B"
 				type: "advancement"
 			}]
-			x: 3.5d
-			y: 9.799999999999999d
+			x: 4.199999999999999d
+			y: 10.5d
 		}
 		{
 			dependencies: ["5D9E95C1E072EB0B"]
@@ -382,8 +382,8 @@
 				item: { count: 1, id: "minecraft:sweet_berries" }
 				type: "item"
 			}]
-			x: 4.8999999999999995d
-			y: 10.5d
+			x: 4.199999999999999d
+			y: 11.899999999999999d
 		}
 		{
 			dependencies: ["500DB26DA471AC66"]
@@ -402,8 +402,8 @@
 				id: "017B918ADA612ADC"
 				type: "advancement"
 			}]
-			x: 6.3d
-			y: 8.399999999999999d
+			x: 5.6d
+			y: 10.5d
 		}
 		{
 			dependencies: ["500DB26DA471AC66"]
@@ -422,8 +422,8 @@
 				id: "1E6650F17251505A"
 				type: "advancement"
 			}]
-			x: 9.799999999999999d
-			y: 9.1d
+			x: 5.6d
+			y: 13.299999999999999d
 		}
 		{
 			dependencies: ["500DB26DA471AC66"]
@@ -443,7 +443,7 @@
 				type: "advancement"
 			}]
 			x: 9.1d
-			y: 10.5d
+			y: 13.299999999999999d
 		}
 		{
 			dependencies: ["500DB26DA471AC66"]
@@ -462,8 +462,8 @@
 				id: "5F07708A240C8D5B"
 				type: "advancement"
 			}]
-			x: 6.3d
-			y: 14.0d
+			x: 9.1d
+			y: 11.899999999999999d
 		}
 		{
 			dependencies: ["5D9E95C1E072EB0B"]
@@ -481,8 +481,8 @@
 				item: { count: 1, id: "minecraft:water_bucket" }
 				type: "item"
 			}]
-			x: 7.0d
-			y: 12.6d
+			x: 6.3d
+			y: 17.5d
 		}
 		{
 			dependencies: ["6E466293D8689A2C"]
@@ -501,8 +501,8 @@
 				id: "2F6222035E2DE8BE"
 				type: "advancement"
 			}]
-			x: 9.799999999999999d
-			y: 13.299999999999999d
+			x: 7.699999999999999d
+			y: 18.9d
 		}
 		{
 			dependencies: ["6E466293D8689A2C"]
@@ -521,8 +521,8 @@
 				id: "3FAFF6E8274B1332"
 				type: "advancement"
 			}]
-			x: 8.399999999999999d
-			y: 14.0d
+			x: 7.699999999999999d
+			y: 17.5d
 		}
 		{
 			dependencies: ["6E466293D8689A2C"]
@@ -541,8 +541,8 @@
 				id: "4119A092DDC390C8"
 				type: "advancement"
 			}]
-			x: 8.399999999999999d
-			y: 11.899999999999999d
+			x: 7.699999999999999d
+			y: 16.099999999999998d
 		}
 		{
 			dependencies: ["10CDEB0FC851DA4A"]
@@ -561,8 +561,8 @@
 				id: "75CE2B0A59F9FB60"
 				type: "advancement"
 			}]
-			x: 9.799999999999999d
-			y: 11.899999999999999d
+			x: 9.1d
+			y: 16.099999999999998d
 		}
 		{
 			dependencies: ["0F9A60F9EF2A2364"]
@@ -581,8 +581,8 @@
 				id: "6B84C9E9F30E0DB3"
 				type: "advancement"
 			}]
-			x: 11.2d
-			y: 13.299999999999999d
+			x: 9.1d
+			y: 18.9d
 		}
 		{
 			dependencies: ["5D9E95C1E072EB0B"]
@@ -600,7 +600,7 @@
 				item: { count: 1, id: "minecraft:armadillo_scute" }
 				type: "item"
 			}]
-			x: 2.0999999999999996d
+			x: 1.4d
 			y: 14.7d
 		}
 		{
@@ -620,8 +620,8 @@
 				id: "0D57E3DDEF815813"
 				type: "advancement"
 			}]
-			x: 4.8999999999999995d
-			y: 13.299999999999999d
+			x: 5.6d
+			y: 15.399999999999999d
 		}
 		{
 			dependencies: ["51F8D4507BE72082"]
@@ -640,8 +640,8 @@
 				id: "1D060D282FF50582"
 				type: "advancement"
 			}]
-			x: 4.8999999999999995d
-			y: 14.7d
+			x: 2.8d
+			y: 12.6d
 		}
 		{
 			dependencies: ["51F8D4507BE72082"]
@@ -660,8 +660,8 @@
 				id: "2BA9C7C8006A7899"
 				type: "advancement"
 			}]
-			x: 5.6d
-			y: 16.099999999999998d
+			x: 4.199999999999999d
+			y: 14.0d
 		}
 		{
 			dependencies: ["51F8D4507BE72082"]
@@ -680,8 +680,8 @@
 				id: "0D5AB69ABCD3E213"
 				type: "advancement"
 			}]
-			x: 4.199999999999999d
-			y: 16.799999999999997d
+			x: 3.5d
+			y: 16.099999999999998d
 		}
 		{
 			dependencies: [
@@ -708,7 +708,7 @@
 				type: "advancement"
 			}]
 			x: 8.399999999999999d
-			y: 8.399999999999999d
+			y: 10.5d
 		}
 		{
 			dependencies: ["5D9E95C1E072EB0B"]
@@ -728,7 +728,7 @@
 				type: "advancement"
 			}]
 			x: 1.4d
-			y: 20.299999999999997d
+			y: 21.7d
 		}
 		{
 			dependencies: ["6FB6BE55107A4B96"]
@@ -747,7 +747,7 @@
 				type: "item"
 			}]
 			x: 4.8999999999999995d
-			y: 21.7d
+			y: 25.2d
 		}
 		{
 			dependencies: [
@@ -768,8 +768,8 @@
 				item: { count: 1, id: "minecraft:wolf_armor" }
 				type: "item"
 			}]
-			x: 4.199999999999999d
-			y: 18.9d
+			x: 2.8d
+			y: 17.5d
 		}
 		{
 			dependencies: ["55E419DC7721284F"]
@@ -788,8 +788,8 @@
 				id: "4B00486902A753EC"
 				type: "advancement"
 			}]
-			x: 5.6d
-			y: 18.9d
+			x: 4.199999999999999d
+			y: 17.5d
 		}
 		{
 			dependencies: ["6FB6BE55107A4B96"]
@@ -808,8 +808,8 @@
 				id: "201FC47171634B35"
 				type: "advancement"
 			}]
-			x: 4.199999999999999d
-			y: 20.299999999999997d
+			x: 2.8d
+			y: 26.599999999999998d
 		}
 		{
 			dependencies: ["6FB6BE55107A4B96"]
@@ -828,8 +828,8 @@
 				id: "3CC41F4B44C9B7A1"
 				type: "advancement"
 			}]
-			x: 4.8999999999999995d
-			y: 23.099999999999998d
+			x: 5.6d
+			y: 22.4d
 		}
 		{
 			dependencies: ["6FB6BE55107A4B96"]
@@ -847,7 +847,7 @@
 				type: "checkmark"
 			}]
 			x: 3.5d
-			y: 23.099999999999998d
+			y: 25.2d
 		}
 		{
 			dependencies: ["6FB6BE55107A4B96"]
@@ -865,8 +865,8 @@
 				item: { count: 1, id: "farmersdelight:dog_food" }
 				type: "item"
 			}]
-			x: 2.8d
-			y: 24.5d
+			x: 4.8999999999999995d
+			y: 21.0d
 		}
 		{
 			dependencies: ["4C5CED5CFEB229CB"]
@@ -884,8 +884,8 @@
 				item: { count: 1, id: "critterarmory:vitality_feed" }
 				type: "item"
 			}]
-			x: 4.199999999999999d
-			y: 24.5d
+			x: 6.3d
+			y: 21.0d
 		}
 		{
 			dependencies: ["6FB6BE55107A4B96"]
@@ -903,8 +903,8 @@
 				item: { count: 1, id: "critterarmory:iron_cat_armor" }
 				type: "item"
 			}]
-			x: 2.8d
-			y: 18.2d
+			x: 3.5d
+			y: 20.299999999999997d
 		}
 		{
 			dependencies: ["768E45FF9F3042E4"]
@@ -922,8 +922,92 @@
 				item: { count: 1, id: "critterarmory:diamond_wolf_armor" }
 				type: "item"
 			}]
-			x: 5.6d
-			y: 17.5d
+			x: 4.8999999999999995d
+			y: 19.599999999999998d
+		}
+		{
+			dependencies: ["6FB6BE55107A4B96"]
+			icon: {
+				id: "woofbreeds:bloodhound_spawn_egg"
+			}
+			id: "7889DBB0CD112856"
+			rewards: [{
+				id: "0BA6DF156F96F323"
+				type: "xp_levels"
+				xp_levels: 16
+			}]
+			tasks: [
+				{
+					advancement: "woofbreeds:breeds"
+					criterion: "german_shepherd"
+					id: "60BC49F77F9B36AB"
+					type: "advancement"
+				}
+				{
+					advancement: "woofbreeds:breeds"
+					criterion: "malinois"
+					id: "0C0DC3DEA7315DE6"
+					type: "advancement"
+				}
+				{
+					advancement: "woofbreeds:breeds"
+					criterion: "akita"
+					id: "29982C13584E322C"
+					type: "advancement"
+				}
+				{
+					advancement: "woofbreeds:breeds"
+					criterion: "husky"
+					id: "600EF5564311D12D"
+					type: "advancement"
+				}
+				{
+					advancement: "woofbreeds:breeds"
+					criterion: "border_collie"
+					id: "40B0C1683B7564C8"
+					type: "advancement"
+				}
+				{
+					advancement: "woofbreeds:breeds"
+					criterion: "bloodhound"
+					id: "0132960C18C504B9"
+					type: "advancement"
+				}
+				{
+					advancement: "woofbreeds:breeds"
+					criterion: "anatolian_shepherd"
+					id: "407FD5A6809E5ECA"
+					type: "advancement"
+				}
+				{
+					advancement: "woofbreeds:breeds"
+					criterion: "labrador"
+					id: "5412C4565D2CB603"
+					type: "advancement"
+				}
+			]
+			x: 3.5d
+			y: 18.9d
+		}
+		{
+			dependencies: ["6FB6BE55107A4B96"]
+			icon: {
+				id: "woofbreeds:premium_kibble"
+			}
+			id: "1A40E7B6D3752F76"
+			rewards: [{
+				id: "113EB7FCC644F75D"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				advancement: "woofbreeds:fed_kibble"
+				criterion: ""
+				id: "258B10217F3ABA41"
+				type: "advancement"
+			}]
+			x: 4.199999999999999d
+			y: 23.099999999999998d
 		}
 	]
 }
