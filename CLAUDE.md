@@ -14,7 +14,7 @@ pack history live in the dotfiles repo: `E:\Documents\debian_server_dotfiles\doc
 - `config/`: pack config defaults (Distant Horizons tuning, JEI, Xaero, FTB Quests, Open Loader packs
   `bb-tweaks` data pack and `bb-renames` client lang pack).
 - `config/ftbquests/quests/`: the quest book. **Generated** (see below), do not hand-edit.
-- `shaderpacks/`, `resourcepacks/`, `options.txt`: client defaults. `options.txt` is `preserve = true` in `index.toml` (installed only if absent, so players' own settings survive updates; check it stays after `packwiz refresh`). It holds the conflict-free default keybinds and enables the Mizuno cow/pig packs; edits reach new installs only.
+- `shaderpacks/`, `resourcepacks/`, `options.txt`: client defaults. `options.txt` is `preserve = true` in `index.toml` (installed only if absent, so players' own settings survive updates; check it stays after `packwiz refresh`). It holds the conflict-free default keybinds and enables the Mizuno cow/pig packs; edits reach new installs only. `config/xaero/minimap/default_radar_categories_client.json` is preserved the same way: root `icons` is 2 (Always) so Xaero's radar draws mob/player heads instead of dots (Xaero's default 1 = only while TAB is held).
 - `icon.png`: Prism instance icon (generated locally with Quartermaster/Krea 2 Turbo, keyed out of a magenta background, transparent 512 px). `export.py` puts it at the zip root; Prism uses it on a fresh import. It is in `.packwizignore`.
 - `export.py`: builds the client zip. `dist/` and `*.zip` are gitignored.
 - `.gitattributes` forces LF on `*.toml`, `options.txt` and `config/**`: packwiz hashes exact bytes, so CRLF
