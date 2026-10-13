@@ -542,6 +542,10 @@ hash = "61387d427f7c5bfd71df275f731384b70ae12f6b1e520ee9e232ae8c175d42bd"
 metafile = true
 
 [[files]]
+file = "mods/wholetree-0.1.0.jar"
+hash = "8d0c313986c1290a25c13ac38b920631a9ebb3759ded7d5adef4196188bd4299"
+
+[[files]]
 file = "mods/woofbreeds-0.1.0.jar"
 hash = "90a32717689177e0bf3f08be9d4526b7d8bd3191c859f02cd2253c82c46bae68"
 
