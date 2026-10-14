@@ -1,8 +1,11 @@
 # Brass & Bullets: modpack repo
 
-Lean Minecraft 1.21.1 / NeoForge 21.1.256 packwiz modpack for a private friends server. Distributed as a plain
-zip the owner uploads by hand: **no GitHub repo, no CurseForge project. Never push or create remotes.** Commit
-locally only when asked; commit directly on `main`, no branches. Commit trailer:
+Lean Minecraft 1.21.1 / NeoForge 21.1.256 packwiz modpack for a private friends server. Hosted in the public
+GitHub repo `Radu0120/brass-and-bullets` (since 2026-10-14; the CurseForge zip is only for a brand-new player's first
+install). The two Prism instances update themselves from it at launch (see "Hosting and instance updates"). Commit
+directly on the current branch (`master`), no branches, never force-push. **Push only when the user asks** (a push is a
+release: players get it at their next launch). Commit author is `Radu0120` with the GitHub noreply address (set in
+this repo's git config; history was rewritten once to remove a personal email). Commit trailer:
 `Co-Authored-By: Claude Sonnet 5.5 <noreply@anthropic.com>`.
 
 Server ops (Crafty on `DebianServer`, id `eb5ed4d2-3f4a-4eb0-9ddb-adaa800e74c5`), the update procedure, and the
