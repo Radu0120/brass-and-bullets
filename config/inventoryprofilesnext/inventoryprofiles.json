@@ -7,7 +7,8 @@
     },
     "GuiSettings": {
         "enable_inventory_settings_button": false,
-        "enable_inventory_editor_button": false
+        "enable_inventory_editor_button": false,
+        "continuous_crafting_checkbox_value": "UNCHECKED"
     },
     "AutoRefillSettings": {
         "auto_refill_enable_indicator_icons": false,

@@ -70,7 +70,7 @@ hash = "ea5eeb1a37829a08de436dc1ccbe6adcbf7b4dbcb6bde48a1d89512cef5da5c5"
 
 [[files]]
 file = "config/inventoryprofilesnext/inventoryprofiles.json"
-hash = "6402eafa2e61bf97319e42e29e68295900c78e5aa31240666bc779aa4bd4f99e"
+hash = "de154ccc86a488a25e6a9152b6c897d56bee47c9dc8975f0c585581a20f99efb"
 
 [[files]]
 file = "config/openloader/packs/bb-renames/assets/create/lang/en_us.json"
