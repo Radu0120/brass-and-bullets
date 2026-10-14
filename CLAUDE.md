@@ -51,6 +51,14 @@ these settings in `instance.cfg` (`OverrideCommands=true`, `ManagedPack=false`):
 
     PreLaunchCommand="\"$INST_JAVA\" -jar packwiz-installer-bootstrap.jar -g -s client <pack url>"
 
+**What new players get:** the GitHub release `instance-v1`
+(https://github.com/Radu0120/brass-and-bullets/releases/latest), a 326 KB Prism instance zip built by
+`python -I -X utf8 export_instance.py` (instance.cfg with the pre-launch command, mmc-pack.json from pack.toml,
+icon, bootstrap jar; no mods). Rebuild and attach a new release only when the loader version, RAM or pack URL
+changes (`gh release create instance-vN dist/Brass-and-Bullets-instance.zip`); ordinary pack updates need no new
+zip. The CurseForge zip from `export.py` is obsolete for players. NOT yet tested: importing the instance zip into a
+clean Prism (the first-run Quick Setup window blocked a scripted test), so the icon key and a first launch are unverified.
+
 **Quoting gotcha:** `instance.cfg` is a QSettings file, so a value starting with `"` must be written as one quoted
 string with `\"` inside (exactly as above). Written bare as `"$INST_JAVA" -jar ...` Prism strips the quotes and the
 space and runs `javaw.exe-jar`: "Process failed to start", and the launch is aborted. Edit `instance.cfg` only while
