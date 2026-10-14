@@ -6,7 +6,7 @@ install). The two Prism instances update themselves from it at launch (see "Host
 directly on the current branch (`master`), no branches, never force-push. **A request to update the pack, the instances
 or the server includes pushing** (`git push origin master --tags`): the push IS what updates the instances (they pull it
 at launch), so never copy jars into the instances by hand any more. Do not push otherwise, and never before the change
-is tested. Instance status: Radu's is set up (launch not yet confirmed working); Isa's is NOT yet (do it when her Prism is
+is tested. Instance status: Radu's is set up and confirmed working (launched from Prism 2026-10-14); Isa's is NOT yet (do it when her Prism is
 closed), until then copy jars into hers by hand as before. Commit author is `Radu0120` with the GitHub noreply address (set in
 this repo's git config; history was rewritten once to remove a personal email). Commit trailer:
 `Co-Authored-By: Claude Sonnet 5.5 <noreply@anthropic.com>`.
