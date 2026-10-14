@@ -37,7 +37,26 @@ pack history live in the dotfiles repo: `E:\Documents\debian_server_dotfiles\doc
 3. `python -I -X utf8 export.py` writes `dist/Brass-and-Bullets.zip`. Always use this, not
    `packwiz curseforge export` directly: the script adds `minecraft.recommendedRam = 6144` to the manifest.
    The zip name has no version on purpose (Prism names an imported instance after the zip).
-4. Commit, tag `vX.Y.Z`. The owner uploads the zip.
+4. Commit, tag `vX.Y.Z`. `git push origin master --tags` is the release (only when asked); the owner no longer needs to
+   upload the zip for existing players.
+
+## Hosting and instance updates
+
+Pack URL: `https://raw.githubusercontent.com/Radu0120/brass-and-bullets/master/pack.toml` (raw files are cached
+about 5 minutes after a push). Each Prism instance has `packwiz-installer-bootstrap.jar` in its `minecraft/` folder and
+these settings in `instance.cfg` (`OverrideCommands=true`, `ManagedPack=false`):
+
+    PreLaunchCommand="$INST_JAVA" -jar packwiz-installer-bootstrap.jar -g -s client <pack url>
+
+So every launch compares versions and installs only what changed; removed mods are deleted; `preserve = true` files
+are only written when absent. Other pack files (e.g. `config/DistantHorizons.toml`, `ftblibrary-client.snbt`,
+`inventoryprofiles.json`, `xaerohud.txt`) are overwritten when the pack's copy changes, local edits to them are lost
+then. Tested 2026-10-14: a fresh install is 78 mods with 0 manual prompts; on an existing instance every mod
+validated and nothing was downloaded. NOT tested: launching with no internet (does the pre-launch step abort?).
+The server is not auto-updated (needs the "nobody online, restart" routine from NOTES.md); push and server deploy
+together so clients and server never differ. The jars for Woof Breeds and Whole Tree are committed in `mods/`, so a
+mod release is: copy the jar, `packwiz refresh`, bump, commit, tag, push. The repo is public: no secrets, no
+personal emails (commits are authored as `Radu0120` with the noreply address).
 
 Rules learned the hard way:
 - Client-only mods must be `side = "client"` (Sodium, Iris, Xaero, IPN, Mouse Tweaks, ...) or the dedicated
