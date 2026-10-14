@@ -3,7 +3,7 @@ narrator:0
 onboardAccessibility:false
 tutorialStep:none
 resourcePacks:["vanilla","mod_resources","file/Mizuno's Cow Variant.zip","file/Mizuno's Pig Variant 2.1.zip"]
-key_key.scguns.enable_exo_helmet:key.keyboard.z
+key_key.scguns.enable_exo_helmet:key.keyboard.n
 key_key.scguns.enable_exo_chestplate:key.keyboard.x
 key_key.scguns.enable_exo_boots:key.keyboard.v
 key_key.scguns.unload:key.keyboard.y
