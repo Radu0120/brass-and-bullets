@@ -50,7 +50,7 @@ hash = "5e20d735c520e3ed8cdcb7dccb65244b4212c2e4f702d36ed2533c9ccd8ea44d"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/guns.snbt"
-hash = "62042f02b69436e44859e0812a80f20d116fc6619923c62ba5954c1ab5420454"
+hash = "0bcced7443267a9fc0c9b57231cde472ee53069554baa9accc97780ade585909"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/storage.snbt"
