@@ -6,8 +6,8 @@ install). The two Prism instances update themselves from it at launch (see "Host
 directly on the current branch (`master`), no branches, never force-push. **A request to update the pack, the instances
 or the server includes pushing** (`git push origin master --tags`): the push IS what updates the instances (they pull it
 at launch), so never copy jars into the instances by hand any more. Do not push otherwise, and never before the change
-is tested. Both instances (Radu's and Isa's) are set up for auto-update (2026-10-14; Radu's launched fine from Prism, Isa's installer
-run matched Radu's: mods identical, four configs reset); Isa's has not launched from Prism yet. Commit author is `Radu0120` with the GitHub noreply address (set in
+is tested. Both instances (Radu's and Isa's) are set up for auto-update and both launched fine from Prism (2026-10-14).
+Commit author is `Radu0120` with the GitHub noreply address (set in
 this repo's git config; history was rewritten once to remove a personal email). Commit trailer:
 `Co-Authored-By: Claude Sonnet 5.5 <noreply@anthropic.com>`.
 
@@ -47,28 +47,38 @@ pack history live in the dotfiles repo: `E:\Documents\debian_server_dotfiles\doc
 
 Pack URL: `https://raw.githubusercontent.com/Radu0120/brass-and-bullets/master/pack.toml` (raw files are cached
 about 5 minutes after a push). Each Prism instance has `packwiz-installer-bootstrap.jar` in its `minecraft/` folder and
-these settings in `instance.cfg` (`OverrideCommands=true`, `ManagedPack=false`):
+`update.cmd` (repo root, shipped in the instance zip, in `.packwizignore`) and these settings in `instance.cfg`
+(`OverrideCommands=true`, `ManagedPack=false`):
 
-    PreLaunchCommand="\"$INST_JAVA\" -jar packwiz-installer-bootstrap.jar -g -s client <pack url>"
+    PreLaunchCommand=cmd /c .\\update.cmd
 
-**What new players get:** the GitHub release `instance-v1`
-(https://github.com/Radu0120/brass-and-bullets/releases/latest), a 326 KB Prism instance zip built by
+`update.cmd` runs `"%INST_JAVA%" -jar packwiz-installer-bootstrap.jar -g -s client <pack url>` and always exits 0, so a
+failed update (GitHub down or rate-limited, no internet) never blocks the game. Why: on 2026-10-14 raw.githubusercontent
+answered HTTP 429 once (a burst of test runs from this PC, a shared IP, or both; the limit is undocumented) and Prism
+aborted the launch because the old direct command exited non-zero. Trade-off: a failed update is silent, so a client can
+fall behind the server and show a version mismatch. If 429s keep coming, move the pack to GitHub Pages (new URL, new
+instance zip, edit both instances). A fresh install makes about 134 raw requests; an up-to-date launch makes 2.
+
+**What new players get:** the GitHub release `instance-v2`
+(https://github.com/Radu0120/brass-and-bullets/releases/latest), a small Prism instance zip built by
 `python -I -X utf8 export_instance.py` (instance.cfg with the pre-launch command, mmc-pack.json from pack.toml,
-icon, bootstrap jar; no mods). Rebuild and attach a new release only when the loader version, RAM or pack URL
+icon, bootstrap jar, update.cmd; no mods). v1 had the fatal-on-failure command. Rebuild and attach a new release only when the loader version, RAM or pack URL
 changes (`gh release create instance-vN dist/Brass-and-Bullets-instance.zip`); ordinary pack updates need no new
 zip. The CurseForge zip from `export.py` is obsolete for players. NOT yet tested: importing the instance zip into a
 clean Prism (the first-run Quick Setup window blocked a scripted test), so the icon key and a first launch are unverified.
 
-**Quoting gotcha:** `instance.cfg` is a QSettings file, so a value starting with `"` must be written as one quoted
-string with `\"` inside (exactly as above). Written bare as `"$INST_JAVA" -jar ...` Prism strips the quotes and the
-space and runs `javaw.exe-jar`: "Process failed to start", and the launch is aborted. Edit `instance.cfg` only while
-that Prism is closed (it rewrites the file from memory), or set it in Edit Instance > Settings > Custom commands.
+**Quoting gotchas:** `instance.cfg` is a QSettings file, so a backslash in a value is an escape: write `.\\update.cmd`
+(doubled, as in the line above). The `.\` prefix is needed because some PCs set `NoDefaultCurrentDirectoryInExePath=1`, where plain
+`cmd /c update.cmd` fails ("not recognized"). With the old direct command, a value starting with `"` must be one quoted
+string with `\"` inside, or Prism runs `javaw.exe-jar` and aborts. Edit `instance.cfg` only while that Prism is closed
+(it rewrites the file from memory), or set it in Edit Instance > Settings > Custom commands. Prism does pass `INST_JAVA`
+to the script (verified 2026-10-14).
 
 So every launch compares versions and installs only what changed; removed mods are deleted; `preserve = true` files
 are only written when absent. Other pack files (e.g. `config/DistantHorizons.toml`, `ftblibrary-client.snbt`,
 `inventoryprofiles.json`, `xaerohud.txt`) are overwritten when the pack's copy changes, local edits to them are lost
 then. Tested 2026-10-14: a fresh install is 78 mods with 0 manual prompts; on an existing instance every mod
-validated and nothing was downloaded. NOT tested: launching with no internet (does the pre-launch step abort?).
+validated and nothing was downloaded. NOT tested in Prism: launching with no internet (update.cmd is tested to exit 0 on an unreachable host).
 The server is not auto-updated (needs the "nobody online, restart" routine from NOTES.md); push and server deploy
 together so clients and server never differ. The jars for Woof Breeds and Whole Tree are committed in `mods/`, so a
 mod release is: copy the jar, `packwiz refresh`, bump, commit, tag, push. The repo is public: no secrets, no
@@ -118,8 +128,9 @@ only copy).
 - `& ` in text is auto-escaped (FTB Quests rejects a bare `&` followed by a space).
 - Kill tasks must always emit `value` (a missing value is 0 = instantly complete).
 - Content decisions: Create Crafts & Additions was removed (0.1.14). Scorched Guns follows the real recipes
-  (macerator -> treated iron -> bench -> blueprint -> gun; anthralite is a plain ore; bullets gate the
-  flintlock). Exploration is the Explorer's Compass -> biome quests -> the structures that generate in that
+  (bench -> blueprint -> gun; anthralite is a plain ore; bullets gate the flintlock). Treated iron is NOT a
+  prerequisite (0.1.67): the bench, press, firing unit and powered press take plain iron ingots too (checked in the
+  1.5 jar's recipes); it hangs off the Macerator and only the Auto Turret quest depends on it. Exploration is the Explorer's Compass -> biome quests -> the structures that generate in that
   biome; Nether, Fortress, Stronghold and End are the gates. Structure/biome ties were verified against the jar data in 0.1.15 (the dungeons, outposts and
   trail ruins generate in many biomes, so the tied biome is a good start, not the only place). Yung's config
   disables vanilla mineshafts, so that task uses the structure tag `#bettermineshafts:better_mineshafts`. Farming groups the plantable crops into five
