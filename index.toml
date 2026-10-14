@@ -5,6 +5,10 @@ file = "config/DistantHorizons.toml"
 hash = "d8f7ddb9429427a81e26479e2339993159744d661be16cc44ebd3ade19d317f9"
 
 [[files]]
+file = "config/easymagic-server.toml"
+hash = "0ad67337814ec299428ed5f95f32f9ef10dbc1f283ded119fc44a68370fc90f4"
+
+[[files]]
 file = "config/ftblibrary-client.snbt"
 hash = "b342ef1899ab7ada3da0ca40f8a6dd5d2a5dc0b2be15b25d24929942bb727e00"
 
@@ -292,6 +296,11 @@ hash = "042ff6bd1253a58e93d7ee172a2d565b0c8dedb1b88d0cb5ff7d2c9e73a04141"
 metafile = true
 
 [[files]]
+file = "mods/easy-magic.pw.toml"
+hash = "1aa75105514780685caab9b945db2a2ea7c0594ced8c01e12f2a3e331f1af4e6"
+metafile = true
+
+[[files]]
 file = "mods/entity-model-features.pw.toml"
 hash = "b363434af9ce56fc7243c0db537bec2f99ecbfc618e226dbeda8835f435b887c"
 metafile = true
@@ -534,6 +543,11 @@ metafile = true
 [[files]]
 file = "mods/txnilib.pw.toml"
 hash = "1394df1d39e588ffa86fce081fdb97f5ef9d4539cec2ef7ca1f1c75d30796aa0"
+metafile = true
+
+[[files]]
+file = "mods/visual-workbench.pw.toml"
+hash = "2684f71394862cff4c20d0f4d8491c0f86f12e66879381295e9088e0eded025d"
 metafile = true
 
 [[files]]
