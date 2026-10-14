@@ -59,6 +59,13 @@ aborted the launch because the old direct command exited non-zero. Trade-off: a 
 fall behind the server and show a version mismatch. If 429s keep coming, move the pack to GitHub Pages (new URL, new
 instance zip, edit both instances). A fresh install makes about 134 raw requests; an up-to-date launch makes 2.
 
+First-install retries: a fresh install fetches ~134 files in parallel and a few of them time out
+(`raw.githubusercontent.com`, the Modrinth CDN; the installer retries each file only twice, then fails the whole run).
+Friends who imported the zip had to restart Minecraft once before the server let them in, because the first launch
+started with some mods missing. Reproduced on 2026-10-14 in a clean folder: 3 runs to finish. So `update.cmd` now reruns
+the installer up to 5 times (pause between attempts), then still exits 0. `update.cmd` is in `.packwizignore`, so it
+does not update itself: an instance only gets a changed copy from a new zip or by copying the file in by hand.
+
 JVM collector: Distant Horizons prints a chat warning on every start when the JVM runs the default G1 collector. Both
 instances (and the zip from `export_instance.py`) set `OverrideJavaArgs=true` and `JvmArgs=-XX:+UseZGC -XX:+ZGenerational`
 in `instance.cfg` (Java 21 only; `ZGenerational` is rejected or redundant on other versions). The released
