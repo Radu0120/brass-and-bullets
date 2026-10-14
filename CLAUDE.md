@@ -3,8 +3,11 @@
 Lean Minecraft 1.21.1 / NeoForge 21.1.256 packwiz modpack for a private friends server. Hosted in the public
 GitHub repo `Radu0120/brass-and-bullets` (since 2026-10-14; the CurseForge zip is only for a brand-new player's first
 install). The two Prism instances update themselves from it at launch (see "Hosting and instance updates"). Commit
-directly on the current branch (`master`), no branches, never force-push. **Push only when the user asks** (a push is a
-release: players get it at their next launch). Commit author is `Radu0120` with the GitHub noreply address (set in
+directly on the current branch (`master`), no branches, never force-push. **A request to update the pack, the instances
+or the server includes pushing** (`git push origin master --tags`): the push IS what updates the instances (they pull it
+at launch), so never copy jars into the instances by hand any more. Do not push otherwise, and never before the change
+is tested. Instance status: Radu's is set up (launch not yet confirmed working); Isa's is NOT yet (do it when her Prism is
+closed), until then copy jars into hers by hand as before. Commit author is `Radu0120` with the GitHub noreply address (set in
 this repo's git config; history was rewritten once to remove a personal email). Commit trailer:
 `Co-Authored-By: Claude Sonnet 5.5 <noreply@anthropic.com>`.
 
@@ -46,7 +49,12 @@ Pack URL: `https://raw.githubusercontent.com/Radu0120/brass-and-bullets/master/p
 about 5 minutes after a push). Each Prism instance has `packwiz-installer-bootstrap.jar` in its `minecraft/` folder and
 these settings in `instance.cfg` (`OverrideCommands=true`, `ManagedPack=false`):
 
-    PreLaunchCommand="$INST_JAVA" -jar packwiz-installer-bootstrap.jar -g -s client <pack url>
+    PreLaunchCommand="\"$INST_JAVA\" -jar packwiz-installer-bootstrap.jar -g -s client <pack url>"
+
+**Quoting gotcha:** `instance.cfg` is a QSettings file, so a value starting with `"` must be written as one quoted
+string with `\"` inside (exactly as above). Written bare as `"$INST_JAVA" -jar ...` Prism strips the quotes and the
+space and runs `javaw.exe-jar`: "Process failed to start", and the launch is aborted. Edit `instance.cfg` only while
+that Prism is closed (it rewrites the file from memory), or set it in Edit Instance > Settings > Custom commands.
 
 So every launch compares versions and installs only what changed; removed mods are deleted; `preserve = true` files
 are only written when absent. Other pack files (e.g. `config/DistantHorizons.toml`, `ftblibrary-client.snbt`,
