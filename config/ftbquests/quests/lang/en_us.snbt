@@ -62,7 +62,7 @@
 	quest.023430ADEBFD4849.title: "Encased Fan"
 	quest.02617BAF5153DEEB.quest_desc: [
 		"Iron toughened with saltpeter, charcoal and redstone. Macerate the blend, then smelt it."
-		"You need it for the Gun Bench, the Stamping Press and every firing unit. Look up the recipe in JEI."
+		"Optional for now: the Gun Bench, Stamping Press and Firing Unit also take plain iron ingots. You need treated iron for the Auto Turret, turret parts and some armour. Look up the recipe in JEI."
 	]
 	quest.02617BAF5153DEEB.title: "Treated Iron"
 	quest.0350361E24E46316.title: "End Ship"
@@ -174,7 +174,7 @@
 	quest.166383C02B2E6B8E.title: "Acquire Hardware"
 	quest.16E38AE72F23A5B2.quest_desc: [
 		"Opens the modern guns. Gunsmith villagers sell it, and dungeon chests may hold one."
-		"You need treated iron and a firing unit before the recipes work."
+		"You need a firing unit and gun parts before the recipes work."
 	]
 	quest.16E38AE72F23A5B2.title: "Iron Blueprint"
 	quest.17128DE4517B2B44.quest_desc: ["&bJade&r shows what you are pointing at: block names, which tool is needed, crop growth, machine contents and the mod it came from."]
@@ -320,7 +320,7 @@
 	quest.2B4F46BCC0C58493.title: "Hay Day"
 	quest.2B50A23788399F26.quest_desc: ["Craft it, or upgrade a chest in place with a Tier Upgrade."]
 	quest.2B50A23788399F26.title: "Gold Chest"
-	quest.2B791E17A15C8F48.quest_desc: ["The trigger mechanism: anthralite, iron and treated iron. Without one, nothing past the musket works."]
+	quest.2B791E17A15C8F48.quest_desc: ["The trigger mechanism: anthralite, iron nuggets and an iron ingot (or treated iron). Without one, nothing past the musket works."]
 	quest.2B791E17A15C8F48.title: "Firing Unit"
 	quest.2B7FA0364450CB22.title: "The End"
 	quest.2BAA79F00DD37986.quest_desc: ["A rock-shelled creature. It curls up when attacked."]
@@ -504,7 +504,7 @@
 	quest.4228F233E9897D07.quest_desc: ["You are not a pilot without goggles."]
 	quest.4228F233E9897D07.title: "Aviator"
 	quest.42C35CD12E723741.quest_desc: [
-		"Craft the &6Gun Bench&r (iron, treated iron, flint and planks): every gun, attachment and upgrade in this chapter is made on it."
+		"Craft the &6Gun Bench&r (an iron ingot or treated iron, flint and planks): every gun, attachment and upgrade in this chapter is made on it."
 		"Guns need &6blueprints&r. You unlock recipes at the bench by holding the right blueprint."
 		"{image:item:scguns:gun_bench width:32 height:32 align:left click_action:show_recipe:scguns:gun_bench text:Gun%20Bench}"
 	]
@@ -762,7 +762,7 @@
 	quest.6106BD528C6E6AD5.quest_desc: ["Tame a mossbloom with a spore blossom. You can ride it, and it keeps farmland from being trampled and nudges crops to grow."]
 	quest.6106BD528C6E6AD5.title: "Mossbloom"
 	quest.61D670D021BECD06.quest_desc: [
-		"Cobblestone, a smooth stone slab and a furnace. The &6Macerator&r grinds and blends materials, and the first thing it blends is treated iron."
+		"Cobblestone, a smooth stone slab and a furnace. The &6Macerator&r grinds and blends materials, such as treated iron."
 		"{image:item:scguns:macerator width:32 height:32 align:left click_action:show_recipe:scguns:macerator text:Macerator}"
 	]
 	quest.61D670D021BECD06.title: "Macerator"

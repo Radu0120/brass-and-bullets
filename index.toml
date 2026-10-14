@@ -50,7 +50,7 @@ hash = "5e20d735c520e3ed8cdcb7dccb65244b4212c2e4f702d36ed2533c9ccd8ea44d"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/guns.snbt"
-hash = "75ec8767324d82f021e750b0197d48ef669f381c36e5e3f47186e2781e010196"
+hash = "62042f02b69436e44859e0812a80f20d116fc6619923c62ba5954c1ab5420454"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/storage.snbt"
@@ -66,7 +66,7 @@ hash = "7d3cd3d4cc9045359490571dfada94da240ac01888aebf166e1187c61147bcf1"
 
 [[files]]
 file = "config/ftbquests/quests/lang/en_us.snbt"
-hash = "ea5eeb1a37829a08de436dc1ccbe6adcbf7b4dbcb6bde48a1d89512cef5da5c5"
+hash = "5622d0f55147c08c4c9bf5aa6b6435b210e2157961473628e9fd63ec94f4ef8c"
 
 [[files]]
 file = "config/inventoryprofilesnext/inventoryprofiles.json"

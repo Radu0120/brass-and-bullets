@@ -50,7 +50,6 @@
 			y: 0.0d
 		}
 		{
-			dependencies: ["02617BAF5153DEEB"]
 			icon: {
 				id: "scguns:gun_bench"
 			}
@@ -65,8 +64,8 @@
 				item: { count: 1, id: "scguns:gun_bench" }
 				type: "item"
 			}]
-			x: 2.8d
-			y: 0.0d
+			x: 0.7d
+			y: 1.4d
 		}
 		{
 			dependencies: ["42C35CD12E723741"]
@@ -84,8 +83,8 @@
 				item: { count: 1, id: "scguns:antique_blueprint" }
 				type: "item"
 			}]
-			x: 4.199999999999999d
-			y: 0.0d
+			x: 3.5d
+			y: 1.4d
 		}
 		{
 			dependencies: ["2AE0C676C2D0CD59"]
@@ -103,8 +102,8 @@
 				item: { count: 1, id: "scguns:stone_gun_barrel" }
 				type: "item"
 			}]
-			x: 5.6d
-			y: 0.0d
+			x: 4.8999999999999995d
+			y: 1.4d
 		}
 		{
 			dependencies: [
@@ -126,7 +125,7 @@
 				type: "item"
 			}]
 			x: 7.0d
-			y: 0.0d
+			y: 1.4d
 		}
 		{
 			dependencies: ["59C75941A1FEB9B9"]
@@ -145,7 +144,7 @@
 				type: "item"
 			}]
 			x: 8.399999999999999d
-			y: 0.0d
+			y: 1.4d
 		}
 		{
 			dependencies: [
@@ -166,8 +165,8 @@
 				item: { count: 1, id: "scguns:flare_pistol" }
 				type: "item"
 			}]
-			x: 15.399999999999999d
-			y: 7.699999999999999d
+			x: 16.099999999999998d
+			y: 12.6d
 		}
 		{
 			dependencies: ["1FA862E431033027"]
@@ -185,8 +184,8 @@
 				item: { count: 1, id: "scguns:medium_scope" }
 				type: "item"
 			}]
-			x: 1.4d
-			y: 10.5d
+			x: 2.0999999999999996d
+			y: 12.6d
 		}
 		{
 			dependencies: ["74BBFEE16DAA870B"]
@@ -204,7 +203,7 @@
 				item: { count: 1, id: "scguns:repair_kit" }
 				type: "item"
 			}]
-			x: 7.699999999999999d
+			x: 4.8999999999999995d
 			y: 2.8d
 		}
 		{
@@ -225,7 +224,7 @@
 				value: 3L
 			}]
 			x: 9.799999999999999d
-			y: 0.0d
+			y: 1.4d
 		}
 		{
 			dependencies: ["6D97678C4739C605"]
@@ -245,7 +244,7 @@
 				value: 3L
 			}]
 			x: 11.2d
-			y: 0.0d
+			y: 1.4d
 		}
 		{
 			dependencies: ["42C35CD12E723741"]
@@ -264,11 +263,11 @@
 				item: { count: 1, id: "scguns:gunpowder_dust" }
 				type: "item"
 			}]
-			x: 4.199999999999999d
-			y: 1.4d
+			x: 2.0999999999999996d
+			y: 5.6d
 		}
 		{
-			dependencies: ["02617BAF5153DEEB"]
+			dependencies: ["42C35CD12E723741"]
 			icon: {
 				id: "scguns:mechanical_press"
 			}
@@ -283,7 +282,7 @@
 				item: { count: 1, id: "scguns:mechanical_press" }
 				type: "item"
 			}]
-			x: 3.5d
+			x: 2.0999999999999996d
 			y: 2.8d
 		}
 		{
@@ -307,7 +306,7 @@
 				type: "item"
 			}]
 			x: 5.6d
-			y: 4.8999999999999995d
+			y: 4.199999999999999d
 		}
 		{
 			dependencies: ["69FE04339D02CA06"]
@@ -325,7 +324,7 @@
 				item: { count: 1, id: "scguns:pistol_ammo_box" }
 				type: "item"
 			}]
-			x: 7.699999999999999d
+			x: 7.0d
 			y: 4.199999999999999d
 		}
 		{
@@ -344,8 +343,8 @@
 				item: { count: 1, id: "scguns:blank_mold" }
 				type: "item"
 			}]
-			x: 1.4d
-			y: 6.3d
+			x: 2.0999999999999996d
+			y: 7.699999999999999d
 		}
 		{
 			dependencies: ["04B9BCEE45DB1B46"]
@@ -364,7 +363,7 @@
 				type: "item"
 			}]
 			x: 3.5d
-			y: 5.6d
+			y: 7.0d
 		}
 		{
 			dependencies: [
@@ -386,8 +385,8 @@
 				item: { count: 1, id: "scguns:gun_parts" }
 				type: "item"
 			}]
-			x: 4.8999999999999995d
-			y: 2.8d
+			x: 3.5d
+			y: 4.8999999999999995d
 		}
 		{
 			dependencies: ["1FA862E431033027"]
@@ -405,14 +404,11 @@
 				item: { count: 1, id: "scguns:gun_barrel" }
 				type: "item"
 			}]
-			x: 4.8999999999999995d
-			y: 9.1d
+			x: 7.0d
+			y: 13.299999999999999d
 		}
 		{
-			dependencies: [
-				"1FA862E431033027"
-				"02617BAF5153DEEB"
-			]
+			dependencies: ["1FA862E431033027"]
 			icon: {
 				id: "scguns:firing_unit"
 			}
@@ -428,7 +424,7 @@
 				type: "item"
 			}]
 			x: 2.8d
-			y: 7.699999999999999d
+			y: 9.799999999999999d
 		}
 		{
 			icon: {
@@ -446,8 +442,8 @@
 				item: { count: 1, id: "scguns:anthralite_ingot" }
 				type: "item"
 			}]
-			x: 0.0d
-			y: 8.399999999999999d
+			x: 0.7d
+			y: 11.2d
 		}
 		{
 			dependencies: ["1FA862E431033027"]
@@ -465,8 +461,8 @@
 				item: { count: 1, id: "scguns:lightning_battery" }
 				type: "item"
 			}]
-			x: 2.8d
-			y: 9.799999999999999d
+			x: 3.5d
+			y: 11.2d
 		}
 		{
 			dependencies: ["7B0E7DCAEF01A7EB"]
@@ -484,8 +480,8 @@
 				item: { count: 1, id: "scguns:powered_macerator" }
 				type: "item"
 			}]
-			x: 4.199999999999999d
-			y: 10.5d
+			x: 4.8999999999999995d
+			y: 11.2d
 		}
 		{
 			dependencies: [
@@ -506,7 +502,7 @@
 				item: { count: 1, id: "scguns:powered_mechanical_press" }
 				type: "item"
 			}]
-			x: 4.8999999999999995d
+			x: 7.0d
 			y: 6.3d
 		}
 		{
@@ -526,8 +522,8 @@
 				item: { count: 1, id: "scguns:iron_blueprint" }
 				type: "item"
 			}]
-			x: 5.6d
-			y: 7.699999999999999d
+			x: 6.3d
+			y: 10.5d
 		}
 		{
 			dependencies: [
@@ -548,8 +544,8 @@
 				item: { count: 1, id: "scguns:greaser_smg" }
 				type: "item"
 			}]
-			x: 7.699999999999999d
-			y: 5.6d
+			x: 8.399999999999999d
+			y: 8.399999999999999d
 		}
 		{
 			dependencies: ["16E38AE72F23A5B2"]
@@ -567,8 +563,8 @@
 				item: { count: 1, id: "scguns:combat_shotgun" }
 				type: "item"
 			}]
-			x: 7.0d
-			y: 7.699999999999999d
+			x: 7.699999999999999d
+			y: 10.5d
 		}
 		{
 			dependencies: ["16E38AE72F23A5B2"]
@@ -586,8 +582,8 @@
 				item: { count: 1, id: "scguns:mk43_rifle" }
 				type: "item"
 			}]
-			x: 7.0d
-			y: 10.5d
+			x: 7.699999999999999d
+			y: 11.899999999999999d
 		}
 		{
 			dependencies: ["24CC6A5DD028D7B2"]
@@ -606,8 +602,8 @@
 				type: "kill"
 				value: 1L
 			}]
-			x: 9.1d
-			y: 4.8999999999999995d
+			x: 9.799999999999999d
+			y: 7.699999999999999d
 		}
 		{
 			dependencies: ["4B94B17E61B646AA"]
@@ -625,8 +621,8 @@
 				structure: "scguns:cog_chambers"
 				type: "structure"
 			}]
-			x: 10.5d
-			y: 4.199999999999999d
+			x: 11.2d
+			y: 7.699999999999999d
 		}
 		{
 			dependencies: ["6CEF2E5BB50DFB36"]
@@ -644,8 +640,8 @@
 				structure: "scguns:trench"
 				type: "structure"
 			}]
-			x: 11.899999999999999d
-			y: 4.199999999999999d
+			x: 12.6d
+			y: 7.699999999999999d
 		}
 		{
 			dependencies: ["24CC6A5DD028D7B2"]
@@ -664,7 +660,7 @@
 				type: "structure"
 			}]
 			x: 9.799999999999999d
-			y: 6.3d
+			y: 9.1d
 		}
 		{
 			dependencies: ["6F1844DC1512B172"]
@@ -683,13 +679,14 @@
 				type: "structure"
 			}]
 			x: 11.2d
-			y: 5.6d
+			y: 9.1d
 		}
 		{
 			dependencies: [
 				"48F3ECC2BDB7E587"
 				"0DBD5F6E9AAF889D"
 				"24CC6A5DD028D7B2"
+				"02617BAF5153DEEB"
 			]
 			icon: {
 				id: "scguns:auto_turret"
@@ -705,8 +702,8 @@
 				item: { count: 1, id: "scguns:auto_turret" }
 				type: "item"
 			}]
-			x: 9.1d
-			y: 9.799999999999999d
+			x: 9.799999999999999d
+			y: 11.899999999999999d
 		}
 		{
 			dependencies: ["68F3112C93D990EF"]
@@ -725,8 +722,8 @@
 				type: "kill"
 				value: 1L
 			}]
-			x: 10.5d
-			y: 9.799999999999999d
+			x: 11.2d
+			y: 11.899999999999999d
 		}
 		{
 			dependencies: ["6F1844DC1512B172"]
@@ -745,7 +742,7 @@
 				type: "structure"
 			}]
 			x: 11.2d
-			y: 7.0d
+			y: 10.5d
 		}
 		{
 			dependencies: ["77E1472D5EB9AA15"]
@@ -764,7 +761,7 @@
 				type: "item"
 			}]
 			x: 12.6d
-			y: 7.0d
+			y: 11.2d
 		}
 		{
 			dependencies: ["469F0EF911755436"]
@@ -784,7 +781,7 @@
 				type: "item"
 			}]
 			x: 14.0d
-			y: 7.0d
+			y: 11.899999999999999d
 		}
 		{
 			dependencies: ["080F539364CF8796"]
@@ -804,7 +801,7 @@
 				type: "item"
 			}]
 			x: 15.399999999999999d
-			y: 6.3d
+			y: 11.2d
 		}
 		{
 			dependencies: ["48F3ECC2BDB7E587"]
@@ -822,8 +819,8 @@
 				item: { count: 1, id: "scguns:diamond_steel_blueprint" }
 				type: "item"
 			}]
-			x: 8.399999999999999d
-			y: 11.2d
+			x: 9.1d
+			y: 14.0d
 		}
 		{
 			dependencies: ["4DA03BB3AC00D8C2"]
@@ -842,8 +839,8 @@
 				item: { count: 1, id: "scguns:diamond_steel_ingot" }
 				type: "item"
 			}]
-			x: 9.799999999999999d
-			y: 11.2d
+			x: 10.5d
+			y: 14.0d
 		}
 		{
 			dependencies: ["7253982E9AE4DA71"]
@@ -861,8 +858,8 @@
 				item: { count: 1, id: "scguns:diamond_steel_chestplate" }
 				type: "item"
 			}]
-			x: 11.2d
-			y: 11.2d
+			x: 11.899999999999999d
+			y: 14.0d
 		}
 		{
 			dependencies: ["2A2D8179AF22F2DA"]
@@ -880,8 +877,8 @@
 				item: { count: 1, id: "scguns:exo_suit_blueprint" }
 				type: "item"
 			}]
-			x: 12.6d
-			y: 10.5d
+			x: 13.299999999999999d
+			y: 14.0d
 		}
 		{
 			dependencies: ["374540ABE9CFD17B"]
@@ -899,8 +896,8 @@
 				item: { count: 1, id: "scguns:exo_suit_chestplate" }
 				type: "item"
 			}]
-			x: 14.0d
-			y: 10.5d
+			x: 14.7d
+			y: 14.0d
 		}
 		{
 			dependencies: [
@@ -921,8 +918,8 @@
 				item: { count: 1, id: "scguns:jetpack_module" }
 				type: "item"
 			}]
-			x: 15.399999999999999d
-			y: 9.799999999999999d
+			x: 16.099999999999998d
+			y: 14.0d
 		}
 	]
 }
