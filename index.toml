@@ -446,6 +446,11 @@ hash = "7cc4b699a816b1dcee290ceb5951f404079edfefd0dd844955056fbf93b82629"
 metafile = true
 
 [[files]]
+file = "mods/mezzconfiggui.pw.toml"
+hash = "cbca8b859fa971b0c7231a06ce24576207a1a9ed5135502d890e5f6d232cc199"
+metafile = true
+
+[[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "057044d2179d9e10b616ef8fa4cc870ad350842fc5c325ce0b3766160852cd13"
 metafile = true
