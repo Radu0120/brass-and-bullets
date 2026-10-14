@@ -1,7 +1,8 @@
 """Build the Prism instance zip for new players: no mods inside, the instance updates itself from GitHub.
 
-The zip holds a Prism/MultiMC instance (instance.cfg with the packwiz pre-launch command, mmc-pack.json with
-Minecraft + NeoForge taken from pack.toml, the icon) and packwiz-installer-bootstrap.jar. A player imports it in Prism
+The zip holds a Prism/MultiMC instance (instance.cfg with the pre-launch command, mmc-pack.json with Minecraft +
+NeoForge taken from pack.toml, the icon), packwiz-installer-bootstrap.jar and update.cmd (runs the installer and
+always exits 0, so a GitHub outage never blocks the launch). A player imports it in Prism
 (Add Instance > Import from zip) and presses Play: the first launch downloads every mod, later launches pull our pushes.
 Rebuild it only when the loader version, RAM or pack URL changes. Attach it to a GitHub release:
     gh release create instance-vN dist/Brass-and-Bullets-instance.zip
@@ -28,9 +29,10 @@ if not os.path.exists(jar):
     with urllib.request.urlopen(req) as r, open(jar, "wb") as f:
         f.write(r.read())
 
-# QSettings syntax: a value starting with a quote must be one quoted string with \" inside, or Prism strips the
-# quotes and runs "javaw.exe-jar". -g = no GUI, -s client = client-side mods only.
-pre_launch = '"\\"$INST_JAVA\\" -jar packwiz-installer-bootstrap.jar -g -s client ' + PACK_URL + '"'
+# QSettings syntax: a backslash in a value is an escape, so the file must hold a doubled one (cmd /c .\\update.cmd).
+# cmd needs the .\ prefix because some PCs set NoDefaultCurrentDirectoryInExePath. The script exits 0 even when the
+# installer fails, so Prism still launches the game.
+pre_launch = 'cmd /c .\\\\update.cmd'
 cfg = "\n".join([
     "[General]",
     "ConfigVersion=1.3",
@@ -54,4 +56,5 @@ with zipfile.ZipFile(out, "w", zipfile.ZIP_DEFLATED) as z:
     z.writestr(f"{name}/mmc-pack.json", json.dumps(components, indent=4))
     z.write(os.path.join(root, "icon.png"), f"{name}/icon.png")
     z.write(jar, f"{name}/minecraft/packwiz-installer-bootstrap.jar")
+    z.write(os.path.join(root, "update.cmd"), f"{name}/minecraft/update.cmd")
 print(out)
