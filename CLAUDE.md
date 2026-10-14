@@ -68,15 +68,21 @@ does not update itself: an instance only gets a changed copy from a new zip or b
 
 JVM collector: Distant Horizons prints a chat warning on every start when the JVM runs the default G1 collector. Both
 instances (and the zip from `export_instance.py`) set `OverrideJavaArgs=true` and `JvmArgs=-XX:+UseZGC -XX:+ZGenerational`
-in `instance.cfg` (Java 21 only; `ZGenerational` is rejected or redundant on other versions). The released
-`instance-v2` zip predates this, so friends who installed it need the two lines added by hand.
+in `instance.cfg` (Java 21 only; `ZGenerational` is rejected or redundant on other versions). The `instance-v2` zip
+was rebuilt with it on 2026-10-14; friends who imported the earlier copy need the two lines added by hand.
 
 **What new players get:** the GitHub release `instance-v2`
 (https://github.com/Radu0120/brass-and-bullets/releases/latest), a small Prism instance zip built by
 `python -I -X utf8 export_instance.py` (instance.cfg with the pre-launch command, mmc-pack.json from pack.toml,
-icon, bootstrap jar, update.cmd; no mods). v1 had the fatal-on-failure command. Rebuild and attach a new release only when the loader version, RAM or pack URL
-changes (`gh release create instance-vN dist/Brass-and-Bullets-instance.zip`); ordinary pack updates need no new
-zip. The CurseForge zip from `export.py` is obsolete for players. NOT yet tested: importing the instance zip into a
+icon, bootstrap jar, update.cmd; no mods). v1 had the fatal-on-failure command. Rebuild the zip only when the
+loader version, RAM, JVM args, `update.cmd` or pack URL changes; ordinary pack updates need no new zip.
+**The release link is posted on Discord and must stay the same: never create `instance-v3`.** To publish a new zip,
+delete the release and remake it under the same tag, as the owner asked:
+`gh release delete instance-v2 --yes` (keeps the git tag), then
+`gh release create instance-v2 dist/Brass-and-Bullets-instance.zip --latest --title "Prism instance (install this)" --notes-file <notes>`
+(the notes are rebuilt from `E:\Scratch\brass-and-bullets\mrpack\release-notes-v2.md`). Uploading with
+`gh release upload instance-v2 <zip> --clobber` also keeps the link, and was used for the ZGC and retry updates on
+2026-10-14. The CurseForge zip from `export.py` is obsolete for players. NOT yet tested: importing the instance zip into a
 clean Prism (the first-run Quick Setup window blocked a scripted test), so the icon key and a first launch are unverified.
 
 **Quoting gotchas:** `instance.cfg` is a QSettings file, so a backslash in a value is an escape: write `.\\update.cmd`

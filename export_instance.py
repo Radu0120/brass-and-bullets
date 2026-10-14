@@ -4,8 +4,10 @@ The zip holds a Prism/MultiMC instance (instance.cfg with the pre-launch command
 NeoForge taken from pack.toml, the icon), packwiz-installer-bootstrap.jar and update.cmd (runs the installer and
 always exits 0, so a GitHub outage never blocks the launch). A player imports it in Prism
 (Add Instance > Import from zip) and presses Play: the first launch downloads every mod, later launches pull our pushes.
-Rebuild it only when the loader version, RAM or pack URL changes. Attach it to a GitHub release:
-    gh release create instance-vN dist/Brass-and-Bullets-instance.zip
+Rebuild it only when the loader version, RAM, JVM args, update.cmd or pack URL changes. The release link is shared
+with players, so keep the tag instance-v2: delete the release and remake it under the same tag:
+    gh release delete instance-v2 --yes
+    gh release create instance-v2 dist/Brass-and-Bullets-instance.zip --latest
 Usage: python export_instance.py   ->  dist/<name>-instance.zip
 """
 import json, os, re, urllib.request, zipfile
