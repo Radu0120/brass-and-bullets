@@ -42,6 +42,9 @@ cfg = "\n".join([
     "AutomaticJava=true",
     "OverrideMemory=true",
     f"MaxMemAlloc={RAM_MIB}",
+    # Distant Horizons warns on every start when the JVM runs the default G1 collector; Java 21 has generational ZGC.
+    "OverrideJavaArgs=true",
+    "JvmArgs=-XX:+UseZGC -XX:+ZGenerational",
     "OverrideCommands=true",
     f"PreLaunchCommand={pre_launch}",
     "",

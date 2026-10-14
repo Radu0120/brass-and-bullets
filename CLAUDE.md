@@ -59,6 +59,11 @@ aborted the launch because the old direct command exited non-zero. Trade-off: a 
 fall behind the server and show a version mismatch. If 429s keep coming, move the pack to GitHub Pages (new URL, new
 instance zip, edit both instances). A fresh install makes about 134 raw requests; an up-to-date launch makes 2.
 
+JVM collector: Distant Horizons prints a chat warning on every start when the JVM runs the default G1 collector. Both
+instances (and the zip from `export_instance.py`) set `OverrideJavaArgs=true` and `JvmArgs=-XX:+UseZGC -XX:+ZGenerational`
+in `instance.cfg` (Java 21 only; `ZGenerational` is rejected or redundant on other versions). The released
+`instance-v2` zip predates this, so friends who installed it need the two lines added by hand.
+
 **What new players get:** the GitHub release `instance-v2`
 (https://github.com/Radu0120/brass-and-bullets/releases/latest), a small Prism instance zip built by
 `python -I -X utf8 export_instance.py` (instance.cfg with the pre-launch command, mmc-pack.json from pack.toml,
