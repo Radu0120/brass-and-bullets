@@ -7,6 +7,8 @@ key_key.scguns.enable_exo_helmet:key.keyboard.n
 key_key.scguns.enable_exo_chestplate:key.keyboard.x
 key_key.scguns.enable_exo_boots:key.keyboard.v
 key_key.scguns.unload:key.keyboard.y
+key_key.scguns.melee:key.keyboard.unknown
+key_key.scguns.inspect:key.keyboard.unknown
 key_key.createrailwaysnavigator.route_overlay_options:key.keyboard.j
 key_key.cataclysm.helmet_ability:key.keyboard.period
 key_gui.xaero_new_waypoint:key.keyboard.comma
