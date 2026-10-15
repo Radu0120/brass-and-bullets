@@ -121,6 +121,10 @@ file = "config/openloader/packs/bb-tweaks/data/createdeco/recipe/locked_brass_do
 hash = "4588a8b56f51171c84f04277e6b5378e36b514153f03b351dce53d1176e2dd94"
 
 [[files]]
+file = "config/openloader/packs/bb-tweaks/data/createdeco/recipe/placard.json"
+hash = "ddc3d0dd56b604d914bedbf2f985a2f0b5f7374eac79aad668a8a2cfd7cc154c"
+
+[[files]]
 file = "config/openloader/packs/bb-tweaks/data/createdeco/recipe/pressing/zinc_sheet.json"
 hash = "a738bbd6cddb3a33ddeea502a803f3bb512c17d06e7a90ccd284aa9a80788091"
 
@@ -171,6 +175,14 @@ hash = "58f7aeca193e431470931b7888bc0d602fef00424ddde4bb556c0640bdda95ff"
 [[files]]
 file = "config/openloader/packs/bb-tweaks/data/minecraft/recipe/copper_catwalk_railing_forge.json"
 hash = "1e4333fcd04de55c7b10db506cca0d77d54843f04083b155177d23b25e8c2510"
+
+[[files]]
+file = "config/openloader/packs/bb-tweaks/data/scguns/loot_table/entities/blunderer.json"
+hash = "e0d9b6f069e53f0e4c96b41c24a825196f50b757a20b839111cbaa791367c4a3"
+
+[[files]]
+file = "config/openloader/packs/bb-tweaks/data/scguns/recipe/create/mechanical_crafting/jr_wristbreaker.json"
+hash = "1e1fabb26715f081242d56df5e0b44da101865bcafde56be76a4338ea76b5989"
 
 [[files]]
 file = "config/openloader/packs/bb-tweaks/pack.mcmeta"
@@ -566,7 +578,7 @@ hash = "af3499e08f71b750f9900f684523bf7f117ef0c0f4e822fdbf4f5ecc77e7deec"
 
 [[files]]
 file = "mods/woofbreeds-0.1.0.jar"
-hash = "e1bd7eacdef8be2b735ac45d39ac03574e5ac82674a201b7a96a9597f74e3fb2"
+hash = "bb7c4c1cfe12ac0c9a4622e113f1f4ca6625335910f662dad249f95fbe301c88"
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
