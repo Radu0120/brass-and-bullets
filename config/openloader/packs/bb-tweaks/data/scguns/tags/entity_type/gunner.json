@@ -1,0 +1,10 @@
+{
+  "replace": true,
+  "values": [
+    "scguns:hornlin",
+    "scguns:zombified_hornlin",
+    "scguns:adjudicator",
+    "scguns:subjugator",
+    "scguns:finforcer"
+  ]
+}

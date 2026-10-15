@@ -181,12 +181,28 @@ file = "config/openloader/packs/bb-tweaks/data/scguns/loot_table/entities/blunde
 hash = "e0d9b6f069e53f0e4c96b41c24a825196f50b757a20b839111cbaa791367c4a3"
 
 [[files]]
+file = "config/openloader/packs/bb-tweaks/data/scguns/neoforge/biome_modifier/cog_minion_biome_modifier.json"
+hash = "f54b0f00164402247505749f1805b58ab64e53058148629b28cc8ab8ff36127b"
+
+[[files]]
+file = "config/openloader/packs/bb-tweaks/data/scguns/neoforge/biome_modifier/redcoat_biome_modifier.json"
+hash = "4a54b2d0673bab0186d59f69468faa08af41defe9d7deecf8d0724e8ab22d0ad"
+
+[[files]]
 file = "config/openloader/packs/bb-tweaks/data/scguns/recipe/create/mechanical_crafting/jr_wristbreaker.json"
 hash = "1e1fabb26715f081242d56df5e0b44da101865bcafde56be76a4338ea76b5989"
 
 [[files]]
+file = "config/openloader/packs/bb-tweaks/data/scguns/tags/entity_type/gunner.json"
+hash = "b292c657c300bd7011c86d08b44e212891f88840858a5804022fff751e6936b0"
+
+[[files]]
 file = "config/openloader/packs/bb-tweaks/pack.mcmeta"
 hash = "00a8c421fb87097d61587c8d7f01b1494096a185243dbc44cf6cc482480f2e09"
+
+[[files]]
+file = "config/scguns-common.toml"
+hash = "a73223c6592efc2617f23302753c42ffe5dd54e42cd6528fd30633d0113668b6"
 
 [[files]]
 file = "config/xaero/minimap/default_radar_categories_client.json"
@@ -578,7 +594,7 @@ hash = "af3499e08f71b750f9900f684523bf7f117ef0c0f4e822fdbf4f5ecc77e7deec"
 
 [[files]]
 file = "mods/woofbreeds-0.1.0.jar"
-hash = "b546d9c8a1567cd9393cae63be02624b18e361f009dc69784091776a7cecd6b6"
+hash = "b96d8142c5dfe4cdbc0e15f284046aa76ad942cceaad7df3d047fcd6211dff44"
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
