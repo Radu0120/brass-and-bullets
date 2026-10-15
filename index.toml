@@ -133,6 +133,14 @@ file = "config/openloader/packs/bb-tweaks/data/createdeco/recipe/zinc_sheet_meta
 hash = "a738bbd6cddb3a33ddeea502a803f3bb512c17d06e7a90ccd284aa9a80788091"
 
 [[files]]
+file = "config/openloader/packs/bb-tweaks/data/farmersdelight/recipe/wheat_dough_from_egg.json"
+hash = "a738bbd6cddb3a33ddeea502a803f3bb512c17d06e7a90ccd284aa9a80788091"
+
+[[files]]
+file = "config/openloader/packs/bb-tweaks/data/farmersdelight/recipe/wheat_dough_from_water.json"
+hash = "a738bbd6cddb3a33ddeea502a803f3bb512c17d06e7a90ccd284aa9a80788091"
+
+[[files]]
 file = "config/openloader/packs/bb-tweaks/data/minecraft/recipe/andesite_bars.json"
 hash = "a738bbd6cddb3a33ddeea502a803f3bb512c17d06e7a90ccd284aa9a80788091"
 
@@ -203,6 +211,14 @@ hash = "00a8c421fb87097d61587c8d7f01b1494096a185243dbc44cf6cc482480f2e09"
 [[files]]
 file = "config/scguns-common.toml"
 hash = "a73223c6592efc2617f23302753c42ffe5dd54e42cd6528fd30633d0113668b6"
+
+[[files]]
+file = "config/solcarrot-server.toml"
+hash = "a76471fd1739976acc9311b4d5882a269887e127ee9d86f6f61e25fc01357acc"
+
+[[files]]
+file = "config/vanillabackport-common.toml"
+hash = "f69d7351b451e9f853e54a69489e82634bf7a9aabf60fdd5f07fa977f29493a2"
 
 [[files]]
 file = "config/xaero/minimap/default_radar_categories_client.json"
@@ -494,6 +510,11 @@ hash = "a1d44e226b57ca9d8dc4129d1e9c4a3def96bf677c432f9b6d897085030e434f"
 metafile = true
 
 [[files]]
+file = "mods/platform.pw.toml"
+hash = "00887452f4c902a5f98fc42875d522e59948b60c20d887855a183c0f7235c641"
+metafile = true
+
+[[files]]
 file = "mods/prickle.pw.toml"
 hash = "eab2f56ff9135b3b7253ea5a73deae2f887e2876f5f0432936044a6e926937b4"
 metafile = true
@@ -564,6 +585,11 @@ hash = "6d9eaf43c14c66465e87bf03cc5cb5ecef57b3f2e8063c52f6332d33689d30be"
 metafile = true
 
 [[files]]
+file = "mods/spice-of-life-carrot-edition.pw.toml"
+hash = "e520ad446364dff7dd50896108a96140f3f5598b72003dade5b17308fa9ef2a9"
+metafile = true
+
+[[files]]
 file = "mods/tectonic.pw.toml"
 hash = "3471aa37f60afd158148e97410c12fc3ab463a846c7d6bd227a1ebafec2223aa"
 metafile = true
@@ -576,6 +602,11 @@ metafile = true
 [[files]]
 file = "mods/txnilib.pw.toml"
 hash = "1394df1d39e588ffa86fce081fdb97f5ef9d4539cec2ef7ca1f1c75d30796aa0"
+metafile = true
+
+[[files]]
+file = "mods/vanillabackport.pw.toml"
+hash = "0ed7d23f7f9bb186c0ff097fe015bf0988a456999f2cf6658705a6b4a17350e4"
 metafile = true
 
 [[files]]
