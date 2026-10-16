@@ -217,6 +217,10 @@ file = "config/solcarrot-server.toml"
 hash = "a76471fd1739976acc9311b4d5882a269887e127ee9d86f6f61e25fc01357acc"
 
 [[files]]
+file = "config/tabtps/display-configs/default.conf"
+hash = "d6bb76466b1868f33726cbfbb4a8f7fcfc66472de0a4b4f7408e2aa8cf64e9f8"
+
+[[files]]
 file = "config/vanillabackport-common.toml"
 hash = "f69d7351b451e9f853e54a69489e82634bf7a9aabf60fdd5f07fa977f29493a2"
 
@@ -587,6 +591,11 @@ metafile = true
 [[files]]
 file = "mods/spice-of-life-carrot-edition.pw.toml"
 hash = "e520ad446364dff7dd50896108a96140f3f5598b72003dade5b17308fa9ef2a9"
+metafile = true
+
+[[files]]
+file = "mods/tabtps.pw.toml"
+hash = "48986d45465dc02a17d0d935900af61a75d2e7a96d2add0d00ac08a7b546aee7"
 metafile = true
 
 [[files]]
