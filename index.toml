@@ -69,6 +69,10 @@ file = "config/ftbquests/quests/lang/en_us.snbt"
 hash = "5622d0f55147c08c4c9bf5aa6b6435b210e2157961473628e9fd63ec94f4ef8c"
 
 [[files]]
+file = "config/improvableskills.cfg"
+hash = "dce59d3de49dc072247d6483a10026d916f9e9689892674d528cbb8a8b22b89e"
+
+[[files]]
 file = "config/inventoryprofilesnext/inventoryprofiles.json"
 hash = "de154ccc86a488a25e6a9152b6c897d56bee47c9dc8975f0c585581a20f99efb"
 
