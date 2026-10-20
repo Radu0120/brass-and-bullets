@@ -1,0 +1,104 @@
+{
+    "com.simibubi.create.content.logistics.filter.FilterScreen": {
+        "playerSideOnly": true,
+        "buttonHints": {
+            "SORT": {
+                "horizontalOffset": 10,
+                "bottom": 9
+            },
+            "SORT_COLUMNS": {
+                "horizontalOffset": 10,
+                "bottom": 9
+            },
+            "SORT_ROWS": {
+                "horizontalOffset": 10,
+                "bottom": 9
+            }
+        }
+    },
+    "com.simibubi.create.content.logistics.filter.AttributeFilterScreen": {
+        "playerSideOnly": true,
+        "buttonHints": {
+            "SORT": {
+                "horizontalOffset": 24,
+                "bottom": 9
+            },
+            "SORT_COLUMNS": {
+                "horizontalOffset": 24,
+                "bottom": 9
+            },
+            "SORT_ROWS": {
+                "horizontalOffset": 24,
+                "bottom": 9
+            }
+        }
+    },
+    "com.simibubi.create.content.schematics.cannon.SchematicannonScreen": {
+        "playerSideOnly": true,
+        "buttonHints": {
+            "SORT": {
+                "horizontalOffset": 8,
+                "bottom": 8
+            },
+            "SORT_COLUMNS": {
+                "horizontalOffset": 8,
+                "bottom": 8
+            },
+            "SORT_ROWS": {
+                "horizontalOffset": 8,
+                "bottom": 8
+            }
+        }
+    },
+    "com.simibubi.create.content.schematics.table.SchematicTableScreen": {
+        "playerSideOnly": true,
+        "buttonHints": {
+            "SORT": {
+                "horizontalOffset": 9,
+                "bottom": 8
+            },
+            "SORT_COLUMNS": {
+                "horizontalOffset": 9,
+                "bottom": 8
+            },
+            "SORT_ROWS": {
+                "horizontalOffset": 9,
+                "bottom": 8
+            }
+        }
+    },
+    "com.simibubi.create.content.equipment.blueprint.BlueprintScreen": {
+        "playerSideOnly": true,
+        "buttonHints": {
+            "SORT": {
+                "horizontalOffset": 4,
+                "bottom": 7
+            },
+            "SORT_COLUMNS": {
+                "horizontalOffset": 4,
+                "bottom": 7
+            },
+            "SORT_ROWS": {
+                "horizontalOffset": 4,
+                "bottom": 7
+            }
+        }
+    },
+    "com.simibubi.create.content.logistics.filter.PackageFilterScreen": {
+        "playerSideOnly": true,
+        "buttonHints": {
+            "SORT": {
+                "horizontalOffset": 10,
+                "bottom": 9
+            },
+            "SORT_COLUMNS": {
+                "horizontalOffset": 10,
+                "bottom": 9
+            },
+            "SORT_ROWS": {
+                "horizontalOffset": 10,
+                "bottom": 9
+            }
+        }
+    }
+}

@@ -73,8 +73,12 @@ file = "config/improvableskills.cfg"
 hash = "dce59d3de49dc072247d6483a10026d916f9e9689892674d528cbb8a8b22b89e"
 
 [[files]]
+file = "config/inventoryprofilesnext/integrationHints/create.json"
+hash = "9cc4bbee2119f7724130d8d8d9019d7f87fdd0f399bb071ab81edb9c47188c50"
+
+[[files]]
 file = "config/inventoryprofilesnext/inventoryprofiles.json"
-hash = "de154ccc86a488a25e6a9152b6c897d56bee47c9dc8975f0c585581a20f99efb"
+hash = "e0ddebafa7737daa9d18a1983f36f427bd1e92eb7431db56a72d3374c6cd522c"
 
 [[files]]
 file = "config/openloader/packs/bb-renames/assets/create/lang/en_us.json"
