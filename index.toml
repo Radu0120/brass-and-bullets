@@ -317,6 +317,11 @@ hash = "962de0c35fb8d298b70ce4026fb149c5cf0204487bc1ed22d905dde1dbebd70c"
 metafile = true
 
 [[files]]
+file = "mods/create-enchantment-industry.pw.toml"
+hash = "5f76bdf0fe120e62cc3ae298e911727fa45c70dd191fd9c2b213029c7601576c"
+metafile = true
+
+[[files]]
 file = "mods/create-railways-navigator.pw.toml"
 hash = "c4ff48d283c1ddc80738c21cd3f80895417f0f66b4f2dab332e9f0af178d1f11"
 metafile = true
