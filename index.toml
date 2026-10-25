@@ -218,7 +218,7 @@ hash = "00a8c421fb87097d61587c8d7f01b1494096a185243dbc44cf6cc482480f2e09"
 
 [[files]]
 file = "config/scguns-common.toml"
-hash = "a73223c6592efc2617f23302753c42ffe5dd54e42cd6528fd30633d0113668b6"
+hash = "8cd0c0667c569851c0601697844eaa9c9c1b0e131830839512b55f3043843d10"
 
 [[files]]
 file = "config/solcarrot-server.toml"

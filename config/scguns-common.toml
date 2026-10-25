@@ -185,15 +185,15 @@
 		#Chance each night to schedule a progression raid for an eligible player.
 		# Default: 0.2
 		# Range: 0.0 ~ 1.0
-		nightlyRaidChance = 0.2
+		nightlyRaidChance = 0.1
 		#Minimum in-game days between automatic nightly raids per dimension.
 		# Default: 2
 		# Range: > 0
-		minDaysBetweenRaids = 2
+		minDaysBetweenRaids = 10
 		#Minutes before an active custom raid times out. Use 0 to disable timeout.
 		# Default: 20
 		# Range: > 0
-		raidTimeoutMinutes = 20
+		raidTimeoutMinutes = 10
 
 	#Properties relating to rockets
 	[common.rockets]
