@@ -90,7 +90,7 @@ hash = "f86dd63da1c5cb0c8fa681bbcb5bf0fa22e1cbba9c84ed9f6d1dce8d18e6fb52"
 
 [[files]]
 file = "config/openloader/packs/bb-tweaks/data/c/tags/item/hidden_from_recipe_viewers.json"
-hash = "3a5f3e944ba460066081b027a2fac07fabce04f8915ea1bc884281d4929225b4"
+hash = "7eb9c023648442d06c940af62e87901d59277086ff086038f85e73d275e8f28d"
 
 [[files]]
 file = "config/openloader/packs/bb-tweaks/data/create/tags/block/safe_nbt.json"
