@@ -94,7 +94,7 @@ hash = "7eb9c023648442d06c940af62e87901d59277086ff086038f85e73d275e8f28d"
 
 [[files]]
 file = "config/openloader/packs/bb-tweaks/data/create/tags/block/safe_nbt.json"
-hash = "6f66ac70f2935ceeb1f2a4c10a7c5905fe2a256be47171baa5a393be7119276e"
+hash = "01fdc38e028791340807df2f192a4d378738e27e7f3e79c8fb11533dc3e6058e"
 
 [[files]]
 file = "config/openloader/packs/bb-tweaks/data/createdeco/recipe/andesite_catwalk_stairs.json"
@@ -202,7 +202,7 @@ hash = "87200040fb19731985386f789d521e9031ae8b23b12b839a6fbcf174ac0f97da"
 
 [[files]]
 file = "config/openloader/packs/bb-tweaks/data/minecraft/tags/block/mineable/pickaxe.json"
-hash = "6f66ac70f2935ceeb1f2a4c10a7c5905fe2a256be47171baa5a393be7119276e"
+hash = "01fdc38e028791340807df2f192a4d378738e27e7f3e79c8fb11533dc3e6058e"
 
 [[files]]
 file = "config/openloader/packs/bb-tweaks/data/scguns/loot_table/entities/blunderer.json"
