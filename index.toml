@@ -93,6 +93,10 @@ file = "config/openloader/packs/bb-tweaks/data/c/tags/item/hidden_from_recipe_vi
 hash = "3a5f3e944ba460066081b027a2fac07fabce04f8915ea1bc884281d4929225b4"
 
 [[files]]
+file = "config/openloader/packs/bb-tweaks/data/create/tags/block/safe_nbt.json"
+hash = "6f66ac70f2935ceeb1f2a4c10a7c5905fe2a256be47171baa5a393be7119276e"
+
+[[files]]
 file = "config/openloader/packs/bb-tweaks/data/createdeco/recipe/andesite_catwalk_stairs.json"
 hash = "fdc2f34b743fde6c087c3f011b60929088a88061ab7a053c4d50d88f5f30cc58"
 
@@ -193,6 +197,14 @@ file = "config/openloader/packs/bb-tweaks/data/minecraft/recipe/copper_catwalk_r
 hash = "1e4333fcd04de55c7b10db506cca0d77d54843f04083b155177d23b25e8c2510"
 
 [[files]]
+file = "config/openloader/packs/bb-tweaks/data/minecraft/tags/block/mineable/axe.json"
+hash = "87200040fb19731985386f789d521e9031ae8b23b12b839a6fbcf174ac0f97da"
+
+[[files]]
+file = "config/openloader/packs/bb-tweaks/data/minecraft/tags/block/mineable/pickaxe.json"
+hash = "6f66ac70f2935ceeb1f2a4c10a7c5905fe2a256be47171baa5a393be7119276e"
+
+[[files]]
 file = "config/openloader/packs/bb-tweaks/data/scguns/loot_table/entities/blunderer.json"
 hash = "e0d9b6f069e53f0e4c96b41c24a825196f50b757a20b839111cbaa791367c4a3"
 
@@ -211,6 +223,18 @@ hash = "1e1fabb26715f081242d56df5e0b44da101865bcafde56be76a4338ea76b5989"
 [[files]]
 file = "config/openloader/packs/bb-tweaks/data/scguns/tags/entity_type/gunner.json"
 hash = "b292c657c300bd7011c86d08b44e212891f88840858a5804022fff751e6936b0"
+
+[[files]]
+file = "config/openloader/packs/bb-tweaks/data/tracks/loot_table/blocks/suspension_track.json"
+hash = "0070ed93b1f116cd22cb03f9d5a9553b3253a7933846e78265b3ae6e02a676ad"
+
+[[files]]
+file = "config/openloader/packs/bb-tweaks/data/tracks/loot_table/blocks/track_drive_wheel.json"
+hash = "37ec8d2371cef7ee987fc625e9039d322e06f69adef0280c5953d56fc089c2ee"
+
+[[files]]
+file = "config/openloader/packs/bb-tweaks/data/tracks/loot_table/blocks/track_mount.json"
+hash = "c8fdea1955ee21bbd7f6ab828aa768b55d604c3c65c2b460b5a90585002293a0"
 
 [[files]]
 file = "config/openloader/packs/bb-tweaks/pack.mcmeta"
@@ -338,6 +362,11 @@ metafile = true
 [[files]]
 file = "mods/create-railways-navigator.pw.toml"
 hash = "c4ff48d283c1ddc80738c21cd3f80895417f0f66b4f2dab332e9f0af178d1f11"
+metafile = true
+
+[[files]]
+file = "mods/create-tracks.pw.toml"
+hash = "c79dfdac7e2df5cc4026e6ead964d698b609a374701cd012a344a5735f40d4f5"
 metafile = true
 
 [[files]]
