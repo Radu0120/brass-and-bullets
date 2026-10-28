@@ -287,6 +287,10 @@ hash = "36f2f6e74b7dbeccb504572d47006582207544fa234a095093b97adfc7ecd5ac"
 metafile = true
 
 [[files]]
+file = "mods/comfortssable-0.1.0.jar"
+hash = "29325ccee1563a06ed41647c4d76908efedc90bc1bde1228d5ae11b7d292be39"
+
+[[files]]
 file = "mods/copycats-plus-aeronautics-weight.pw.toml"
 hash = "a1e68ec75524eb10a4522c27e3429a43c22861ac3c081686bd948a06bc4cfc91"
 metafile = true
